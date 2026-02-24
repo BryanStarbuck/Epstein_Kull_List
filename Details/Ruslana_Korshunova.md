@@ -1,4 +1,5 @@
 # Ruslana Korshunova
+Model documented on Epstein's jet at 18, fell from 9th floor; mother rejects suicide ruling.
 
 | Field | Details |
 |-------|---------|
@@ -87,3 +88,5 @@ Two young models, both connected to the same psychological group, both dying by 
 - [Newsweek: Disconcerting New Answers In Model's Suicide](https://www.newsweek.com/disconcerting-new-answers-models-suicide-67659)
 - [Morbidology: The Strange Death of Ruslana Korshunova and the Rose of the World Cult](https://morbidology.com/the-strange-death-of-ruslana-korshunova-the-rose-of-the-world-cult/)
 - [KATU News: Model killed herself 2 years after visiting Epstein's island](https://katu.com/news/nation-world/model-ruslana-korshunova-killed-herself-2-years-after-visiting-epsteins-island-documents-show-jeffrey-epstein-jet-clinton-trump-island-documents-new-york)
+
+*This information was built by Grok and Claude AI research.*

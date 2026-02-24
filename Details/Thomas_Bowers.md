@@ -1,4 +1,5 @@
 # Thomas Bowers
+Deutsche Bank wealth chief who handled Epstein's money, found hanged three months after Epstein.
 
 | Field | Details |
 |-------|---------|
@@ -35,3 +36,5 @@ Bowers was the former head of Deutsche Bank's American wealth management divisio
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 - [LA Magazine](https://lamag.com/politics/deutsche-bank-death/)
 - [Uinterview: 22 People Connected to Jeffrey Epstein Have Died](https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+
+*This information was built by Grok and Claude AI research.*

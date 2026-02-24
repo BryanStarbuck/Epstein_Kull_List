@@ -1,4 +1,5 @@
 # Kenneth Starr
+Attorney who helped Epstein get 2008 sweetheart plea deal, died at 76 of surgical complications.
 
 | Field | Details |
 |-------|---------|
@@ -34,3 +35,5 @@ Starr was a high-powered attorney best known for his role as Independent Counsel
 
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 - [Uinterview: 22 People Connected to Jeffrey Epstein Have Died](https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+
+*This information was built by Grok and Claude AI research.*

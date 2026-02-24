@@ -1,4 +1,5 @@
 # Carolyn Andriano
+Epstein victim who testified against Maxwell, died of overdose after reportedly being drug-free.
 
 | Field | Details |
 |-------|---------|
@@ -39,3 +40,5 @@ She testified against Ghislaine Maxwell in the 2021 trial, providing crucial tes
 
 - [Two Epstein Survivors Hotel Deaths](https://rnsavinglives.substack.com/p/two-epstein-survivors-have-died-in)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+
+*This information was built by Grok and Claude AI research.*

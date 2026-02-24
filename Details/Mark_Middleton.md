@@ -1,4 +1,5 @@
 # Mark Middleton
+Clinton aide who admitted Epstein to White House, found hanged and shot under sealed circumstances.
 
 | Field | Details |
 |-------|---------|
@@ -67,3 +68,5 @@ Middleton served as a Special Assistant to President Bill Clinton and as an aide
 - [Wikipedia: Mark Middleton (businessman)](https://en.wikipedia.org/wiki/Mark_Middleton_(businessman))
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 - [Arkansas Democrat-Gazette: Family of former Clinton aide seek order sealing images](https://www.arkansasonline.com/news/2022/jun/08/family-of-former-clinton-aide-seek-order-sealing/)
+
+*This information was built by Grok and Claude AI research.*

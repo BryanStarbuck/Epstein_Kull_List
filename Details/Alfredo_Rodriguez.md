@@ -1,4 +1,5 @@
 # Alfredo Rodriguez
+Epstein's house manager who stole the 'black book,' died of confirmed mesothelioma.
 
 | Field | Details |
 |-------|---------|
@@ -56,3 +57,5 @@ The current location of the full document has not been disclosed. According to T
 - [Times Now Investigation](https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534)
 - DailyMail.com reports
 - Court records from 2010 sentencing
+
+*This information was built by Grok and Claude AI research.*

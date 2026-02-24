@@ -1,4 +1,5 @@
 # Michael Jackson
+Visited Epstein's mansion once in 2003; death by physician unrelated to Epstein.
 
 | Field | Details |
 |-------|---------|
@@ -31,3 +32,5 @@ Jackson reportedly visited Epstein's Palm Beach mansion once in 2003, according 
 ## Sources
 
 - [Times Now Investigation](https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534)
+
+*This information was built by Grok and Claude AI research.*

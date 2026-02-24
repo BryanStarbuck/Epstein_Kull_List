@@ -1,4 +1,5 @@
 # Marvin Minsky
+MIT scientist named in Epstein court filings, died at 88 of cerebral hemorrhage; not suspicious.
 
 | Field | Details |
 |-------|---------|
@@ -37,3 +38,5 @@ Minsky's widow, Gloria Rudisch, strongly denied the allegations, saying Minsky w
 
 - [Times Now Investigation](https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+
+*This information was built by Grok and Claude AI research.*

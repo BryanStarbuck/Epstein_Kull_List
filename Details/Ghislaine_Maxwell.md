@@ -1,4 +1,5 @@
 # Ghislaine Maxwell (Living — At Risk)
+Only convicted Epstein co-conspirator still alive, serving 20 years with multiple documented threats.
 
 | Field | Details |
 |-------|---------|
@@ -57,3 +58,5 @@ Ghislaine Maxwell is the only convicted Epstein co-conspirator still alive. Give
 - [ABC News: Ian Maxwell interview](https://abcnews.com/US/ghislaine-maxwells-brother-talks-prince-andrew-petition-freedom/story?id=130228703)
 - [Axios: Maxwell transcript — DOJ interview](https://www.axios.com/2025/08/22/ghislaine-maxwell-transcript-interview-doj-epstein-trump)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+
+*This information was built by Grok and Claude AI research.*

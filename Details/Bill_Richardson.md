@@ -1,4 +1,5 @@
 # Bill Richardson
+Former governor named in Epstein documents, died in sleep at 75 of natural causes.
 
 | Field | Details |
 |-------|---------|
@@ -36,3 +37,5 @@ Epstein's Zorro Ranch property was located in New Mexico, within the state Richa
 
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 - [Wikipedia: Bill Richardson](https://en.wikipedia.org/wiki/Bill_Richardson)
+
+*This information was built by Grok and Claude AI research.*

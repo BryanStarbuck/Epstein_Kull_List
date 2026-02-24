@@ -1,4 +1,5 @@
 # Virginia Giuffre
+Most prominent Epstein accuser who said she was 'not suicidal,' died by suicide in Australia.
 
 | Field | Details |
 |-------|---------|
@@ -60,3 +61,5 @@ Her posthumous memoir, *Nobody's Girl: A Memoir of Surviving Abuse and Fighting 
 - [NBC News](https://www.nbcnews.com/news/us-news/virginia-giuffre-one-jeffrey-epsteins-prominent-abuse-survivors-dies-s-rcna203027)
 - [Times Now Investigation](https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+
+*This information was built by Grok and Claude AI research.*

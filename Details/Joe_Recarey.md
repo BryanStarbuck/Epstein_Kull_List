@@ -1,4 +1,5 @@
 # Joe Recarey
+Lead Epstein detective with 150+ commendations, died unexpectedly at 50 of brief illness.
 
 | Field | Details |
 |-------|---------|
@@ -37,3 +38,5 @@ Recarey was credited with uncovering Epstein's "massage" network, which involved
 
 - [Times Now Investigation](https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+
+*This information was built by Grok and Claude AI research.*

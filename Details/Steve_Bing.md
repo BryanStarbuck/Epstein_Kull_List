@@ -1,4 +1,5 @@
 # Steve Bing
+Major Clinton donor named in Epstein files, fell from 27th floor with documented depression.
 
 | Field | Details |
 |-------|---------|
@@ -67,3 +68,5 @@ By the time of his death, his liquid estate had reportedly dwindled from $600 mi
 - [Hollywood Reporter: Behind Steve Bing's Sudden, Tragic End](https://www.hollywoodreporter.com/news/general-news/behind-steve-bing-s-sudden-tragic-end-1300992/)
 - [LA Magazine: Steve Bing's Friends Remember](https://lamag.com/featured/steve-bings-friends-remember-a-man-followed-by-tumult-and-tragedy/)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+
+*This information was built by Grok and Claude AI research.*

@@ -1,4 +1,5 @@
 # Efrain "Stone" Reyes
+Epstein's last cellmate who spoke to investigators, died of COVID-19 weeks later.
 
 | Field | Details |
 |-------|---------|
@@ -35,3 +36,5 @@ Reyes was Jeffrey Epstein's final cellmate at the Metropolitan Correctional Cent
 
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 - [Uinterview: 22 People Connected to Jeffrey Epstein Have Died](https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+
+*This information was built by Grok and Claude AI research.*

@@ -1,4 +1,5 @@
 # Arthur Shapiro
+Lawyer gunned down in unsolved murder; Epstein took his position weeks later.
 
 | Field | Details |
 |-------|---------|
@@ -41,3 +42,5 @@ The prime suspect in the Shapiro murder was Berry L. Kessler, who was separately
 
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 - [Uinterview: 22 People Connected to Jeffrey Epstein Have Died](https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+
+*This information was built by Grok and Claude AI research.*

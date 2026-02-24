@@ -1,4 +1,5 @@
 # Stephen Hawking
+Physicist who visited Epstein's island, died of ALS after 50+ years; not suspicious.
 
 | Field | Details |
 |-------|---------|
@@ -31,3 +32,5 @@ Hawking was one of the most famous physicists in the world. He was known to have
 ## Sources
 
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+
+*This information was built by Grok and Claude AI research.*

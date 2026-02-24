@@ -1,4 +1,5 @@
 # Steven Hoffenberg
+Epstein business partner who confessed about blackmail operation, found dead after FBI cooperation.
 
 | Field | Details |
 |-------|---------|
@@ -51,3 +52,5 @@ Hoffenberg once tried to buy the New York Post. He briefly took over the paper i
 - [NPR: Jeffrey Epstein mentor Steven Hoffenberg was found dead](https://www.npr.org/2022/08/26/1119746511/jeffrey-epstein-mentor-steven-hoffenberg-dead)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 - [Uinterview: 22 People Connected to Jeffrey Epstein Have Died](https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+
+*This information was built by Grok and Claude AI research.*

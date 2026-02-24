@@ -1,4 +1,5 @@
 # Jean-Luc Brunel
+Epstein's modeling agent found hanged in Paris prison cell while awaiting trafficking trial.
 
 | Field | Details |
 |-------|---------|
@@ -43,3 +44,5 @@ Virginia Giuffre alleged she was forced into sexual encounters with Brunel. She 
 
 - [BBC News](https://www.bbc.com/news/world-europe-60443518)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+
+*This information was built by Grok and Claude AI research.*

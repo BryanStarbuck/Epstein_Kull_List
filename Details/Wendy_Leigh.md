@@ -1,4 +1,5 @@
 # Wendy Leigh
+Biographer who claimed to be investigating Epstein, found beneath London balcony; manner undetermined.
 
 | Field | Details |
 |-------|---------|
@@ -58,3 +59,5 @@ Leigh was a British-American best-selling celebrity biographer. She authored una
 - [Seattle Times: Celebrity biographer Wendy Leigh dies in London at age 65](https://www.seattletimes.com/nation-world/celebrity-biographer-wendy-leigh-dies-in-london-at-age-65/)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 - [Legacy.com: Wendy Leigh (1950-2016)](https://www.legacy.com/news/wendy-leigh-1950-2016)
+
+*This information was built by Grok and Claude AI research.*

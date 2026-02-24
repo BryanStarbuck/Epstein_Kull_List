@@ -1,4 +1,5 @@
 # Leigh Skye Patrick
+Epstein victim lured to his mansion at 16, died of heroin overdose linked to abuse trauma.
 
 | Field | Details |
 |-------|---------|
@@ -39,3 +40,5 @@ After her daughter's death, Michelle Licata became an advocate for other Epstein
 - [Times Now Investigation](https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534)
 - [Two Epstein Survivors Hotel Deaths](https://rnsavinglives.substack.com/p/two-epstein-survivors-have-died-in)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+
+*This information was built by Grok and Claude AI research.*

@@ -1,4 +1,5 @@
 # Anastasia Drozdova
+Model linked to Korshunova through cult psych sessions, died identically by fall one year later.
 
 | Field | Details |
 |-------|---------|
@@ -49,3 +50,5 @@ The broader modeling industry pipeline to Epstein is well-documented through Jea
 - [Newsweek: Disconcerting New Answers In Model's Suicide](https://www.newsweek.com/disconcerting-new-answers-models-suicide-67659)
 - [Morbidology: The Strange Death of Ruslana Korshunova and the Rose of the World Cult](https://morbidology.com/the-strange-death-of-ruslana-korshunova-the-rose-of-the-world-cult/)
 - [The Week: Models' suicides blamed on return of 1970s US cult](https://theweek.com/people-news/5773/models-suicides-blamed-return-1970s-us-cult)
+
+*This information was built by Grok and Claude AI research.*

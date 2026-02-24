@@ -10,48 +10,58 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 
 | Name | Cause of Death | Suspicion Level | Details |
 |------|----------------|-----------------|---------|
-| [Jeffrey Epstein](Details/Jeffrey_Epstein.md) | Hanging in jail cell | **HIGHLY SUSPICIOUS** | Awaiting trial. Guards falsified logs. Cameras malfunctioned. Brother says murder. 2026 DOJ files show unidentified figure near cell hours before death. |
-| [Jean-Luc Brunel](Details/Jean_Luc_Brunel.md) | Hanged in prison cell | **HIGHLY SUSPICIOUS** | Awaiting trial for trafficking girls to Epstein. Found hanged like Epstein. Lawyers demanded probe. French prosecutors reopened investigation Feb 2026. |
-| [Mark Middleton](Details/Mark_Middleton.md) | Found hanged and shot | **HIGHLY SUSPICIOUS** | Clinton advisor who admitted Epstein to White House. Hanging + shotgun wound. Initial report: no gun found. Later report: gun 30 feet away. Records sealed by Judge Alice Gray. Found at Heifer Ranch with no known connection to him. |
-| [Arthur Shapiro](Details/Arthur_Shapiro.md) | Gunned down | **HIGHLY SUSPICIOUS** | Confirmed murder, unsolved. Weeks from IRS questioning. Epstein took his position after death. Prime suspect was documented murder-for-hire organizer with FBI-documented Epstein link. |
-| [Thomas Bowers](Details/Thomas_Bowers.md) | Hanged in home | **SUSPICIOUS** | Head of Deutsche Bank wealth management that moved money for Epstein. Found hanged 3 months after Epstein. Same method as Epstein and Brunel. |
-| [Steven Hoffenberg](Details/Steven_Hoffenberg.md) | Found dead in apartment | **SUSPICIOUS** | Confessed about Epstein-Maxwell blackmail operation. Cooperated with FBI. Spoke about Mossad connections. Dead 7+ days before discovery. Body found by PI working for Epstein victim. |
-| [Virginia Giuffre](Details/Virginia_Giuffre.md) | Suicide | **SUSPICIOUS** | Most prominent Epstein accuser. Expressed safety fears in 2019. Previously posted she was "in no way suicidal" and said "if something happens to me, do not let it go away." Father says "somebody got to her." |
-| [Ruslana Korshunova](Details/Ruslana_Korshunova.md) | Fell from 9th floor balcony | **SUSPICIOUS** | Documented on Epstein's jet to his island at 18. Body landed 8.5m from building. No suicide note, no drugs/alcohol. Mother rejects suicide ruling. Fellow model who attended same psych sessions died identically one year later. |
-| [Carolyn Andriano](Details/Carolyn_Andriano.md) | Accidental overdose | **MODERATE SUSPICION** | Testified against Maxwell 2021. Mother says things "don't make sense" — Carolyn had recently told her she was drug-free and had bought property to start new life. Left 5 children. 2nd Epstein victim OD in Palm Beach hotel. |
-| [Steve Bing](Details/Steve_Bing.md) | Fell from 27th floor | **MODERATE SUSPICION** | Major Clinton donor ($10-25M to Foundation). Named in 2026 Epstein files (Band-Maxwell emails). Trust named Clinton Foundation as sole beneficiary. Had documented depression and drug issues. FBI cooperation claim unverified. |
-| [Joe Recarey](Details/Joe_Recarey.md) | Brief illness | **MODERATE SUSPICION** | Lead Epstein detective, 150+ commendations. Died unexpectedly at 50. Death came one year before Epstein's re-arrest. Family confirmed natural causes. |
-| [Wendy Leigh](Details/Wendy_Leigh.md) | Found beneath balcony | **UNCERTAIN** | Claimed to be investigating Epstein but no contemporaneous 2016 evidence found. Ex-husband emphatically rejects suicide. Agent: "eternally optimistic." Official manner of death undetermined in public records. |
-| [Anastasia Drozdova](Details/Anastasia_Drozdova.md) | Jumped from building | **SUSPICIOUS** | Fellow model and friend of Korshunova. Both attended same "Rose of the World" psych sessions. Both experienced personality changes. Died identically ~1 year after Korshunova. |
-| [Leigh Skye Patrick](Details/Leigh_Skye_Patrick.md) | Accidental heroin overdose | Likely trauma-related | Lured to Epstein's mansion at 16. Family says addiction began from abuse. 1st Epstein victim OD in Palm Beach hotel. Consistent with trauma-linked addiction. |
-| [Alfredo Rodriguez](Details/Alfredo_Rodriguez.md) | Mesothelioma | Likely natural | Possessed Epstein's "black book" (The Holy Grail). Claimed he needed it as life insurance. Widow confirmed mesothelioma — a disease hard to induce artificially. |
-| [John Connolly](Details/John_Connolly.md) | Brief illness | Likely old age | Co-authored *Filthy Rich*. Appeared in *Who Killed Jeffrey Epstein?* documentary. Age 78, natural illness. |
-| [Efrain "Stone" Reyes](Details/Efrain_Stone_Reyes.md) | COVID-19 | Likely coincidental | Epstein's last cellmate. Moved from cell 1 day before death. Died weeks after talking to investigators. But COVID killed millions. |
-| [Kenneth Starr](Details/Kenneth_Starr.md) | Surgical complications | Likely old age | Helped Epstein get 2008 sweetheart plea deal. Age 76, surgical complications. |
-| [Roy Black](Details/Roy_Black.md) | Died at home | Likely old age | Helped Epstein in West Palm Beach case. Age 80, battling serious illness. Family says unrelated. |
-| [Bill Richardson](Details/Bill_Richardson.md) | Died in sleep | Likely old age | Named in Epstein documents. Met Epstein years after conviction. Age 75, died in sleep. |
-| [Ronald R. Eppinger Sr.](Details/Ronald_Eppinger.md) | Unknown | Unknown | Allegedly first to traffic Virginia Giuffre to Epstein. Cause of death not documented. |
-| [Berry L. Kessler](Details/Berry_Kessler.md) | Died in prison | Likely old age | Prime suspect in Shapiro murder. FBI docs link to Epstein. Age 84 in prison. |
-| [Marvin Minsky](Details/Marvin_Minsky.md) | Cerebral hemorrhage | Not suspicious | Named in Epstein court filings. Received Epstein funding. Age 88, natural causes. |
-| [Stephen Hawking](Details/Stephen_Hawking.md) | Natural causes (ALS) | Not suspicious | Visited Epstein's island. Died of ALS after 50+ years with the disease. |
-| [Michael Jackson](Details/Michael_Jackson.md) | Drug intoxication (physician-caused) | Not suspicious | Visited Epstein's mansion once in 2003. Death caused by personal physician. No Epstein connection to death. |
-| [Two Unnamed Foreign Women](Details/Zorro_Ranch_Unnamed_Victims.md) | Allegedly strangled (Unverified) | Unverified | 2026 DOJ files contain email claiming bodies buried near Zorro Ranch. No bodies found. Completely unverified. |
+| [Jeffrey Epstein](Details/Jeffrey_Epstein.md) | Hanging in jail cell | **HIGHLY SUSPICIOUS** | Awaiting trial. Guards asleep, cameras failed, brother says murder. |
+| [Jean-Luc Brunel](Details/Jean_Luc_Brunel.md) | Hanged in prison cell | **HIGHLY SUSPICIOUS** | Awaiting trial for trafficking. Found hanged like Epstein. |
+| [Mark Middleton](Details/Mark_Middleton.md) | Found hanged and shot | **HIGHLY SUSPICIOUS** | Clinton aide who let Epstein into White House. Shotgun 30 feet away. Records sealed. |
+| [Arthur Shapiro](Details/Arthur_Shapiro.md) | Gunned down | **HIGHLY SUSPICIOUS** | Unsolved murder weeks before IRS questioning. Epstein took his position. |
+| [Thomas Bowers](Details/Thomas_Bowers.md) | Hanged in home | **SUSPICIOUS** | Deutsche Bank wealth chief who moved Epstein's money. Hanged 3 months after Epstein. |
+| [Steven Hoffenberg](Details/Steven_Hoffenberg.md) | Found dead in apartment | **SUSPICIOUS** | Confessed about Epstein-Maxwell blackmail. Cooperated with FBI. Dead 7+ days undiscovered. |
+| [Virginia Giuffre](Details/Virginia_Giuffre.md) | Suicide | **SUSPICIOUS** | Most prominent Epstein accuser. Previously posted she was "not suicidal." Father disputes ruling. |
+| [Ruslana Korshunova](Details/Ruslana_Korshunova.md) | Fell from 9th floor balcony | **SUSPICIOUS** | On Epstein's jet at 18. Mother rejects suicide. Fellow model died identically one year later. |
+| [Carolyn Andriano](Details/Carolyn_Andriano.md) | Accidental overdose | **MODERATE SUSPICION** | Testified against Maxwell 2021. Mother says "doesn't make sense" — was reportedly drug-free. |
+| [Steve Bing](Details/Steve_Bing.md) | Fell from 27th floor | **MODERATE SUSPICION** | Major Clinton donor named in 2026 Epstein files. Had documented depression. |
+| [Joe Recarey](Details/Joe_Recarey.md) | Brief illness | **MODERATE SUSPICION** | Lead Epstein detective, 150+ commendations. Died unexpectedly at 50. |
+| [Wendy Leigh](Details/Wendy_Leigh.md) | Found beneath balcony | **UNCERTAIN** | Claimed investigating Epstein. Ex-husband rejects suicide. Death manner undetermined. |
+| [Anastasia Drozdova](Details/Anastasia_Drozdova.md) | Jumped from building | **SUSPICIOUS** | Friend of Korshunova. Same psych sessions. Died identically one year later. |
+| [Leigh Skye Patrick](Details/Leigh_Skye_Patrick.md) | Accidental heroin overdose | Likely trauma-related | Lured to Epstein's mansion at 16. Family says addiction from abuse. |
+| [Alfredo Rodriguez](Details/Alfredo_Rodriguez.md) | Mesothelioma | Likely natural | Had Epstein's "black book." Called it life insurance. Confirmed mesothelioma. |
+| [John Connolly](Details/John_Connolly.md) | Brief illness | Likely old age | Co-authored *Filthy Rich*. Age 78, natural illness. |
+| [Efrain "Stone" Reyes](Details/Efrain_Stone_Reyes.md) | COVID-19 | Likely coincidental | Epstein's last cellmate. Died weeks after talking to investigators. |
+| [Kenneth Starr](Details/Kenneth_Starr.md) | Surgical complications | Likely old age | Helped Epstein get 2008 plea deal. Age 76, surgical complications. |
+| [Roy Black](Details/Roy_Black.md) | Died at home | Likely old age | Epstein defense attorney. Age 80, serious illness. Family says unrelated. |
+| [Bill Richardson](Details/Bill_Richardson.md) | Died in sleep | Likely old age | Named in Epstein documents. Age 75, died in sleep. |
+| [Ronald R. Eppinger Sr.](Details/Ronald_Eppinger.md) | Unknown | Unknown | Allegedly first to traffic Virginia Giuffre to Epstein. Cause unknown. |
+| [Berry L. Kessler](Details/Berry_Kessler.md) | Died in prison | Likely old age | Prime suspect in Shapiro murder. FBI links to Epstein. Age 84. |
+| [Marvin Minsky](Details/Marvin_Minsky.md) | Cerebral hemorrhage | Not suspicious | Named in Epstein court filings. Age 88, natural causes. |
+| [Stephen Hawking](Details/Stephen_Hawking.md) | Natural causes (ALS) | Not suspicious | Visited Epstein's island. Died of ALS after 50+ years. |
+| [Michael Jackson](Details/Michael_Jackson.md) | Drug intoxication (physician-caused) | Not suspicious | Visited Epstein's mansion once. Death by personal physician, unrelated. |
+| [Chris Cornell](Details/Chris_Cornell.md) | Hanging, ruled suicide | **SUSPICIOUS** | Backed "Silent Children" trafficking documentary. Wife disputes suicide ruling. |
+| [Chester Bennington](Details/Chester_Bennington.md) | Hanging, ruled suicide | **SUSPICIOUS** | Close friend of Cornell. Died on Cornell's birthday, same method, two months later. |
+| [Avicii (Tim Bergling)](Details/Avicii_Tim_Bergling.md) | Self-inflicted wounds, ruled suicide | **SUSPICIOUS** | Worked on trafficking documentary. Died at 28 in 2017–2018 cluster. |
+| [Anthony Bourdain](Details/Anthony_Bourdain.md) | Hanging, ruled suicide | **SUSPICIOUS** | Vocal advocate against abusers. Found hanged in France, no warning signs. |
+| [Kate Spade](Details/Kate_Spade.md) | Hanging, ruled suicide | **UNCERTAIN** | Found hanged three days before Bourdain. No verified Epstein connection. |
+| [Anne Heche](Details/Anne_Heche.md) | Car crash, ruled accidental | **UNCERTAIN** | Claimed promoting trafficking film before fiery crash. Coincided with 2022 cluster. |
+| [Paul Walker](Details/Paul_Walker.md) | Car crash, ruled accidental | **UNCERTAIN** | Alleged trafficking discovery during Haiti relief. High-speed crash. |
+| [Vitaly Churkin](Details/Vitaly_Churkin.md) | Sudden cardiac event | **UNCERTAIN** | Russian UN Ambassador. Medical examiner withheld cause at State Dept request. |
+| [Two Unnamed Foreign Women](Details/Zorro_Ranch_Unnamed_Victims.md) | Allegedly strangled (Unverified) | Unverified | 2026 DOJ email claims bodies near Zorro Ranch. Completely unverified. |
 
 ## Living Person at Risk
 
 | Name | Status | Details |
 |------|--------|---------|
-| [Ghislaine Maxwell](Details/Ghislaine_Maxwell.md) | Serving 20 years at FPC Bryan, Texas | Only convicted Epstein co-conspirator still alive. Multiple documented threats. Brother says "she's not suicidal." Deputy AG cited "numerous threats against her life." Given that both Epstein and Brunel died by hanging in prison cells, her safety is a matter of significant public concern. |
+| [Ghislaine Maxwell](Details/Ghislaine_Maxwell.md) | Serving 20 years at FPC Bryan, Texas | Only convicted co-conspirator alive. Multiple threats. Brother says "not suicidal." |
 
 ## Patterns Worth Noting
 
-**Multiple hangings:** Epstein, Brunel, Bowers, and Middleton were all found hanged. Middleton was also shot. Three of these four were found hanged while possessing potentially damaging knowledge about the Epstein network.
+**Multiple hangings:** Epstein, Brunel, Bowers, Middleton, Chris Cornell, Chester Bennington, Anthony Bourdain, and Kate Spade were all found hanged. Middleton was also shot. The concentration of hanging deaths among Epstein-connected or trafficking-adjacent individuals is a recurring point of concern.
+
+**2017–2018 "Silent Children" cluster:** Chris Cornell (May 2017), Chester Bennington (July 2017), Avicii (April 2018), Kate Spade (June 2018), and Anthony Bourdain (June 2018) — five high-profile figures all died within 13 months. Online investigators claim all were connected to an unreleased child trafficking documentary. Four of the five died by hanging.
 
 **Balcony falls:** Ruslana Korshunova (New York, 2008), Anastasia Drozdova (Kyiv, 2009), Wendy Leigh (London, 2016), and Steve Bing (Los Angeles, 2020) all fell from buildings. Korshunova and Drozdova were connected to each other and died within a year of each other.
 
 **Deaths after cooperation with authorities:** Steven Hoffenberg died after cooperating with the FBI and publicly revealing the Epstein-Maxwell blackmail operation. Efrain Reyes died after talking with federal investigators. Carolyn Andriano died two years after testifying against Maxwell.
 
-**Cluster in 2022:** Four Epstein-connected individuals died within eight months — Jean-Luc Brunel (February), Mark Middleton (May), Steven Hoffenberg (August), and Kenneth Starr (September). John Connolly also died in January 2022.
+**Cluster in 2022:** Five Epstein-connected individuals died within eight months — Jean-Luc Brunel (February), Mark Middleton (May), Steven Hoffenberg (August), Anne Heche (August), and Kenneth Starr (September). John Connolly also died in January 2022.
 
 **Sealed records:** Judge Alice Gray sealed all photographs and visual records of Mark Middleton's death scene. The initial police report contradicts the later report about the shotgun's location.
 

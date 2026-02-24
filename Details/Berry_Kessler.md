@@ -1,4 +1,5 @@
 # Berry L. Kessler
+Prime suspect in Shapiro murder with FBI-documented Epstein link, died in prison at 84.
 
 | Field | Details |
 |-------|---------|
@@ -36,3 +37,5 @@ FBI documents mention a possible link between Kessler and Jeffrey Epstein.
 
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 - [Uinterview: 22 People Connected to Jeffrey Epstein Have Died](https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+
+*This information was built by Grok and Claude AI research.*

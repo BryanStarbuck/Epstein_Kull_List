@@ -1,4 +1,5 @@
 # Ronald R. Eppinger Sr.
+Alleged first trafficker of Virginia Giuffre to Epstein, died in Miami with undocumented cause.
 
 | Field | Details |
 |-------|---------|
@@ -32,3 +33,5 @@ Eppinger was described as a Miami pimp who allegedly was the first person to tra
 ## Sources
 
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+
+*This information was built by Grok and Claude AI research.*

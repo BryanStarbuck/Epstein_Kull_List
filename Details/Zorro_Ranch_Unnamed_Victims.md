@@ -1,4 +1,5 @@
 # Two Unnamed Foreign Women (Alleged — Zorro Ranch)
+Two unnamed women allegedly strangled near Epstein's ranch per 2026 DOJ files; completely unverified.
 
 | Field | Details |
 |-------|---------|
@@ -38,3 +39,5 @@ These are completely unverified claims from an email found in the released Epste
 ## Sources
 
 - [Anadolu Agency: Newly released Epstein files in the spotlight](https://www.aa.com.tr/en/americas/newly-released-epstein-files-in-the-spotlight/3820244)
+
+*This information was built by Grok and Claude AI research.*

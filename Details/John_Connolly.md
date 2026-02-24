@@ -1,4 +1,5 @@
 # John Connolly
+Journalist who co-authored Filthy Rich exposing Epstein, died at 78 of natural illness.
 
 | Field | Details |
 |-------|---------|
@@ -37,3 +38,5 @@ He co-authored *Filthy Rich: A Powerful Billionaire, the Sex Scandal that Undid 
 
 - [NY Post: John Connolly, journalist who investigated Epstein, dead at 78](https://nypost.com/2022/01/17/john-connolly-journalist-who-investigated-epstein-dead-at-78/)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+
+*This information was built by Grok and Claude AI research.*

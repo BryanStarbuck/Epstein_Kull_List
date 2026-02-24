@@ -1,4 +1,5 @@
 # Jeffrey Epstein
+Convicted sex trafficker found hanged in federal jail awaiting trial under deeply suspicious circumstances.
 
 | Field | Details |
 |-------|---------|
@@ -46,3 +47,5 @@ Epstein had a previous conviction in 2008 under a controversial Florida plea dea
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 - [Times Now Investigation](https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534)
 - [Wikipedia: Death of Jeffrey Epstein](https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein)
+
+*This information was built by Grok and Claude AI research.*

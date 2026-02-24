@@ -1,4 +1,5 @@
 # Roy Black
+Epstein defense attorney in West Palm Beach case, died at 80 of serious illness.
 
 | Field | Details |
 |-------|---------|
@@ -34,3 +35,5 @@ Black was a high-powered defense attorney who, along with Kenneth Starr, helped 
 
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 - [Uinterview: 22 People Connected to Jeffrey Epstein Have Died](https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+
+*This information was built by Grok and Claude AI research.*
