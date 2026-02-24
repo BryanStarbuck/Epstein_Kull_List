@@ -6,28 +6,48 @@ Each person listed below has an individual detail file containing their full bac
 
 ## Individual Detail Files
 
-- [Jeffrey Epstein](Jeffrey_Epstein.md) — Primary subject. Found hanged in MCC New York, August 10, 2019. Ruled suicide. Brother publicly states it was murder. Guards falsified records. Security cameras malfunctioned.
-- [Virginia Giuffre](Virginia_Giuffre.md) — Most prominent Epstein accuser. Suicide at farm in Western Australia, April 25, 2025. Had expressed explicit safety fears in 2019 court filing. Posthumous memoir published.
-- [Jean-Luc Brunel](Jean_Luc_Brunel.md) — French modeling agent. Found hanged in Paris prison cell, February 19, 2022. Awaiting trial for trafficking girls to Epstein. Lawyers demanded probe into his death.
-- [Steve Bing](Steve_Bing.md) — Movie producer. Fell from 27th floor, Los Angeles, June 22, 2020. Had talked to FBI about Epstein before death.
-- [Thomas Bowers](Thomas_Bowers.md) — Head of Deutsche Bank wealth management. Found hanged in Malibu home, November 19, 2019. Oversaw division that moved money for Epstein.
-- [Mark Middleton](Mark_Middleton.md) — Clinton advisor. Found hanged and shot in Arkansas, May 7, 2022. Shotgun found 30 feet from body. Death records sealed by judge.
-- [Steven Hoffenberg](Steven_Hoffenberg.md) — Epstein's mentor and business partner. Found dead in Connecticut apartment, August 2022. Dead at least 7 days before discovery. Had confessed about Epstein-Maxwell blackmail operation and cooperated with FBI.
-- [Arthur Shapiro](Arthur_Shapiro.md) — Lawyer, Epstein's predecessor at L Brands. Gunned down March 1985. Unsolved murder. Was weeks from IRS questioning. Epstein took over his position after his death.
-- [Joe Recarey](Joe_Recarey.md) — Palm Beach detective who led Epstein investigation. Died unexpectedly May 25, 2018, age 50. Over 150 commendations. Died one year before Epstein's re-arrest.
-- [Alfredo Rodriguez](Alfredo_Rodriguez.md) — Epstein's house manager. Died December 28, 2014, of mesothelioma. Possessed Epstein's 97-page "black book" that prosecutors called "The Holy Grail." Claimed he needed it as life insurance.
-- [Leigh Skye Patrick](Leigh_Skye_Patrick.md) — Confirmed Epstein victim. Accidental heroin overdose, May 30, 2017, age 29. Lured to Epstein's mansion at age 16. Family directly attributed addiction to Epstein's abuse.
-- [Carolyn Andriano](Carolyn_Andriano.md) — Confirmed Epstein victim. Accidental overdose, May 23, 2023, age 36. Testified against Ghislaine Maxwell. Mother questioned circumstances. Left five children.
-- [John Connolly](John_Connolly.md) — Investigative journalist, former NYPD detective. Died January 17, 2022, age 78. Co-authored *Filthy Rich* with James Patterson. Appeared in *Who Killed Jeffrey Epstein?* documentary.
-- [Wendy Leigh](Wendy_Leigh.md) — Celebrity biographer. Found beneath her London balcony, May 2016, age 65. Was investigating Epstein. Agent emphasized her "optimistic view on life" contradicting suicide explanation.
-- [Efrain "Stone" Reyes](Efrain_Stone_Reyes.md) — Epstein's final cellmate. Died of COVID-19, November 2020, age 51. Transferred out of Epstein's cell one day before Epstein's death. Died weeks after talking with federal investigators.
-- [Kenneth Starr](Kenneth_Starr.md) — Attorney. Died September 2022, age 76, surgical complications. Helped Epstein secure the 2008 "sweetheart" plea deal.
-- [Roy Black](Roy_Black.md) — Attorney. Died at home in Coral Gables, July 23, 2025, age 80. Helped Epstein in West Palm Beach case. Family says death unrelated to Epstein.
-- [Bill Richardson](Bill_Richardson.md) — Former New Mexico Governor, UN Ambassador. Died in sleep September 1, 2023, age 75. Named in Epstein documents. Met with Epstein years after conviction.
-- [Marvin Minsky](Marvin_Minsky.md) — MIT AI pioneer. Cerebral hemorrhage, January 24, 2016, age 88. Named in Epstein court filings. Received research funding from Epstein.
-- [Stephen Hawking](Stephen_Hawking.md) — Physicist. Died at home March 14, 2018, age 76. Visited Epstein's island. Death from ALS-related natural causes.
-- [Michael Jackson](Michael_Jackson.md) — Musician. Died June 25, 2009, age 50. Visited Epstein's Palm Beach mansion once in 2003. Death caused by personal physician. No evidence of connection to Epstein's crimes.
-- [Ronald R. Eppinger Sr.](Ronald_Eppinger.md) — Miami pimp. Died November 2006, age 80. Allegedly first to traffic Virginia Giuffre to Epstein. Cause of death unknown.
+### Highly Suspicious
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — **HIGHLY SUSPICIOUS.** Found hanged in MCC New York, August 10, 2019. Guards falsified records. Cameras malfunctioned. Broken hyoid bone. Brother says murder. 2026 DOJ files show unidentified figure near cell hours before death.
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md) — **HIGHLY SUSPICIOUS.** Found hanged in Paris prison cell, February 19, 2022. Awaiting trial for trafficking girls to Epstein. Same method as Epstein. Lawyers demanded probe. French prosecutors reopened investigation Feb 2026.
+- [Mark Middleton](Mark_Middleton.md) — **HIGHLY SUSPICIOUS.** Found hanging from tree with extension cord AND 12-gauge shotgun blast to chest at Heifer Ranch, Perryville, Arkansas, May 7, 2022. Initial police report: no gun found. Later report: gun 30 feet away. Records sealed by Judge Alice Gray. No known connection to ranch. Ruling took 9 months.
+- [Arthur Shapiro](Arthur_Shapiro.md) — **HIGHLY SUSPICIOUS — CONFIRMED MURDER.** Gunned down March 1985. Unsolved. Weeks from IRS questioning. Epstein directly took his position managing Les Wexner's fortune. Prime suspect (Berry Kessler) was documented murder-for-hire organizer with FBI-documented Epstein link.
+
+### Suspicious
+- [Thomas Bowers](Thomas_Bowers.md) — **SUSPICIOUS.** Head of Deutsche Bank wealth management. Found hanged in Malibu home, November 19, 2019. Same method as Epstein and Brunel. Oversaw division that moved Epstein's money. Died 3 months after Epstein.
+- [Steven Hoffenberg](Steven_Hoffenberg.md) — **SUSPICIOUS.** Epstein's mentor. Found dead in Connecticut apartment, August 2022. Dead 7+ days before discovery. Had confessed about Epstein-Maxwell blackmail operation, cooperated with FBI, spoke about Mossad connections. Body found by PI working for Epstein victim.
+- [Virginia Giuffre](Virginia_Giuffre.md) — **SUSPICIOUS.** Most prominent Epstein accuser. Suicide at farm in Western Australia, April 25, 2025. Previously posted she was "in no way suicidal" and said "if something happens to me, do not let it go away." Father says "somebody got to her." Had expressed explicit safety fears in 2019 court filing.
+- [Ruslana Korshunova](Ruslana_Korshunova.md) — **SUSPICIOUS.** Model. Fell from 9th floor at 130 Water Street, Manhattan, June 28, 2008. Documented on Epstein's jet to his island at 18 with Sarah Kellen. Body landed 8.5m from building. No suicide note, no drugs/alcohol. Mother rejects ruling. Fellow model Drozdova died identically 1 year later.
+- [Anastasia Drozdova](Anastasia_Drozdova.md) — **SUSPICIOUS.** Model. Jumped from building in Kyiv, 2009. Friend of Korshunova. Both attended same "Rose of the World" psych sessions. Both experienced personality changes. Died in identical fashion ~1 year after Korshunova.
+
+### Moderate Suspicion
+- [Carolyn Andriano](Carolyn_Andriano.md) — **MODERATE SUSPICION.** Epstein victim. Accidental overdose, May 23, 2023, age 36, DoubleTree by Hilton, West Palm Beach. Testified against Maxwell. Mother says things "don't make sense" — Carolyn said she was drug-free and had bought property to start new life. Left five children. 2nd Epstein victim OD in Palm Beach hotel.
+- [Steve Bing](Steve_Bing.md) — **MODERATE SUSPICION.** Movie producer. Fell from 27th floor of The Ten Thousand, Century City, June 22, 2020. Named in 2026 Epstein files. Major Clinton donor ($10-25M to Foundation). Trust named Clinton Foundation as sole beneficiary. Had documented depression, drug use, and financial collapse. FBI cooperation claim unverified.
+- [Joe Recarey](Joe_Recarey.md) — **MODERATE SUSPICION.** Lead Epstein detective. Died unexpectedly May 25, 2018, age 50. 150+ commendations. Died one year before Epstein's re-arrest. Family confirmed natural causes (sleep apnea).
+
+### Uncertain
+- [Wendy Leigh](Wendy_Leigh.md) — **UNCERTAIN.** Celebrity biographer. Found beneath London balcony, May 29, 2016, age 65. Claimed to be investigating Epstein but no contemporaneous 2016 evidence found. Ex-husband emphatically rejects suicide. Agent: "eternally optimistic." Official manner of death undetermined in public records.
+
+### Likely Natural / Trauma-Related / Old Age
+- [Leigh Skye Patrick](Leigh_Skye_Patrick.md) — Likely trauma-related. Accidental heroin overdose, May 30, 2017, age 29. Lured to Epstein's mansion at 16. Family attributed addiction to abuse.
+- [Alfredo Rodriguez](Alfredo_Rodriguez.md) — Likely natural. Died December 28, 2014, of mesothelioma, age 60. Possessed Epstein's black book. Widow confirmed natural death.
+- [John Connolly](John_Connolly.md) — Likely old age. Investigative journalist, January 17, 2022, age 78. Co-authored *Filthy Rich*. Natural illness.
+- [Efrain "Stone" Reyes](Efrain_Stone_Reyes.md) — Likely coincidental. Epstein's last cellmate. COVID-19, November 2020, age 51. Pandemic killed millions.
+- [Kenneth Starr](Kenneth_Starr.md) — Likely old age. Epstein's attorney. Surgical complications, September 2022, age 76.
+- [Roy Black](Roy_Black.md) — Likely old age. Epstein's attorney. Died at home July 23, 2025, age 80, after serious illness.
+- [Bill Richardson](Bill_Richardson.md) — Likely old age. Former New Mexico Governor. Died in sleep September 1, 2023, age 75.
+- [Berry L. Kessler](Berry_Kessler.md) — Likely old age. Died 2005 in Georgia federal prison, age 84. Prime suspect in Shapiro murder.
+- [Ronald R. Eppinger Sr.](Ronald_Eppinger.md) — Unknown. Died November 2006, age 80. Cause of death not documented.
+
+### Not Suspicious
+- [Marvin Minsky](Marvin_Minsky.md) — Not suspicious. MIT AI pioneer. Cerebral hemorrhage, January 24, 2016, age 88.
+- [Stephen Hawking](Stephen_Hawking.md) — Not suspicious. Physicist. March 14, 2018, age 76. ALS, 50+ years with the disease.
+- [Michael Jackson](Michael_Jackson.md) — Not suspicious. June 25, 2009, age 50. Death caused by personal physician. No meaningful Epstein connection.
+
+### Unverified
+- [Two Unnamed Foreign Women](Zorro_Ranch_Unnamed_Victims.md) — Completely unverified claims from 2026 DOJ file releases. Email alleges women strangled and buried near Zorro Ranch. No bodies found.
+
+### Living Person at Risk
+- [Ghislaine Maxwell](Ghislaine_Maxwell.md) — **AT RISK.** Only convicted Epstein co-conspirator still alive. Serving 20 years at FPC Bryan, Texas. Multiple documented threats. Brother: "She's not suicidal." Deputy AG cited "numerous threats against her life."
 - [Berry L. Kessler](Berry_Kessler.md) — Died 2005 in Georgia federal prison, age 84. Prime suspect in Arthur Shapiro murder. Convicted of separate murder-for-hire plots. FBI documents reference possible Epstein link.
 - [Ruslana Korshunova](Ruslana_Korshunova.md) — Model. Jumped from ninth-floor balcony, New York, June 2008. Visited Epstein's island two years before death at age 18. Flew on Epstein's jet.
 - [Two Unnamed Foreign Women (Alleged)](Zorro_Ranch_Unnamed_Victims.md) — Completely unverified claims from 2026 DOJ file releases. Email alleges two women strangled and buried near Epstein's Zorro Ranch, New Mexico. No bodies found. No investigation confirmed.
