@@ -1,0 +1,58 @@
+# Alfredo Rodriguez
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Alfredo Rodriguez |
+| **Born** | ~1954 |
+| **Died** | December 28, 2014 |
+| **Age at Death** | 60 |
+| **Location of Death** | Unknown |
+| **Cause of Death** | Mesothelioma (rare cancer) |
+| **Official Ruling** | Natural death |
+| **Category** | Staff Member / House Manager |
+
+## Assessment: LOW SUSPICION — LIKELY NATURAL
+
+Rodriguez died from mesothelioma, a well-documented cancer caused by asbestos exposure with a long latency period. His widow confirmed it was natural. While he possessed extremely damaging evidence (the "black book") and explicitly stated he needed it as "life insurance" (suggesting he believed he was in danger), the specific disease that killed him is difficult to induce artificially.
+
+## Circumstances of Death
+
+Alfredo Rodriguez died on December 28, 2014, from mesothelioma, a rare cancer typically caused by asbestos exposure with a long latency period. His widow, Patricia Dunn, confirmed it was a natural death.
+
+## Background
+
+Rodriguez worked as a butler and house manager at Jeffrey Epstein's Palm Beach mansion. He had direct access to Epstein's private records and documentation.
+
+## The Black Book
+
+Rodriguez stole Epstein's "black book" — a 97-page journal that prosecutors called "The Holy Grail" in 2011. The book allegedly "detailed the full scope and extent of Epstein's involvement with underage girls." It contained contact details for Epstein's associates, including over 1,500 names, phone numbers, and addresses. Names in the book included Bill Clinton, Donald Trump, Prince Andrew, and many others.
+
+Rodriguez claimed he needed the book as insurance to protect his own life.
+
+## Legal Troubles
+
+In 2009, Rodriguez was arrested for withholding evidence. He had failed to tell prosecutors he possessed the black book and had attempted to sell it for $50,000. In 2010, he was sentenced to 18 months in federal prison for obstruction of justice — ironically, the same length as Epstein's own sentence at the time.
+
+## Widow's Claims
+
+Rodriguez's widow, Patricia Dunn, told DailyMail.com that Rodriguez "knew all about Prince Andrew," in the context of Prince Andrew being named in the Epstein sex scandal.
+
+## Current Location of the Black Book
+
+The current location of the full document has not been disclosed. According to The Mirror, Epstein's lawyers were reportedly "petrified" about where it would go after Rodriguez's death. The book's contents have been partially leaked and published online over the years.
+
+## Why This Death Possibly Raises Questions
+
+- Rodriguez was one of very few people with direct documentary evidence of Epstein's activities.
+- He possessed the 97-page "black book" that prosecutors called "The Holy Grail."
+- He had explicitly claimed he needed the book as insurance to protect his own life, suggesting he believed he was in danger.
+- His death meant the loss of a potential witness with extensive insider knowledge.
+- However, his widow confirmed the death was from mesothelioma, and the disease is a well-documented occupational illness with a long latency period.
+
+## Sources
+
+- [The Independent, January 7, 2015](https://www.the-independent.com/news/people/prince-andrew-sex-allegations-jeffrey-epstein-s-butler-alfredo-rodriguez-who-stole-tellall-black-book-dies-age-60-9962307.html)
+- [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+- [Times Now Investigation](https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534)
+- DailyMail.com reports
+- Court records from 2010 sentencing
