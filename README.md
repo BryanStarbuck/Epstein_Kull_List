@@ -18,7 +18,7 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Thomas Bowers](Details/Thomas_Bowers.md) | Hanged in home | **SUSPICIOUS** | Deutsche Bank exec who moved Epstein's money. |
 | [William Broeksmit](Details/William_Broeksmit.md) | Hanged at home | **UNCERTAIN** | Deutsche Bank senior exec. Son became FBI informant. |
 | [Val Broeksmit](Details/Val_Broeksmit.md) | Blunt-force trauma | **UNCERTAIN** | Deutsche Bank whistleblower. Found dead on LA campus. |
-| [Steven Hoffenberg](Details/Steven_Hoffenberg.md) | Found dead in apartment | **SUSPICIOUS** | FBI cooperator who exposed blackmail op. Found dead 7+ days later. |
+| [Steven Hoffenberg](Details/Steven_Hoffenberg.md) | Found dead in apartment | **SUSPICIOUS** | FBI cooperator. Exposed blackmail op. Dead 7+ days. |
 | [Virginia Giuffre](Details/Virginia_Giuffre.md) | Suicide | **SUSPICIOUS** | Top Epstein accuser. Posted "not suicidal." |
 | [Ruslana Korshunova](Details/Ruslana_Korshunova.md) | Fell from 9th floor | **SUSPICIOUS** | On Epstein's jet at 18. Mother rejects suicide. |
 | [Isaac Kappy](Details/Isaac_Kappy.md) | Fell from bridge | **SUSPICIOUS** | Named Hollywood pedophiles. Said "if I die, wasn't suicide." |
@@ -53,7 +53,7 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Anne Heche](Details/Anne_Heche.md) | Car crash | **UNCERTAIN** | Promoting trafficking film before fiery crash. |
 | [Paul Walker](Details/Paul_Walker.md) | Car crash | **UNCERTAIN** | Alleged trafficking discovery during Haiti relief. |
 | [Vitaly Churkin](Details/Vitaly_Churkin.md) | Sudden cardiac event | **UNCERTAIN** | Russian UN Ambassador. Cause withheld by State Dept. |
-| [Deborah Jeane Palfrey](Details/Deborah_Jeane_Palfrey.md) | Hanged in Florida | **UNCERTAIN** | "DC Madam" who said she'd never hang herself. Found hanged 16 days after conviction. |
+| [Deborah Jeane Palfrey](Details/Deborah_Jeane_Palfrey.md) | Hanged in Florida | **UNCERTAIN** | "DC Madam." Said she'd never hang herself. Hanged 16 days post-conviction. |
 | [Two Unnamed Foreign Women](Details/Zorro_Ranch_Unnamed_Victims.md) | Allegedly strangled | Unverified | 2026 DOJ email alleging bodies near Zorro Ranch. Unverified. |
 | [Deputy Chief Steven Silks](Details/Steven_Silks.md) | Suicide | **SUSPICIOUS** | NYPD officer who allegedly viewed Weiner laptop. First of 4 in 22 days. |
 | [Det. Joseph Calabrese](Details/Joseph_Calabrese.md) | Suicide | **SUSPICIOUS** | NYPD detective who allegedly viewed Weiner laptop. Died day after Silks. |
@@ -62,6 +62,7 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Sgt. Terrence McAvoy](Details/Terrence_McAvoy.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
 | [Johnny Rios](Details/Johnny_Rios.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
 | [Robert Echeverria](Details/Robert_Echeverria.md) | Gunshot wound | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
+| [Austin Tucker Martin](Details/Austin_Tucker_Martin.md) | Shot by Secret Service | Not suspicious | Breached Mar-a-Lago armed, fixated on Epstein files. Age 21. |
 
 ## Living Persons at Risk
 
@@ -70,6 +71,8 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Ghislaine Maxwell](Details/Ghislaine_Maxwell.md) | Serving 20 years at FPC Bryan, Texas | Only convicted co-conspirator alive. Brother says "not suicidal." |
 | [Nadia Marcinko](Details/Nadia_Marcinko.md) | Missing since January 2024 | Epstein's pilot, granted immunity in 2008. Vanished after files unsealed. |
 | [Brice & Karen Gordon](Details/Brice_Karen_Gordon.md) | Missing since ~2020 | Zorro Ranch managers for 20 years. Vanished after Maxwell's arrest. NM commission "people of interest." |
+| [Thorbjorn Jagland](Details/Thorbjorn_Jagland.md) | Hospitalized after suicide attempt, Feb 2026 | Former Norwegian PM charged with corruption over Epstein ties. |
+| [Denise George](Details/Denise_George.md) | Fired Dec 2022; reported threats to FBI | USVI AG fired 4 days after suing JPMorgan over Epstein. Governor pressured her to drop case. |
 
 ## Patterns Worth Noting
 
@@ -100,6 +103,10 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 **Florida concentration:** Six Epstein-connected deaths occurred in Florida: [Leigh Skye Patrick](Details/Leigh_Skye_Patrick.md) (West Palm Beach), [Carolyn Andriano](Details/Carolyn_Andriano.md) (West Palm Beach), [Joe Recarey](Details/Joe_Recarey.md) (Palm Beach), [Roy Black](Details/Roy_Black.md) (Coral Gables), [Ronald Eppinger](Details/Ronald_Eppinger.md) (Miami), and [Deborah Jeane Palfrey](Details/Deborah_Jeane_Palfrey.md) (Tarpon Springs). Florida was the epicenter of Epstein's crimes and the original 2005–2008 investigation.
 
 **New Mexico / Zorro Ranch:** Epstein's 7,560-acre [Zorro Ranch](Details/Zorro_Ranch_Unnamed_Victims.md) near Stanley, NM is the only Epstein property never raided by the FBI. An anonymous former employee alleged [two foreign girls](Details/Zorro_Ranch_Unnamed_Victims.md) were buried in the surrounding hills. An FBI report noted a barn with a chimney and "sally port" that could conceal an incinerator. Ranch managers [Brice and Karen Gordon](Details/Brice_Karen_Gordon.md) vanished after Maxwell's arrest. Governor [Bill Richardson](Details/Bill_Richardson.md) met with Epstein 9+ times after his conviction and had his name removed from a children's hospital in 2026. Four victims testified under oath to abuse at the ranch. In February 2026, the NM Attorney General reopened the criminal investigation and the state legislature unanimously created a "truth commission" with subpoena power and a $2M budget.
+
+**Caribbean / USVI government protection:** Epstein operated his trafficking network from Little St. James island in the U.S. Virgin Islands from 1998 until his 2019 arrest. The USVI government actively protected him: Governor Albert Bryan texted Epstein "We got u" and pressured AG [Denise George](Details/Denise_George.md) to grant sex offender waivers and drop the investigation. Former First Lady Cecile de Jongh was on Epstein's payroll at $200K/year and helped him craft legislation to weaken sex offender monitoring. George was fired four days after suing JPMorgan for facilitating Epstein's crimes and told the FBI she felt threatened. No confirmed suspicious deaths have occurred in the Caribbean connected to Epstein, but the institutional protection apparatus — involving two USVI governors — demonstrates how powerful the cover-up network was.
+
+**European Epstein fallout (2026):** The DOJ file releases triggered a political reckoning across Europe. [Jean-Luc Brunel](Details/Jean_Luc_Brunel.md) died in a Paris prison in 2022. In February 2026, [Thorbjorn Jagland](Details/Thorbjorn_Jagland.md) (former Norwegian PM) was hospitalized after a suicide attempt following corruption charges tied to Epstein. Prince Andrew was arrested in the UK, Peter Mandelson was arrested for leaking government info to Epstein, Norwegian ambassador Mona Juul resigned, and French prosecutors formed a special team to analyze the files. [Robert Maxwell](Details/Robert_Maxwell.md) (1991), [William Broeksmit](Details/William_Broeksmit.md) (London, 2014), [Wendy Leigh](Details/Wendy_Leigh.md) (London, 2016), [Anastasia Drozdova](Details/Anastasia_Drozdova.md) (Kyiv, 2009), and [Anthony Bourdain](Details/Anthony_Bourdain.md) (France, 2018) all died in Europe.
 
 **New evidence from 2026 DOJ releases:** Surveillance logs show an unidentified orange-clad figure approaching Epstein's locked housing tier hours before his death. French prosecutors reopened the Brunel investigation. DOJ withheld pages related to accusations against President Trump.
 

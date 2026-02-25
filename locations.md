@@ -34,6 +34,7 @@ A geographic breakdown of deaths connected to Jeffrey Epstein, organized by loca
 | Muscat, Oman | Oman | 1 | [Avicii (Tim Bergling)](Details/Avicii_Tim_Bergling.md) |
 | Western Australia | Australia | 1 | [Virginia Giuffre](Details/Virginia_Giuffre.md) |
 | Bellemont, AZ | USA | 1 | [Isaac Kappy](Details/Isaac_Kappy.md) |
+| U.S. Virgin Islands | USVI | 0 | No confirmed deaths. See USVI section for government protection details. |
 | Atlantic Ocean (Canary Islands) | International Waters | 1 | [Robert Maxwell](Details/Robert_Maxwell.md) |
 | Unknown | — | 6 | [Arthur Shapiro](Details/Arthur_Shapiro.md), [Alfredo Rodriguez](Details/Alfredo_Rodriguez.md), [Efrain "Stone" Reyes](Details/Efrain_Stone_Reyes.md), [Kenneth Starr](Details/Kenneth_Starr.md), [John Connolly](Details/John_Connolly.md), [Tracy Twyman](Details/Tracy_Twyman.md) |
 
@@ -133,6 +134,20 @@ Epstein's 7,560-acre ranch near Stanley, New Mexico. Under active criminal inves
 
 ---
 
+## U.S. Virgin Islands (Caribbean)
+
+Epstein's primary base of operations was Little St. James, a 72-acre private island in the USVI. He also owned Great St. James island. From 1998 to 2019, the islands were the center of his trafficking operation. Epstein used helicopters to shuttle victims between St. Thomas and Little St. James.
+
+No confirmed suspicious deaths have occurred in the USVI connected to Epstein, but the territory's government actively protected him:
+
+- **Governor Albert Bryan Jr.** (2019–present) texted Epstein "We got u" and pressured AG Denise George to grant sex offender waivers and drop the investigation.
+- **[Denise George](Details/Denise_George.md)** (AG, fired Dec 2022) — Fired four days after suing JPMorgan for facilitating Epstein's crimes. Told the FBI she felt threatened. Secured $105 million settlement before being removed.
+- **Cecile de Jongh** (Former First Lady, wife of Gov. John de Jongh 2007–2015) — On Epstein's payroll at $200,000/year. JPMorgan called her Epstein's "primary conduit for spreading money and influence throughout the USVI government." Helped him craft legislation to weaken sex offender monitoring.
+
+The USVI settled with Epstein's estate for over $105 million and approximately 150 survivors received compensation through a fund totaling nearly $125 million.
+
+---
+
 ## International
 
 ### Paris, France
@@ -210,6 +225,7 @@ For context, these are the major Epstein-owned properties where deaths, alleged 
 - **Prison deaths**: Three individuals died in custody or prison settings (Epstein, Brunel, Kessler), two by hanging.
 - **Sealed records**: Mark Middleton's death in rural Arkansas had records sealed by Judge Alice Gray — unusual for a suicide ruling.
 - **International reach**: Deaths span 7 countries (USA, France, UK, Ukraine, Oman, Australia, and the unverified Zorro Ranch allegations), reflecting the global scope of Epstein's network.
+- **Caribbean protection, not deaths**: Despite the USVI being the center of Epstein's trafficking operation (Little St. James island), no confirmed deaths occurred there. Instead, the pattern in the Caribbean is institutional cover-up: two governors protected Epstein, the former first lady was on his payroll, and the AG who pursued the case was fired and reported threats.
 
 ---
 
