@@ -43,6 +43,13 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Anne Heche](Details/Anne_Heche.md) | Car crash, ruled accidental | **UNCERTAIN** | Claimed promoting trafficking film before fiery crash. Coincided with 2022 cluster. |
 | [Paul Walker](Details/Paul_Walker.md) | Car crash, ruled accidental | **UNCERTAIN** | Alleged trafficking discovery during Haiti relief. High-speed crash. |
 | [Vitaly Churkin](Details/Vitaly_Churkin.md) | Sudden cardiac event | **UNCERTAIN** | Russian UN Ambassador. Medical examiner withheld cause at State Dept request. |
+| [Deputy Chief Steven Silks](Details/Steven_Silks.md) | Suicide | **SUSPICIOUS** | NYPD, 38-year veteran. Allegedly viewed Weiner laptop. Died June 5, 2019. Part of 4 deaths in 22 days. |
+| [Detective Joseph Calabrese](Details/Joseph_Calabrese.md) | Suicide | **SUSPICIOUS** | NYPD Brooklyn Homicide. Allegedly viewed Weiner laptop. Died June 6, 2019 — one day after Silks. |
+| [Officer Michael Caddy](Details/Michael_Caddy.md) | Suicide | **SUSPICIOUS** | NYPD, age 29. Allegedly viewed Weiner laptop. Died June 14, 2019 — 9 days after Silks. |
+| [Officer Kevin Preiss](Details/Kevin_Preiss.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. Died June 27, 2019. Found at Long Island home. |
+| [Sergeant Terrence McAvoy](Details/Terrence_McAvoy.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. Died July 27, 2019. |
+| [Johnny Rios](Details/Johnny_Rios.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. Limited independent details available. |
+| [Robert Echeverria](Details/Robert_Echeverria.md) | Gunshot wound | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. Found at his Laurelton home. |
 | [Two Unnamed Foreign Women](Details/Zorro_Ranch_Unnamed_Victims.md) | Allegedly strangled (Unverified) | Unverified | 2026 DOJ email claims bodies near Zorro Ranch. Completely unverified. |
 
 ## Living Person at Risk
