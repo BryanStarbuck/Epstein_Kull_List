@@ -30,13 +30,25 @@ Moore had no known personal connection to Jeffrey Epstein. His inclusion on cons
 - The Los Angeles County Medical Examiner-Coroner ruled the death an accident
 - No signs of foul play were found in the investigation
 
-## Why Conspiracy Theories Emerged
-- The 2020 Epstein "kill switch" comedy clip went mega-viral on X, TikTok, and Instagram after the 2024–2026 Epstein document releases
-- Conspiracy theorists reframed Moore's satirical bit as "hiding truth in comedy" or "he knew too much"
-- Some posts inflated the fall height to "28 feet" to make the death seem more implausible
+## The "Kill Switch" Bit That Went Viral
+In the October 2020 WKUK podcast segment, Moore laid out a satirical conspiracy theory connecting Epstein to COVID-19:
+- *"He had them design a novel coronavirus that was his kill switch... His kill switch went off, and that's when the disease got introduced into the world."*
+- The theory: Epstein funded scientists to create a bioengineered coronavirus as a dead man's switch — if he was ever arrested or killed, it would release and cause global chaos to protect him and his network
+- Epstein was arrested July 2019, died August 2019. COVID emerged shortly after. Moore's bit drew this timeline connection
+- He explicitly called it unsubstantiated dark humor: *"This is completely unsubstantiated... but that's a goddamn great conspiracy theory. I love it and I'm gonna spread it as much as I can."*
+
+## Why Conspiracy Theories Exploded on X
+- The clip went mega-viral on X, TikTok, and Instagram after the 2024–2026 Epstein document releases
+- Conspiracists reframed Moore's satirical bit as "hiding truth in comedy" or "he knew too much / was too close to exposing Epstein's role in COVID"
+- The narrative: "He spoke on Epstein in 2020, then suspiciously fell from a balcony the next year"
+- Some posts inflated the fall height to "28 feet" to make the death seem more implausible (actual height: ~10–20 feet, second-story)
 - Moore had performed other comedy bits touching on CIA conspiracies and elite corruption, which fed the narrative that he was "red-pilling" his audience
-- The timing (Epstein bit in 2020, death in 2021) was seized upon as suspicious despite the 10-month gap
+- Common X posts (as of Feb 2026): *"Epstein's corona kill switch? ... fell from balcony days later. Files dropping now… coincidence?"* and *"Realizing all of Trevor Moore's political conspiracy skits were like 100% accurate... convinced that they had him killed"*
+- The pattern echoes the "Epstein didn't kill himself" meme — another balcony/suspicious death tied to someone who discussed Epstein publicly
 - His death echoed other "balcony fall" deaths on this list ([Ruslana Korshunova](Ruslana_Korshunova.md), [Anastasia Drozdova](Anastasia_Drozdova.md), [Wendy Leigh](Wendy_Leigh.md), [Steve Bing](Steve_Bing.md))
+
+## Key Question Raised Online
+"How do you die from blunt force head trauma from only 2 stories up?" — A common refrain on X. The answer: falls from even 10–15 feet (especially head-first onto hard surfaces like a concrete patio, while blackout drunk and unable to brace) are frequently fatal. The CDC reports falls as a leading cause of traumatic brain injury death. However, the question persists in online discourse because it *feels* implausible to those unfamiliar with fall injury statistics.
 
 ## Assessment
 The evidence strongly supports the official accidental death ruling. Moore was extremely intoxicated (BAC 0.21–0.27), security cameras captured the fall, and the coroner found no signs of foul play. Falls from second-story heights onto hard surfaces are frequently fatal, especially when the person is blackout drunk and unable to brace for impact. His comedy bit about Epstein was explicitly presented as unsubstantiated satire, and he had no documented personal connection to Epstein or his network.
