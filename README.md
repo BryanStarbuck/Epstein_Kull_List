@@ -14,6 +14,7 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Jean-Luc Brunel](Details/Jean_Luc_Brunel.md) | Hanged in prison cell | **HIGHLY SUSPICIOUS** | Found hanged awaiting trafficking trial, like Epstein. |
 | [Mark Middleton](Details/Mark_Middleton.md) | Hanged and shot | **HIGHLY SUSPICIOUS** | Clinton aide, Epstein White House access. Records sealed. |
 | [Robert Maxwell](Details/Robert_Maxwell.md) | Fell from yacht | **SUSPICIOUS** | Ghislaine's father, alleged Mossad agent. Cause disputed. |
+| [Daniel Anderl](Details/Daniel_Anderl.md) | Shot at home | **HIGHLY SUSPICIOUS** | Judge's son killed 4 days after Epstein-Deutsche Bank assignment. Gunman had intel ties. |
 | [Arthur Shapiro](Details/Arthur_Shapiro.md) | Gunned down | **HIGHLY SUSPICIOUS** | Murdered weeks before IRS questioning. |
 | [Thomas Bowers](Details/Thomas_Bowers.md) | Hanged in home | **SUSPICIOUS** | Deutsche Bank exec who moved Epstein's money. |
 | [William Broeksmit](Details/William_Broeksmit.md) | Hanged at home | **UNCERTAIN** | Deutsche Bank senior exec. Son became FBI informant. |
@@ -63,6 +64,15 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Sgt. Terrence McAvoy](Details/Terrence_McAvoy.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
 | [Johnny Rios](Details/Johnny_Rios.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
 | [Robert Echeverria](Details/Robert_Echeverria.md) | Gunshot wound | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
+| [Ivana Trump](Details/Ivana_Trump.md) | Fell down stairs | **UNCERTAIN** | Trump's ex-wife. Found dead at bottom of staircase. #Epsteined trended. |
+| [Aivar Rehe](Details/Aivar_Rehe.md) | Found dead at home | **SUSPICIOUS** | Danske Bank exec over $230B laundering branch. Questioned as witness. |
+| [Vince Foster](Details/Vince_Foster.md) | Gunshot, ruled suicide | **SUSPICIOUS** | Clinton deputy counsel. Epstein emails reference affair with Hillary. |
+| [John Ashe](Details/John_Ashe.md) | Barbell crushed throat | **SUSPICIOUS** | UN General Assembly president. Died before corruption trial. |
+| [Gary Caradori](Details/Gary_Caradori.md) | Plane disintegrated mid-air | **HIGHLY SUSPICIOUS** | Franklin scandal investigator. Plane broke apart; briefcase missing. |
+| [Philip Haney](Details/Philip_Haney.md) | Gunshot, ruled suicide | **SUSPICIOUS** | DHS whistleblower on trafficking. Family doubts suicide. |
+| [Monica Petersen](Details/Monica_Petersen.md) | Ruled suicide in Haiti | **UNCERTAIN** | Trafficking researcher. Died in Haiti at 32. |
+| [Max Spiers](Details/Max_Spiers.md) | Drug intoxication in Poland | **UNCERTAIN** | Researching elite pedophilia ring. Told mother "investigate" if he died. |
+| [Jenny Moore](Details/Jenny_Moore.md) | Found dead in DC hotel | **UNCERTAIN** | Journalist investigating trafficking. Died weeks after FBI report. |
 | [Austin Tucker Martin](Details/Austin_Tucker_Martin.md) | Shot by Secret Service | Not suspicious | Breached Mar-a-Lago armed, fixated on Epstein files. Age 21. |
 
 ## Living Persons at Risk
@@ -74,12 +84,13 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Brice & Karen Gordon](Details/Brice_Karen_Gordon.md) | Missing since ~2020 | Zorro Ranch managers for 20 years. Vanished after Maxwell's arrest. NM commission "people of interest." |
 | [Thorbjorn Jagland](Details/Thorbjorn_Jagland.md) | Hospitalized after suicide attempt, Feb 2026 | Former Norwegian PM charged with corruption over Epstein ties. |
 | [Denise George](Details/Denise_George.md) | Fired Dec 2022; reported threats to FBI | USVI AG fired 4 days after suing JPMorgan over Epstein. Governor pressured her to drop case. |
+| [Esther Salas](Details/Esther_Salas.md) | Son murdered July 2020; survived attack | Federal judge assigned Epstein-Deutsche Bank case 4 days before gunman killed her son. Gunman had Kroll Associates intel background. |
 
 ## Patterns Worth Noting
 
 **Multiple hangings:** [Epstein](Details/Jeffrey_Epstein.md), [Brunel](Details/Jean_Luc_Brunel.md), [Bowers](Details/Thomas_Bowers.md), [William Broeksmit](Details/William_Broeksmit.md), [Middleton](Details/Mark_Middleton.md), [Chris Cornell](Details/Chris_Cornell.md), [Chester Bennington](Details/Chester_Bennington.md), [Anthony Bourdain](Details/Anthony_Bourdain.md), [Kate Spade](Details/Kate_Spade.md), [Tracy Twyman](Details/Tracy_Twyman.md), and [Deborah Jeane Palfrey](Details/Deborah_Jeane_Palfrey.md) were all found hanged. Middleton was also shot.
 
-**Deutsche Bank deaths:** [William Broeksmit](Details/William_Broeksmit.md) (senior exec, hanged 2014), [Thomas Bowers](Details/Thomas_Bowers.md) (wealth management chief, hanged 2019), and [Val Broeksmit](Details/Val_Broeksmit.md) (whistleblower/FBI informant, found dead 2022). Deutsche Bank paid $150M in fines for managing Epstein's accounts.
+**Banking executive deaths:** [William Broeksmit](Details/William_Broeksmit.md) (Deutsche Bank senior exec, hanged 2014), [Thomas Bowers](Details/Thomas_Bowers.md) (Deutsche Bank wealth management, hanged 2019), [Aivar Rehe](Details/Aivar_Rehe.md) (Danske Bank Estonia, found dead 2019), [Val Broeksmit](Details/Val_Broeksmit.md) (Deutsche Bank whistleblower, found dead 2022), and [Daniel Anderl](Details/Daniel_Anderl.md) (son of judge assigned to Epstein-Deutsche Bank case, shot 2020). Deutsche Bank paid $150M in fines for managing Epstein's accounts. Danske Bank processed $230B in suspicious transactions. The gunman who killed Anderl, Roy Den Hollander, had previously worked for Kroll Associates — a firm with direct ties to both Deutsche Bank and intelligence agencies.
 
 **2017–2018 "Silent Children" cluster:** [Chris Cornell](Details/Chris_Cornell.md) (May 2017), [Chester Bennington](Details/Chester_Bennington.md) (July 2017), [Avicii](Details/Avicii_Tim_Bergling.md) (April 2018), [Kate Spade](Details/Kate_Spade.md) (June 2018), and [Anthony Bourdain](Details/Anthony_Bourdain.md) (June 2018) — five high-profile figures all died within 13 months. Four of the five died by hanging.
 
@@ -87,7 +98,7 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 
 **Deaths after cooperation with authorities:** [Steven Hoffenberg](Details/Steven_Hoffenberg.md) died after cooperating with the FBI. [Efrain Reyes](Details/Efrain_Stone_Reyes.md) died after talking with federal investigators. [Carolyn Andriano](Details/Carolyn_Andriano.md) died two years after testifying against Maxwell.
 
-**Cluster in 2022:** Seven Epstein-connected individuals died — [Jean-Luc Brunel](Details/Jean_Luc_Brunel.md) (February), [Val Broeksmit](Details/Val_Broeksmit.md) (April), [Mark Middleton](Details/Mark_Middleton.md) (May), [Steven Hoffenberg](Details/Steven_Hoffenberg.md) (August), [Anne Heche](Details/Anne_Heche.md) (August), [Kenneth Starr](Details/Kenneth_Starr.md) (September), and [John Connolly](Details/John_Connolly.md) (January).
+**Cluster in 2022:** Eight Epstein-connected individuals died — [Jean-Luc Brunel](Details/Jean_Luc_Brunel.md) (February), [Val Broeksmit](Details/Val_Broeksmit.md) (April), [Mark Middleton](Details/Mark_Middleton.md) (May), [Ivana Trump](Details/Ivana_Trump.md) (July), [Steven Hoffenberg](Details/Steven_Hoffenberg.md) (August), [Anne Heche](Details/Anne_Heche.md) (August), [Kenneth Starr](Details/Kenneth_Starr.md) (September), and [John Connolly](Details/John_Connolly.md) (January).
 
 **2019 pre-arrest cluster:** [Isaac Kappy](Details/Isaac_Kappy.md) (May 2019), [Tracy Twyman](Details/Tracy_Twyman.md) (July 2019), and [Jeffrey Epstein](Details/Jeffrey_Epstein.md) himself (August 2019) all died within three months. Kappy and Twyman were both investigating elite pedophilia networks.
 
@@ -97,7 +108,9 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 
 **Sealed records:** Judge Alice Gray sealed all photographs and visual records of [Mark Middleton](Details/Mark_Middleton.md)'s death scene. The initial police report contradicts the later report about the shotgun's location.
 
-**Deaths before key testimony:** [Arthur Shapiro](Details/Arthur_Shapiro.md) was killed weeks before IRS questioning. [Joe Recarey](Details/Joe_Recarey.md) died a year before Epstein's re-arrest. [Berry Kessler](Details/Berry_Kessler.md) died in prison before questioning about the Shapiro murder's Epstein connection.
+**Deaths before key testimony:** [Arthur Shapiro](Details/Arthur_Shapiro.md) was killed weeks before IRS questioning. [Joe Recarey](Details/Joe_Recarey.md) died a year before Epstein's re-arrest. [Berry Kessler](Details/Berry_Kessler.md) died in prison before questioning about the Shapiro murder's Epstein connection. [John Ashe](Details/John_Ashe.md) died days before his UN corruption trial involving a Clinton Foundation donor.
+
+**Attacks on judges and officials:** [Daniel Anderl](Details/Daniel_Anderl.md) was murdered four days after his mother, Judge [Esther Salas](Details/Esther_Salas.md), was assigned the Epstein-Deutsche Bank money laundering case. The gunman, Roy Den Hollander, had worked for Kroll Associates (the "CIA of Wall Street") which had ties to both Deutsche Bank and intelligence agencies. He killed himself the next day. USVI AG [Denise George](Details/Denise_George.md) was fired four days after suing JPMorgan over Epstein and told the FBI she felt threatened. The pattern: those who threaten to expose the financial infrastructure behind Epstein are neutralized — through violence, termination, or intimidation.
 
 **Victim deaths in Palm Beach hotels:** Both [Leigh Skye Patrick](Details/Leigh_Skye_Patrick.md) (2017) and [Carolyn Andriano](Details/Carolyn_Andriano.md) (2023) died of overdoses in hotel rooms in West Palm Beach — the same area as Epstein's mansion.
 
@@ -109,7 +122,13 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 
 **European Epstein fallout (2026):** The DOJ file releases triggered a political reckoning across Europe. [Jean-Luc Brunel](Details/Jean_Luc_Brunel.md) died in a Paris prison in 2022. In February 2026, [Thorbjorn Jagland](Details/Thorbjorn_Jagland.md) (former Norwegian PM) was hospitalized after a suicide attempt following corruption charges tied to Epstein. Prince Andrew was arrested in the UK, Peter Mandelson was arrested for leaking government info to Epstein, Norwegian ambassador Mona Juul resigned, and French prosecutors formed a special team to analyze the files. [Robert Maxwell](Details/Robert_Maxwell.md) (1991), [William Broeksmit](Details/William_Broeksmit.md) (London, 2014), [Wendy Leigh](Details/Wendy_Leigh.md) (London, 2016), [Anastasia Drozdova](Details/Anastasia_Drozdova.md) (Kyiv, 2009), and [Anthony Bourdain](Details/Anthony_Bourdain.md) (France, 2018) all died in Europe.
 
-**New evidence from 2026 DOJ releases:** Surveillance logs show an unidentified orange-clad figure approaching Epstein's locked housing tier hours before his death. French prosecutors reopened the Brunel investigation. DOJ withheld pages related to accusations against President Trump.
+**Trafficking investigators/researchers who died:** [Gary Caradori](Details/Gary_Caradori.md) (Franklin scandal investigator, plane disintegrated 1990), [Danny Casolaro](Details/Danny_Casolaro.md) (PROMIS investigator, wrists slashed 1991), [Monica Petersen](Details/Monica_Petersen.md) (Haiti trafficking researcher, died 2016), [Max Spiers](Details/Max_Spiers.md) (elite pedophilia researcher, died Poland 2016), [Jenny Moore](Details/Jenny_Moore.md) (trafficking journalist, found dead DC 2018), [Isaac Kappy](Details/Isaac_Kappy.md) (named Hollywood pedophiles, fell from bridge 2019), and [Tracy Twyman](Details/Tracy_Twyman.md) (continued Kappy's research, hanged 2019). Multiple independent researchers investigating elite abuse networks have died across three decades.
+
+**Whistleblower deaths:** [Philip Haney](Details/Philip_Haney.md) (DHS trafficking whistleblower, shot 2020), [Val Broeksmit](Details/Val_Broeksmit.md) (Deutsche Bank FBI informant, found dead 2022), [Steven Hoffenberg](Details/Steven_Hoffenberg.md) (FBI cooperator, found dead 2022). Those who provided information to federal authorities about trafficking or financial networks have died at a notable rate.
+
+**Clinton network overlap:** [Vince Foster](Details/Vince_Foster.md) (deputy counsel, shot 1993 — referenced in Epstein's 2016 emails), [Mark Middleton](Details/Mark_Middleton.md) (aide who gave Epstein White House access, hanged/shot 2022), [Steve Bing](Details/Steve_Bing.md) (Clinton donor in Epstein files, fell 2020), [John Ashe](Details/John_Ashe.md) (UN president in Clinton donor corruption case, barbell death 2016), and [Bill Richardson](Details/Bill_Richardson.md) (governor named in Epstein docs, died in sleep 2023). Bill Clinton flew on Epstein's jet 26+ times.
+
+**New evidence from 2026 DOJ releases:** Surveillance logs show an unidentified orange-clad figure approaching Epstein's locked housing tier hours before his death. French prosecutors reopened the Brunel investigation. DOJ withheld pages related to accusations against President Trump. Epstein emails to Michael Wolff reference a Clinton-[Vince Foster](Details/Vince_Foster.md) affair.
 
 ## Detailed Research
 

@@ -5,8 +5,12 @@ Grow these files to match this criteria.
 
 
 enable web search
-  Search if there were any other suspicious dealths in the Carribean related to
-  Jeffrey Epstein or anyone or anything related.
+  Find a list of books about Jeffrey Epstein or anything perifferal (adjacent) about it. Save it in ./Notes.md
+  Then...
+  
+  Search if there were any other suspicious deaths talked about in that list of books related to
+  Jeffrey Epstein or anyone or anything related.  Include any theories of who MAY have been
+  murdered even if it hasn't been proven yet. 
 
   Add them to the table in README.md. And add a file in Details for each person added.
   Update any links between people.
