@@ -18,7 +18,7 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Thomas Bowers](Details/Thomas_Bowers.md) | Hanged in home | **SUSPICIOUS** | Deutsche Bank exec who moved Epstein's money. |
 | [William Broeksmit](Details/William_Broeksmit.md) | Hanged at home | **UNCERTAIN** | Deutsche Bank senior exec. Son became FBI informant. |
 | [Val Broeksmit](Details/Val_Broeksmit.md) | Blunt-force trauma | **UNCERTAIN** | Deutsche Bank whistleblower. Found dead on LA campus. |
-| [Steven Hoffenberg](Details/Steven_Hoffenberg.md) | Found dead in apartment | **SUSPICIOUS** | FBI cooperator. Exposed blackmail op. Dead 7+ days. |
+| [Steven Hoffenberg](Details/Steven_Hoffenberg.md) | Found dead in apartment | **SUSPICIOUS** | FBI cooperator who exposed blackmail op. Found dead 7+ days later. |
 | [Virginia Giuffre](Details/Virginia_Giuffre.md) | Suicide | **SUSPICIOUS** | Top Epstein accuser. Posted "not suicidal." |
 | [Ruslana Korshunova](Details/Ruslana_Korshunova.md) | Fell from 9th floor | **SUSPICIOUS** | On Epstein's jet at 18. Mother rejects suicide. |
 | [Isaac Kappy](Details/Isaac_Kappy.md) | Fell from bridge | **SUSPICIOUS** | Named Hollywood pedophiles. Said "if I die, wasn't suicide." |
@@ -29,8 +29,8 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Joe Recarey](Details/Joe_Recarey.md) | Brief illness | **MODERATE SUSPICION** | Lead Epstein detective. Died unexpectedly at 50. |
 | [Danny Casolaro](Details/Danny_Casolaro.md) | Wrists slashed in hotel | **HIGHLY SUSPICIOUS** | Investigating PROMIS/Maxwell intel op. Briefcase missing. |
 | [John Deroo](Details/John_Deroo.md) | Shot six times in face | **HIGHLY SUSPICIOUS** | Kessler's partner. $500K insurance policy taken on him. |
-| [Frank Yassenoff](Details/Frank_Yassenoff.md) | Shot to death | **SUSPICIOUS** | Kessler's Columbus partner. Killed with fiancee. Unsolved. |
-| [Ella Rich](Details/Ella_Rich.md) | Shot to death | **SUSPICIOUS** | Yassenoff's fiancee. Killed alongside him. Unsolved. |
+| [Frank Yassenoff](Details/Frank_Yassenoff.md) | Shot to death | **SUSPICIOUS** | Kessler's Columbus partner, killed with fiancee. Unsolved. |
+| [Ella Rich](Details/Ella_Rich.md) | Shot to death | **SUSPICIOUS** | Yassenoff's fiancee, killed alongside him. Unsolved. |
 | [Marjorie Dyer](Details/Marjorie_Dyer.md) | Car accident | **SUSPICIOUS** | Co-signed Yassenoff's will with Kessler. |
 | [Wendy Leigh](Details/Wendy_Leigh.md) | Found beneath balcony | **UNCERTAIN** | Investigating Epstein. Ex-husband rejects suicide. |
 | [Leigh Skye Patrick](Details/Leigh_Skye_Patrick.md) | Heroin overdose | Likely trauma-related | Lured to Epstein's mansion at 16. |
@@ -53,9 +53,10 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Anne Heche](Details/Anne_Heche.md) | Car crash | **UNCERTAIN** | Promoting trafficking film before fiery crash. |
 | [Paul Walker](Details/Paul_Walker.md) | Car crash | **UNCERTAIN** | Alleged trafficking discovery during Haiti relief. |
 | [Vitaly Churkin](Details/Vitaly_Churkin.md) | Sudden cardiac event | **UNCERTAIN** | Russian UN Ambassador. Cause withheld by State Dept. |
-| [Two Unnamed Foreign Women](Details/Zorro_Ranch_Unnamed_Victims.md) | Allegedly strangled | Unverified | 2026 DOJ email. Bodies near Zorro Ranch. Unverified. |
-| [Deputy Chief Steven Silks](Details/Steven_Silks.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. First of 4 in 22 days. |
-| [Det. Joseph Calabrese](Details/Joseph_Calabrese.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. Day after Silks. |
+| [Deborah Jeane Palfrey](Details/Deborah_Jeane_Palfrey.md) | Hanged in Florida | **UNCERTAIN** | "DC Madam" who said she'd never hang herself. Found hanged 16 days after conviction. |
+| [Two Unnamed Foreign Women](Details/Zorro_Ranch_Unnamed_Victims.md) | Allegedly strangled | Unverified | 2026 DOJ email alleging bodies near Zorro Ranch. Unverified. |
+| [Deputy Chief Steven Silks](Details/Steven_Silks.md) | Suicide | **SUSPICIOUS** | NYPD officer who allegedly viewed Weiner laptop. First of 4 in 22 days. |
+| [Det. Joseph Calabrese](Details/Joseph_Calabrese.md) | Suicide | **SUSPICIOUS** | NYPD detective who allegedly viewed Weiner laptop. Died day after Silks. |
 | [Officer Michael Caddy](Details/Michael_Caddy.md) | Suicide | **SUSPICIOUS** | NYPD, age 29. Allegedly viewed Weiner laptop. |
 | [Officer Kevin Preiss](Details/Kevin_Preiss.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
 | [Sgt. Terrence McAvoy](Details/Terrence_McAvoy.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
@@ -68,10 +69,11 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 |------|--------|---------|
 | [Ghislaine Maxwell](Details/Ghislaine_Maxwell.md) | Serving 20 years at FPC Bryan, Texas | Only convicted co-conspirator alive. Brother says "not suicidal." |
 | [Nadia Marcinko](Details/Nadia_Marcinko.md) | Missing since January 2024 | Epstein's pilot, granted immunity in 2008. Vanished after files unsealed. |
+| [Brice & Karen Gordon](Details/Brice_Karen_Gordon.md) | Missing since ~2020 | Zorro Ranch managers for 20 years. Vanished after Maxwell's arrest. NM commission "people of interest." |
 
 ## Patterns Worth Noting
 
-**Multiple hangings:** [Epstein](Details/Jeffrey_Epstein.md), [Brunel](Details/Jean_Luc_Brunel.md), [Bowers](Details/Thomas_Bowers.md), [William Broeksmit](Details/William_Broeksmit.md), [Middleton](Details/Mark_Middleton.md), [Chris Cornell](Details/Chris_Cornell.md), [Chester Bennington](Details/Chester_Bennington.md), [Anthony Bourdain](Details/Anthony_Bourdain.md), [Kate Spade](Details/Kate_Spade.md), and [Tracy Twyman](Details/Tracy_Twyman.md) were all found hanged. Middleton was also shot.
+**Multiple hangings:** [Epstein](Details/Jeffrey_Epstein.md), [Brunel](Details/Jean_Luc_Brunel.md), [Bowers](Details/Thomas_Bowers.md), [William Broeksmit](Details/William_Broeksmit.md), [Middleton](Details/Mark_Middleton.md), [Chris Cornell](Details/Chris_Cornell.md), [Chester Bennington](Details/Chester_Bennington.md), [Anthony Bourdain](Details/Anthony_Bourdain.md), [Kate Spade](Details/Kate_Spade.md), [Tracy Twyman](Details/Tracy_Twyman.md), and [Deborah Jeane Palfrey](Details/Deborah_Jeane_Palfrey.md) were all found hanged. Middleton was also shot.
 
 **Deutsche Bank deaths:** [William Broeksmit](Details/William_Broeksmit.md) (senior exec, hanged 2014), [Thomas Bowers](Details/Thomas_Bowers.md) (wealth management chief, hanged 2019), and [Val Broeksmit](Details/Val_Broeksmit.md) (whistleblower/FBI informant, found dead 2022). Deutsche Bank paid $150M in fines for managing Epstein's accounts.
 
@@ -94,6 +96,10 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 **Deaths before key testimony:** [Arthur Shapiro](Details/Arthur_Shapiro.md) was killed weeks before IRS questioning. [Joe Recarey](Details/Joe_Recarey.md) died a year before Epstein's re-arrest. [Berry Kessler](Details/Berry_Kessler.md) died in prison before questioning about the Shapiro murder's Epstein connection.
 
 **Victim deaths in Palm Beach hotels:** Both [Leigh Skye Patrick](Details/Leigh_Skye_Patrick.md) (2017) and [Carolyn Andriano](Details/Carolyn_Andriano.md) (2023) died of overdoses in hotel rooms in West Palm Beach — the same area as Epstein's mansion.
+
+**Florida concentration:** Six Epstein-connected deaths occurred in Florida: [Leigh Skye Patrick](Details/Leigh_Skye_Patrick.md) (West Palm Beach), [Carolyn Andriano](Details/Carolyn_Andriano.md) (West Palm Beach), [Joe Recarey](Details/Joe_Recarey.md) (Palm Beach), [Roy Black](Details/Roy_Black.md) (Coral Gables), [Ronald Eppinger](Details/Ronald_Eppinger.md) (Miami), and [Deborah Jeane Palfrey](Details/Deborah_Jeane_Palfrey.md) (Tarpon Springs). Florida was the epicenter of Epstein's crimes and the original 2005–2008 investigation.
+
+**New Mexico / Zorro Ranch:** Epstein's 7,560-acre [Zorro Ranch](Details/Zorro_Ranch_Unnamed_Victims.md) near Stanley, NM is the only Epstein property never raided by the FBI. An anonymous former employee alleged [two foreign girls](Details/Zorro_Ranch_Unnamed_Victims.md) were buried in the surrounding hills. An FBI report noted a barn with a chimney and "sally port" that could conceal an incinerator. Ranch managers [Brice and Karen Gordon](Details/Brice_Karen_Gordon.md) vanished after Maxwell's arrest. Governor [Bill Richardson](Details/Bill_Richardson.md) met with Epstein 9+ times after his conviction and had his name removed from a children's hospital in 2026. Four victims testified under oath to abuse at the ranch. In February 2026, the NM Attorney General reopened the criminal investigation and the state legislature unanimously created a "truth commission" with subpoena power and a $2M budget.
 
 **New evidence from 2026 DOJ releases:** Surveillance logs show an unidentified orange-clad figure approaching Epstein's locked housing tier hours before his death. French prosecutors reopened the Brunel investigation. DOJ withheld pages related to accusations against President Trump.
 

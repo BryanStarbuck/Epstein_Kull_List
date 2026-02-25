@@ -5,7 +5,7 @@ Grow these files to match this criteria.
 
 
 enable web search
-  Search if there were any other suspicious dealths in the Florida related to
+  Search if there were any other suspicious dealths in law enforcement related to
   Jeffrey Epstein or anyone or anything related.
 
   Add them to the table in README.md. And add a file in Details for each person added.

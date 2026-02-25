@@ -14,6 +14,7 @@ A geographic breakdown of deaths connected to Jeffrey Epstein, organized by loca
 | Palm Beach, FL | USA | 1 | [Joe Recarey](Details/Joe_Recarey.md) |
 | Coral Gables, FL | USA | 1 | [Roy Black](Details/Roy_Black.md) |
 | Miami, FL | USA | 1 | [Ronald R. Eppinger Sr.](Details/Ronald_Eppinger.md) |
+| Tarpon Springs, FL | USA | 1 | [Deborah Jeane Palfrey](Details/Deborah_Jeane_Palfrey.md) |
 | Los Angeles, CA | USA | 4 | [Steve Bing](Details/Steve_Bing.md), [Michael Jackson](Details/Michael_Jackson.md), [Anne Heche](Details/Anne_Heche.md), [Val Broeksmit](Details/Val_Broeksmit.md) |
 | Malibu, CA | USA | 1 | [Thomas Bowers](Details/Thomas_Bowers.md) |
 | Palos Verdes Estates, CA | USA | 1 | [Chester Bennington](Details/Chester_Bennington.md) |
@@ -70,6 +71,10 @@ Epstein's Palm Beach mansion was a primary location for alleged trafficking. The
 
 - **[Ronald R. Eppinger Sr.](Details/Ronald_Eppinger.md)** (2006, age 80) — Unknown. Allegedly first to traffic Virginia Giuffre to Epstein. Cause of death not documented.
 
+### Tarpon Springs, Florida
+
+- **[Deborah Jeane Palfrey](Details/Deborah_Jeane_Palfrey.md)** (2008, age 52) — **UNCERTAIN.** The "DC Madam" who operated an elite escort service with 10,000–15,000 client phone numbers including senators, Pentagon officials, and FBI employees. Found hanged in a storage shed at her mother's home. Had previously said she'd "never want my life to end in suicide" and specifically referenced never hanging herself. Not directly Epstein-connected, but ran a parallel elite sex operation targeting Washington power brokers.
+
 ### Los Angeles, California
 
 - **[Steve Bing](Details/Steve_Bing.md)** (2020, age 55) — **MODERATE SUSPICION.** Fell from 27th floor. Major Clinton donor named in 2026 Epstein files. Had documented depression.
@@ -111,13 +116,16 @@ Epstein's Palm Beach mansion was a primary location for alleged trafficking. The
 
 ### New Mexico
 
-- **[Bill Richardson](Details/Bill_Richardson.md)** (2023, age 75) — Likely old age. Former governor who died in his sleep. Named in Epstein documents. Governed the state where Zorro Ranch is located.
+New Mexico was central to Epstein's operations outside the East Coast. His 7,560-acre Zorro Ranch near Stanley was one of his primary properties, and Governor Bill Richardson met with Epstein 9+ times after his 2008 conviction. The ranch is the only Epstein property never raided by the FBI. In February 2026, the NM Attorney General reopened the criminal investigation and the state created a "truth commission" with subpoena power and a $2M budget.
+
+- **[Bill Richardson](Details/Bill_Richardson.md)** (2023, age 75) — Likely old age. Former governor who died in his sleep. Met with Epstein 9+ times after conviction. Flight logs show he traveled with Epstein and three victims. Name removed from UNMH children's hospital tower in 2026.
 
 ### Zorro Ranch, New Mexico
 
-Epstein's 7,500-acre ranch near Stanley, New Mexico. Allegations from released DOJ files claim bodies may be buried on the property.
+Epstein's 7,560-acre ranch near Stanley, New Mexico. Under active criminal investigation by NM Attorney General and truth commission as of February 2026. Four victims testified under oath to sexual abuse at the property. An FBI report noted a barn with a chimney and "sally port" that could conceal an incinerator. The ranch was never searched by the FBI.
 
-- **[Two Unnamed Foreign Women](Details/Zorro_Ranch_Unnamed_Victims.md)** (year unknown) — Unverified. 2026 DOJ files contain an email claiming two foreign women were strangled and buried near the ranch. No bodies found. Completely unverified.
+- **[Two Unnamed Foreign Women](Details/Zorro_Ranch_Unnamed_Victims.md)** (year unknown) — Under investigation. Anonymous former employee alleged two foreign girls were strangled and buried in the hills near the ranch. NM AG and truth commission investigating.
+- **[Brice & Karen Gordon](Details/Brice_Karen_Gordon.md)** (Missing since ~2020) — Zorro Ranch managers for 20 years. Vanished after Maxwell's arrest. NM truth commission considers them "people of interest" with subpoena power to compel testimony.
 
 ### Georgia (federal prison)
 
