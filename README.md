@@ -50,6 +50,7 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Avicii (Tim Bergling)](Details/Avicii_Tim_Bergling.md) | Self-inflicted wounds | **SUSPICIOUS** | Worked on trafficking documentary. Died at 28. |
 | [Anthony Bourdain](Details/Anthony_Bourdain.md) | Hanging, ruled suicide | **SUSPICIOUS** | Vocal against abusers. Hanged in France, no warning. |
 | [Kate Spade](Details/Kate_Spade.md) | Hanging, ruled suicide | **UNCERTAIN** | Hanged three days before Bourdain. No Epstein link. |
+| [Trevor Moore](Details/Trevor_Moore.md) | Fell from balcony | **UNCERTAIN** | Comedian satirized Epstein "kill switch" theory. BAC 0.27. |
 | [Anne Heche](Details/Anne_Heche.md) | Car crash | **UNCERTAIN** | Promoting trafficking film before fiery crash. |
 | [Paul Walker](Details/Paul_Walker.md) | Car crash | **UNCERTAIN** | Alleged trafficking discovery during Haiti relief. |
 | [Vitaly Churkin](Details/Vitaly_Churkin.md) | Sudden cardiac event | **UNCERTAIN** | Russian UN Ambassador. Cause withheld by State Dept. |
