@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Steven Hoffenberg
 Epstein business partner who confessed about blackmail operation, found dead after FBI cooperation.
 
@@ -28,13 +30,13 @@ Police were called to conduct a welfare check at the request of a private invest
 
 Hoffenberg was the founder, CEO, president, and chairman of Towers Financial Corporation, a bill collection company. He ran a Ponzi scheme between 1988 and 1993 that swindled thousands of investors out of $460-475 million — one of the largest frauds in the United States at the time. He pleaded guilty in 1995, was sentenced in 1997 to 20 years in federal prison, and served 18 years before being released in 2013.
 
-Jeffrey Epstein worked for Hoffenberg's company Towers Financial Corp in the late 1980s when the Ponzi scheme was underway. Hoffenberg described Epstein as "the smartest person he knew when it came to money" and claimed Epstein was actually the architect of the Ponzi scheme. Epstein was never charged in the Towers Financial fraud.
+[Jeffrey Epstein](Jeffrey_Epstein.md) worked for Hoffenberg's company Towers Financial Corp in the late 1980s when the Ponzi scheme was underway. Hoffenberg described Epstein as "the smartest person he knew when it came to money" and claimed Epstein was actually the architect of the Ponzi scheme. Epstein was never charged in the Towers Financial fraud.
 
 Hoffenberg once tried to buy the New York Post. He briefly took over the paper in 1993, funded it for three months, and rescued it from bankruptcy. His bid to own the paper was derailed by SEC civil fraud allegations, which led to the criminal prosecution of his Ponzi case.
 
 ## Key Claims Before Death
 
-- Hoffenberg confessed to the National Enquirer that Epstein and Ghislaine Maxwell were taping "honey-trap" videos of VIPs with underage girls for a blackmail operation.
+- Hoffenberg confessed to the National Enquirer that Epstein and [Ghislaine Maxwell](Ghislaine_Maxwell.md) were taping "honey-trap" videos of VIPs with underage girls for a blackmail operation.
 - He cooperated with the FBI about Epstein.
 - He spoke publicly about Epstein's alleged connections to Mossad (Israeli intelligence), a claim corroborated by former Israeli intelligence officer Ari Ben-Menashe, who said Epstein and Maxwell ran a Mossad "honeytrap" operation.
 
@@ -46,6 +48,16 @@ Hoffenberg once tried to buy the New York Post. He briefly took over the paper i
 - He had direct insider knowledge of Epstein's early financial operations dating back to the 1980s.
 - His death in 2022 coincided with renewed investigations into Epstein's network.
 - His friend and lawyer Gary Baise noted Hoffenberg did not appear to be taking good care of himself, and he was living in a small apartment far removed from his former wealth.
+
+## See Also — 2022 Death Cluster
+
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md) — February 2022 (hanging in prison)
+- [Mark Middleton](Mark_Middleton.md) — May 2022 (hanging + shotgun)
+- [Anne Heche](Anne_Heche.md) — August 2022 (car crash)
+- [Kenneth Starr](Kenneth_Starr.md) — September 2022 (surgical complications)
+- [John Connolly](John_Connolly.md) — January 2022 (natural causes)
+
+See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_Maxwell.md)
 
 ## Sources
 

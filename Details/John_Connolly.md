@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # John Connolly
 Journalist who co-authored Filthy Rich exposing Epstein, died at 78 of natural illness.
 
@@ -14,7 +16,7 @@ Journalist who co-authored Filthy Rich exposing Epstein, died at 78 of natural i
 
 ## Assessment: LOW SUSPICION — LIKELY OLD AGE
 
-Connolly was 78 years old and died after a brief illness. While he possessed extensive knowledge about the Epstein case from his investigative work and co-authored one of the key books, his age and the confirmed natural illness make this most likely a death from old age.
+Connolly was 78 years old and died after a brief illness. While he possessed extensive knowledge about the [Epstein](Jeffrey_Epstein.md) case from his investigative work and co-authored one of the key books, his age and the confirmed natural illness make this most likely a death from old age.
 
 ## Circumstances of Death
 
@@ -33,6 +35,10 @@ He co-authored *Filthy Rich: A Powerful Billionaire, the Sex Scandal that Undid 
 - His death in January 2022 came during a period of renewed investigation into the Epstein network.
 - He had decades of accumulated knowledge about the case through his investigative work and law enforcement background.
 - However, he was 78 years old and his death was confirmed as natural after a brief illness.
+
+## See Also
+
+- [Jeffrey Epstein](Jeffrey_Epstein.md)
 
 ## Sources
 

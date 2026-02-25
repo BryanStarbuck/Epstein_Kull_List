@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Anastasia Drozdova
 Model linked to Korshunova through cult psych sessions, died identically by fall one year later.
 
@@ -22,7 +24,7 @@ Anastasia Drozdova, a Ukrainian model, died in 2009 after jumping from an apartm
 
 ## Connection to Ruslana Korshunova
 
-Drozdova was a friend of Ruslana Korshunova, who herself died by falling from a 9th-floor balcony in New York in June 2008 — two years after visiting Jeffrey Epstein's private island. Both women attended approximately three months of intensive training sessions with a Moscow-based organization called **Rose of the World**.
+Drozdova was a friend of [Ruslana Korshunova](Ruslana_Korshunova.md), who herself died by falling from a 9th-floor balcony in New York in June 2008 — two years after visiting [Jeffrey Epstein](Jeffrey_Epstein.md)'s private island. Both women attended approximately three months of intensive training sessions with a Moscow-based organization called **Rose of the World**.
 
 Witnesses reported that both women underwent significant personality changes after attending these sessions:
 - Korshunova became aggressive and began swearing for the first time
@@ -35,7 +37,7 @@ The Rose of the World describes itself as "training for personality development"
 
 Drozdova's direct connection to Epstein is not documented in flight logs or court filings. Her inclusion in this database is based on her close friendship with Korshunova (who is documented on Epstein's jet) and the parallel manner of their deaths.
 
-The broader modeling industry pipeline to Epstein is well-documented through Jean-Luc Brunel's MC2 Model Management, which Epstein funded. Whether Drozdova had any contact with this pipeline is unknown.
+The broader modeling industry pipeline to Epstein is well-documented through [Jean-Luc Brunel](Jean_Luc_Brunel.md)'s MC2 Model Management, which Epstein funded. Whether Drozdova had any contact with this pipeline is unknown.
 
 ## Why This Death Possibly Raises Questions
 
@@ -44,6 +46,12 @@ The broader modeling industry pipeline to Epstein is well-documented through Jea
 - Her friend Korshunova was documented on Epstein's private jet traveling to his island.
 - The pattern of two nearly identical deaths in the same social circle is unusual.
 - However, the Rose of the World cult connection provides an alternative explanation for the psychological distress that may have led to both deaths.
+
+## See Also
+
+- [Ruslana Korshunova](Ruslana_Korshunova.md) — Friend who died one year earlier in identical fashion
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Ran Epstein's modeling pipeline through MC2
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Korshunova was documented on his jet
 
 ## Sources
 

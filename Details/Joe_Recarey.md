@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Joe Recarey
 Lead Epstein detective with 150+ commendations, died unexpectedly at 50 of brief illness.
 
@@ -22,7 +24,7 @@ Joe Recarey died unexpectedly on May 25, 2018, reportedly from complications rel
 
 ## Background
 
-Recarey was a detective with the Palm Beach Police Department. He was the lead detective in the 2005-2008 investigation into Jeffrey Epstein's abuse of minors. He was a highly decorated officer with more than 150 commendations during his career.
+Recarey was a detective with the Palm Beach Police Department. He was the lead detective in the 2005-2008 investigation into [Jeffrey Epstein](Jeffrey_Epstein.md)'s abuse of minors. He was a highly decorated officer with more than 150 commendations during his career.
 
 Recarey was credited with uncovering Epstein's "massage" network, which involved girls as young as 14. He pushed officials aggressively for justice and was reportedly frustrated when Epstein received the lenient 2008 plea deal despite the extensive evidence of abuse that Recarey's investigation had uncovered.
 
@@ -33,6 +35,13 @@ Recarey was credited with uncovering Epstein's "massage" network, which involved
 - His death in May 2018 came just over a year before Epstein's July 2019 re-arrest on federal charges — an arrest that was partly built on evidence from Recarey's original investigation.
 - His death sparked immediate online speculation about being silenced, though his family confirmed it was from natural causes.
 - As the lead detective, he had extensive direct knowledge of the evidence, witness statements, and the scope of Epstein's operation.
+
+## See Also
+
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Subject of Recarey's investigation
+- [Alfredo Rodriguez](Alfredo_Rodriguez.md) — Also involved in Palm Beach investigation
+- [Leigh Skye Patrick](Leigh_Skye_Patrick.md) — Victim from Palm Beach mansion
+- [Kenneth Starr](Kenneth_Starr.md) — Helped Epstein get 2008 plea deal
 
 ## Sources
 

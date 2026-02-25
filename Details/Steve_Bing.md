@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Steve Bing
 Major Clinton donor named in Epstein files, fell from 27th floor with documented depression.
 
@@ -14,7 +16,7 @@ Major Clinton donor named in Epstein files, fell from 27th floor with documented
 
 ## Assessment: MODERATE SUSPICION
 
-Bing had connections to both Epstein and the Clinton orbit, and his name appeared in Epstein files released in 2026. While he suffered from documented depression, drug use, and financial decline, the timing of his death during the post-Epstein investigation period, combined with his connections, has drawn attention. The claim that he "talked to the FBI" about Epstein is not verified by any mainstream source.
+Bing had connections to both [Epstein](Jeffrey_Epstein.md) and the Clinton orbit, and his name appeared in Epstein files released in 2026. While he suffered from documented depression, drug use, and financial decline, the timing of his death during the post-Epstein investigation period, combined with his connections, has drawn attention. The claim that he "talked to the FBI" about Epstein is not verified by any mainstream source.
 
 ## Circumstances of Death
 
@@ -39,7 +41,7 @@ By the time of his death, his liquid estate had reportedly dwindled from $600 mi
 ## Epstein Connection
 
 - Bing and Epstein moved in overlapping social circles. LA Magazine confirmed he "briefly socialized" with Epstein.
-- In Epstein files released in late January 2026, emails surfaced showing Doug Band (former Clinton aide) wrote to Ghislaine Maxwell saying he was going to spend time with Steve Bing. Maxwell responded she would "go home alone and pout."
+- In Epstein files released in late January 2026, emails surfaced showing Doug Band (former Clinton aide) wrote to [Ghislaine Maxwell](Ghislaine_Maxwell.md) saying he was going to spend time with Steve Bing. Maxwell responded she would "go home alone and pout."
 - Bing does **not** appear in released Lolita Express flight logs.
 - Bing is **not** confirmed in Epstein's black book.
 - Bing is **not** confirmed to have visited Epstein's island or Palm Beach estate.
@@ -61,6 +63,14 @@ By the time of his death, his liquid estate had reportedly dwindled from $600 mi
 - His death occurred during the 2019-2020 period when multiple Epstein-connected individuals died.
 - His trust named the Clinton Foundation as sole beneficiary — he may have known details about Clinton-Epstein interactions.
 - However, he had well-documented depression, drug problems, financial collapse, and personal turmoil. Multiple friends confirmed his deteriorating mental state.
+
+## See Also
+
+- [Jeffrey Epstein](Jeffrey_Epstein.md)
+- [Ghislaine Maxwell](Ghislaine_Maxwell.md)
+- [Ruslana Korshunova](Ruslana_Korshunova.md) — Also died from building fall
+- [Wendy Leigh](Wendy_Leigh.md) — Also fell from building
+- [Mark Middleton](Mark_Middleton.md) — Also Clinton associate
 
 ## Sources
 

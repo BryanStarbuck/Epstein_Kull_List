@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Virginia Giuffre
 Most prominent Epstein accuser who said she was 'not suicidal,' died by suicide in Australia.
 
@@ -22,9 +24,9 @@ Virginia Giuffre was found dead on her farm in Neergabby, Western Australia. Wes
 
 ## Background
 
-Virginia Giuffre was raised primarily in Florida and had a troubled childhood. She was abused by a family friend and lived on the streets as a teenager. She met Ghislaine Maxwell while attempting to rebuild her life. Maxwell groomed her to be sexually abused by Epstein from 1999 to 2002.
+Virginia Giuffre was raised primarily in Florida and had a troubled childhood. She was abused by a family friend and lived on the streets as a teenager. She met [Ghislaine Maxwell](Ghislaine_Maxwell.md) while attempting to rebuild her life. Maxwell groomed her to be sexually abused by Epstein from 1999 to 2002.
 
-Giuffre alleged that Epstein trafficked her to powerful associates including Prince Andrew, Jean-Luc Brunel, and others. She filed a federal lawsuit against Prince Andrew in 2021 alleging sexual abuse when she was 17. Andrew settled for an undisclosed amount in February 2022 while denying the allegations.
+Giuffre alleged that [Epstein](Jeffrey_Epstein.md) trafficked her to powerful associates including Prince Andrew, [Jean-Luc Brunel](Jean_Luc_Brunel.md), and others. She filed a federal lawsuit against Prince Andrew in 2021 alleging sexual abuse when she was 17. Andrew settled for an undisclosed amount in February 2022 while denying the allegations.
 
 Giuffre provided critical testimony and information to law enforcement that contributed to the investigation and conviction of Ghislaine Maxwell. She testified against Jean-Luc Brunel in a Paris courtroom in June 2021. She was one of the earliest and loudest voices calling for criminal charges, and other survivors credited her with giving them the courage to speak out.
 
@@ -46,7 +48,9 @@ Giuffre had publicly posted that she was *"in no way, shape or form"* suicidal a
 
 ## Personal Struggles
 
-Her brother Danny Wilson said she was in "real physical pain" from renal failure and that her "mental pain was worse." She had been prevented from seeing her children for months before her death. She moved to Australia with her husband before Epstein's 2019 arrest and had three children.
+Her brother Danny Wilson said she was in "real physical pain" from renal failure and that her "mental pain was worse." She moved to Australia with her husband Robert Giuffre before Epstein's 2019 arrest and had three children.
+
+In April 2025, Giuffre publicly stated that her husband had physically abused her for many years. Robert was allegedly violent again in January 2025 at a family birthday celebration. Robert accused Virginia of breaching a family violence restraining order in February 2025 and a court hearing was set. She was prevented from seeing her children for several months before her death and was undergoing a divorce and custody battle at the time she died.
 
 ## Family Statement
 
@@ -54,7 +58,19 @@ Her brother Danny Wilson said she was in "real physical pain" from renal failure
 
 ## Legacy
 
-Her posthumous memoir, *Nobody's Girl: A Memoir of Surviving Abuse and Fighting for Justice*, was published on October 21, 2025. She died without a valid will. Her estate was worth approximately $311,000. She had received settlement payouts from 2010-2023 including $12 million from Epstein-related cases.
+Her posthumous memoir, *Nobody's Girl: A Memoir of Surviving Abuse and Fighting for Justice*, was published on October 21, 2025. She died without a valid will. Her estate was worth approximately $311,000. She had received settlement payouts from 2010–2023 including $12 million from Epstein-related cases.
+
+In February 2026, newly released Epstein files shed additional light on her case and the circumstances surrounding her death, renewing public scrutiny of the Epstein network's impact on survivors.
+
+## See Also
+
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Primary abuser
+- [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Groomer and co-conspirator
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Testified against him in Paris
+- [Ronald R. Eppinger Sr.](Ronald_Eppinger.md) — Allegedly first to traffic Giuffre to Epstein
+- [Carolyn Andriano](Carolyn_Andriano.md) — Fellow victim who testified at Maxwell trial
+- [Leigh Skye Patrick](Leigh_Skye_Patrick.md) — Fellow victim who died of overdose
+- [Ruslana Korshunova](Ruslana_Korshunova.md) — Model documented on Epstein's jet
 
 ## Sources
 

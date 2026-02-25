@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Jean-Luc Brunel
 Epstein's modeling agent found hanged in Paris prison cell while awaiting trafficking trial.
 
@@ -14,7 +16,7 @@ Epstein's modeling agent found hanged in Paris prison cell while awaiting traffi
 
 ## Assessment: HIGHLY SUSPICIOUS
 
-Brunel was found hanged in his prison cell — the same manner of death as Jeffrey Epstein — while awaiting trial for trafficking girls to Epstein. He was one of the few people who could have named the clients and co-conspirators in Epstein's network. His lawyers formally demanded a probe into the circumstances of his suicide. French prosecutors reopened the investigation in February 2026.
+Brunel was found hanged in his prison cell — the same manner of death as [Jeffrey Epstein](Jeffrey_Epstein.md) — while awaiting trial for trafficking girls to Epstein. He was one of the few people who could have named the clients and co-conspirators in Epstein's network. His lawyers formally demanded a probe into the circumstances of his suicide. French prosecutors reopened the investigation in February 2026.
 
 ### Update: February 2026
 
@@ -30,7 +32,7 @@ Brunel was a French modeling agent and scout. He co-founded Karin Models in 1977
 
 Brunel was detained in December 2020 at Paris Charles de Gaulle airport while attempting to board a flight to Senegal. He faced charges of rape of minors over age 15, sexual harassment, and trafficking minors for sexual exploitation. US court documents alleged he procured girls for Epstein.
 
-Virginia Giuffre alleged she was forced into sexual encounters with Brunel. She testified against him in a Paris courtroom in June 2021. Dutch model Thysia Huisman alleged Brunel drugged and raped her when she was 18.
+[Virginia Giuffre](Virginia_Giuffre.md) alleged she was forced into sexual encounters with Brunel. She testified against him in a Paris courtroom in June 2021. Dutch model Thysia Huisman alleged Brunel drugged and raped her when she was 18.
 
 ## Why This Death Possibly Raises Questions
 
@@ -39,6 +41,16 @@ Virginia Giuffre alleged she was forced into sexual encounters with Brunel. She 
 - His lawyers stated Brunel had been "crushed" by the allegations and blamed a "media-judicial system," but in 2024, Brunel's lawyers formally demanded a probe into the circumstances of his suicide.
 - Victims expressed frustration that they would never have their day in court after his death.
 - Brunel denied all wrongdoing throughout the proceedings.
+
+## See Also
+
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Found hanged in same manner
+- [Thomas Bowers](Thomas_Bowers.md) — Also found hanged, same method
+- [Mark Middleton](Mark_Middleton.md) — Also found hanged
+- [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Co-conspirator, still alive
+- [Virginia Giuffre](Virginia_Giuffre.md) — Testified against Brunel in Paris
+- [Ruslana Korshunova](Ruslana_Korshunova.md) — Model connected to Epstein's modeling pipeline
+- [Anastasia Drozdova](Anastasia_Drozdova.md) — Model connected to same network
 
 ## Sources
 

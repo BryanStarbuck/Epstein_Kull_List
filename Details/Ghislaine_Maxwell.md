@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Ghislaine Maxwell (Living — At Risk)
 Only convicted Epstein co-conspirator still alive, serving 20 years with multiple documented threats.
 
@@ -49,7 +51,16 @@ AG Pam Bondi testified to Congress on February 11, 2026, that she did not know M
 
 ## Why Maxwell Matters to This List
 
-Ghislaine Maxwell is the only convicted Epstein co-conspirator still alive. Given the pattern of deaths documented in this database — particularly the deaths of Jeffrey Epstein and Jean-Luc Brunel, both found hanged in their prison cells while awaiting proceedings — her continued safety is a matter of significant public concern. She potentially possesses more knowledge about the Epstein network than any other living person.
+Ghislaine Maxwell is the only convicted Epstein co-conspirator still alive. Given the pattern of deaths documented in this database — particularly the deaths of [Jeffrey Epstein](Jeffrey_Epstein.md) and [Jean-Luc Brunel](Jean_Luc_Brunel.md), both found hanged in their prison cells while awaiting proceedings — her continued safety is a matter of significant public concern. She potentially possesses more knowledge about the Epstein network than any other living person.
+
+## See Also
+
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Found hanged in prison
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Found hanged in prison, same pattern
+- [Virginia Giuffre](Virginia_Giuffre.md) — Most prominent accuser, died 2025
+- [Carolyn Andriano](Carolyn_Andriano.md) — Testified against Maxwell at trial
+- [Steven Hoffenberg](Steven_Hoffenberg.md) — Confessed about Epstein-Maxwell blackmail operation
+- [Ruslana Korshunova](Ruslana_Korshunova.md) — Model documented on Epstein's jet
 
 ## Sources
 

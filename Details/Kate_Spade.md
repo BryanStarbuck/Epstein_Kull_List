@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Kate Spade
 Fashion designer found hanged three days before Bourdain; no verified Epstein connection.
 
@@ -10,11 +12,11 @@ Fashion designer found hanged three days before Bourdain; no verified Epstein co
 - **Suspicion Level:** UNCERTAIN
 
 ## Connection to Epstein Network
-Kate Spade is sometimes included in the 2017–2018 death cluster by X users, with posts claiming involvement or awareness tied to trafficking documentary and exposure efforts. Her death by hanging, occurring just three days before Anthony Bourdain's nearly identical death, drives much of the online speculation.
+Kate Spade is sometimes included in the 2017–2018 death cluster by X users, with posts claiming involvement or awareness tied to trafficking documentary and exposure efforts. Her death by hanging, occurring just three days before [Anthony Bourdain](Anthony_Bourdain.md)'s nearly identical death, drives much of the online speculation.
 
 ## Circumstances Raising Suspicion
 - Exact timing with Bourdain (3 days earlier) and within the same year as Avicii
-- Hanging method — matching Epstein, Brunel, Cornell, Bennington, Bourdain, Middleton, and Bowers
+- Hanging method — matching [Epstein](Jeffrey_Epstein.md), [Brunel](Jean_Luc_Brunel.md), [Cornell](Chris_Cornell.md), [Bennington](Chester_Bennington.md), [Bourdain](Anthony_Bourdain.md), [Middleton](Mark_Middleton.md), and [Bowers](Thomas_Bowers.md)
 - Users lump her into the "silenced celebrities" narrative, claiming the coincidence with others allegedly working on child trafficking documentaries points to a coordinated cover-up
 - Her foundation's work with children in underserved communities is sometimes cited as a tangential connection to awareness of trafficking
 
@@ -26,11 +28,11 @@ Her husband Andy Spade said she had been suffering from depression and anxiety f
 No verified evidence connects Kate Spade to any anti-trafficking documentary, investigation, or the Epstein network. The online narrative appears to be driven almost entirely by the timing of her death within the 2017–2018 cluster and the hanging method shared with other figures on the list.
 
 ## Part of the 2017–2018 Death Cluster
-- Chris Cornell — May 18, 2017 (hanging)
-- Chester Bennington — July 20, 2017 (hanging)
-- Avicii — April 20, 2018 (self-inflicted wounds)
+- [Chris Cornell](Chris_Cornell.md) — May 18, 2017 (hanging)
+- [Chester Bennington](Chester_Bennington.md) — July 20, 2017 (hanging)
+- [Avicii](Avicii_Tim_Bergling.md) — April 20, 2018 (self-inflicted wounds)
 - Kate Spade — June 5, 2018 (hanging)
-- Anthony Bourdain — June 8, 2018 (hanging)
+- [Anthony Bourdain](Anthony_Bourdain.md) — June 8, 2018 (hanging)
 
 ## Sources
 - New York City Chief Medical Examiner's report

@@ -1,3 +1,5 @@
+[< Back to Main List](README.md) | [Weiner Laptop Overview](laptop.md)
+
 # Epstein-Related Deaths by Location
 
 A geographic breakdown of deaths connected to Jeffrey Epstein, organized by location. See also the [main database](README.md) for the full overview.
@@ -12,7 +14,7 @@ A geographic breakdown of deaths connected to Jeffrey Epstein, organized by loca
 | Palm Beach, FL | USA | 1 | [Joe Recarey](Details/Joe_Recarey.md) |
 | Coral Gables, FL | USA | 1 | [Roy Black](Details/Roy_Black.md) |
 | Miami, FL | USA | 1 | [Ronald R. Eppinger Sr.](Details/Ronald_Eppinger.md) |
-| Los Angeles, CA | USA | 3 | [Steve Bing](Details/Steve_Bing.md), [Michael Jackson](Details/Michael_Jackson.md), [Anne Heche](Details/Anne_Heche.md) |
+| Los Angeles, CA | USA | 4 | [Steve Bing](Details/Steve_Bing.md), [Michael Jackson](Details/Michael_Jackson.md), [Anne Heche](Details/Anne_Heche.md), [Val Broeksmit](Details/Val_Broeksmit.md) |
 | Malibu, CA | USA | 1 | [Thomas Bowers](Details/Thomas_Bowers.md) |
 | Palos Verdes Estates, CA | USA | 1 | [Chester Bennington](Details/Chester_Bennington.md) |
 | Valencia (Santa Clarita), CA | USA | 1 | [Paul Walker](Details/Paul_Walker.md) |
@@ -25,12 +27,14 @@ A geographic breakdown of deaths connected to Jeffrey Epstein, organized by loca
 | Georgia (federal prison) | USA | 1 | [Berry L. Kessler](Details/Berry_Kessler.md) |
 | Strasbourg, France | France | 1 | [Anthony Bourdain](Details/Anthony_Bourdain.md) |
 | Paris, France | France | 1 | [Jean-Luc Brunel](Details/Jean_Luc_Brunel.md) |
-| London, UK | UK | 1 | [Wendy Leigh](Details/Wendy_Leigh.md) |
+| London, UK | UK | 2 | [Wendy Leigh](Details/Wendy_Leigh.md), [William Broeksmit](Details/William_Broeksmit.md) |
 | Cambridge, UK | UK | 1 | [Stephen Hawking](Details/Stephen_Hawking.md) |
 | Kyiv, Ukraine | Ukraine | 1 | [Anastasia Drozdova](Details/Anastasia_Drozdova.md) |
 | Muscat, Oman | Oman | 1 | [Avicii (Tim Bergling)](Details/Avicii_Tim_Bergling.md) |
 | Western Australia | Australia | 1 | [Virginia Giuffre](Details/Virginia_Giuffre.md) |
-| Unknown | — | 5 | [Arthur Shapiro](Details/Arthur_Shapiro.md), [Alfredo Rodriguez](Details/Alfredo_Rodriguez.md), [Efrain "Stone" Reyes](Details/Efrain_Stone_Reyes.md), [Kenneth Starr](Details/Kenneth_Starr.md), [John Connolly](Details/John_Connolly.md) |
+| Bellemont, AZ | USA | 1 | [Isaac Kappy](Details/Isaac_Kappy.md) |
+| Atlantic Ocean (Canary Islands) | International Waters | 1 | [Robert Maxwell](Details/Robert_Maxwell.md) |
+| Unknown | — | 6 | [Arthur Shapiro](Details/Arthur_Shapiro.md), [Alfredo Rodriguez](Details/Alfredo_Rodriguez.md), [Efrain "Stone" Reyes](Details/Efrain_Stone_Reyes.md), [Kenneth Starr](Details/Kenneth_Starr.md), [John Connolly](Details/John_Connolly.md), [Tracy Twyman](Details/Tracy_Twyman.md) |
 
 ---
 
@@ -71,6 +75,7 @@ Epstein's Palm Beach mansion was a primary location for alleged trafficking. The
 - **[Steve Bing](Details/Steve_Bing.md)** (2020, age 55) — **MODERATE SUSPICION.** Fell from 27th floor. Major Clinton donor named in 2026 Epstein files. Had documented depression.
 - **[Michael Jackson](Details/Michael_Jackson.md)** (2009, age 50) — Not suspicious. Died of acute drug intoxication caused by personal physician. Visited Epstein's Palm Beach mansion once in 2003. Unrelated to Epstein.
 - **[Anne Heche](Details/Anne_Heche.md)** (2022, age 53) — **UNCERTAIN.** Actress died in fiery car crash in Mar Vista. Claimed to be promoting a trafficking film. Toxicology showed cocaine/fentanyl. Coincided with 2022 death cluster.
+- **[Val Broeksmit](Details/Val_Broeksmit.md)** (2022, age 46) — **UNCERTAIN.** Deutsche Bank whistleblower and FBI informant. Found dead on Wilson High School campus in El Sereno with blunt-force trauma. Father was Deutsche Bank exec also found dead. Part of 2022 cluster.
 
 ### Malibu, California
 
@@ -79,6 +84,10 @@ Epstein's Palm Beach mansion was a primary location for alleged trafficking. The
 ### Palos Verdes Estates, California
 
 - **[Chester Bennington](Details/Chester_Bennington.md)** (2017, age 41) — **SUSPICIOUS.** Linkin Park vocalist found hanged. Close friend of Chris Cornell. Died on Cornell's birthday, same method, two months later. Linked to "Silent Children" documentary.
+
+### Bellemont, Arizona
+
+- **[Isaac Kappy](Details/Isaac_Kappy.md)** (2019, age 42) — **SUSPICIOUS.** Actor who publicly accused Hollywood elites of pedophilia. Fell from Transwestern Road bridge onto Interstate 40. Recorded videos saying "if I die, it wasn't suicide." Died two months before Epstein's arrest.
 
 ### Valencia (Santa Clarita), California
 
@@ -131,6 +140,7 @@ Epstein maintained an apartment in Paris, and his associate Jean-Luc Brunel oper
 ### London, United Kingdom
 
 - **[Wendy Leigh](Details/Wendy_Leigh.md)** (2016, age 65) — **UNCERTAIN.** Journalist and biographer found beneath a balcony. Claimed to be investigating Epstein. Ex-husband emphatically rejects suicide. Official manner of death undetermined.
+- **[William Broeksmit](Details/William_Broeksmit.md)** (2014, age 58) — **UNCERTAIN.** Senior Deutsche Bank executive found hanged at home in Kensington. Bank managed Epstein's accounts. Son later became FBI informant and was also found dead (2022).
 
 ### Cambridge, United Kingdom
 
@@ -143,6 +153,10 @@ Epstein maintained an apartment in Paris, and his associate Jean-Luc Brunel oper
 ### Muscat, Oman
 
 - **[Avicii (Tim Bergling)](Details/Avicii_Tim_Bergling.md)** (2018, age 28) — **SUSPICIOUS.** DJ who died of self-inflicted wounds. Music depicted child trafficking. Grouped with "Silent Children" documentary cluster. Trafficking documentary shelved after his death.
+
+### Atlantic Ocean (near Canary Islands)
+
+- **[Robert Maxwell](Details/Robert_Maxwell.md)** (1991, age 68) — **SUSPICIOUS.** Ghislaine Maxwell's father. Media mogul and alleged Mossad/MI6/KGB triple agent. Found floating near his yacht *Lady Ghislaine*. Three pathologists couldn't agree on cause of death. Received Israeli state funeral attended by President, PM, and six intelligence chiefs.
 
 ### Neergabby, Western Australia
 
@@ -159,6 +173,7 @@ The following deaths have no confirmed specific location in available records:
 - **[Efrain "Stone" Reyes](Details/Efrain_Stone_Reyes.md)** (2020, age 51) — Likely coincidental. Epstein's last cellmate, died of COVID-19 weeks after talking with federal investigators. Moved from Epstein's cell 1 day before Epstein's death.
 - **[Kenneth Starr](Details/Kenneth_Starr.md)** (2022, age 76) — Likely old age. Helped Epstein get 2008 sweetheart plea deal. Died of surgical complications.
 - **[John Connolly](Details/John_Connolly.md)** (2022, age 78) — Likely old age. Former NYPD detective and journalist. Co-authored *Filthy Rich*. Appeared in *Who Killed Jeffrey Epstein?* documentary.
+- **[Tracy Twyman](Details/Tracy_Twyman.md)** (2019, age 41) — **SUSPICIOUS.** Researcher found hanged in her garage. Was continuing Isaac Kappy's investigation into elite pedophilia networks. Left a "dead man's switch" video detailing threats against her life.
 
 ---
 

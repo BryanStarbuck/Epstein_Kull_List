@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Ruslana Korshunova
 Model documented on Epstein's jet at 18, fell from 9th floor; mother rejects suicide ruling.
 
@@ -40,7 +42,7 @@ Korshunova was a rising star in the modeling world. She was discovered in 2003 a
 
 ## Documented Epstein Connection
 
-On **June 7, 2006**, Korshunova (then 18 years old) flew on Jeffrey Epstein's Boeing 727 private jet (the "Lolita Express") from New York to Epstein's private island, Little St. James, in the U.S. Virgin Islands. This is confirmed in Epstein flight logs unsealed in January 2024.
+On **June 7, 2006**, Korshunova (then 18 years old) flew on [Jeffrey Epstein](Jeffrey_Epstein.md)'s Boeing 727 private jet (the "Lolita Express") from New York to Epstein's private island, Little St. James, in the U.S. Virgin Islands. This is confirmed in Epstein flight logs unsealed in January 2024.
 
 **Confirmed passengers on that flight:**
 1. Jeffrey Epstein
@@ -55,7 +57,7 @@ This flight took place just weeks before Epstein's 2006 arrest in Florida.
 
 Some reports, citing foreign media, allege that Epstein commented Korshunova was "too old" for his purposes and asked whether she had "younger friends." This claim has not been independently verified in official court documents.
 
-In January 2026, a second wave of Epstein document releases included a July 2010 email in which Epstein himself mentioned Korshunova, referring to her death and blaming her boyfriend for failing to get her help. Her name also surfaced in correspondence between Virginia Giuffre and her attorney.
+In January 2026, a second wave of Epstein document releases included a July 2010 email in which Epstein himself mentioned Korshunova, referring to her death and blaming her boyfriend for failing to get her help. Her name also surfaced in correspondence between [Virginia Giuffre](Virginia_Giuffre.md) and her attorney.
 
 ## The Rose of the World Cult Connection
 
@@ -65,7 +67,7 @@ Witnesses reported that Korshunova underwent significant personality changes aft
 
 ### Anastasia Drozdova — A Parallel Death
 
-Korshunova's friend and fellow model **Anastasia Drozdova** (Ukrainian) attended the same Rose of the World sessions. Drozdova also experienced violent mood swings and personality changes. **Approximately one year after Korshunova's death, in 2009, Drozdova died by suicide — jumping from an apartment building in Kyiv under similarly disputed circumstances.**
+Korshunova's friend and fellow model **[Anastasia Drozdova](Anastasia_Drozdova.md)** (Ukrainian) attended the same Rose of the World sessions. Drozdova also experienced violent mood swings and personality changes. **Approximately one year after Korshunova's death, in 2009, Drozdova died by suicide — jumping from an apartment building in Kyiv under similarly disputed circumstances.**
 
 Two young models, both connected to the same psychological group, both dying by jumping from buildings within a year of each other, is a pattern that has drawn investigative attention.
 
@@ -79,6 +81,15 @@ Two young models, both connected to the same psychological group, both dying by 
 - A fellow model who attended the same psychological sessions died in nearly identical fashion one year later.
 - Epstein himself referenced her death in a 2010 email found in released documents.
 - However, police found no signs of struggle and no evidence of another person in the apartment.
+
+## See Also
+
+- [Anastasia Drozdova](Anastasia_Drozdova.md) — Friend who died identically one year later
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Epstein's modeling agent who funded MC2
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Documented on his jet and island
+- [Virginia Giuffre](Virginia_Giuffre.md) — Named Korshunova in correspondence with attorney
+- [Steve Bing](Steve_Bing.md) — Also died from a building fall
+- [Wendy Leigh](Wendy_Leigh.md) — Also found beneath a balcony
 
 ## Sources
 

@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Carolyn Andriano
 Epstein victim who testified against Maxwell, died of overdose after reportedly being drug-free.
 
@@ -24,17 +26,24 @@ Her death was not announced publicly until months later.
 
 ## Background
 
-Andriano was recruited to Jeffrey Epstein's Palm Beach mansion at age 14. She had a long history of addiction tied directly to the trauma of her abuse.
+Andriano was recruited to [Jeffrey Epstein](Jeffrey_Epstein.md)'s Palm Beach mansion at age 14. She had a long history of addiction tied directly to the trauma of her abuse.
 
-She testified against Ghislaine Maxwell in the 2021 trial, providing crucial testimony that contributed to Maxwell's conviction. She left behind five children.
+She testified against [Ghislaine Maxwell](Ghislaine_Maxwell.md) in the 2021 trial, providing crucial testimony that contributed to Maxwell's conviction. She left behind five children.
 
 ## Why This Death Possibly Raises Questions
 
 - Andriano had provided critical testimony against Ghislaine Maxwell just two years before her death.
 - Her mother, Dorothy Groenert, publicly questioned the circumstances of her daughter's death.
-- She was the second Epstein survivor to die of an overdose in a Palm Beach hotel room, following Leigh Skye Patrick in 2017.
+- She was the second Epstein survivor to die of an overdose in a Palm Beach hotel room, following [Leigh Skye Patrick](Leigh_Skye_Patrick.md) in 2017.
 - Her death was not publicly announced for months, which added to public unease.
 - However, her long history of addiction tied to childhood trauma is consistent with the well-documented elevated overdose risk among survivors of childhood sexual exploitation.
+
+## See Also
+
+- [Leigh Skye Patrick](Leigh_Skye_Patrick.md) — First Epstein victim to die of overdose in Palm Beach hotel
+- [Virginia Giuffre](Virginia_Giuffre.md) — Fellow Epstein accuser
+- [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Testified against her at trial
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Primary abuser
 
 ## Sources
 

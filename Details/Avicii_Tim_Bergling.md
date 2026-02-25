@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Avicii (Tim Bergling)
 DJ who depicted child trafficking in music, died at 28 by self-inflicted wounds in Oman.
 
@@ -10,7 +12,7 @@ DJ who depicted child trafficking in music, died at 28 by self-inflicted wounds 
 - **Suspicion Level:** SUSPICIOUS
 
 ## Connection to Epstein Network
-X users and online investigators claim Avicii was actively working on or tied to "The Silent Children," a documentary project exposing child sex trafficking and Hollywood/elite pedophile rings linked to Epstein. Posts group him with Chris Cornell, Chester Bennington, and Anthony Bourdain as part of a team that "knew too much" about elite trafficking networks.
+X users and online investigators claim Avicii was actively working on or tied to "The Silent Children," a documentary project exposing child sex trafficking and Hollywood/elite pedophile rings linked to Epstein. Posts group him with [Chris Cornell](Chris_Cornell.md), [Chester Bennington](Chester_Bennington.md), and [Anthony Bourdain](Anthony_Bourdain.md) as part of a team that "knew too much" about elite trafficking networks.
 
 ## Circumstances Raising Suspicion
 - His death came amid the alleged development of "The Silent Children" documentary
@@ -26,10 +28,10 @@ The "Silent Children" documentary connection has been repeatedly stated by its c
 
 ## Part of the 2017–2018 Death Cluster
 Avicii's death is one of several in a tight cluster:
-- Chris Cornell — May 2017 (hanging)
-- Chester Bennington — July 2017 (hanging)
-- Kate Spade — June 2018 (hanging)
-- Anthony Bourdain — June 2018 (hanging)
+- [Chris Cornell](Chris_Cornell.md) — May 2017 (hanging)
+- [Chester Bennington](Chester_Bennington.md) — July 2017 (hanging)
+- [Kate Spade](Kate_Spade.md) — June 2018 (hanging)
+- [Anthony Bourdain](Anthony_Bourdain.md) — June 2018 (hanging)
 - Avicii — April 2018 (self-inflicted wounds)
 
 The clustering of these deaths, combined with the alleged trafficking documentary connection, is the primary driver of suspicion online.

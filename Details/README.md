@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md) | [Weiner Laptop Overview](../laptop.md)
+
 # Epstein-Related Deaths: Detailed Research Database
 
 This directory contains comprehensive research into deaths connected to Jeffrey Epstein. The database documents 27 individuals (24 named, 2 unnamed alleged victims, plus 1 living person at risk) spanning from 1985 to 2025, compiled from news investigations, court documents, DOJ file releases, and public records.

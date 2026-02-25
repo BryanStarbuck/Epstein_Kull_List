@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Alfredo Rodriguez
 Epstein's house manager who stole the 'black book,' died of confirmed mesothelioma.
 
@@ -22,7 +24,7 @@ Alfredo Rodriguez died on December 28, 2014, from mesothelioma, a rare cancer ty
 
 ## Background
 
-Rodriguez worked as a butler and house manager at Jeffrey Epstein's Palm Beach mansion. He had direct access to Epstein's private records and documentation.
+Rodriguez worked as a butler and house manager at [Jeffrey Epstein](Jeffrey_Epstein.md)'s Palm Beach mansion. He had direct access to Epstein's private records and documentation.
 
 ## The Black Book
 
@@ -49,6 +51,13 @@ The current location of the full document has not been disclosed. According to T
 - He had explicitly claimed he needed the book as insurance to protect his own life, suggesting he believed he was in danger.
 - His death meant the loss of a potential witness with extensive insider knowledge.
 - However, his widow confirmed the death was from mesothelioma, and the disease is a well-documented occupational illness with a long latency period.
+
+## See Also
+
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Employer
+- [Joe Recarey](Joe_Recarey.md) — Lead detective investigating Epstein's Palm Beach crimes
+- [Virginia Giuffre](Virginia_Giuffre.md) — Named in the black book
+- [Ghislaine Maxwell](Ghislaine_Maxwell.md)
 
 ## Sources
 

@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Marvin Minsky
 MIT scientist named in Epstein court filings, died at 88 of cerebral hemorrhage; not suspicious.
 
@@ -24,7 +26,7 @@ Marvin Minsky died on January 24, 2016, of a cerebral hemorrhage. He was 88 year
 
 Minsky was a computer scientist, cognitive scientist, and MIT professor. He was the co-founder of MIT's Artificial Intelligence Laboratory and a Turing Award winner (1969). He is widely regarded as one of the fathers of artificial intelligence.
 
-Minsky received research funding from Jeffrey Epstein and visited Epstein's properties. He was named in Epstein's flight logs. In 2015 court filings, Virginia Giuffre claimed that Ghislaine Maxwell directed her to have sex with Minsky in 2001 at Epstein's New Mexico ranch, when she was 17 and Minsky was 73.
+Minsky received research funding from [Jeffrey Epstein](Jeffrey_Epstein.md) and visited Epstein's properties. He was named in Epstein's flight logs. In 2015 court filings, [Virginia Giuffre](Virginia_Giuffre.md) claimed that [Ghislaine Maxwell](Ghislaine_Maxwell.md) directed her to have sex with Minsky in 2001 at Epstein's New Mexico ranch, when she was 17 and Minsky was 73.
 
 Minsky's widow, Gloria Rudisch, strongly denied the allegations, saying Minsky would have been "horrified" by such conduct.
 
@@ -33,6 +35,12 @@ Minsky's widow, Gloria Rudisch, strongly denied the allegations, saying Minsky w
 - Minsky was publicly named in unsealed Epstein court documents approximately one year before his death.
 - He accepted research funding from Epstein and visited Epstein's properties.
 - However, he was 88 years old and his death from cerebral hemorrhage is consistent with natural causes at that age.
+
+## See Also
+
+- [Jeffrey Epstein](Jeffrey_Epstein.md)
+- [Virginia Giuffre](Virginia_Giuffre.md)
+- [Zorro Ranch Unnamed Victims](Zorro_Ranch_Unnamed_Victims.md) — Zorro Ranch, same location of alleged abuse
 
 ## Sources
 

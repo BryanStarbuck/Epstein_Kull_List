@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Stephen Hawking
 Physicist who visited Epstein's island, died of ALS after 50+ years; not suspicious.
 
@@ -22,12 +24,17 @@ Stephen Hawking died at his home in Cambridge, United Kingdom on March 14, 2018.
 
 ## Background
 
-Hawking was one of the most famous physicists in the world. He was known to have visited Jeffrey Epstein's private island, Little St. James. His name appeared in Epstein-related documents and flight logs.
+Hawking was one of the most famous physicists in the world. He was known to have visited [Jeffrey Epstein](Jeffrey_Epstein.md)'s private island, Little St. James. His name appeared in Epstein-related documents and flight logs.
 
 ## Why This Death Possibly Raises Questions
 
 - Hawking visited Epstein's private island and his name appeared in Epstein's documents.
 - However, he was 76 years old and had lived with ALS for over 50 years. His death was clearly from natural causes related to his long-term illness.
+
+## See Also
+
+- [Jeffrey Epstein](Jeffrey_Epstein.md)
+- [Marvin Minsky](Marvin_Minsky.md) — Also scientist who visited Epstein's properties
 
 ## Sources
 

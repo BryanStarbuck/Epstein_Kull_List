@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Michael Jackson
 Visited Epstein's mansion once in 2003; death by physician unrelated to Epstein.
 
@@ -22,12 +24,16 @@ Michael Jackson died on June 25, 2009, from acute propofol and benzodiazepine in
 
 ## Connection to Epstein
 
-Jackson reportedly visited Epstein's Palm Beach mansion once in 2003, according to flight logs and witness accounts. There is no evidence linking Jackson to Epstein's crimes. Epstein reportedly often invoked Jackson's name to appear well-connected.
+Jackson reportedly visited [Epstein](Jeffrey_Epstein.md)'s Palm Beach mansion once in 2003, according to flight logs and witness accounts. There is no evidence linking Jackson to Epstein's crimes. Epstein reportedly often invoked Jackson's name to appear well-connected.
 
 ## Why This Death Possibly Raises Questions
 
 - Jackson's name appeared in connection with Epstein's network through the 2003 visit.
 - However, the connection appears tangential. His death was conclusively attributed to the actions of his personal physician, and there is no evidence tying his death to the Epstein case.
+
+## See Also
+
+- [Jeffrey Epstein](Jeffrey_Epstein.md)
 
 ## Sources
 

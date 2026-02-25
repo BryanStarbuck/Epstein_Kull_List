@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Paul Walker
 Actor who allegedly discovered trafficking during Haiti relief, died in high-speed car crash.
 
@@ -10,7 +12,7 @@ Actor who allegedly discovered trafficking during Haiti relief, died in high-spe
 - **Suspicion Level:** UNCERTAIN
 
 ## Connection to Epstein Network
-X users regularly add Walker to the list of suspicious deaths, claiming he was investigating or about to expose child trafficking networks. The connection is often tied to his humanitarian work through Reach Out Worldwide (ROWW), particularly post-Haiti earthquake relief efforts in 2010, where he allegedly discovered child trafficking operations. Some posts link this to broader Hollywood and elite pedophile rings connected to Epstein.
+X users regularly add Walker to the list of suspicious deaths, claiming he was investigating or about to expose child trafficking networks. The connection is often tied to his humanitarian work through Reach Out Worldwide (ROWW), particularly post-Haiti earthquake relief efforts in 2010, where he allegedly discovered child trafficking operations. Some posts link this to broader Hollywood and elite pedophile rings connected to [Epstein](Jeffrey_Epstein.md).
 
 ## Circumstances Raising Suspicion
 - Grouped with the "Silent Children" crowd and other trafficking exposers on social media
@@ -25,6 +27,10 @@ Paul Walker was an actor best known for the Fast & Furious franchise. He died as
 Walker was genuinely passionate about humanitarian work and had founded ROWW in 2010 to deploy first-response teams to disaster areas. He personally traveled to Haiti after the 2010 earthquake and to Chile after the 2010 earthquake there.
 
 No verified evidence connects Walker to any investigation of child trafficking or to the Epstein network. The claims appear to originate from his humanitarian disaster relief work being reinterpreted through the lens of trafficking conspiracy theories, particularly around Haiti (which has been a focal point of various trafficking-related claims online).
+
+## See Also
+
+- [Jeffrey Epstein](Jeffrey_Epstein.md)
 
 ## Sources
 - LA County Sheriff's Department investigation report

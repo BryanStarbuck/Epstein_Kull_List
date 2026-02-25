@@ -1,5 +1,7 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md) | [Weiner Laptop Overview](../laptop.md)
+
 # Steven Silks
-NYPD Deputy Chief and 38-year veteran who allegedly viewed Weiner laptop evidence, found dead in police vehicle.
+NYPD Deputy Chief and 38-year veteran who allegedly viewed [Weiner laptop](../laptop.md) evidence, found dead in police vehicle.
 
 | Field | Details |
 |-------|---------|
@@ -22,7 +24,18 @@ Deputy Chief Steven Silks, 62, was found dead from a self-inflicted gunshot woun
 
 ## Connection to Weiner Laptop
 
-Silks is named in online claims as one of 12 NYPD officers who allegedly viewed files on Anthony Weiner's laptop after it was seized in September 2016 during a sexting investigation. The claim states that 9 of these 12 officers subsequently died. The specific allegation is that Silks "was directly involved in the sex crimes investigation of former Congressman Anthony Weiner, and personally oversaw evidence-gathering from the laptop." This claim originated from outlets including Hal Turner Radio Show and State of the Nation and has not been independently verified.
+Silks is named in online claims as one of 12 NYPD officers who allegedly viewed files on [Anthony Weiner's laptop](../laptop.md) after it was seized in September 2016 during a sexting investigation. The claim states that 9 of these 12 officers subsequently died. The specific allegation is that Silks "was directly involved in the sex crimes investigation of former Congressman Anthony Weiner, and personally oversaw evidence-gathering from the laptop." This claim originated from outlets including Hal Turner Radio Show and State of the Nation and has not been independently verified.
+
+## Related Deaths — NYPD Weiner Laptop Cluster
+
+- [Joseph Calabrese](Joseph_Calabrese.md) — Died June 6, 2019, one day after Silks
+- [Michael Caddy](Michael_Caddy.md) — Died June 14, 2019
+- [Kevin Preiss](Kevin_Preiss.md) — Died June 27, 2019
+- [Terrence McAvoy](Terrence_McAvoy.md) — Died July 27, 2019
+- [Johnny Rios](Johnny_Rios.md) — Died 2019
+- [Robert Echeverria](Robert_Echeverria.md) — Found at his Laurelton home
+
+See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_Maxwell.md)
 
 ## Why This Death Possibly Raises Questions
 

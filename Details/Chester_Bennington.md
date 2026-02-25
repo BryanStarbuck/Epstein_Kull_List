@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Chester Bennington
 Linkin Park vocalist and Cornell's close friend, hanged on Cornell's birthday two months later.
 
@@ -10,13 +12,13 @@ Linkin Park vocalist and Cornell's close friend, hanged on Cornell's birthday tw
 - **Suspicion Level:** SUSPICIOUS
 
 ## Connection to Epstein Network
-X users frequently pair Bennington with his close friend Chris Cornell, claiming both were set to contribute to or support "The Silent Children," a documentary exposing child sex trafficking and pedophilia in elite circles overlapping with Epstein's network. Posts claim he was motivated by personal experience with childhood sexual abuse to expose trafficking rings.
+X users frequently pair Bennington with his close friend [Chris Cornell](Chris_Cornell.md), claiming both were set to contribute to or support "The Silent Children," a documentary exposing child sex trafficking and pedophilia in elite circles overlapping with Epstein's network. Posts claim he was motivated by personal experience with childhood sexual abuse to expose trafficking rings.
 
 ## Circumstances Raising Suspicion
-- Same hanging method as Cornell (died 2 months earlier), Epstein, Brunel, Middleton, and Bowers
-- Deaths only approximately two months apart from Cornell's
+- Same hanging method as [Cornell](Chris_Cornell.md) (died 2 months earlier), [Epstein](Jeffrey_Epstein.md), [Brunel](Jean_Luc_Brunel.md), [Middleton](Mark_Middleton.md), and [Bowers](Thomas_Bowers.md)
+- Deaths only approximately two months apart from [Cornell](Chris_Cornell.md)'s
 - Both allegedly tied to the same unreleased trafficking documentary
-- Died on what would have been Chris Cornell's 53rd birthday — a detail users highlight as either deeply personal or staged
+- Died on what would have been [Chris Cornell](Chris_Cornell.md)'s 53rd birthday — a detail users highlight as either deeply personal or staged
 - Users emphasize the "too perfect" timing and pattern of musicians dying by hanging while allegedly investigating trafficking
 
 ## Context
@@ -27,11 +29,11 @@ Bennington had spoken publicly about being sexually abused as a child by an olde
 The connection to the documentary has been debunked by fact-checkers and the documentary's creators. The persistent online narrative treats his death as part of a coordinated silencing campaign.
 
 ## Part of the 2017–2018 Death Cluster
-- Chris Cornell — May 18, 2017 (hanging)
+- [Chris Cornell](Chris_Cornell.md) — May 18, 2017 (hanging)
 - Chester Bennington — July 20, 2017 (hanging)
-- Avicii — April 20, 2018 (self-inflicted wounds)
-- Kate Spade — June 5, 2018 (hanging)
-- Anthony Bourdain — June 8, 2018 (hanging)
+- [Avicii](Avicii_Tim_Bergling.md) — April 20, 2018 (self-inflicted wounds)
+- [Kate Spade](Kate_Spade.md) — June 5, 2018 (hanging)
+- [Anthony Bourdain](Anthony_Bourdain.md) — June 8, 2018 (hanging)
 
 ## Sources
 - LA County Department of Medical Examiner-Coroner report

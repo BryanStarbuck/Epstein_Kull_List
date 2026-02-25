@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Mark Middleton
 Clinton aide who admitted Epstein to White House, found hanged and shot under sealed circumstances.
 
@@ -45,11 +47,11 @@ Sheriff Scott Montgomery told Radar Online the investigation had been reopened s
 
 Middleton served as a Special Assistant to President Bill Clinton and as an aide to Chief of Staff Mack McLarty. His primary function was maintaining contact with Clinton's donor network. He raised approximately $4 million for Clinton's 1992 presidential campaign. After leaving the White House in February 1995, he ran Middleton Heat & Air, a family business in Arkansas.
 
-## Connection to Jeffrey Epstein
+## Connection to [Jeffrey Epstein](Jeffrey_Epstein.md)
 
 - Epstein visited the Clinton White House at least 17 times between 1993 and 1995.
 - White House visitor logs show Middleton was the specific aide who authorized and facilitated at least seven of those visits.
-- Epstein donated $10,000 to the White House Historical Association in 1993 and, accompanied by Ghislaine Maxwell, attended a Clinton donors' reception.
+- Epstein donated $10,000 to the White House Historical Association in 1993 and, accompanied by [Ghislaine Maxwell](Ghislaine_Maxwell.md), attended a Clinton donors' reception.
 - In May 1994, Middleton flew on Epstein's private jet.
 
 ## Why This Death Possibly Raises Questions
@@ -61,6 +63,17 @@ Middleton served as a Special Assistant to President Bill Clinton and as an aide
 - The coroner noted a documented history of depression but the toxicology was entirely clean.
 - The official ruling took nine months to release.
 - His death occurred during 2022, when four Epstein-connected individuals died within eight months.
+
+## See Also — 2022 Death Cluster
+
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md) — February 2022 (hanging in prison)
+- [Steven Hoffenberg](Steven_Hoffenberg.md) — August 2022 (found dead in apartment)
+- [Anne Heche](Anne_Heche.md) — August 2022 (car crash)
+- [Kenneth Starr](Kenneth_Starr.md) — September 2022 (surgical complications)
+- [John Connolly](John_Connolly.md) — January 2022 (natural causes)
+- [Steve Bing](Steve_Bing.md) — Also a Clinton associate, fell from building
+
+See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_Maxwell.md) | [Thomas Bowers](Thomas_Bowers.md)
 
 ## Sources
 

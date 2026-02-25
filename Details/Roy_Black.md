@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Roy Black
 Epstein defense attorney in West Palm Beach case, died at 80 of serious illness.
 
@@ -22,7 +24,7 @@ Roy Black died at his home in Coral Gables, Florida on July 23, 2025. His family
 
 ## Background
 
-Black was a high-powered defense attorney who, along with Kenneth Starr, helped Jeffrey Epstein in the West Palm Beach case. He was part of the legal team that secured the controversial 2008 plea deal that allowed Epstein to avoid federal prosecution.
+Black was a high-powered defense attorney who, along with [Kenneth Starr](Kenneth_Starr.md), helped [Jeffrey Epstein](Jeffrey_Epstein.md) in the West Palm Beach case. He was part of the legal team that secured the controversial 2008 plea deal that allowed Epstein to avoid federal prosecution.
 
 ## Why This Death Possibly Raises Questions
 
@@ -30,6 +32,11 @@ Black was a high-powered defense attorney who, along with Kenneth Starr, helped 
 - He had direct knowledge of the legal strategies and negotiations that kept Epstein from facing full federal prosecution for over a decade.
 - His death in 2025 came during a period of ongoing Epstein file releases by the Department of Justice.
 - However, he was 80 years old and died at home. His family explicitly stated his death was not connected to the Epstein case.
+
+## See Also
+
+- [Kenneth Starr](Kenneth_Starr.md) — Also Epstein defense attorney
+- [Jeffrey Epstein](Jeffrey_Epstein.md)
 
 ## Sources
 

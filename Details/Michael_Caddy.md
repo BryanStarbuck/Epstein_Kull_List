@@ -1,5 +1,7 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md) | [Weiner Laptop Overview](../laptop.md)
+
 # Michael Caddy
-NYPD officer, age 29, who allegedly viewed Weiner laptop evidence. Third death in the June 2019 cluster.
+NYPD officer, age 29, who allegedly viewed [Weiner laptop](../laptop.md) evidence. Third death in the June 2019 cluster.
 
 | Field | Details |
 |-------|---------|
@@ -18,11 +20,11 @@ Caddy was the youngest of the officers who died in the June 2019 cluster, at jus
 
 ## Circumstances of Death
 
-Officer Michael Caddy, 29, died on June 14, 2019, nine days after Deputy Chief Silks and eight days after Detective Calabrese. He was assigned to the 121st Precinct on Staten Island.
+Officer Michael Caddy, 29, died on June 14, 2019, nine days after Deputy Chief [Silks](Steven_Silks.md) and eight days after Detective [Calabrese](Joseph_Calabrese.md). He was assigned to the 121st Precinct on Staten Island.
 
 ## Connection to Weiner Laptop
 
-Caddy is named in online claims as one of 12 NYPD officers who allegedly viewed files on Anthony Weiner's laptop. At age 29 at the time of death, he would have been approximately 26 when the laptop was seized in 2016. These claims have not been independently verified. The FBI, not the NYPD, had formal custody of the laptop.
+Caddy is named in online claims as one of 12 NYPD officers who allegedly viewed files on [Anthony Weiner's laptop](../laptop.md). At age 29 at the time of death, he would have been approximately 26 when the laptop was seized in 2016. These claims have not been independently verified. The FBI, not the NYPD, had formal custody of the laptop.
 
 ## Why This Death Possibly Raises Questions
 
@@ -31,6 +33,17 @@ Caddy is named in online claims as one of 12 NYPD officers who allegedly viewed 
 - Allegedly connected to Weiner laptop examination
 - Served in a different borough (Staten Island) than the first two officers (Queens, Brooklyn)
 - His death prompted national media coverage of the NYPD suicide crisis
+
+## Related Deaths — NYPD Weiner Laptop Cluster
+
+- [Steven Silks](Steven_Silks.md) — Died June 5, 2019
+- [Joseph Calabrese](Joseph_Calabrese.md) — Died June 6, 2019
+- [Kevin Preiss](Kevin_Preiss.md) — Died June 27, 2019
+- [Terrence McAvoy](Terrence_McAvoy.md) — Died July 27, 2019
+- [Johnny Rios](Johnny_Rios.md) — Died 2019
+- [Robert Echeverria](Robert_Echeverria.md) — Found at his Laurelton home
+
+See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_Maxwell.md)
 
 ## Sources
 

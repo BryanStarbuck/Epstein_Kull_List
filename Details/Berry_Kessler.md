@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Berry L. Kessler
 Prime suspect in Shapiro murder with FBI-documented Epstein link, died in prison at 84.
 
@@ -22,9 +24,9 @@ Berry L. Kessler died in 2005 while incarcerated in a Georgia federal prison. He
 
 ## Background
 
-Kessler was the prime suspect in the 1985 murder of Arthur Shapiro, the lawyer who was Epstein's predecessor at L Brands managing Les Wexner's finances. Kessler was separately convicted of masterminding two murder-for-hire plots unrelated to the Shapiro killing.
+Kessler was the prime suspect in the 1985 murder of [Arthur Shapiro](Arthur_Shapiro.md), the lawyer who was Epstein's predecessor at L Brands managing Les Wexner's finances. Kessler was separately convicted of masterminding two murder-for-hire plots unrelated to the Shapiro killing.
 
-FBI documents mention a possible link between Kessler and Jeffrey Epstein.
+FBI documents mention a possible link between Kessler and [Jeffrey Epstein](Jeffrey_Epstein.md).
 
 ## Why This Death Possibly Raises Questions
 
@@ -32,6 +34,15 @@ FBI documents mention a possible link between Kessler and Jeffrey Epstein.
 - FBI documents reference a possible link between Kessler and Epstein.
 - He was a documented murderer-for-hire organizer, having been convicted of masterminding two separate contract killing plots.
 - His death in prison at age 84 meant he could never be tried for the Shapiro murder or questioned further about any Epstein connection.
+
+## See Also — The Kessler Pattern
+
+- [Arthur Shapiro](Arthur_Shapiro.md) — Unsolved murder victim (1985); Kessler was prime suspect
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Took Shapiro's position after the murder
+- [Frank Yassenoff](Frank_Yassenoff.md) — Kessler business partner, shot to death (1970); Kessler suspected
+- [Ella Rich](Ella_Rich.md) — Killed alongside Yassenoff (1970)
+- [Marjorie Dyer](Marjorie_Dyer.md) — Co-signed Yassenoff's will with Kessler, died in car accident
+- [John Deroo](John_Deroo.md) — Kessler business partner, shot six times (1991); Kessler convicted and sentenced to death
 
 ## Sources
 

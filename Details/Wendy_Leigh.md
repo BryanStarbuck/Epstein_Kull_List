@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Wendy Leigh
 Biographer who claimed to be investigating Epstein, found beneath London balcony; manner undetermined.
 
@@ -38,7 +40,7 @@ Leigh was a British-American best-selling celebrity biographer. She authored una
 
 ## The Epstein Connection — Critical Assessment
 
-**What is claimed:** The National Enquirer's retrospective article (August 2025) lists Leigh among approximately 22 deaths connected to Epstein, identifying her as someone who "investigated the Jeffrey Epstein scandal."
+**What is claimed:** The National Enquirer's retrospective article (August 2025) lists Leigh among approximately 22 deaths connected to Epstein, identifying her as someone who "investigated the [Jeffrey Epstein](Jeffrey_Epstein.md) scandal."
 
 **What is NOT documented:** No contemporaneous 2016 news report mentions any Epstein book project or investigation by Leigh. No publisher, agent, or colleague statement from 2016 references Epstein. No manuscript, book deal, or reporting on an Epstein-related project appears in any source. The Epstein connection appears to originate from post-2019 retrospective conspiracy coverage, not from contemporaneous reporting.
 
@@ -52,6 +54,13 @@ Leigh was a British-American best-selling celebrity biographer. She authored una
 - The official manner of death appears to remain undetermined in public records.
 - If the claim that she was investigating Epstein is accurate, the timing (2016, before the Epstein case broke wide open in 2019) would place her among the earliest journalists pursuing the story.
 - However, contemporaneous evidence of an Epstein investigation has not been located, and she was grieving her mother's recent death.
+
+## See Also
+
+- [Ruslana Korshunova](Ruslana_Korshunova.md) — Also fell from building
+- [Anastasia Drozdova](Anastasia_Drozdova.md) — Also jumped from building
+- [Steve Bing](Steve_Bing.md) — Also fell from building
+- [Jeffrey Epstein](Jeffrey_Epstein.md)
 
 ## Sources
 

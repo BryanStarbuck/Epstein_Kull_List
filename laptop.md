@@ -1,3 +1,5 @@
+[< Back to Main List](README.md) | [Locations](locations.md)
+
 # NYPD Officers Who Died After Alleged Weiner Laptop Involvement
 
 ## Background
@@ -10,13 +12,13 @@ A widely circulated claim states that 12 NYPD officers viewed files on Weiner's 
 
 | Name | Rank | Date of Death | Circumstances |
 |------|------|---------------|---------------|
-| Steven Silks | Deputy Chief | June 5, 2019 | Found dead in a police vehicle in Queens |
-| Joseph Calabrese | Detective | June 6, 2019 | Found dead at Plum Beach, Brooklyn |
-| Michael Caddy | Officer | June 14, 2019 | 121st Precinct, Staten Island |
-| Kevin Preiss | Officer | June 27, 2019 | Found at his Long Island home |
-| Terrence McAvoy | Sergeant | July 27, 2019 | Named in claims |
-| Johnny Rios | Unknown | Unknown | Limited independent information |
-| Robert Echeverria | Unknown | Unknown | Found with gunshot wound at his Laurelton home |
+| [Steven Silks](Details/Steven_Silks.md) | Deputy Chief | June 5, 2019 | Found dead in a police vehicle in Queens |
+| [Joseph Calabrese](Details/Joseph_Calabrese.md) | Detective | June 6, 2019 | Found dead at Plum Beach, Brooklyn |
+| [Michael Caddy](Details/Michael_Caddy.md) | Officer | June 14, 2019 | 121st Precinct, Staten Island |
+| [Kevin Preiss](Details/Kevin_Preiss.md) | Officer | June 27, 2019 | Found at his Long Island home |
+| [Terrence McAvoy](Details/Terrence_McAvoy.md) | Sergeant | July 27, 2019 | Named in claims |
+| [Johnny Rios](Details/Johnny_Rios.md) | Unknown | Unknown | Limited independent information |
+| [Robert Echeverria](Details/Robert_Echeverria.md) | Unknown | Unknown | Found with gunshot wound at his Laurelton home |
 
 Two additional unnamed individuals are claimed as deceased, bringing the total to 9 out of 12.
 
@@ -47,6 +49,12 @@ The four deaths in a 22-day span in June 2019 are independently verified and wer
 ## Assessment
 
 This claim takes two real events — (1) the 2016 Weiner laptop seizure and (2) the 2019 NYPD suicide crisis — and connects them retroactively. The connection remains unverified by any credible investigative source. The deaths themselves are real and documented.
+
+## See Also
+
+- [Jeffrey Epstein](Details/Jeffrey_Epstein.md) — Central figure
+- [Ghislaine Maxwell](Details/Ghislaine_Maxwell.md) — Only convicted co-conspirator still alive
+- [Full death list](README.md) — Complete database of all Epstein-related deaths
 
 ## Sources
 

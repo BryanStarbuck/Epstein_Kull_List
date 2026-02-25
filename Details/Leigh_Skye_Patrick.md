@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Leigh Skye Patrick
 Epstein victim lured to his mansion at 16, died of heroin overdose linked to abuse trauma.
 
@@ -22,7 +24,7 @@ Leigh Skye Patrick died of an accidental heroin overdose on May 30, 2017, in a h
 
 ## Background
 
-Patrick was lured to Jeffrey Epstein's Palm Beach mansion in 2003 at age 16 under the guise of a modeling offer. She was a confirmed victim of Epstein's abuse and cooperated with the police investigation.
+Patrick was lured to [Jeffrey Epstein](Jeffrey_Epstein.md)'s Palm Beach mansion in 2003 at age 16 under the guise of a modeling offer. She was a confirmed victim of Epstein's abuse and cooperated with the police investigation.
 
 Patrick had a twin sister. Her mother, Michelle Licata, was also an Epstein survivor. Her twin sister stated that Leigh's addiction and struggles began after her encounters with Epstein. Her mother blamed the trauma of the abuse for her daughter's downward spiral into addiction.
 
@@ -31,9 +33,15 @@ After her daughter's death, Michelle Licata became an advocate for other Epstein
 ## Why This Death Possibly Raises Questions
 
 - Patrick was the first known Epstein survivor in Palm Beach County to die of an overdose.
-- She died in a hotel room in West Palm Beach — the same type of location where another Epstein victim, Carolyn Andriano, would later die of an overdose in 2023.
+- She died in a hotel room in West Palm Beach — the same type of location where another Epstein victim, [Carolyn Andriano](Carolyn_Andriano.md), would later die of an overdose in 2023.
 - Her family directly attributed her addiction to the trauma she suffered at Epstein's hands.
 - Medical research confirms that survivors of childhood sexual exploitation have significantly elevated risk of addiction and overdose, which is consistent with the circumstances of her death.
+
+## See Also
+
+- [Carolyn Andriano](Carolyn_Andriano.md) — Second Epstein victim to die of overdose in Palm Beach hotel (2023)
+- [Virginia Giuffre](Virginia_Giuffre.md) — Fellow Epstein victim
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Abused Patrick at his Palm Beach mansion
 
 ## Sources
 

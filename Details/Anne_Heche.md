@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Anne Heche
 Actress who claimed promoting trafficking film, died in fiery car crash in 2022 cluster.
 
@@ -10,7 +12,7 @@ Actress who claimed promoting trafficking film, died in fiery car crash in 2022 
 - **Suspicion Level:** UNCERTAIN
 
 ## Connection to Epstein Network
-X users claim Heche was promoting or involved in a film or documentary exposing "the horrors of child sex trafficking" shortly before her fiery car crash. She is grouped with the musicians and celebrities from the 2017–2018 cluster as another figure allegedly silenced for threatening to expose elite trafficking networks connected to Epstein.
+X users claim Heche was promoting or involved in a film or documentary exposing "the horrors of child sex trafficking" shortly before her fiery car crash. She is grouped with the musicians and celebrities from the 2017–2018 cluster as another figure allegedly silenced for threatening to expose elite trafficking networks connected to [Epstein](Jeffrey_Epstein.md).
 
 ## Circumstances Raising Suspicion
 - Timing aligns with renewed Epstein file discussions and the 2022 cluster (Brunel, Middleton, Hoffenberg deaths)
@@ -30,11 +32,18 @@ No verified evidence connects her to any specific anti-trafficking documentary o
 
 ## Part of the 2022 Death Cluster
 Anne Heche's death in August 2022 occurred during a year with multiple Epstein-connected deaths:
-- Jean-Luc Brunel — February 2022 (hanging in prison)
-- Mark Middleton — May 2022 (hanging + shotgun)
-- Steven Hoffenberg — August 2022 (found dead in apartment)
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md) — February 2022 (hanging in prison)
+- [Mark Middleton](Mark_Middleton.md) — May 2022 (hanging + shotgun)
+- [Steven Hoffenberg](Steven_Hoffenberg.md) — August 2022 (found dead in apartment)
 - Anne Heche — August 2022 (car crash)
-- Kenneth Starr — September 2022 (surgical complications)
+- [Kenneth Starr](Kenneth_Starr.md) — September 2022 (surgical complications)
+
+## See Also
+
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md)
+- [Mark Middleton](Mark_Middleton.md)
+- [Steven Hoffenberg](Steven_Hoffenberg.md)
+- [Kenneth Starr](Kenneth_Starr.md)
 
 ## Sources
 - LA County coroner's report and toxicology findings

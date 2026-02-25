@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Arthur Shapiro
 Lawyer gunned down in unsolved murder; Epstein took his position weeks later.
 
@@ -22,13 +24,13 @@ Arthur Shapiro was shot and killed in March 1985. His murder has never been solv
 
 ## Background
 
-Shapiro was a lawyer who served as Epstein's predecessor at L Brands, managing the finances of billionaire Les Wexner. After Shapiro's death, Jeffrey Epstein took over managing Wexner's finances — a position that gave Epstein access to enormous wealth and became the foundation of his power.
+Shapiro was a lawyer who served as [Epstein](Jeffrey_Epstein.md)'s predecessor at L Brands, managing the finances of billionaire Les Wexner. After Shapiro's death, Jeffrey Epstein took over managing Wexner's finances — a position that gave Epstein access to enormous wealth and became the foundation of his power.
 
 At the time of his murder, Shapiro was expected to be questioned by the IRS about illegal tax shelters within weeks.
 
 ## Connection to Berry L. Kessler
 
-The prime suspect in the Shapiro murder was Berry L. Kessler, who was separately convicted of masterminding two unrelated murder-for-hire plots. FBI documents mention a possible link between Kessler and Epstein. Kessler died in a Georgia federal prison in 2005 at age 84.
+The prime suspect in the Shapiro murder was [Berry L. Kessler](Berry_Kessler.md), who was separately convicted of masterminding two unrelated murder-for-hire plots. FBI documents mention a possible link between Kessler and Epstein. Kessler died in a Georgia federal prison in 2005 at age 84.
 
 ## Why This Death Possibly Raises Questions
 
@@ -37,6 +39,15 @@ The prime suspect in the Shapiro murder was Berry L. Kessler, who was separately
 - The murder remains unsolved decades later.
 - The prime suspect (Berry L. Kessler) had a documented history of commissioning murder-for-hire operations, and FBI documents reference a possible link to Epstein.
 - The sequence of events — Shapiro's murder, followed by Epstein stepping into his role — raises questions about whether the killing could have been connected to Epstein's rise.
+
+## See Also — The Kessler Pattern
+
+- [Berry L. Kessler](Berry_Kessler.md) — Prime suspect, died in prison before questioning
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Took Shapiro's position after the murder
+- [Frank Yassenoff](Frank_Yassenoff.md) — Another Kessler business partner, shot to death (1970)
+- [Ella Rich](Ella_Rich.md) — Killed alongside Yassenoff (1970)
+- [Marjorie Dyer](Marjorie_Dyer.md) — Co-signed Yassenoff's will with Kessler, died in car accident
+- [John Deroo](John_Deroo.md) — Kessler business partner, shot six times (1991); Kessler convicted
 
 ## Sources
 

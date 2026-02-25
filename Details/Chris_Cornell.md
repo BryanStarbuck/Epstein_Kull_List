@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Chris Cornell
 Soundgarden vocalist linked to trafficking documentary, found hanged after concert; wife disputes suicide.
 
@@ -10,12 +12,12 @@ Soundgarden vocalist linked to trafficking documentary, found hanged after conce
 - **Suspicion Level:** SUSPICIOUS
 
 ## Connection to Epstein Network
-X users label Cornell the "main financial backer" or key driver behind "The Silent Children," an unreleased documentary on child sex trafficking. His lyrics — particularly references interpreted as alluding to "farming babies" — are cited as hints at trafficking rings connected to Epstein and Ghislaine Maxwell. Some posts tie his knowledge to Maxwell's alleged Venezuelan compound and the same international networks.
+X users label Cornell the "main financial backer" or key driver behind "The Silent Children," an unreleased documentary on child sex trafficking. His lyrics — particularly references interpreted as alluding to "farming babies" — are cited as hints at trafficking rings connected to [Jeffrey Epstein](Jeffrey_Epstein.md) and [Ghislaine Maxwell](Ghislaine_Maxwell.md). Some posts tie his knowledge to Maxwell's alleged Venezuelan compound and the same international networks.
 
 ## Circumstances Raising Suspicion
-- Died by hanging — the same method as Jeffrey Epstein, Jean-Luc Brunel, Mark Middleton, and Thomas Bowers
+- Died by hanging — the same method as [Jeffrey Epstein](Jeffrey_Epstein.md), [Jean-Luc Brunel](Jean_Luc_Brunel.md), [Mark Middleton](Mark_Middleton.md), and [Thomas Bowers](Thomas_Bowers.md)
 - Death occurred shortly before "The Silent Children" could allegedly be released
-- Close friend Chester Bennington died by the same method just two months later (July 2017)
+- Close friend [Chester Bennington](Chester_Bennington.md) died by the same method just two months later (July 2017)
 - The documentary project was reportedly halted after his death
 - Users argue there was no clear motive for suicide given his active career, recent Soundgarden album, and ongoing tour
 - His bodyguard reportedly noticed unusual behavior in his final hours, including slurred speech attributed to Ativan
@@ -29,10 +31,10 @@ The claimed connection to "The Silent Children" documentary has been disputed by
 
 ## Part of the 2017–2018 Death Cluster
 - Chris Cornell — May 18, 2017 (hanging)
-- Chester Bennington — July 20, 2017 (hanging)
-- Avicii — April 20, 2018 (self-inflicted wounds)
-- Kate Spade — June 5, 2018 (hanging)
-- Anthony Bourdain — June 8, 2018 (hanging)
+- [Chester Bennington](Chester_Bennington.md) — July 20, 2017 (hanging)
+- [Avicii](Avicii_Tim_Bergling.md) — April 20, 2018 (self-inflicted wounds)
+- [Kate Spade](Kate_Spade.md) — June 5, 2018 (hanging)
+- [Anthony Bourdain](Anthony_Bourdain.md) — June 8, 2018 (hanging)
 
 ## Sources
 - Wayne County Medical Examiner's report

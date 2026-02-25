@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Efrain "Stone" Reyes
 Epstein's last cellmate who spoke to investigators, died of COVID-19 weeks later.
 
@@ -22,7 +24,7 @@ Efrain "Stone" Reyes died in November 2020 from COVID-19. He was 51 years old.
 
 ## Background
 
-Reyes was Jeffrey Epstein's final cellmate at the Metropolitan Correctional Center in New York. He was transferred out of Epstein's cell one day before Epstein was found dead on August 10, 2019. After Epstein's death, Reyes was interviewed by federal investigators probing the circumstances.
+Reyes was [Jeffrey Epstein](Jeffrey_Epstein.md)'s final cellmate at the Metropolitan Correctional Center in New York. He was transferred out of Epstein's cell one day before Epstein was found dead on August 10, 2019. After Epstein's death, Reyes was interviewed by federal investigators probing the circumstances.
 
 ## Why This Death Possibly Raises Questions
 
@@ -31,6 +33,10 @@ Reyes was Jeffrey Epstein's final cellmate at the Metropolitan Correctional Cent
 - He died only weeks after talking with federal investigators who were probing Epstein's death.
 - As Epstein's cellmate, he may have had direct knowledge of Epstein's state of mind, any visitors, or any events in the hours and days before Epstein's death.
 - His death from COVID-19, however, occurred during a global pandemic that killed millions.
+
+## See Also
+
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Cellmate who died the next day
 
 ## Sources
 

@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Jeffrey Epstein
 Convicted sex trafficker found hanged in federal jail awaiting trial under deeply suspicious circumstances.
 
@@ -41,6 +43,20 @@ Chief Medical Examiner Barbara Sampson ruled the death as suicide by hanging. Th
 ## Background
 
 Epstein had a previous conviction in 2008 under a controversial Florida plea deal for soliciting prostitution from a minor, for which he served only 13 months. His death ended the pending federal criminal case but sparked numerous subsequent investigations into his associates and enablers.
+
+## See Also
+
+- [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Only convicted co-conspirator, serving 20 years
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Found hanged in Paris prison, same method
+- [Thomas Bowers](Thomas_Bowers.md) — Deutsche Bank wealth chief, found hanged 3 months later
+- [Mark Middleton](Mark_Middleton.md) — Clinton aide who admitted Epstein to White House
+- [Steven Hoffenberg](Steven_Hoffenberg.md) — Business partner who confessed about blackmail operation
+- [Virginia Giuffre](Virginia_Giuffre.md) — Most prominent accuser
+- [Alfredo Rodriguez](Alfredo_Rodriguez.md) — House manager who stole the "black book"
+- [Efrain "Stone" Reyes](Efrain_Stone_Reyes.md) — Last cellmate, transferred out one day before death
+- [Arthur Shapiro](Arthur_Shapiro.md) — Predecessor whose murder created Epstein's opening
+- [Joe Recarey](Joe_Recarey.md) — Lead detective on the original investigation
+- [Weiner Laptop Officers](../laptop.md) — NYPD officers who allegedly died after viewing related evidence
 
 ## Sources
 
