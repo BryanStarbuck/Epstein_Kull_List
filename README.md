@@ -52,8 +52,10 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Anthony Bourdain](Details/Anthony_Bourdain.md) | Hanging, ruled suicide | **SUSPICIOUS** | Vocal against abusers. Hanged in France, no warning. |
 | [Kate Spade](Details/Kate_Spade.md) | Hanging, ruled suicide | **UNCERTAIN** | Hanged three days before Bourdain. No Epstein link. |
 | [Trevor Moore](Details/Trevor_Moore.md) | Fell from balcony | **UNCERTAIN** | Comedian satirized Epstein "kill switch" theory. BAC 0.27. |
-| [Anne Heche](Details/Anne_Heche.md) | Car crash | **UNCERTAIN** | Promoting trafficking film before fiery crash. |
+| [Anne Heche](Details/Anne_Heche.md) | Car crash | **UNCERTAIN** | Starred in trafficking film *Girl in Room 13*. Cocaine/marijuana impairment. |
 | [Paul Walker](Details/Paul_Walker.md) | Car crash | **UNCERTAIN** | Alleged trafficking discovery during Haiti relief. |
+| [Kurt Cobain](Details/Kurt_Cobain.md) | Shotgun, ruled suicide | **UNCERTAIN** | Fringe theories link to music-industry trafficking. Speculative. |
+| [Andrew Breitbart](Details/Andrew_Breitbart.md) | Heart failure | **UNCERTAIN** | Died before releasing videos. Tweeted about Podesta trafficking cover-up. |
 | [Vitaly Churkin](Details/Vitaly_Churkin.md) | Sudden cardiac event | **UNCERTAIN** | Russian UN Ambassador. Cause withheld by State Dept. |
 | [Deborah Jeane Palfrey](Details/Deborah_Jeane_Palfrey.md) | Hanged in Florida | **UNCERTAIN** | "DC Madam." Said she'd never hang herself. Hanged 16 days post-conviction. |
 | [Two Unnamed Foreign Women](Details/Zorro_Ranch_Unnamed_Victims.md) | Allegedly strangled | Unverified | 2026 DOJ email alleging bodies near Zorro Ranch. Unverified. |
@@ -83,6 +85,10 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Nadia Marcinko](Details/Nadia_Marcinko.md) | Missing since January 2024 | Epstein's pilot, granted immunity in 2008. Vanished after files unsealed. |
 | [Brice & Karen Gordon](Details/Brice_Karen_Gordon.md) | Missing since ~2020 | Zorro Ranch managers for 20 years. Vanished after Maxwell's arrest. NM commission "people of interest." |
 | [Thorbjorn Jagland](Details/Thorbjorn_Jagland.md) | Hospitalized after suicide attempt, Feb 2026 | Former Norwegian PM charged with corruption over Epstein ties. |
+| [Prince Andrew](Details/Prince_Andrew.md) | Arrested Feb 2026 | First royal arrested in 400 years. Shared classified trade intel with Epstein. |
+| [Peter Mandelson](Details/Peter_Mandelson.md) | Arrested Feb 2026 | UK ex-ambassador. Accused of leaking government intel to Epstein. |
+| [Terje Rød-Larsen](Details/Terje_Rod_Larsen.md) | Under investigation, Feb 2026 | Norwegian diplomat. Epstein paid him $250K; left $10M to his children. |
+| [Mona Juul](Details/Mona_Juul.md) | Resigned and under investigation, Feb 2026 | Norwegian ambassador. Husband is Rød-Larsen. Epstein willed $5M per child. |
 | [Denise George](Details/Denise_George.md) | Fired Dec 2022; reported threats to FBI | USVI AG fired 4 days after suing JPMorgan over Epstein. Governor pressured her to drop case. |
 | [Esther Salas](Details/Esther_Salas.md) | Son murdered July 2020; survived attack | Federal judge assigned Epstein-Deutsche Bank case 4 days before gunman killed her son. Gunman had Kroll Associates intel background. |
 
@@ -120,7 +126,7 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 
 **Caribbean / USVI government protection:** Epstein operated his trafficking network from Little St. James island in the U.S. Virgin Islands from 1998 until his 2019 arrest. The USVI government actively protected him: Governor Albert Bryan texted Epstein "We got u" and pressured AG [Denise George](Details/Denise_George.md) to grant sex offender waivers and drop the investigation. Former First Lady Cecile de Jongh was on Epstein's payroll at $200K/year and helped him craft legislation to weaken sex offender monitoring. George was fired four days after suing JPMorgan for facilitating Epstein's crimes and told the FBI she felt threatened. No confirmed suspicious deaths have occurred in the Caribbean connected to Epstein, but the institutional protection apparatus — involving two USVI governors — demonstrates how powerful the cover-up network was.
 
-**European Epstein fallout (2026):** The DOJ file releases triggered a political reckoning across Europe. [Jean-Luc Brunel](Details/Jean_Luc_Brunel.md) died in a Paris prison in 2022. In February 2026, [Thorbjorn Jagland](Details/Thorbjorn_Jagland.md) (former Norwegian PM) was hospitalized after a suicide attempt following corruption charges tied to Epstein. Prince Andrew was arrested in the UK, Peter Mandelson was arrested for leaking government info to Epstein, Norwegian ambassador Mona Juul resigned, and French prosecutors formed a special team to analyze the files. [Robert Maxwell](Details/Robert_Maxwell.md) (1991), [William Broeksmit](Details/William_Broeksmit.md) (London, 2014), [Wendy Leigh](Details/Wendy_Leigh.md) (London, 2016), [Anastasia Drozdova](Details/Anastasia_Drozdova.md) (Kyiv, 2009), and [Anthony Bourdain](Details/Anthony_Bourdain.md) (France, 2018) all died in Europe.
+**European Epstein fallout (2026):** The DOJ file releases triggered a political reckoning across Europe. [Jean-Luc Brunel](Details/Jean_Luc_Brunel.md) died in a Paris prison in 2022. In February 2026, [Thorbjorn Jagland](Details/Thorbjorn_Jagland.md) (former Norwegian PM) was hospitalized after a suicide attempt following corruption charges. [Prince Andrew](Details/Prince_Andrew.md) was arrested on his 66th birthday — the first royal arrested in nearly 400 years — for sharing classified trade intelligence with Epstein. [Peter Mandelson](Details/Peter_Mandelson.md) was arrested for leaking market-sensitive government information to Epstein. [Terje Rød-Larsen](Details/Terje_Rod_Larsen.md) and [Mona Juul](Details/Mona_Juul.md) are both under criminal investigation in Norway; Epstein willed $10M to their children. Juul resigned as ambassador. France's Jack Lang resigned. Slovakia's Miroslav Lajcak stepped down. Countries launching investigations include France, UK, Norway, Turkey, Poland, Lithuania, Latvia, Australia, North Macedonia, and Sweden. European deaths: [Robert Maxwell](Details/Robert_Maxwell.md) (1991), [William Broeksmit](Details/William_Broeksmit.md) (London, 2014), [Wendy Leigh](Details/Wendy_Leigh.md) (London, 2016), [Anastasia Drozdova](Details/Anastasia_Drozdova.md) (Kyiv, 2009), and [Anthony Bourdain](Details/Anthony_Bourdain.md) (France, 2018).
 
 **Trafficking investigators/researchers who died:** [Gary Caradori](Details/Gary_Caradori.md) (Franklin scandal investigator, plane disintegrated 1990), [Danny Casolaro](Details/Danny_Casolaro.md) (PROMIS investigator, wrists slashed 1991), [Monica Petersen](Details/Monica_Petersen.md) (Haiti trafficking researcher, died 2016), [Max Spiers](Details/Max_Spiers.md) (elite pedophilia researcher, died Poland 2016), [Jenny Moore](Details/Jenny_Moore.md) (trafficking journalist, found dead DC 2018), [Isaac Kappy](Details/Isaac_Kappy.md) (named Hollywood pedophiles, fell from bridge 2019), and [Tracy Twyman](Details/Tracy_Twyman.md) (continued Kappy's research, hanged 2019). Multiple independent researchers investigating elite abuse networks have died across three decades.
 
@@ -160,4 +166,4 @@ Private investigator Ed Opperman: *"There were a lot of people entrapped and ent
 
 ---
 
-*Last Updated: February 25, 2026*
+*Last Updated: February 26, 2026*
