@@ -49,6 +49,17 @@ Jagland's case is part of a broader European reckoning triggered by the 2026 Eps
 - **Jack Lang** (France) — former Culture Minister, resigned
 - **Miroslav Lajcak** (Slovakia) — national security adviser, stepped down
 
+## Key Quotes from Media Coverage
+
+> "Jagland's attorney confirmed he was hospitalized as a result of stress following the probe into his relationship with Epstein, but he denied the former prime minister had tried to end his life."
+> — [Snopes (February 2026)](https://www.snopes.com/news/2026/02/25/epstein-norwegian-prime-minister-suicide/)
+
+> "No evidence has linked Jagland to Epstein's criminal sexual activities or any direct involvement in abuse or trafficking. The main focus of the probe is on him allegedly accepting undue benefits or peddling influence."
+> — [BBN Times (February 2026)](https://www.bbntimes.com/politics/former-norwegian-pm-thorbjorn-jagland-hospitalized-after-reported-suicide-attempt-amid-epstein-corruption-probe)
+
+> "Jagland and his family members planned or made visits to Epstein's properties in Paris, New York, and Palm Beach, Florida... There are also reports that they planned a visit to Epstein's private island."
+> — [Anadolu Agency (February 2026)](https://www.aa.com.tr/en/europe/former-norwegian-premier-hospitalized-after-suicide-attempt-amid-epstein-corruption-charges-report/3839028)
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Primary subject
@@ -63,5 +74,12 @@ Jagland's case is part of a broader European reckoning triggered by the 2026 Eps
 - [Daily Sabah: Ex-Norway PM hospitalized after suicide attempt amid Epstein probe](https://www.dailysabah.com/world/europe/ex-norway-pm-hospitalized-after-suicide-attempt-amid-epstein-probe)
 - [NPR: Epstein files fallout takes down elite figures in Europe](https://www.npr.org/2026/02/14/nx-s1-5714609/epstein-europe-fallout)
 - [Al Jazeera: Epstein files fallout](https://www.aljazeera.com/news/2026/2/24/epstein-files-fallout-muted-us-response-vs-political-reckoning-in-europe)
+- [Snopes: Unpacking claims former Norwegian PM attempted suicide over Epstein ties](https://www.snopes.com/news/2026/02/25/epstein-norwegian-prime-minister-suicide/)
+- [BBN Times: Former Norwegian PM Thorbjorn Jagland Hospitalized After Reported Suicide Attempt Amid Epstein Corruption Probe](https://www.bbntimes.com/politics/former-norwegian-pm-thorbjorn-jagland-hospitalized-after-reported-suicide-attempt-amid-epstein-corruption-probe)
+- [Boing Boing: Norway's former PM hospitalized after suicide attempt amid Epstein corruption charges](https://boingboing.net/2026/02/24/norways-former-pm-hospitalized-after-suicide-attempt-amid-epstein-corruption-charges.html)
+- [WION News: Norwegian ex-PM hospitalized after suicide attempt following corruption charges linked to Epstein](https://www.wionews.com/world/norwegian-ex-pm-thorbj-rn-jagland-hospitalised-after-suicide-attempt-following-corruption-charges-linked-to-paedophile-epstein-reports-1771940233381)
+- [IBTimes UK: Did Thorbjorn Jagland Attempt to Take His Own Life?](https://www.ibtimes.co.uk/norwegian-pm-jagland-hospitalised-corruption-charges-1781742)
+- [The Statesman: Former Norwegian PM hospitalized after 'suicide attempt' amid Epstein-linked corruption probe](https://www.thestatesman.com/world/former-norwegian-pm-thorbjorn-jagland-hospitalised-after-suicide-attempt-amid-epstein-linked-corruption-probe-report-1503562187.html)
+- [Al Jazeera: Norway police investigate former PM Jagland over Epstein ties](https://www.aljazeera.com/economy/2026/2/6/norway-police-probes-former-pm-jagland-over-epstein-ties)
 
 *This information was built by Grok and Claude AI research.*

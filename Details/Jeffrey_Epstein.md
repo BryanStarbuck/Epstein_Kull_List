@@ -44,6 +44,20 @@ Chief Medical Examiner Barbara Sampson ruled the death as suicide by hanging. Th
 
 Epstein had a previous conviction in 2008 under a controversial Florida plea deal for soliciting prostitution from a minor, for which he served only 13 months. His death ended the pending federal criminal case but sparked numerous subsequent investigations into his associates and enablers.
 
+## Key Quotes from Media Coverage
+
+> "I have never seen three fractures like this in a suicidal hanging. Going over a thousand jail hangings, suicides in the New York City state prisons over the past 40-50 years, no one had three fractures."
+> — Dr. Michael Baden, forensic pathologist hired by Epstein's family, on [CBS 60 Minutes](https://www.cbsnews.com/news/jeffrey-epstein-autopsy-a-closer-look-60-minutes-2020-01-05/)
+
+> "I could see if he got a life sentence, I could then see him taking himself out, but he had a bail hearing coming up."
+> — Mark Epstein, Jeffrey Epstein's brother, rejecting suicide as the cause of death, via [Newsweek](https://www.newsweek.com/jeffrey-epstein-murdered-conspiracy-theory-piers-morgan-brother-interview-1859542)
+
+> "Numerous and serious failures by MCC New York staff constituting misconduct and dereliction of their duties... resulted in Epstein being unmonitored and alone in his cell with an excessive amount of bed linens."
+> — DOJ Office of the Inspector General, [official report](https://oig.justice.gov/reports/investigation-and-review-federal-bureau-prisons-custody-care-and-supervision-jeffrey)
+
+> "The movement is more consistent with an inmate — or someone wearing an orange prison uniform — than a corrections officer."
+> — Independent video analysts reviewing newly released surveillance logs, via [CBS News](https://www.cbsnews.com/news/epstein-files-jail-cell-death-video-logs/)
+
 ## See Also
 
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Only convicted co-conspirator, serving 20 years
@@ -63,5 +77,16 @@ Epstein had a previous conviction in 2008 under a controversial Florida plea dea
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 - [Times Now Investigation](https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534)
 - [Wikipedia: Death of Jeffrey Epstein](https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein)
+- [CBS News: Who entered Epstein's jail tier the night of his death? Newly released video logs appear to contradict official accounts](https://www.cbsnews.com/news/epstein-files-jail-cell-death-video-logs/)
+- [CBS 60 Minutes: Jeffrey Epstein's autopsy — a closer look](https://www.cbsnews.com/news/jeffrey-epstein-autopsy-a-closer-look-60-minutes-2020-01-05/)
+- [NPR: Pathologist Hired By Jeffrey Epstein's Brother Says Signs Point To Homicide](https://www.npr.org/2019/10/30/774838950/jeffrey-epstein-case-expert-hired-by-his-family-suggests-doubt-on-suicide-findin)
+- [PBS News: Misconduct by federal jail guards led to Jeffrey Epstein's suicide, DOJ watchdog says](https://www.pbs.org/newshour/nation/misconduct-by-federal-jail-guards-led-to-jeffrey-epsteins-suicide-doj-watchdog-says)
+- [DOJ OIG: Investigation and Review of the Federal Bureau of Prisons' Custody, Care, and Supervision of Jeffrey Epstein](https://oig.justice.gov/reports/investigation-and-review-federal-bureau-prisons-custody-care-and-supervision-jeffrey)
+- [CBS News: Massive trove of Epstein files released by DOJ, including 3 million documents and photos](https://www.cbsnews.com/live-updates/epstein-files-released-doj-2026/)
+- [NBC News: Jeffrey Epstein's autopsy found broken neck bone](https://www.nbcnews.com/news/us-news/jeffrey-epstein-s-autopsy-found-broken-neck-bone-source-says-n1042741)
+- [Newsweek: Jeffrey Epstein's Brother Renews Conspiracy Theories About Death](https://www.newsweek.com/jeffrey-epstein-murdered-conspiracy-theory-piers-morgan-brother-interview-1859542)
+- [NPR: Jeffrey Epstein Found Dead Early Saturday Morning](https://www.npr.org/2019/08/10/750113214/jeffrey-epstein-found-dead-early-saturday-morning)
+- [ABC News: Jeffrey Epstein's suicide — New details revealed](https://abcnews.com/US/jeffrey-epsteins-suicide-new-details-revealed/story?id=100405667)
+- [DOJ: Epstein Files Transparency Act Disclosures](https://www.justice.gov/epstein/doj-disclosures)
 
 *This information was built by Grok and Claude AI research.*

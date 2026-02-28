@@ -57,6 +57,20 @@ Cecile de Jongh, wife of former USVI Governor John de Jongh (2007–2015), was a
 - Worked with Epstein on weakening sex offender monitoring legislation, asking him "This is the suggested language; will it work for you?"
 - Received tuition payments from Epstein for her children
 
+## Key Quotes from Media Coverage
+
+> "I can't get you to let this go?"
+> — Governor Albert Bryan Jr. to AG Denise George, regarding the Epstein estate litigation, per FBI interview memo, [St. Thomas Source (January 2026)](https://stthomassource.com/content/2026/01/30/i-cant-get-you-to-let-this-go-epstein-documents-shed-light-on-former-v-i-attorney-generals-ouster/)
+
+> "We got u" and "For u absolutely"
+> — Governor Bryan, text messages to Epstein released in the Epstein files, [Mediaite](https://www.mediaite.com/media/news/for-u-absolutely-text-messages-show-democrat-governor-was-helping-jeffrey-epstein-months-before-his-2019-arrest/)
+
+> "No attorney general would file legal action without notifying the governor."
+> — Publicly stated reason for George's firing, per FBI summary, [LA Magazine (2026)](https://lamag.com/crimeinla/doj-epstein-file-dump-revives-former-usvi-ags-claim-she-felt-threatened-after-suing-epsteins-estate/)
+
+> "This is the suggested language; will it work for you?"
+> — Cecile de Jongh, former USVI first lady, to Epstein regarding weakening sex offender monitoring legislation, [NBC News](https://www.nbcnews.com/news/us-news/jpmorgan-alleges-ex-virgin-islands-first-lady-aided-jeffrey-epstein-rcna86365)
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Primary subject, owned Little St. James island in USVI
@@ -72,5 +86,14 @@ Cecile de Jongh, wife of former USVI Governor John de Jongh (2007–2015), was a
 - [Fortune: Attorney general says she was fired for her dogged pursuit](https://fortune.com/2023/11/17/jeffrey-epstein-us-virgin-islands-jpmorgan-attorney-general-investigation-fired/)
 - [Mediaite: Text Messages Show Democrat Governor Was Helping Epstein](https://www.mediaite.com/media/news/for-u-absolutely-text-messages-show-democrat-governor-was-helping-jeffrey-epstein-months-before-his-2019-arrest/)
 - [NBC News: JPMorgan alleges wife of USVI ex-governor aided Epstein](https://www.nbcnews.com/news/us-news/jpmorgan-alleges-ex-virgin-islands-first-lady-aided-jeffrey-epstein-rcna86365)
+- [VI Consortium: Former AG Denise George's Allegations Against Gov. Bryan, Others Surface in Latest DOJ Epstein Release](https://viconsortium.com/vi-federal/virgin-islands-former-ag-denise-george-s-allegations-against-gov--bryan--others-surface-in-latest-doj-epstein-release)
+- [VI Consortium: Power Play — Governor Bryan, Epstein, and The Now-Fired Attorney General's Unsealed Revelations](https://viconsortium.com/vi-government/virgin-islands-power-play-governor-bryan-epstein-and-the-now-fired-attorney-generals-unsealed-revelations)
+- [Front Page Detectives: Newly Released Texts Show Epstein in Contact With Democratic USVI Governor Just Weeks Before Arrest](https://www.frontpagedetectives.com/p/newly-uncovered-messages-reveal-epstein-reached-out-to-democrat-governor-ahead-of-2019-arrest)
+- [Virgin Islands Daily News: Former AG describes pressure from Governor to waive requirement for Epstein](https://www.virginislandsdailynews.com/news/former-ag-describes-pressure-from-governor-to-waive-requirement-for-epstein/article_03fc1568-a32f-5b6a-bc9b-42d04c10bea3.html)
+- [Democracy Now: USVI Attorney General Fired Days After Suing JPMorgan Chase for Financing Epstein Sex Trafficking](https://www.democracynow.org/2023/1/11/headlines/usvi_attorney_general_fired_days_after_suing_jpmorgan_chase_for_financing_epstein_sex_trafficking)
+- [Fox News: Virgin Islands AG fired days after filing suit alleging JPMorgan, Jeffrey Epstein ties](https://www.foxnews.com/politics/virgin-islands-ag-fired-days-filing-suit-alleging-jpmorgan-jeffrey-epstein-ties-gov-responds)
+- [Lee Fang: Jeffrey Epstein Exploited the U.S. Virgin Islands for a Reason](https://www.leefang.com/p/jeffrey-epstein-exploited-the-us)
+- [Law & Crime: Jeffrey Epstein had 'close ties' to Virgin Islands governor who fired crusading AG behind JPMorgan suit](https://lawandcrime.com/jeffrey-epstein-2/jeffrey-epstein-had-close-ties-to-virgin-islands-governor-who-fired-crusading-ag-behind-jpmorgan-suit-doc/)
+- [Wikipedia: Denise George](https://en.wikipedia.org/wiki/Denise_George)
 
 *This information was built by Grok and Claude AI research.*

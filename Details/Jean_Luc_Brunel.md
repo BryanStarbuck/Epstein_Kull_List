@@ -42,6 +42,20 @@ Brunel was detained in December 2020 at Paris Charles de Gaulle airport while at
 - Victims expressed frustration that they would never have their day in court after his death.
 - Brunel denied all wrongdoing throughout the proceedings.
 
+## Key Quotes from Media Coverage
+
+> "It makes me angry, because I've been fighting for years. For me, the end of this was to be in court. And now that whole ending — which would help form closure — is taken away from me."
+> — **Thysia Huisman**, Dutch former model who alleged Brunel drugged and raped her as a teenager ([NPR](https://www.npr.org/2022/02/19/1081961087/jeffrey-epstein-jean-luc-brunel-dead))
+
+> "Great disappointment, great frustration that the victims won't get justice."
+> — **Anne-Claire Lejeune**, lawyer representing Brunel's accusers ([NBC News](https://www.nbcnews.com/news/world/modeling-agent-linked-jeffrey-epstein-found-dead-prison-cell-rcna16945))
+
+> "His decision was not driven by guilt but by a deep sense of injustice."
+> — **Brunel's defense attorneys**, in a statement following his death ([NBC News](https://www.nbcnews.com/news/world/modeling-agent-linked-jeffrey-epstein-found-dead-prison-cell-rcna16945))
+
+> "I am disappointed that I was not able to face him in a final trial and hold him accountable for his actions, but gratified that I was able to face him in person last year in Paris, to keep him in prison."
+> — **Virginia Giuffre**, key Epstein accuser who testified against Brunel ([ABC News](https://abcnews.com/International/jeffrey-epstein-associate-jean-luc-brunel-found-dead/story?id=83001807))
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Found hanged in same manner
@@ -54,7 +68,17 @@ Brunel was detained in December 2020 at Paris Charles de Gaulle airport while at
 
 ## Sources
 
-- [BBC News](https://www.bbc.com/news/world-europe-60443518)
+- [BBC News: Jean-Luc Brunel, model agent accused of procuring girls for Jeffrey Epstein, found dead](https://www.bbc.com/news/world-europe-60443518)
+- [NBC News: Jean-Luc Brunel, modeling agent linked to Jeffrey Epstein, found dead in prison cell](https://www.nbcnews.com/news/world/modeling-agent-linked-jeffrey-epstein-found-dead-prison-cell-rcna16945)
+- [NPR: Jeffrey Epstein associate Jean-Luc Brunel is found dead in a French jail cell](https://www.npr.org/2022/02/19/1081961087/jeffrey-epstein-jean-luc-brunel-dead)
+- [CNN: Jean-Luc Brunel, French modeling agent and associate of Jeffrey Epstein, found dead in prison cell](https://www.cnn.com/2022/02/19/europe/jean-luc-brunel-jeffrey-epstein-death-intl)
+- [ABC News: Jeffrey Epstein associate Jean-Luc Brunel found dead by suicide in prison](https://abcnews.com/International/jeffrey-epstein-associate-jean-luc-brunel-found-dead/story?id=83001807)
+- [Al Jazeera: Jean-Luc Brunel — Ex-Epstein associate found dead in French jail](https://www.aljazeera.com/news/2022/2/19/modeling-agent-close-to-epstein-found-dead-in-french-jail)
+- [Times of Israel: Epstein-linked modeling agent found dead in French jail cell](https://www.timesofisrael.com/epstein-linked-modeling-agent-found-dead-in-french-jail-cell/)
+- [FashionUnited: Lawyers of French Epstein ally demand probe into suicide](https://fashionunited.in/news/people/lawyers-of-french-epstein-ally-demand-probe-into-suicide/2024010943147)
+- [Democracy Now: French Prosecutors Reopen Probe Into Epstein Associates Including Model Scout Jean-Luc Brunel](https://www.democracynow.org/2026/2/20/headlines/french_prosecutors_reopen_probe_into_epstein_associates_including_model_scout_jean_luc_brunel)
+- [Detroit News: Epstein files prompt France to open probes, revisit Brunel](https://eu.detroitnews.com/story/news/world/2026/02/16/epstein-files-prompt-france-to-open-probes-revisit-brunel/88701135007/)
+- [Wikipedia: Jean-Luc Brunel](https://en.wikipedia.org/wiki/Jean-Luc_Brunel)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 
 *This information was built by Grok and Claude AI research.*

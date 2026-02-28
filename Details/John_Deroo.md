@@ -39,6 +39,17 @@ Kessler's documented willingness to arrange contract killings adds weight to sus
 - Kessler was separately the prime suspect in the [Arthur Shapiro](Arthur_Shapiro.md) murder that created the opening for Epstein
 - Demonstrates Kessler's confirmed pattern of murder-for-hire operations
 
+## Key Quotes from Media Coverage
+
+> "You have attempted to portray yourself as a kindly senior citizen. The reality is that you, in a most cold and calculated fashion, plotted and carried out a contract-style murder. You are, in fact, a clever, cunning and merciless killer."
+> — **Judge William Webb**, sentencing Berry Kessler to death for the murder of John Deroo ([Tampa Bay Times](https://www.tampabay.com/archive/1997/02/20/75-year-old-is-sentenced-to-death-for-murder-plot/))
+
+> "He's going to die in prison regardless. He's going to be 87 before they get him into the electric chair."
+> — **Paul Firmani**, Assistant Public Defender, arguing against the death penalty for the 75-year-old Kessler ([Tampa Bay Times](https://www.tampabay.com/archive/1997/02/20/75-year-old-is-sentenced-to-death-for-murder-plot/))
+
+> "Kessler was charged in Florida with arranging the slaying of a business partner, John Deroo. He was convicted of that crime in 1994 and died in prison in 2005."
+> — **Whitney Webb**, Unlimited Hangout, connecting the Deroo murder to the broader Kessler-Wexner-Epstein pattern ([Unlimited Hangout](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/))
+
 ## See Also
 
 - [Berry L. Kessler](Berry_Kessler.md) — Convicted of arranging Deroo's murder; prime suspect in Shapiro murder
@@ -49,7 +60,12 @@ Kessler's documented willingness to arrange contract killings adds weight to sus
 ## Sources
 
 - [Tampa Bay Times: 75-year-old sentenced to death for murder plot](https://www.tampabay.com/archive/1997/02/20/75-year-old-is-sentenced-to-death-for-murder-plot/)
+- [Tampa Bay Times: On tape, Kessler talks of slaying](https://www.tampabay.com/archive/1993/09/09/on-tape-kessler-talks-of-slaying/)
+- [Tampa Bay Times: Man gets life in killings for hire](https://www.tampabay.com/archive/1994/09/30/man-gets-life-in-killings-for-hire/)
 - [Kessler v. State (1999) — Florida Supreme Court](https://caselaw.findlaw.com/court/fl-supreme-court/1402527.html)
-- [Unlimited Hangout — Whitney Webb: The Deeper Mystery Behind the Arthur Shapiro Homicide](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/)
+- [Florida Supreme Court Docket: Berry Kessler v. State of Florida (PDF)](https://library.law.fsu.edu/Digital-Collections/flsupct/dockets/90035/90035a.pdf)
+- [Florida Supreme Court Oral Argument: Case 900 — Kessler v. State](https://wfsu.org/gavel2gavel/viewcase.php?eid=526)
+- [Unlimited Hangout — Whitney Webb: A Kingpin, the Mob, and a Murder — The Deeper Mystery Behind the Arthur Shapiro Homicide](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/)
+- [The Daily Beast: Who Murdered Arthur Shapiro, the Lawyer of Victoria's Secret Billionaire Les Wexner?](https://www.thedailybeast.com/who-murdered-arthur-shapiro-the-lawyer-of-victorias-secret-billionaire-les-wexner/)
 
 *This information was built by Grok and Claude AI research.*

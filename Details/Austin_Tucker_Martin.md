@@ -43,6 +43,17 @@ Martin's death occurred three days before the February 25, 2026 news cycle about
 - His text messages explicitly reference the Epstein files as his motivation
 - Occurred during the peak of the 2026 Epstein file release cycle
 
+## Key Quotes from Media Coverage
+
+> "I don't know if you read up on the Epstein Files, but evil is real and unmistakable."
+> — Austin Tucker Martin, text message to a co-worker on February 15, 2026, one week before the incident, via [TMZ](https://www.tmz.com/2026/02/22/mar-a-lago-armed-man-shot-dead-texts-show-epstein-files-fixation/)
+
+> "Austin Tucker Martin rarely, if ever, talked about politics, seemed afraid of guns, and came from a family of Trump supporters."
+> — Family members describing Martin before his radicalization, via [ABC7](https://abc7chicago.com/post/was-austin-tucker-martin-north-carolina-man-shot-dead-mar-lago-never-interested-politics-guns-family-says/18649936/)
+
+> "He was deeply disturbed by what he believed was a government cover-up and often talked about powerful people 'getting away with it.'"
+> — Co-workers at Pine Needles Lodge & Golf Club, via [Newsweek](https://www.newsweek.com/mar-a-lago-suspect-austin-tucker-martin-was-angry-over-epstein-files-report-11564224)
+
 ## Sources
 
 - [TMZ: Armed Man Shot Dead at Mar-a-Lago Was Fixated on Epstein Files](https://www.tmz.com/2026/02/22/mar-a-lago-armed-man-shot-dead-texts-show-epstein-files-fixation/)
@@ -50,5 +61,12 @@ Martin's death occurred three days before the February 25, 2026 news cycle about
 - [Newsweek: Mar-a-Lago Suspect Austin Tucker Martin Was Angry Over Epstein Files](https://www.newsweek.com/mar-a-lago-suspect-austin-tucker-martin-was-angry-over-epstein-files-report-11564224)
 - [CNN: Armed man shot and killed after entering Mar-a-Lago perimeter](https://edition.cnn.com/2026/02/22/politics/mar-a-lago-man-shot-armed)
 - [NewsNation: Law enforcement investigating whether Mar-a-Lago suspect motivated by Epstein](https://www.newsnationnow.com/crime/mar-a-lago-breach-motive-epstein/)
+- [The New Republic: Mar-a-Lago Gunman Was a Trump Supporter and Angry About Epstein Files](https://newrepublic.com/post/206899/mar-a-lago-gunman-trump-supporter-epstein-files)
+- [ABC7: Who was Austin Tucker Martin? North Carolina man shot dead at Mar-a-Lago](https://abc7chicago.com/post/was-austin-tucker-martin-north-carolina-man-shot-dead-mar-lago-never-interested-politics-guns-family-says/18649936/)
+- [The Daily Beast: Mar-a-Lago Gunman's Real Politics Revealed as Leavitt Blames Dems](https://www.thedailybeast.com/mar-a-lago-gunmans-real-politics-revealed-as-leavitt-blames-dems/)
+- [Detroit News: Armed man shot dead at Mar-a-Lago was obsessed with Epstein files](https://eu.detroitnews.com/story/news/nation/2026/02/23/armed-man-shot-dead-at-mar-a-lago-was-obsessed-with-epstein-files-reports-say/88829237007/)
+- [La Voce di New York: Who Was Austin Tucker Martin, the Armed Man Shot Dead at Mar-A-Lago?](https://lavocedinewyork.com/en/news/2026/02/24/man-wielding-shotgun-and-gas-cannister-shot-dead-at-mar-a-lago/)
+- [Post Millennial: 21-year-old Austin Martin who was shot, killed during 'unauthorized entry' to Mar-a-Lago was obsessed with Epstein files](https://thepostmillennial.com/breaking-man-who-tried-to-breach-mar-a-lago-identified-as-21-year-old-from-nc)
+- [Spectrum News NC: N.C. man killed at Mar-a-Lago wasn't interested in politics or guns, cousin says](https://spectrumlocalnews.com/nc/charlotte/news/2026/02/23/austin-martin-shot-mar-a-lago-trump-)
 
 *This information was built by Grok and Claude AI research.*

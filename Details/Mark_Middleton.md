@@ -75,11 +75,28 @@ Middleton served as a Special Assistant to President Bill Clinton and as an aide
 
 See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_Maxwell.md) | [Thomas Bowers](Thomas_Bowers.md)
 
+## Key Quotes from Media Coverage
+
+> "He found a tree and he pulled a table over there, and he got on that table, and he took an extension cord and put it around a limb, put it around his neck and he shot himself in the chest with a shotgun."
+> — **Sheriff Scott Montgomery**, Perry County, Arkansas, describing the official account of Middleton's death ([RadarOnline via Arkansas Times](https://arktimes.com/arkansas-blog/2022/06/08/family-seeks-to-shield-images-of-mark-middletons-death-in-perry-county))
+
+> "The Court finds that since Mr. Middleton's death, the Middletons have been harassed by individuals with outlandish, hurtful, unsubstantiated, and offensive conspiracy theories regarding Mr. Middleton, his death, and his family, which have caused the Middletons immense harm and anguish."
+> — **Circuit Judge Alice Gray**, Perry County Circuit Court, granting the injunction to seal death scene photos ([Arkansas Times](https://arktimes.com/arkansas-blog/2022/06/22/judge-seals-photos-of-mark-middleton-suicide))
+
+> "Shielding records won't discourage the conspiracy theorists, it will only encourage them."
+> — **Max Brantley**, Arkansas Times editor, commenting on the decision to seal records ([Arkansas Times](https://arktimes.com/arkansas-blog/2022/06/08/family-seeks-to-shield-images-of-mark-middletons-death-in-perry-county))
+
 ## Sources
 
+- [Arkansas Times: Family seeks to shield images of Mark Middleton's death in Perry County](https://arktimes.com/arkansas-blog/2022/06/08/family-seeks-to-shield-images-of-mark-middletons-death-in-perry-county)
 - [Arkansas Times: Judge seals photos of Mark Middleton suicide](https://arktimes.com/arkansas-blog/2022/06/22/judge-seals-photos-of-mark-middleton-suicide)
 - [Wikipedia: Mark Middleton (businessman)](https://en.wikipedia.org/wiki/Mark_Middleton_(businessman))
+- [Arkansas Democrat-Gazette: Family of former Clinton aide seek order sealing images](https://www.nwaonline.com/news/2022/jun/08/family-of-former-clinton-aide-seek-order-sealing/)
+- [PolitiFact: The death of a former Clinton White House aide was ruled a suicide, not murder](https://www.politifact.com/factchecks/2023/feb/23/facebook-posts/former-clinton-white-house-aide-wasnt-murdered/)
+- [The Sun: Mystery sparked over death of Bill Clinton aide Mark Middleton](https://www.the-sun.com/news/7462276/death-bill-clinton-aide-mark-middleton/)
+- [The Sun: Heartbreaking last text of top Clinton aide Mark Middleton](https://www.the-sun.com/news/7478845/heartbreaking-last-text-clinton-aide-mark-middleton/)
+- [Heavy: Mark Middleton — 5 Fast Facts You Need to Know](https://heavy.com/news/mark-middleton/)
+- [NewsBreak: Shotgun Found 30 Feet From Ex-Bill Clinton Aide Mark Middleton's Body Following His Apparent Suicide](https://www.newsbreak.com/radaronline-561399/2935432724422-shotgun-found-30-feet-from-ex-bill-clinton-aide-mark-middleton-s-body-following-his-apparent-suicide)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
-- [Arkansas Democrat-Gazette: Family of former Clinton aide seek order sealing images](https://www.arkansasonline.com/news/2022/jun/08/family-of-former-clinton-aide-seek-order-sealing/)
 
 *This information was built by Grok and Claude AI research.*

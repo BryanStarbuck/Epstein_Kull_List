@@ -45,8 +45,25 @@ Of the seven named officers in the Weiner laptop claim, Rios has the least amoun
 
 See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_Maxwell.md)
 
+## Key Quotes from Media Coverage
+
+> "This is heartbreaking. The NYPD family is in our city's prayers today."
+> — New York City Mayor Bill de Blasio, after Rios became the eighth NYPD officer to die by suicide in 2019 ([Hudson Valley Post](https://hudsonvalleypost.com/cop-found-dead-in-lower-hudson-valley-home/))
+
+> "A preliminary investigation yielded no indications of foul play, and the manner of death appears self-inflicted in an apparent suicide."
+> — Yonkers Police Department statement ([Yonkers Tribune](https://www.yonkerstribune.com/2019/08/blue-truth-yonkers-police-department-issue-a-press-release-regarding-the-suicide-of-a-new-york-police-officer-who-committed-suicide-at-a-shoreview-drive-address-in-yonkers-ny-by-hezi-aris))
+
+> "Tonight our city mourns a tragedy. We won't let anyone struggle alone. I want every one of New York's Finest to know we are here for you."
+> — New York City Mayor Bill de Blasio, the following day after the ninth NYPD suicide ([Newsweek](https://www.newsweek.com/day-after-eighth-nypd-suicide-this-year-veteran-officer-kills-himself-queens-1454435))
+
 ## Sources
 
 - [TIME: 10 NYPD Officers Have Died by Suicide in 2019](https://time.com/5702036/10th-police-suicide-nypd-new-york-city/)
+- [News 12 Bronx: NYPD officer from Yonkers laid to rest](https://bronx.news12.com/nypd-officer-from-yonkers-laid-to-rest-40930050)
+- [NY Attorney General: Statement From Attorney General James On Death Of NYPD Officer](https://ag.ny.gov/press-release/2019/statement-attorney-general-james-death-nypd-officer)
+- [Vibe: The Eighth NYPD Cop To Die By Suicide In 2019 Left Note](https://www.vibe.com/news/national/new-york-city-cop-suicide-660685/)
+- [Hudson Valley Post: Cop Found Dead in Lower Hudson Valley Home](https://hudsonvalleypost.com/cop-found-dead-in-lower-hudson-valley-home/)
+- [NBC New York: Sixth NYPD Officer Dies by Suicide Since the Beginning of June](https://www.nbcnewyork.com/news/local/sixth-nypd-officer-dies-by-suicide-in-the-last-two-months/1507050/)
+- [Yonkers Tribune: Yonkers Police Department Press Release Regarding NYPD Officer Suicide](https://www.yonkerstribune.com/2019/08/blue-truth-yonkers-police-department-issue-a-press-release-regarding-the-suicide-of-a-new-york-police-officer-who-committed-suicide-at-a-shoreview-drive-address-in-yonkers-ny-by-hezi-aris)
 
 *This information was built by Grok and Claude AI research.*

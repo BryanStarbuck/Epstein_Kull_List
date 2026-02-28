@@ -35,11 +35,30 @@ However, Kappy had no known history of suicidal ideation prior to the final note
 - [Tracy Twyman](Tracy_Twyman.md) — continued Kappy's research, found hanged July 2019
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — arrested July 2019, found dead August 2019
 
+## Key Quotes from Media Coverage
+
+> "Beware the man that has nothing to lose, for he has nothing to protect."
+>
+> — Isaac Kappy, [final Instagram post before his death](https://vigilantcitizen.com/latestnews/the-haunting-last-words-of-isaac-kappy-now-i-am-one-of-them/) (May 12, 2019)
+
+> "This will likely be my last broadcast... I am not suicidal... Have I become one of them? I am. Now I am one of them."
+>
+> — Isaac Kappy, [final video recording](https://vigilantcitizen.com/latestnews/the-haunting-last-words-of-isaac-kappy-now-i-am-one-of-them/) (days before his death)
+
+> "Actor Isaac Kappy died years ago, but QAnon claims that he was murdered persist... Kappy had previously alleged without evidence on conspiracy theorist Alex Jones' radio show that Hanks, among other Hollywood stars, was a pedophile. This claim made Kappy 'a minor celebrity in Q-adjacent communities.'"
+>
+> — [PolitiFact](https://www.politifact.com/factchecks/2023/jan/24/facebook-posts/actor-isaac-kappy-died-years-ago-qanon-claims-he-w/) (January 24, 2023)
+
 ## Sources
+- [PolitiFact: Actor Isaac Kappy died years ago, but QAnon claims that he was murdered persist](https://www.politifact.com/factchecks/2023/jan/24/facebook-posts/actor-isaac-kappy-died-years-ago-qanon-claims-he-w/)
+- [Wikipedia: Isaac Kappy](https://en.wikipedia.org/wiki/Isaac_Kappy)
+- [The Vigilant Citizen: The Haunting Last Words of Isaac Kappy: "Now, I Am One of Them"](https://vigilantcitizen.com/latestnews/the-haunting-last-words-of-isaac-kappy-now-i-am-one-of-them/)
+- [The Daily Beast: QAnon's Newest Hero Is D-List 'Vanderpump Rules' Star Isaac Kappy](https://www.thedailybeast.com/qanons-newest-hero-is-a-d-list-vanderpump-rules-star/)
+- [Entertainment Tonight: Isaac Kappy, 'Thor' and 'Terminator Salvation' Actor, Dead After He 'Forced Himself' Off a Bridge](https://www.etonline.com/isaac-kappy-thor-and-terminator-salvation-actor-dead-after-he-forced-himself-off-a-bridge-125293)
+- [Wikispooks: Isaac Kappy](https://wikispooks.com/wiki/Isaac_Kappy)
+- [Substack — Aisling O'Loughlin: Remembering Isaac Kappy](https://aislingoloughlin.substack.com/p/remembering-isaac-kappy-the-actor)
 - Arizona Department of Public Safety official report
-- Wikipedia: Isaac Kappy
 - Kappy's own recorded video statements (2018–2019)
 - Lin Wood public statements
-- Substack and independent journalist coverage
 
 *This information was built by Grok and Claude AI research.*

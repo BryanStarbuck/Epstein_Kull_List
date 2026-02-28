@@ -36,6 +36,17 @@ Minsky's widow, Gloria Rudisch, strongly denied the allegations, saying Minsky w
 - He accepted research funding from Epstein and visited Epstein's properties.
 - However, he was 88 years old and his death from cerebral hemorrhage is consistent with natural causes at that age.
 
+## Key Quotes from Media Coverage
+
+> "Epstein's closest friend at MIT was AI pioneer Marvin Minsky, who even visited him in jail."
+> — MIT Media Lab cofounder Nicholas Negroponte, via [MIT Technology Review](https://www.technologyreview.com/2020/01/10/130928/mit-jeffrey-epstein-donations-media-lab-joi-ito-seth-lloyd-funding-ethics/)
+
+> "The most plausible scenario is that [the victim] presented herself to [Minsky] as entirely willing."
+> — Richard Stallman, MIT computer scientist who resigned after making this controversial defense of Minsky, via [The Daily Beast](https://www.thedailybeast.com/richard-stallman-defends-marvin-minsky-epstein-victim-likely-presented-herself-as-willing/)
+
+> "Virginia Giuffre named MIT scientist Marvin Minsky among several others she claimed Epstein and Maxwell instructed her to have sex with."
+> — [NBC News: Jeffrey Epstein accuser names powerful men in alleged sex trafficking ring](https://www.nbcnews.com/news/us-news/jeffrey-epstein-ordered-teen-girl-have-sex-powerful-men-accuser-n1040996)
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md)
@@ -46,5 +57,13 @@ Minsky's widow, Gloria Rudisch, strongly denied the allegations, saying Minsky w
 
 - [Times Now Investigation](https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+- [MIT Technology Review: Eight revelations from MIT's Jeffrey Epstein report](https://www.technologyreview.com/2020/01/10/130928/mit-jeffrey-epstein-donations-media-lab-joi-ito-seth-lloyd-funding-ethics/)
+- [NBC News: Jeffrey Epstein accuser names powerful men in alleged sex trafficking ring](https://www.nbcnews.com/news/us-news/jeffrey-epstein-ordered-teen-girl-have-sex-powerful-men-accuser-n1040996)
+- [NPR: Free Software Pioneer Quits MIT Over His Comments On Epstein Sex Trafficking Case](https://www.npr.org/2019/09/17/761718975/free-software-pioneer-quits-mit-over-his-comments-on-epstein-sex-trafficking-cas)
+- [The Daily Beast: Richard Stallman Defends Marvin Minsky — Epstein Victim Likely 'Presented Herself' as 'Willing'](https://www.thedailybeast.com/richard-stallman-defends-marvin-minsky-epstein-victim-likely-presented-herself-as-willing/)
+- [Boston Magazine: After Saying Sex with Minors Is Not Always Sexual Assault, MIT Scientist Resigns](https://www.bostonmagazine.com/news/2019/09/18/mit-richard-stallman-resigns-epstein/)
+- [MIT News: MIT releases results of fact-finding on engagements with Jeffrey Epstein](https://news.mit.edu/2020/mit-releases-results-fact-finding-report-jeffrey-epstein-0110)
+- [Epstein Exposed: Marvin Minsky — Epstein Files Connection](https://epsteinexposed.com/persons/marvin-minsky)
+- [Wikipedia: Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky)
 
 *This information was built by Grok and Claude AI research.*

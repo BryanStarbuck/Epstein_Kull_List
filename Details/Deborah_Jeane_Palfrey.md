@@ -49,14 +49,35 @@ Her death is relevant to the broader pattern because it demonstrates what can ha
 - **Brandy Britton** — Palfrey employee, former University of Maryland professor, hanged herself January 2007 before trial on prostitution charges
 - Pattern of hanging deaths among those connected to elite sex operations: [Epstein](Jeffrey_Epstein.md), [Brunel](Jean_Luc_Brunel.md), [Bowers](Thomas_Bowers.md), [Middleton](Mark_Middleton.md)
 
+## Key Quotes from Media Coverage
+
+> "I don't want to be like her. I don't want to end up like her... I'd never want my life to end in suicide."
+>
+> — Deborah Jeane Palfrey, in a May 2007 interview with Carol Joynt, referencing her former employee Brandy Britton's hanging death ([Washington Examiner: Eerie Flashback -- DC Madam said 'I'd never want my life to end in suicide'](https://www.washingtonexaminer.com/sports/386522/eerie-flashback-dc-madam-said-id-never-want-my-life-to-end-in-suicide/))
+
+> "I am not going back to prison. I will commit suicide first."
+>
+> — Deborah Jeane Palfrey to journalist Dan Moldea, who was working with her on a book ([ABC News: D.C. Madam Found Dead of Apparent Suicide](https://abcnews.go.com/Blotter/story?id=4765743&page=1))
+
+> "Without comment, the [Supreme] Court denied a stay sought by Montgomery Blair Sibley" to release Palfrey's client records containing the names of 817 account holders including their Social Security numbers and home and business telephone numbers.
+>
+> — On the Supreme Court blocking release of Palfrey's full client list after her death ([NBC News: SCOTUS Denies Request from D.C. Madam's Attorney to Release Info](https://www.nbcnews.com/news/us-news/scotus-denies-request-dc-madam-s-attorney-release-info-n551121))
+
 ## Sources
-- Wikipedia: Deborah Jeane Palfrey
-- NPR: "So-Called 'D.C. Madam' Is Dead" (May 2, 2008)
-- CNN: "'D.C. Madam' found hanged" (May 1, 2008)
-- CBS News: "D.C. Madam Spoke Of Suicide" and "Suicide Notes Released"
-- ABC News: "D.C. Madam Found Dead of Apparent Suicide"
-- Tampa Bay Times: "Doubters Say D.C. Madam's Death Not Suicide" (May 3, 2008)
-- Washington Examiner: "Eerie Flashback: DC Madam said 'I'd never want my life to end in suicide'"
-- NBC News: "Police release report on 'D.C. Madam' suicide"
+
+- [Wikipedia: Deborah Jeane Palfrey](https://en.wikipedia.org/wiki/Deborah_Jeane_Palfrey)
+- [ABC News: D.C. Madam Found Dead of Apparent Suicide](https://abcnews.go.com/Blotter/story?id=4765743&page=1)
+- [NBC News: Police release report on 'D.C. Madam' suicide](https://www.nbcnews.com/id/wbna27477310)
+- [CBS News: "D.C. Madam" Suicide Notes Released](https://www.cbsnews.com/news/dc-madam-suicide-notes-released/)
+- [Tampa Bay Times: Doubters Say D.C. Madam's Death Not Suicide (May 3, 2008)](https://www.tampabay.com/archive/2008/05/03/doubters-say-d-c-madam-s-death-not-suicide/)
+- [Washington Examiner: Eerie Flashback -- DC Madam said 'I'd never want my life to end in suicide'](https://www.washingtonexaminer.com/sports/386522/eerie-flashback-dc-madam-said-id-never-want-my-life-to-end-in-suicide/)
+- [CNN: DC Madam -- The Woman Who Knew Too Much (interactive documentary)](https://www.cnn.com/interactive/2017/hln/how-it-really-happened/dc-madam-the-woman-who-knew-too-much/)
+- [NBC News: DC Madam's Ex-Lawyer Releases New Documents](https://www.nbcnews.com/news/us-news/dc-madam-s-ex-lawyer-releases-new-documents-n554266)
+- [NBC News: SCOTUS Denies Request from D.C. Madam's Attorney to Release Info](https://www.nbcnews.com/news/us-news/scotus-denies-request-dc-madam-s-attorney-release-info-n551121)
+- [Washington Post: U.S. Supreme Court rejects 'D.C. Madam' attorney bid to release customer records](https://www.washingtonpost.com/local/public-safety/us-supreme-court-rejects-dc-madam-attorney-bid-to-release-customer-records/2016/05/02/775993f2-109c-11e6-93ae-50921721165d_story.html)
+- [WTOP: Ex-lawyer starts disclosing who called 'D.C. Madam'](https://wtop.com/presidential-election/2016/04/ex-lawyer-starts-disclosing-who-called-d-c-madam/)
+- [Washingtonian: HLN Will Air a Documentary About the DC Madam](https://washingtonian.com/2017/04/28/hln-is-airing-a-docuseries-episode-about-the-dc-madam/)
+- [6ABC Philadelphia: Suicide note -- 'D.C. Madam' said she didn't want prison](https://6abc.com/archive/6122662/)
+- [Wikipedia: Montgomery Blair Sibley](https://en.wikipedia.org/wiki/Montgomery_Blair_Sibley)
 
 *This information was built by Grok and Claude AI research.*

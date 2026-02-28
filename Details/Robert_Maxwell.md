@@ -40,12 +40,39 @@ Former Israeli intelligence operative Ari Ben-Menashe has publicly stated that E
 - Business and intelligence connections to Leslie Wexner (Epstein's primary financial backer)
 - [Danny Casolaro](Danny_Casolaro.md) — Died three months before Maxwell; was investigating the PROMIS software scandal that Maxwell allegedly distributed for Mossad
 
+## Key Quotes from Media Coverage
+
+> "Publisher Robert Maxwell today was given a funeral befitting a national hero by Israel, the country with which he developed an intimate and sometimes controversial relationship in the last three years of his life."
+>
+> — The Washington Post, November 11, 1991 ([Washington Post: Israel Gives Maxwell Farewell Fit for Hero](https://www.washingtonpost.com/archive/politics/1991/11/11/israel-gives-maxwell-farewell-fit-for-hero/1773995a-0eac-4a3e-abed-1d3254cc0baa/))
+
+> "He has done more for Israel than can today be said."
+>
+> — Israeli Prime Minister Yitzhak Shamir, eulogizing Robert Maxwell at his burial on the Mount of Olives ([Washington Post](https://www.washingtonpost.com/archive/politics/1991/11/11/israel-gives-maxwell-farewell-fit-for-hero/1773995a-0eac-4a3e-abed-1d3254cc0baa/))
+
+> "He scaled the heights of human endeavor. Kings and princes waited on him. Many admired him. Many disliked him. But none was indifferent to him."
+>
+> — Israeli President Chaim Herzog, eulogy at Maxwell's funeral ([UPI Archives](https://www.upi.com/Archives/1991/11/10/Maxwell-buried-on-Mount-of-Olives/4340689749200/))
+
+> When Maxwell's debt became unassailable, he tried to blackmail Mossad to bail him out — which, investigators allege, led to his death.
+>
+> — Seymour Hersh's reporting, summarized in *The Samson Option* ([WION News](https://www.wionews.com/world/epstein-files-robert-maxwell-mossad-allegations-1770127431656))
+
 ## Sources
-- Wikipedia: Robert Maxwell
+
+- [Wikipedia: Robert Maxwell](https://en.wikipedia.org/wiki/Robert_Maxwell)
+- [Washington Post: Israel Gives Maxwell Farewell Fit for Hero (Nov 11, 1991)](https://www.washingtonpost.com/archive/politics/1991/11/11/israel-gives-maxwell-farewell-fit-for-hero/1773995a-0eac-4a3e-abed-1d3254cc0baa/)
+- [UPI Archives: Maxwell Buried on Mount of Olives](https://www.upi.com/Archives/1991/11/10/Maxwell-buried-on-Mount-of-Olives/4340689749200/)
+- [UPI Archives: Maxwell's Death Raises Questions in Israel](https://www.upi.com/Archives/1991/11/06/Maxwells-death-raises-questions-in-Israel/7466689403600/)
+- [Times of Israel: The Maxwells — Scandal, Conspiracy and More Than a Few Days in Court](https://www.timesofisrael.com/the-maxwells-scandal-conspiracy-and-more-than-a-few-days-in-court/)
+- [Times of Israel: For Writer Who Broke Epstein Case, a Rumored Mossad Link Is Worth Digging Into](https://www.timesofisrael.com/for-writer-who-broke-epstein-case-a-rumored-mossad-link-is-worth-digging-into/)
+- [Al Jazeera: What Were Jeffrey Epstein's Links to Israel? (February 2026)](https://www.aljazeera.com/news/2026/2/9/what-were-jeffrey-epsteins-links-to-israel)
+- [WION News: Epstein Files — Robert Maxwell Mossad Allegations](https://www.wionews.com/world/epstein-files-robert-maxwell-mossad-allegations-1770127431656)
+- [Newsweek: Jeffrey Epstein Rumored Mossad Connection Explained](https://www.newsweek.com/jeffrey-epstein-mossad-tucker-carlson-israel-naftali-2098880)
+- [Jewish Telegraphic Agency: Maxwell, Colossus Even in Death, Laid to Rest on Mount of Olives](https://www.jta.org/archive/maxwell-colossus-even-in-death-laid-to-rest-on-mount-of-olives)
+- [Publishers Weekly: Robert Maxwell, Israel's Superspy (Book Review)](https://www.publishersweekly.com/9780786710782)
 - Dillon & Thomas, *Robert Maxwell, Israel's Superspy* (Carroll & Graf, 2002)
 - Ari Ben-Menashe public statements and testimony
-- Times of Israel: "The Maxwells: Scandal, conspiracy and more than a few days in court"
-- Al Jazeera: "What were Jeffrey Epstein's links to Israel?" (February 2026)
 - Britannica: Ghislaine Maxwell biography
 - December 1991 inquest records
 

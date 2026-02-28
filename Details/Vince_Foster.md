@@ -42,6 +42,35 @@ Foster's death was ruled suicide by five investigations with unlimited resources
 
 **Suspicion Level:** SUSPICIOUS — Five investigations ruled suicide, but Epstein emails and Clinton connections keep questions alive.
 
+## Key Quotes from Media Coverage
+
+> "I made mistakes from ignorance, inexperience and overwork. I did not knowingly violate any law or standard of conduct... Here ruining people is considered sport."
+>
+> — Vince Foster's torn-up resignation letter found in 27 pieces in his briefcase ([The Washington Post: Foster Note Reveals an Anguished Aide](https://www.washingtonpost.com/archive/politics/1993/08/11/foster-note-reveals-an-anguished-aide/43ff5183-ca17-47c1-aa04-6d39839d1dcd/))
+
+> "When Wolff queried Epstein for a 'thumb nail' summary on 'Nussbaum/foster,' Epstein responded: 'nussbaum white house counsel . . . hillary doing naughties with vince.'"
+>
+> — From Jeffrey Epstein's May 25, 2016 email to Michael Wolff, released in 2025 DOJ Epstein files ([Clinton Foundation Timeline](https://www.clintonfoundationtimeline.com/november-12-2025-newly-released-epstein-email-to-michael-wolff-alleges-hillary-had-sexual-affair-with-suicided-vince-foster/))
+
+> "Foster was not meant for the job or the spotlight of public life in Washington... He admitted to his sister that he was depressed shortly before his death, and he sought treatment for depression one day before committing suicide."
+>
+> — [NBC News: Despite Trump's 'Fishy' Comments, Vince Foster Case Is Closed](https://www.nbcnews.com/politics/2016-election/despite-trumps-fishy-comments-vince-foster-case-closed-n579691)
+
+## Sources
+
+- [Washington Post: Foster Note Reveals an Anguished Aide (August 11, 1993)](https://www.washingtonpost.com/archive/politics/1993/08/11/foster-note-reveals-an-anguished-aide/43ff5183-ca17-47c1-aa04-6d39839d1dcd/)
+- [Wikipedia: Suicide of Vince Foster](https://en.wikipedia.org/wiki/Suicide_of_Vince_Foster)
+- [FBI Records: The Vault — Vincent Foster](https://vault.fbi.gov/vincent-foster)
+- [NBC News: Despite Trump's 'Fishy' Comments, Vince Foster Case Is Closed](https://www.nbcnews.com/politics/2016-election/despite-trumps-fishy-comments-vince-foster-case-closed-n579691)
+- [Seattle Times: Suicide Note: In D.C., 'Ruining People Is Considered Sport'](https://archive.seattletimes.com/archive/19930810/1715292/suicide-note-in-dc-ruining-people-is-considered-sport)
+- [FactCheck.org: The Epstein Connections Fueling Conspiracy Theories](https://www.factcheck.org/2019/08/the-epstein-connections-fueling-conspiracy-theories/)
+- [PolitiFact: Decades-old Conspiracy Theories About Vince Foster and the Clintons Are Still Wrong](https://www.politifact.com/factchecks/2019/nov/08/facebook-posts/decades-old-conspiracy-theories-about-vince-foster/)
+- [Clinton Foundation Timeline: Newly Released Epstein Email Alleges Hillary Had Sexual Affair with 'Suicided' Vince Foster](https://www.clintonfoundationtimeline.com/november-12-2025-newly-released-epstein-email-to-michael-wolff-alleges-hillary-had-sexual-affair-with-suicided-vince-foster/)
+- [Encyclopedia of Arkansas: Vincent Walker (Vince) Foster Jr.](https://encyclopediaofarkansas.net/entries/vincent-walker-5117/)
+- [Newsweek: The Night Foster Died](https://www.newsweek.com/night-foster-died-184870)
+- [Unsolved Mysteries: Vince Foster](https://unsolved.com/gallery/vince-foster/)
+- [Washington Examiner: Vince Foster, In the Park, With the Gun](https://www.washingtonexaminer.com/magazine/1498969/vince-foster-in-the-park-with-the-gun/)
+
 ---
 
 *This information was built by Grok and Claude AI research.*

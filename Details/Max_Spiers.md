@@ -41,6 +41,38 @@ The 2019 inquest determined drug-related death, and Spiers had a documented opio
 
 **Suspicion Level:** UNCERTAIN — Drug intoxication with documented opioid disorder, but warned his mother to investigate and was researching elite pedophilia.
 
+## Key Quotes from Media Coverage
+
+> "Your boy's in trouble. If anything happens to me, investigate."
+> — Max Spiers to his mother Vanessa Bates, two days before his death, via [Kent Online](https://www.kentonline.co.uk/canterbury/news/mother-fears-conspiracy-theorist-son-104085/)
+
+> "I think Max had been digging in some dark places and I fear that somebody wanted him dead."
+> — Vanessa Bates, Max's mother, speaking to The Daily Telegraph, via [Kent Online](https://www.kentonline.co.uk/canterbury/news/mother-fears-conspiracy-theorist-son-104085/)
+
+> "Max was a very fit man who was in good health and yet he apparently just died suddenly on a sofa."
+> — Vanessa Bates, questioning the circumstances of her son's death, via [Kent Online](https://www.kentonline.co.uk/canterbury/news/mother-fears-conspiracy-theorist-son-104085/)
+
+> "We all want answers to this and I will continue to fight to get to the truth."
+> — Vanessa Bates, via [Kent Online](https://www.kentonline.co.uk/canterbury/news/mother-fears-conspiracy-theorist-son-104085/)
+
+## See Also
+
+- [Monica Petersen](Monica_Petersen.md)
+- [Isaac Kappy](Isaac_Kappy.md)
+- [Tracy Twyman](Tracy_Twyman.md)
+
+## Sources
+
+- [Wikipedia: Death of Max Spiers](https://en.wikipedia.org/wiki/Death_of_Max_Spiers)
+- [Kent Online: Canterbury mother fears conspiracy theorist son Max Spiers was murdered in Poland](https://www.kentonline.co.uk/canterbury/news/mother-fears-conspiracy-theorist-son-104085/)
+- [The Week: What happened to conspiracy theorist Max Spiers?](https://theweek.com/77649/what-happened-to-conspiracy-theorist-max-spiers)
+- [HuffPost UK: Max Spiers — Why The Conspiracy Theorist Community Will Never Accept The British UFO Hunter's Death](https://www.huffingtonpost.co.uk/entry/max-spiers-death-of-british-ufo-hunter-will-simply-not-be-accepted-by-the-conspiracy-theory-community_uk_5c3740dfe4b05cb31c3fdc1e)
+- [NZ Herald: British conspiracy theorist, 39, is found dead on a sofa in Poland](https://www.nzherald.co.nz/world/british-conspiracy-theorist-39-is-found-dead-on-a-sofa-in-poland/INSZGCNI64F4GDVPOESMXEHNHE/)
+- [WSB-TV: Conspiracy theorist and UFO expert found dead days after sending warning text message to mother](https://www.wsbtv.com/news/trending-now/conspiracy-theorist-and-ufo-expert-found-dead-days-after-sending-warning-text-message-to-mother/458244037/)
+- [Inquisitr: UFO Expert Max Spiers Dies After 'Vomiting Black Liquid,' Sending Warning Text To Mom](https://www.inquisitr.com/ufo-expert-max-spiers-dies-after-vomiting-black-liquid-sending-warning-text-to-mom-warning-of-impending-death-video)
+- [Crown Office Chambers: Adam Taylor represents the family in Maxwell Bates-Spiers inquest](https://www.crownofficechambers.com/2019/01/09/adam-taylor-represents-the-family-in-maxwell-bates-spiers-inquest/)
+- [MysteryLores: The Unsettling Death of Max Spiers](https://mysterylores.com/news/unsettling-death-max-spiers-conspiracy-researcher/)
+
 ---
 
 *This information was built by Grok and Claude AI research.*

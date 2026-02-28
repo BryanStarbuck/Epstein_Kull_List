@@ -44,6 +44,20 @@ After Broeksmit's death, his son [Val Broeksmit](Val_Broeksmit.md) discovered th
 - His death occurred in 2014, before the intense public scrutiny of Deutsche Bank's Epstein relationship.
 - His direct personal involvement with Epstein's accounts has not been established — his role was in risk management and derivatives, not wealth management.
 
+## Key Quotes from Media Coverage
+
+> "Bill Broeksmit, a risk management genius, subsequently killed himself as regulators were moving in on the bank."
+> — David Enrich, *Dark Towers* ([NPR: Dark Towers review](https://www.npr.org/2020/02/18/806984703/dark-towers-is-a-cautionary-tale-of-pursuing-profits-at-any-cost))
+
+> Written medical evidence said he was "very anxious" that summer about authorities investigating areas of banking where he had worked.
+> — London inquest testimony ([CNBC](https://www.cnbc.com/2014/03/25/ex-deutsche-banker-left-notes-before-killing-himself-london-inquest.html))
+
+> "Broeksmit had helped build the 150-year-old financial institution into a colossus, and his sudden death was a mystery compounded by the bank's efforts to squelch any investigation."
+> — Philadelphia Inquirer ([Philadelphia Inquirer: Dark Towers review](https://www.inquirer.com/business/deutsche-bank-trump-dark-towers-david-enrich-kushner-russia-oligarchs-bill-broeksmit-20200224.html))
+
+> "Even by the amoral standards of Wall Street, Deutsche exhibited a jarring lack of interest in its clients' reputations."
+> — David Enrich, *Dark Towers* ([NPR: Dark Towers review](https://www.npr.org/2020/02/18/806984703/dark-towers-is-a-cautionary-tale-of-pursuing-profits-at-any-cost))
+
 ## See Also
 
 - [Thomas Bowers](Thomas_Bowers.md) — Deutsche Bank wealth chief, also found hanged (2019)
@@ -57,5 +71,10 @@ After Broeksmit's death, his son [Val Broeksmit](Val_Broeksmit.md) discovered th
 - [Newsweek: Deutsche Bank Deaths — Spate of Suicides](https://www.newsweek.com/deutsche-bank-deaths-suicides-valentin-broeksmit-1701819)
 - [LA Magazine: Former Deutsche Bank Exec Connected to Trump Loans Dies](https://lamag.com/politics/deutsche-bank-death/)
 - [Philadelphia Inquirer: 'Dark Towers' shines light on Deutsche Bank](https://www.inquirer.com/business/deutsche-bank-trump-dark-towers-david-enrich-kushner-russia-oligarchs-bill-broeksmit-20200224.html)
+- [NPR: 'Dark Towers' Is A Cautionary Tale Of Pursuing Profits At Any Cost](https://www.npr.org/2020/02/18/806984703/dark-towers-is-a-cautionary-tale-of-pursuing-profits-at-any-cost)
+- [IBTimes UK: William Broeksmit Suicide? Ex-Deutsche Bank Executive Found Hanging at London Home](https://www.ibtimes.co.uk/william-broeksmit-suicide-ex-deutsche-bank-executive-found-hanging-london-home-1434129)
+- [Fast Company: How a Wall Street exec's suicide led his son to share files on Trump's favorite bank with the FBI](https://www.fastcompany.com/90464248/how-a-bankers-suicide-prompted-his-son-to-dig-up-secrets-on-trumps-finances)
+- [Yahoo Finance: Ex-Deutsche banker left notes before killing himself](https://finance.yahoo.com/news/ex-deutsche-banker-left-notes-125838525.html)
+- [Wikipedia: Val Broeksmit](https://en.wikipedia.org/wiki/Val_Broeksmit)
 
 *This information was built by Grok and Claude AI research.*

@@ -55,6 +55,20 @@ Leigh was a British-American best-selling celebrity biographer. She authored una
 - If the claim that she was investigating Epstein is accurate, the timing (2016, before the Epstein case broke wide open in 2019) would place her among the earliest journalists pursuing the story.
 - However, contemporaneous evidence of an Epstein investigation has not been located, and she was grieving her mother's recent death.
 
+## Key Quotes from Media Coverage
+
+> "I can't state emphatically enough how I don't understand how she could possibly commit suicide... I'm devastated."
+> — **Steve Karten**, Wendy Leigh's ex-husband of 19 years ([Inside Edition](https://www.insideedition.com/16748-best-selling-celebrity-biographer-wendy-leigh-dead-in-possible-suicide-after-fall-from-balcony))
+
+> "She was an eternally optimistic and upbeat person... always up for an adventure."
+> — **Dan Strone**, Leigh's literary agent at Trident Media Group ([Seattle Times](https://www.seattletimes.com/nation-world/celebrity-biographer-wendy-leigh-dies-in-london-at-age-65/))
+
+> "She moved on from sex manuals to write a series of celebrity biographies, most of which antagonized her subjects. But they were always scrupulously researched and full of interesting psychological insights."
+> — **Roy Greenslade**, journalist and 30-year friend ([Boston Herald](https://www.bostonherald.com/2016/06/05/wendy-leigh-at-65-celebrity-biographer/))
+
+> "Five months today since my mother Marion died. I wish I could say it gets easier, but the truth is quite the reverse..."
+> — **Wendy Leigh**, Facebook post on May 22, 2016, one week before her death ([Legacy.com](https://www.legacy.com/news/wendy-leigh-1950-2016))
+
 ## See Also
 
 - [Ruslana Korshunova](Ruslana_Korshunova.md) — Also fell from building
@@ -64,9 +78,14 @@ Leigh was a British-American best-selling celebrity biographer. She authored una
 
 ## Sources
 
-- [Inside Edition: Best-Selling Celebrity Biographer Dead in Possible Suicide](https://www.insideedition.com/16748-best-selling-celebrity-biographer-wendy-leigh-dead-in-possible-suicide-after-fall-from-balcony)
-- [Seattle Times: Celebrity biographer Wendy Leigh dies in London at age 65](https://www.seattletimes.com/nation-world/celebrity-biographer-wendy-leigh-dies-in-london-at-age-65/)
+- [Inside Edition: Best-Selling Celebrity Biographer Dead in Possible Suicide After Fall From Balcony](https://www.insideedition.com/16748-best-selling-celebrity-biographer-wendy-leigh-dead-in-possible-suicide-after-fall-from-balcony)
+- [Seattle Times: Celebrity Biographer Wendy Leigh Dies in London at Age 65](https://www.seattletimes.com/nation-world/celebrity-biographer-wendy-leigh-dies-in-london-at-age-65/)
+- [Legacy.com: Wendy Leigh (1950–2016)](https://www.legacy.com/news/wendy-leigh-1950-2016)
+- [Yahoo Entertainment: Celebrity Biographer Wendy Leigh Dead in Possible Suicide](https://www.yahoo.com/entertainment/celebrity-biographer-wendy-leigh-dead-190301991.html)
+- [Boston Herald: Wendy Leigh, at 65, Celebrity Biographer](https://www.bostonherald.com/2016/06/05/wendy-leigh-at-65-celebrity-biographer/)
+- [inkl: Wendy Leigh, the Celebrity Biographer Who Courted Notoriety](https://www.inkl.com/news/wendy-leigh-the-celebrity-biographer-who-courted-notoriety)
+- [WPTV: Celebrity Biographer Wendy Leigh Dies in London at Age 65](https://www.wptv.com/news/world/celebrity-biographer-wendy-leigh-dies-in-london-at-age-65)
+- [Find a Grave: Wendy Leigh (1950–2016)](https://www.findagrave.com/memorial/259655851/wendy-leigh)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
-- [Legacy.com: Wendy Leigh (1950-2016)](https://www.legacy.com/news/wendy-leigh-1950-2016)
 
 *This information was built by Grok and Claude AI research.*

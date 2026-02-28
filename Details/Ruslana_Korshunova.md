@@ -82,6 +82,24 @@ Two young models, both connected to the same psychological group, both dying by 
 - Epstein himself referenced her death in a 2010 email found in released documents.
 - However, police found no signs of struggle and no evidence of another person in the apartment.
 
+## Key Quotes from Media Coverage
+
+> "After the tragic events associated with the death of Ruslana Korshunova, I do not want to be involved in similar situations."
+>
+> — Modeling agent Ramsay Elkholei, in a January 2011 letter referencing the Epstein connection ([Tengrinews](https://en.tengrinews.kz/people/epstein-files-spark-renewed-debate-over-death-of-kazakh-270892/))
+
+> Her mother, Valentina, has adamantly rejected the suicide verdict, arguing that evidence such as the location of the body and the condition of her hair suggest foul play. She told investigators: "If she had problems at work, she would have told me."
+>
+> — Multiple sources on Valentina Korshunova's statements ([Grunge: Tragic Details About Model Ruslana Korshunova](https://www.grunge.com/1486576/tragic-details-model-ruslana-korshunova/))
+
+> British *Vogue* called Korshunova "a face to be excited about" in 2005. Three years later she was dead at twenty, four days before her twenty-first birthday, her body found 8.5 meters from the base of her apartment building.
+>
+> — Grunge ([Grunge: Tragic Details About Model Ruslana Korshunova](https://www.grunge.com/1486576/tragic-details-model-ruslana-korshunova/))
+
+> People who saw her in her last days described her as "positive, enthusiastic, and busy" — contradicting the narrative that she was suicidal. During Rose of the World sessions, however, she reportedly "unloaded a lot of heartbreak and loneliness."
+>
+> — Friends and life coaches, as reported by Grunge ([Grunge](https://www.grunge.com/1486576/tragic-details-model-ruslana-korshunova/))
+
 ## See Also
 
 - [Anastasia Drozdova](Anastasia_Drozdova.md) — Friend who died identically one year later
@@ -94,10 +112,17 @@ Two young models, both connected to the same psychological group, both dying by 
 ## Sources
 
 - [Yahoo News: Epstein Files Reveal Russian Model Who Died by Suicide Flew on His Private Jet](https://www.yahoo.com/news/articles/epstein-files-reveal-russian-model-223600030.html)
-- [Blaze Media: Top model jumped to her death 2 years after flying on Lolita Express](https://www.theblaze.com/news/model-suicide-epstein-island-lolita-express)
+- [Blaze Media: Top Model Jumped to Her Death 2 Years After Flying on Lolita Express](https://www.theblaze.com/news/model-suicide-epstein-island-lolita-express)
 - [CBS News: Model Dies In Fall From NYC Apartment](https://www.cbsnews.com/news/model-dies-in-fall-from-nyc-apartment-29-06-2008/)
 - [Newsweek: Disconcerting New Answers In Model's Suicide](https://www.newsweek.com/disconcerting-new-answers-models-suicide-67659)
 - [Morbidology: The Strange Death of Ruslana Korshunova and the Rose of the World Cult](https://morbidology.com/the-strange-death-of-ruslana-korshunova-the-rose-of-the-world-cult/)
-- [KATU News: Model killed herself 2 years after visiting Epstein's island](https://katu.com/news/nation-world/model-ruslana-korshunova-killed-herself-2-years-after-visiting-epsteins-island-documents-show-jeffrey-epstein-jet-clinton-trump-island-documents-new-york)
+- [KATU News: Model Killed Herself 2 Years After Visiting Epstein's Island](https://katu.com/news/nation-world/model-ruslana-korshunova-killed-herself-2-years-after-visiting-epsteins-island-documents-show-jeffrey-epstein-jet-clinton-trump-island-documents-new-york)
+- [Tengrinews: Epstein Files Spark Renewed Debate Over Death of Kazakh Model Ruslana Korshunova](https://en.tengrinews.kz/people/epstein-files-spark-renewed-debate-over-death-of-kazakh-270892/)
+- [Grunge: Tragic Details About Model Ruslana Korshunova](https://www.grunge.com/1486576/tragic-details-model-ruslana-korshunova/)
+- [NewsX: Who Was Ruslana Korshunova? Top Russian Model Rejected by Epstein Due to Her Age](https://www.newsx.com/world/who-was-ruslana-korshunova-top-russian-model-who-died-by-suicide-after-visiting-jeffrey-epsteins-private-island-was-rejected-due-to-her-age-reveals-new-shocking-details-158079/)
+- [Global Village Space: Russian Model Who Visited 'Epstein Island' Committed Suicide](https://www.globalvillagespace.com/russian-model-who-visited-epstein-island-committed-suicide/)
+- [Pravda: Russian Model Who Killed Self in New York Appears in Epstein Files](https://english.pravda.ru/news/society/165853-ruslana-korshunova-epstein-files-mystery/)
+- [AutechTimes: Epstein Discusses the Cause of Death of 'Russian Rapunzel' in Manhattan](https://www.autechtimes.com/world/epstein-discusses-the-cause-of-death-of-russian-rapunzel-in-manhattan/)
+- [Wikipedia: Ruslana Korshunova](https://en.wikipedia.org/wiki/Ruslana_Korshunova)
 
 *This information was built by Grok and Claude AI research.*

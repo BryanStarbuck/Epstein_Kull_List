@@ -37,6 +37,17 @@ After her daughter's death, Michelle Licata became an advocate for other Epstein
 - Her family directly attributed her addiction to the trauma she suffered at Epstein's hands.
 - Medical research confirms that survivors of childhood sexual exploitation have significantly elevated risk of addiction and overdose, which is consistent with the circumstances of her death.
 
+## Key Quotes from Media Coverage
+
+> "My sister suffered tremendously and it started with Epstein. Something happened in her when she met him that got her out of control."
+> — **Shelby Patrick**, Leigh's twin sister ([MEAWW](https://meaww.com/leigh-patrick-overdosed-blame-meeting-jeffrey-epstein-sexual-trafficking-assault-underage-teens))
+
+> "I ran out because he was so creepy. He scared the life out of me... I left because I was a scared 16-year-old."
+> — **Leigh Skye Patrick**, describing her encounter with Epstein at his Palm Beach mansion in 2003 ([MEAWW](https://meaww.com/leigh-patrick-overdosed-blame-meeting-jeffrey-epstein-sexual-trafficking-assault-underage-teens))
+
+> "The system may have failed them twice: once in letting Epstein go, and a second time by failing to provide some kind of support."
+> — Anonymous victim's husband, on the systemic failure to support Epstein survivors ([Substack — Ellie Leonard](https://ellieleonard.substack.com/p/traumatized-to-death-the-stories))
+
 ## See Also
 
 - [Carolyn Andriano](Carolyn_Andriano.md) — Second Epstein victim to die of overdose in Palm Beach hotel (2023)
@@ -45,6 +56,11 @@ After her daughter's death, Michelle Licata became an advocate for other Epstein
 
 ## Sources
 
+- [MEAWW: Family Blames Jeffrey Epstein for 29-Year-Old's Death from Overdose](https://meaww.com/leigh-patrick-overdosed-blame-meeting-jeffrey-epstein-sexual-trafficking-assault-underage-teens)
+- [Substack (Ellie Leonard): Traumatized to Death — The Stories of Epstein Victims Carolyn Andriano and Skye Patrick](https://ellieleonard.substack.com/p/traumatized-to-death-the-stories)
+- [Fox News: Jeffrey Epstein Case — Virginia Giuffre's Death Marks Third Loss](https://www.foxnews.com/us/jeffrey-epstein-case-virginia-giuffre-death-marks-third-loss-expert-says-predators-need-punished)
+- [Spreaker Podcast: Leigh Patrick — Another Life Derailed and Destroyed by Jeffrey Epstein and Ghislaine Maxwell](https://www.spreaker.com/episode/leigh-patrick-another-life-derailed-and-destroyed-by-jeffrey-epstein-and-ghislaine-maxwell-9-18-25--67795447)
+- [Addiction/Recovery eBulletin: Jeffrey Epstein Survivor Dies in Florida of Overdose](https://addictionrecoveryebulletin.org/jeffrey-epstein-survivor-dies-in-florida-of-overdose/)
 - [Times Now Investigation](https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534)
 - [Two Epstein Survivors Hotel Deaths](https://rnsavinglives.substack.com/p/two-epstein-survivors-have-died-in)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)

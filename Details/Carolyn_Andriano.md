@@ -38,6 +38,20 @@ She testified against [Ghislaine Maxwell](Ghislaine_Maxwell.md) in the 2021 tria
 - Her death was not publicly announced for months, which added to public unease.
 - However, her long history of addiction tied to childhood trauma is consistent with the well-documented elevated overdose risk among survivors of childhood sexual exploitation.
 
+## Key Quotes from Media Coverage
+
+> "Money will not ever fix what that woman did to me."
+> — **Carolyn Andriano**, testifying against Ghislaine Maxwell at trial, December 2021 ([ABC News](https://abcnews.com/US/dramatic-testimony-alleged-epstein-victim-carolyn-recounts-maxwells/story?id=81612421))
+
+> "She was ecstatic. She was all set up for a whole new lifestyle... Because this is my daughter, and she deserves justice. She got to a point where she was turning her whole life around."
+> — **Dorothy Groenert**, Carolyn's mother, questioning the circumstances of her daughter's death ([Newsweek](https://www.newsweek.com/jeffrey-epstein-victim-carolyn-adriano-mother-answers-death-1834841))
+
+> "Carolyn, her testimony was the most gripping and I felt the most compassion for her... She told the truth every step of the way."
+> — **Scotty David**, juror in the Ghislaine Maxwell trial ([The Daily Beast](https://www.thedailybeast.com/carolyn-andriano-epstein-victim-who-testified-against-ghislaine-maxwell-has-died/))
+
+> "Even though Epstein is dead, and Maxwell is behind bars, victims of Jeffrey Epstein will forever live with the abuse that occurred to them."
+> — **Spencer Kuvin**, Palm Beach County attorney representing Epstein victims ([CBS12](https://cbs12.com/news/local/jeffrey-epstein-victims-trauma-drug-usage-experts-on-the-lingering-trauma-of-sexual-abuse-victims-october-30-2023))
+
 ## See Also
 
 - [Leigh Skye Patrick](Leigh_Skye_Patrick.md) — First Epstein victim to die of overdose in Palm Beach hotel
@@ -47,6 +61,15 @@ She testified against [Ghislaine Maxwell](Ghislaine_Maxwell.md) in the 2021 tria
 
 ## Sources
 
+- [The Daily Beast: Carolyn Andriano, Epstein Victim Who Testified Against Ghislaine Maxwell, Has Died](https://www.thedailybeast.com/carolyn-andriano-epstein-victim-who-testified-against-ghislaine-maxwell-has-died/)
+- [CBS12: Trauma Remains — Epstein Abuse Victim's Tragic Overdose Shows Enduring Pain of Survivors](https://cbs12.com/news/local/jeffrey-epstein-victims-trauma-drug-usage-experts-on-the-lingering-trauma-of-sexual-abuse-victims-october-30-2023)
+- [Newsweek: Jeffrey Epstein Victim's Mother Demands Answers After Her Death](https://www.newsweek.com/jeffrey-epstein-victim-carolyn-adriano-mother-answers-death-1834841)
+- [NBC Miami: Mother of Epstein Victim Carolyn Andriano Speaks After Names Released](https://www.nbcmiami.com/news/local/they-destroyed-my-life-mother-of-epstein-victim-speaks-after-over-150-names-released/3197388/)
+- [ABC News: In Dramatic Testimony, Alleged Epstein Victim Carolyn Recounts Maxwell's Role](https://abcnews.com/US/dramatic-testimony-alleged-epstein-victim-carolyn-recounts-maxwells/story?id=81612421)
+- [MEAWW: Family of Jeffrey Epstein Victim Raises Questions Over 'Accidental Overdose' Death](https://meaww.com/how-did-carolyn-andriano-die-family-of-epstein-victim-raises-question-over-accidental-overdose-death)
+- [Fox News: Jeffrey Epstein Case — Virginia Giuffre's Death Marks Third Loss](https://www.foxnews.com/us/jeffrey-epstein-case-virginia-giuffre-death-marks-third-loss-expert-says-predators-need-punished)
+- [GOLDLAW: Kuvin Comments on Carolyn Andriano Death](https://goldlaw.com/kuvin-comments-on-carolyn-andriano-suicide/)
+- [Substack (Ellie Leonard): Traumatized to Death — The Stories of Epstein Victims Carolyn Andriano and Skye Patrick](https://ellieleonard.substack.com/p/traumatized-to-death-the-stories)
 - [Two Epstein Survivors Hotel Deaths](https://rnsavinglives.substack.com/p/two-epstein-survivors-have-died-in)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 

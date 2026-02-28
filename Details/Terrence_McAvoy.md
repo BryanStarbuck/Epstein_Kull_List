@@ -42,9 +42,27 @@ McAvoy is named in online claims as one of 12 NYPD officers who allegedly viewed
 
 See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_Maxwell.md)
 
+## Key Quotes from Media Coverage
+
+> "He was an inexorable beacon of knowledge and professionalism. He was more than just a cop, however; a deeply spiritual and intellectual person, Terrance was a once-in-a-lifetime friend. Anyone who knew him will tell you he was the happiest person they knew."
+> — A fellow officer, via Staten Island community tribute ([Patch](https://patch.com/new-jersey/lacey/nypd-sergeant-former-lacey-resident-dies-suicide))
+
+> "Another tragedy has claimed a member of the Finest far too soon."
+> — Staten Island District Attorney Michael E. McMahon ([Patch](https://patch.com/new-jersey/lacey/nypd-sergeant-former-lacey-resident-dies-suicide))
+
+> "It is okay to feel vulnerable. It is okay if you are facing struggles. And it is okay to seek help from others."
+> — NYPD Commissioner James P. O'Neill ([Patch](https://patch.com/new-jersey/lacey/nypd-sergeant-former-lacey-resident-dies-suicide))
+
 ## Sources
 
 - [TIME: 10 NYPD Officers Have Died by Suicide in 2019](https://time.com/5702036/10th-police-suicide-nypd-new-york-city/)
 - [CNN: A ninth NYPD officer this year has died by suicide](https://www.cnn.com/2019/08/13/us/new-york-police-department-suicides/index.html)
+- [Patch: NYPD Sergeant, Former Lacey Resident, Found Dead](https://patch.com/new-jersey/lacey/nypd-sergeant-former-lacey-resident-dies-suicide)
+- [Lutz Live To Tell Foundation: Terrance John McAvoy, 30](https://www.lutzlivetotell.org/terrance-john-mcavoy-30/)
+- [911 Families Association: Wake for NYPD Sergeant Terrance John McAvoy](https://911families.org/event/wake-for-nypd-sergeant-terrance-john-mcavoy/)
+- [Jersey Shore Online: Former Ocean County Resident, NYPD Sergeant, Dead At 30](https://www.jerseyshoreonline.com/southern-ocean/former-ocean-county-resident-nypd-sergeant-dead-at-30/)
+- [Gothamist: Fifth NYPD Officer Dies By Suicide In Last Two Months](https://gothamist.com/news/fifth-nypd-officer-dies-by-suicide-in-last-two-months)
+- [CBS New York: NYPD Suicides — Another Police Officer Fatally Shoots Himself On Staten Island](https://www.cbsnews.com/newyork/news/nypd-suicide-officer-staten-island/)
+- [NBC New York: Fifth NYPD Officer Dies by Suicide in the Last Two Months](https://www.nbcnewyork.com/news/local/fifth-nypd-officer-dies-by-suicide-in-the-last-two-months/1520068/)
 
 *This information was built by Grok and Claude AI research.*

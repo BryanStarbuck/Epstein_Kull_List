@@ -52,6 +52,17 @@ The current location of the full document has not been disclosed. According to T
 - His death meant the loss of a potential witness with extensive insider knowledge.
 - However, his widow confirmed the death was from mesothelioma, and the disease is a well-documented occupational illness with a long latency period.
 
+## Key Quotes from Media Coverage
+
+> "If this book had been produced when requested, Mr. Epstein's sentence may have been significantly different."
+> — **U.S. District Judge Kenneth Marra**, sentencing Rodriguez for obstruction of justice ([Thought Catalog](https://thoughtcatalog.com/january-nelson/2026/02/epsteins-butler-went-to-jail-for-stealing-jeffreys-address-book-the-billionaires-in-it-never-did/))
+
+> "The black book would have been extremely useful in investigating and prosecuting the case against Epstein."
+> — **FBI**, on the significance of the 97-page contact book Rodriguez had hidden ([Yahoo News](https://www.yahoo.com/news/articles/epstein-butler-tried-sell-little-151605928.html))
+
+> "He knew all about Prince Andrew."
+> — **Patricia Dunn**, Rodriguez's widow, speaking to the Daily Mail after her husband's death ([IBTimes Australia](https://www.ibtimes.com.au/epsteins-house-staff-who-knew-about-prince-andrews-dalliances-sex-slave-takes-secret-grave-1407491))
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Employer
@@ -61,10 +72,18 @@ The current location of the full document has not been disclosed. According to T
 
 ## Sources
 
+- [Thought Catalog: Epstein's Butler Went to Jail for Stealing Jeffrey's Address Book, The Billionaires in It Never Did](https://thoughtcatalog.com/january-nelson/2026/02/epsteins-butler-went-to-jail-for-stealing-jeffreys-address-book-the-billionaires-in-it-never-did/)
+- [Yahoo News: Epstein's Butler Tried to Sell 'Little Black Book' to Undercover FBI Agent](https://www.yahoo.com/news/articles/epstein-butler-tried-sell-little-151605928.html)
+- [Medium: Epstein's Former Butler — Alfredo Rodriguez Black Book — 97-Page Compendium](https://medium.com/@lovefoods_54026/epsteins-former-butler-alfredo-rodriguez-black-book-97-page-compendium-020dcf5eb4cf)
+- [IBTimes Australia: Epstein's House Staff Who Knew About Prince Andrew's Dalliances Takes Secret to the Grave](https://www.ibtimes.com.au/epsteins-house-staff-who-knew-about-prince-andrews-dalliances-sex-slave-takes-secret-grave-1407491)
+- [Epstein Exposed: Alfredo Rodriguez — Epstein Files Connection](https://epsteinexposed.com/persons/alfredo-rodriguez)
+- [Epstein Exposed: Alfredo Rodriguez, Jeffrey Epstein's Butler Who Stole 'Black Book', Dies](https://epsteinexposed.com/documents/d-27392)
+- [LADbible: Newly Released FBI Video Shows Epstein Butler Trying to Sell His 'Little Black Book'](https://www.ladbible.com/news/us-news/jeffrey-epstein-butler-alfredo-rodriguez-little-black-book-fbi-agent-662257-20260214)
+- [The Sun: Bombshell Moment Epstein's Former Butler Tries to Sell Paedo's Black Book](https://www.the-sun.com/news/15938678/epstein-butler-sells-paedos-black-book/)
+- [CNN: Published Epstein Files Included Video Showing Face of Undercover FBI Employee](https://www.cnn.com/2026/02/11/politics/epstein-files-video-showed-face-person-undercover)
+- [TIME: Ghislaine Maxwell's Alleged Little Black Book — What to Know](https://time.com/6124510/ghislaine-maxwell-trial-little-black-book/)
 - [The Independent, January 7, 2015](https://www.the-independent.com/news/people/prince-andrew-sex-allegations-jeffrey-epstein-s-butler-alfredo-rodriguez-who-stole-tellall-black-book-dies-age-60-9962307.html)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 - [Times Now Investigation](https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534)
-- DailyMail.com reports
-- Court records from 2010 sentencing
 
 *This information was built by Grok and Claude AI research.*

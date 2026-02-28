@@ -36,9 +36,31 @@ Avicii's death is one of several in a tight cluster:
 
 The clustering of these deaths, combined with the alleged trafficking documentary connection, is the primary driver of suspicion online.
 
+## Key Quotes from Media Coverage
+
+> "Our beloved Tim was a seeker, a fragile artistic soul searching for answers to existential questions. An over-achieving perfectionist who travelled and worked hard at a pace that led to extreme stress... He could not go on any longer. He wanted to find peace."
+> -- Bergling family statement, [Billboard: Avicii's Family Shares Heartfelt Second Statement Following DJ's Death](https://www.billboard.com/music/music-news/avicii-death-family-heartfelt-second-statement-8389218/)
+
+> "Tim was not made for the business machine he found himself in; he was a sensitive guy who loved his fans but shunned the spotlight."
+> -- Bergling family statement, [Variety: Avicii's Family Issues Second Statement](https://variety.com/2018/music/news/aviciis-family-issues-second-statement-he-could-not-go-on-any-longer-1202788415/)
+
+> "The promise of a better life often traps families and children into being used as tools for some of the most despicable people on Earth."
+> -- Avicii, on his "For a Better Day" music video depicting child trafficking, [Billboard: Avicii Directs 'For a Better Day' and 'Pure Grinding'](https://www.billboard.com/music/music-news/avicii-directs-videos-for-a-better-day-pure-grinding-6685775/)
+
 ## Sources
 - Family statement via TMZ and BBC News (April 2018)
 - X/Twitter threads compiling "Silent Children" documentary death cluster
 - Fact-checking articles debunking direct involvement in the documentary
+- [Billboard: Avicii's Family Shares Heartfelt Second Statement Following DJ's Death](https://www.billboard.com/music/music-news/avicii-death-family-heartfelt-second-statement-8389218/)
+- [Variety: Avicii's Family Issues Second Statement](https://variety.com/2018/music/news/aviciis-family-issues-second-statement-he-could-not-go-on-any-longer-1202788415/)
+- [NPR: Avicii's Family Statement Implies Suicide Was The Cause Of The Young Producer's Death](https://www.npr.org/sections/therecord/2018/04/26/606060983/aviciis-family-statement-implies-suicide-was-the-cause-of-the-young-producer-s-d)
+- [Billboard: Avicii Directs 'For a Better Day' and 'Pure Grinding'](https://www.billboard.com/music/music-news/avicii-directs-videos-for-a-better-day-pure-grinding-6685775/)
+- [NME: How did Avicii die? Death reported as suicide](https://www.nme.com/news/music/how-did-avicii-die-2298210)
+- [Snopes: Did DJ Avicii Try to Expose a Pedophile Ring Before He Died?](https://www.snopes.com/fact-check/dj-avicii-expose-pedophile-ring/)
+- [The Local (Sweden): Avicii in 'violent' video push against trafficking](https://www.thelocal.se/20150904/swedens-avicii-launches-scary-child-videos)
+- [Refinery29: Avicii's Family Calls Him A 'Fragile Soul' In New Heartbreaking Statement](https://www.refinery29.com/en-us/2018/04/197472/avicii-family-statement-cause-death)
+- [DJ Mag: Avicii Drops Official Videos For 'Pure Grinding' and 'For A Better Day'](https://djmag.com/content/avicii-drops-official-videos-pure-grinding-better-day-nsfw)
+- [EDM House Network: Reflecting on Avicii's 'For a Better Day' 9 Years Later](https://edmhousenetwork.com/released-9-years-ago-for-a-better-day-avicii/)
+- [Logically Facts: False -- Avicii was murdered because he was working on a documentary](https://www.logicallyfacts.com/en/fact-check/false-avicci-did-not-commit-suicide-he-was-murdered-because-he-knew-too-much-about-global-pedophilia)
 
 *This information was built by Grok and Claude AI research.*

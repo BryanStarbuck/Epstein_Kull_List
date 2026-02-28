@@ -46,6 +46,34 @@ The official ruling is suicide, supported by a handwriting-verified suicide note
 
 **Suspicion Level:** SUSPICIOUS — DHS trafficking whistleblower found shot dead. Family doubts suicide. Two-year delay in ruling.
 
+## Key Quotes from Media Coverage
+
+> "No one in the family believes this is a suicide. I mean he was enjoying doing talk radio and was working on another book and was excited about that."
+>
+> — Haney's stepmother, quoted in The United West ([The United West: Family of DHS Agent Turned Whistleblower "Seriously Doubts" Death Was Suicide](https://www.theunitedwest.org/2020/02/23/exclusive-family-of-dhs-agent-turned-whistleblower-seriously-doubts-death-was-suicide-agent-killed-by-gunshot/))
+
+> "When I talked to him two weeks ago he was excited, happy. He was happy about his new fiancee, his upcoming wedding, he was taking bookings for speaking engagements, he was looking forward to the release of his book, to filming more TV shows, and to a planned trip to Israel."
+>
+> — Brannon Howse, friend and media colleague ([Fox News: Philip Haney, DHS whistleblower during Obama era, found dead](https://www.foxnews.com/us/philip-haney-dhs-whistleblower-during-obama-era-found-dead-police-say))
+
+> "He had stated to many people that if he is ever found dead of a supposed 'suicide' to 'never believe it for a minute.'"
+>
+> — Friends of Philip Haney ([The New American: Suicide or Deep State Murder?](https://thenewamerican.com/us/crime/suicide-or-deep-state-murder-death-of-dhs-whistleblower-philip-haney/))
+
+## Sources
+
+- [Wikipedia: Philip Haney](https://en.wikipedia.org/wiki/Philip_Haney)
+- [Fox News: Philip Haney, DHS Whistleblower During Obama Era, Found Dead (February 2020)](https://www.foxnews.com/us/philip-haney-dhs-whistleblower-during-obama-era-found-dead-police-say)
+- [CBS Sacramento: Former DHS Whistleblower Philip Haney's Death Officially Ruled Suicide](https://www.cbsnews.com/sacramento/news/dhs-whistleblower-philip-haney-death-ruled-suicide/)
+- [ABC10: Philip Haney's Death Ruled Suicide](https://www.abc10.com/article/news/local/california/former-us-officials-death-in-california-ruled-suicide-philip-haney/103-2f9ac966-2322-4049-b9ff-25600f0eddb7)
+- [Washington Times: Philip Haney, DHS 'Whistleblower,' Found Dead in California](https://www.washingtontimes.com/news/2020/feb/25/philip-haney-dhs-whistleblower-found-dead-californ/)
+- [Mercury News: Homeland Security Whistleblower Found Fatally Shot Along California Road](https://www.mercurynews.com/2020/02/25/homeland-security-whistleblower-found-fatally-shot-along-california-road/)
+- [The New American: Suicide or Deep State Murder? Death of DHS Whistleblower Philip Haney](https://thenewamerican.com/us/crime/suicide-or-deep-state-murder-death-of-dhs-whistleblower-philip-haney/)
+- [The United West: Family of DHS Agent Turned Whistleblower "Seriously Doubts" Death Was Suicide](https://www.theunitedwest.org/2020/02/23/exclusive-family-of-dhs-agent-turned-whistleblower-seriously-doubts-death-was-suicide-agent-killed-by-gunshot/)
+- [Frontpage Mag: Philip Haney: Homicide vs. Suicide](https://www.frontpagemag.com/philip-haney-homicide-vs-suicide/)
+- [Ledger News: Philip Haney's Death Ruled a Suicide -- ACSO Releases Investigation Files](https://www.ledger.news/news/philip-haneys-death-ruled-a-suicide-acso-releases-investigation-files/article_cea67518-9f33-11ec-bfc1-6f98ed57bc2c.html)
+- [California Globe: Death of DHS Whistleblower Philip Haney Not a Suicide, Say House Republicans](https://californiaglobe.com/fr/death-of-dhs-whistleblower-philip-haney-not-a-suicide-say-house-republicans/)
+
 ---
 
 *This information was built by Grok and Claude AI research.*

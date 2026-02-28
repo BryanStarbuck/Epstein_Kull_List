@@ -38,6 +38,20 @@ Dyer's death removed a witness to the will of a man Kessler was suspected of mur
 - **1985:** [Arthur Shapiro](Arthur_Shapiro.md) gunned down — Kessler prime suspect; Epstein took Shapiro's position
 - **1991:** [John Deroo](John_Deroo.md) shot six times — Kessler convicted
 
+## Key Quotes from Media Coverage
+
+> "Kessler and a woman named Marjorie Dyer were the only witnesses who had signed Yassenoff's will, and Kessler had come under suspicion when she died in a questionable automobile accident."
+>
+> — [Whitney Webb, Unlimited Hangout](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/) (August 2021)
+
+> "Did Berry Kessler, an accountant, really wield enough influence in Ohio to avoid being heavily scrutinized for not just one but three murders?"
+>
+> — [Whitney Webb, Unlimited Hangout](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/) (August 2021)
+
+> "You have attempted to portray yourself as a kindly... senior citizen. The reality is that you, in a most cold and calculated fashion, plotted and carried out a contract-style murder of a man who thought you were his friend. You are, in fact, a clever, cunning and merciless killer."
+>
+> — Judge William Webb, [sentencing Berry Kessler for the murder-for-hire of John Deroo](https://www.tampabay.com/archive/1997/02/20/75-year-old-is-sentenced-to-death-for-murder-plot/) (February 1997)
+
 ## See Also
 
 - [Frank Yassenoff](Frank_Yassenoff.md) — Murdered; Dyer co-signed his will
@@ -47,6 +61,10 @@ Dyer's death removed a witness to the will of a man Kessler was suspected of mur
 
 ## Sources
 
-- [Unlimited Hangout — Whitney Webb: The Deeper Mystery Behind the Arthur Shapiro Homicide](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/)
+- [Unlimited Hangout — Whitney Webb: A Kingpin, the Mob, and a Murder: The Deeper Mystery Behind the Arthur Shapiro Homicide](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/)
+- [The Daily Beast: Who Murdered the Lawyer of Victoria's Secret Billionaire Les Wexner?](https://www.thedailybeast.com/who-murdered-arthur-shapiro-the-lawyer-of-victorias-secret-billionaire-les-wexner/)
+- [Tampa Bay Times: 75-year-old is sentenced to death for murder plot](https://www.tampabay.com/archive/1997/02/20/75-year-old-is-sentenced-to-death-for-murder-plot/)
+- [FindLaw: Kessler v. State (1999) — Florida Supreme Court](https://caselaw.findlaw.com/court/fl-supreme-court/1402527.html)
+- [Websleuths: Arthur Shapiro, 43, Columbus, 6 March 1985](https://www.websleuths.com/forums/threads/oh-arthur-shapiro-43-columbus-6-march-1985.97277/)
 
 *This information was built by Grok and Claude AI research.*

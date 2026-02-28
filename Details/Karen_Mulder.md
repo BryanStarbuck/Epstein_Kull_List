@@ -96,6 +96,20 @@ Karen Mulder is part of a broader pattern of models connected to the Epstein orb
 
 As of 2026, Karen Mulder is alive and living privately in France, primarily in Paris, with her daughter Anna. She has largely withdrawn from public life. In late 2024, she briefly resurfaced to announce she would sell pieces from her personal fashion archive. The 2026 Epstein file releases have brought renewed attention to her 2001 allegations, with many recognizing her as a pioneer whistleblower who tried to warn the world two decades too early.
 
+## Key Quotes from Media Coverage
+
+> "I think [her claims of] sexual harassments were true."
+> — Thierry Ardisson, the TV host who in 2001 had dismissed Mulder's allegations as "a paranoid delirium," reversing his position in 2022, [Candice Wuehle / Substack](https://candicewuehle.substack.com/p/the-supermodel-who-said-too-much)
+
+> "Back in the 90s, Dutch supermodel Karen Mulder blew the whistle on Epstein's network — long before anyone listened. They locked her in an asylum, wrecked her career, tried to bury her. 23 years later? She's vindicated."
+> — Kimberley Kates, actress, [X/Twitter (February 2026)](https://x.com/KimberleyKates/status/2018779740673601610)
+
+> "In 2001, supermodel Karen Mulder went on a French talk show and accused powerful people of sexual abuse and human trafficking. The interview was pulled before it aired, and the footage was destroyed. After that, Karen was labeled 'crazy,' admitted to a psychiatric hospital."
+> — [Elle Lookbook (February 2026)](https://x.com/EvaLovesDesign/status/1949859419778322848)
+
+> "Karen Mulder Named Them in 2001. The Epstein Files Brought the Names Back."
+> — [India Herald headline (February 2026)](https://www.indiaherald.com/Breaking/Read/994877587/Karen-Mulder-Named-Them-in-The-Epstein-Files-Brought-the-Names-Back)
+
 ## See Also
 
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Named by Mulder as a "child hunter" in 2001; found hanged in prison 2022
@@ -117,5 +131,10 @@ As of 2026, Karen Mulder is alive and living privately in France, primarily in P
 - [Wikipedia: Gérald Marie](https://en.wikipedia.org/wiki/G%C3%A9rald_Marie)
 - [Women's Agenda: How modelling agencies became a pipeline for the exploitation of young women](https://womensagenda.com.au/latest/how-modelling-agencies-became-a-pipeline-for-the-exploitation-of-young-women/)
 - [Academia.edu: The Ghost In Paris — How the Fashion Modelling Industry Tried to Silence Karen Mulder](https://www.academia.edu/143463097/The_Ghost_In_Paris_How_the_Fashion_Modelling_Industry_Tried_to_Silence_Karen_Mulder_by_Paul_Michael_Bales)
+- [Candice Wuehle / Substack: The Cassandra of the Catwalk](https://candicewuehle.substack.com/p/the-supermodel-who-said-too-much)
+- [Jessica Reed Kraus / Substack: Jean Luc Brunel's Death Buys More Silence](https://jessicareedkraus.substack.com/p/jean-luc-brunels-death-buys-more)
+- [Medium / Kins: Karen Mulder & the Story of Phaedra](https://medium.com/@kinsproductions/karen-mulder-the-story-of-phaedra-uncancellable-ep-01-5f125d934aaa)
+- [Magzter / The Independent: Fashion whistleblower lost everything but the truth](https://www.magzter.com/stories/newspaper/The-Independent/FASHION-WHISTLEBLOWER-LOST-EVERYTHING-BUT-THE-TRUTH)
+- [Substack / Vandecraats: Epstein-Jean Luc's Dark Web — Lessons from a Silenced Voice](https://vandecraats2025law.substack.com/p/epstein-jean-lucs-dark-web-lessons)
 
 *This information was built by Grok and Claude AI research.*

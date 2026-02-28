@@ -44,6 +44,31 @@ The death was ruled accidental by the medical examiner. The connection to Epstei
 
 **Suspicion Level:** SUSPICIOUS — Extremely unusual cause of death days before corruption trial involving Clinton-connected donor.
 
+## Key Quotes from Media Coverage
+
+> "Ashe died from 'traumatic asphyxia with laryngeal cartilage fractures' after dropping a barbell on his neck, according to the Westchester County Medical Examiner's office."
+>
+> — [CNN: Ex-U.N. General Assembly president John Ashe, indicted last year, dies](https://www.cnn.com/2016/06/22/us/united-nations-john-ashe-dies-while-awaiting-bribery-trial)
+
+> "U.N. spokesman Dan Thomas told CNN that Ashe died of a heart attack... He later told CNN that the information came from a newspaper report in Antigua."
+>
+> — On the UN's initial misreporting of the cause of death ([CNN](https://www.cnn.com/2016/06/22/us/united-nations-john-ashe-dies-while-awaiting-bribery-trial))
+
+> "No portion of the case pertained to Hillary Clinton, and neither was Ashe slated to testify against her at any point during the trial."
+>
+> — U.S. District Attorney's spokesperson, clarifying false claims about Clinton testimony ([Snopes](https://www.snopes.com/fact-check/un-official-john-ashe-killed-the-day-before-he-was-to-testify-against-hillary-clinton/))
+
+## Sources
+
+- [CNN: Ex-U.N. General Assembly president John Ashe, indicted last year, dies (June 22, 2016)](https://www.cnn.com/2016/06/22/us/united-nations-john-ashe-dies-while-awaiting-bribery-trial)
+- [Snopes: UN Official John Ashe Killed the Day Before He Was to Testify Against Hillary Clinton](https://www.snopes.com/fact-check/un-official-john-ashe-killed-the-day-before-he-was-to-testify-against-hillary-clinton/)
+- [PolitiFact: Blogger Falsely Ties Death of U.N. Official to Clintons](https://www.politifact.com/factchecks/2017/jun/30/blog-posting/blogger-falsely-ties-death-un-official-clintons/)
+- [Wikipedia: John William Ashe](https://en.wikipedia.org/wiki/John_William_Ashe)
+- [Courthouse News Service: John Ashe, Indicted Ex-UN Chief, Dead at 61](https://www.courthousenews.com/john-ashe-indicted-ex-un-chief-dead-at-61/)
+- [La Voce di New York: The Strange Death of a Discredited Top UN Diplomat](https://lavocedinewyork.com/en/un/2016/06/24/the-strange-death-of-a-discredited-top-un-diplomat/)
+- [Jamaica Gleaner: Indicted John Ashe Died from Barbell Injury](https://jamaica-gleaner.com/article/business/20160624/indicted-john-ashe-died-barbell-injury)
+- [Stabroek News: Ex-UN General Assembly President Died in Weight-Lifting Accident](https://www.stabroeknews.com/2016/06/24/news/guyana/ex-un-general-assembly-president-died-weight-lifting-accident/)
+
 ---
 
 *This information was built by Grok and Claude AI research.*

@@ -66,6 +66,20 @@ The commission has identified [Brice and Karen Gordon](Brice_Karen_Gordon.md), t
 
 The burial allegations remain unverified. The DOJ warned that some files contain "untrue and sensationalist claims" and include anonymous accusations that investigators did not corroborate, or in some cases determined to be false. However, the severity of the allegations, combined with the fact that the ranch was never searched by the FBI and multiple victims have testified to abuse there, led New Mexico to launch a formal $2 million investigation.
 
+## Key Quotes from Media Coverage
+
+> "New Mexico was basically the worst."
+> — Epstein survivors describing their experiences at Zorro Ranch to New Mexico lawmakers, via [Santa Fe New Mexican](https://www.santafenewmexican.com/news/local_news/new-mexico-was-basically-the-worst-epstein-survivors-told-lawmaker/article_a4beedb2-383f-4706-acd0-4120885f25e7.html)
+
+> "Revelations outlined in the previously sealed FBI files warrant further examination."
+> — New Mexico Attorney General Raul Torrez, announcing the reopening of the criminal investigation, via [Santa Fe New Mexican](https://www.santafenewmexican.com/news/local_news/new-mexico-attorney-general-reopens-investigation-into-epsteins-zorro-ranch/article_8de923e3-77ed-4478-97e5-f19468d1f4f4.html)
+
+> "While Epstein's properties in New York, Paris, Palm Beach and the Caribbean have all been searched at some point, state and local officials said they weren't aware of any federal search at Zorro Ranch."
+> — [NBC News: New Mexico approves comprehensive probe of Epstein's Zorro Ranch](https://www.nbcnews.com/politics/politics-news/new-mexico-probe-jeffrey-epstein-zorro-ranch-rcna259292)
+
+> "Two foreign girls died by strangulation during rough, fetish sex... their bodies were buried somewhere in the hills outside the Zorro."
+> — Anonymous email from alleged former Zorro Ranch employee to talk show host Eddy Aragon, November 2019, via [The Hill](https://thehill.com/homenews/state-watch/5746366-zorro-ranch-illegal-activity/)
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Ranch owner
@@ -82,5 +96,13 @@ The burial allegations remain unverified. The DOJ warned that some files contain
 - [CBS News: New Mexico reopens investigation into allegations at Epstein's Zorro Ranch](https://www.cbsnews.com/news/new-mexico-reopens-investigation-jeffrey-epstein-zorro-ranch/)
 - [Source New Mexico: New Mexico Attorney General reopens criminal investigation](https://sourcenm.com/briefs/new-mexico-attorney-general-reopens-criminal-investigation-into-jeffrey-epsteins-zorro-ranch/)
 - [Scripps News: New Mexico DOJ investigating claims of burials near Zorro Ranch](https://www.scrippsnews.com/us-news/crime/new-mexico-doj-investigating-claims-of-burials-near-jeffrey-epsteins-zorro-ranch)
+- [NBC News: New Mexico approves comprehensive probe of Epstein's Zorro Ranch](https://www.nbcnews.com/politics/politics-news/new-mexico-probe-jeffrey-epstein-zorro-ranch-rcna259292)
+- [Santa Fe New Mexican: 'New Mexico was basically the worst,' Epstein survivors told lawmaker](https://www.santafenewmexican.com/news/local_news/new-mexico-was-basically-the-worst-epstein-survivors-told-lawmaker/article_a4beedb2-383f-4706-acd0-4120885f25e7.html)
+- [Santa Fe New Mexican: House 'truth commission' on Zorro Ranch vows 'survivor-centered' investigation](https://www.santafenewmexican.com/news/legislature/house-truth-commission-on-zorro-ranch-vows-survivor-centered-investigation/article_10ff0c4d-dafc-4333-87c5-09eb442b0c68.html)
+- [MindSite News: New Mexico Investigates Allegations of Abuse, Buried Bodies on Epstein's Zorro Ranch](https://mindsitenews.org/2026/02/25/new-mexico-investigates-allegations-of-abuse-buried-bodies-on-epsteins-zorro-ranch/)
+- [ABQ Journal: Investigation called for Epstein's Zorro Ranch after email alleges two girls' bodies were buried nearby](https://www.abqjournal.com/news/investigation-called-for-epsteins-zorro-ranch-after-email-alleges-two-girls-bodies-were-buried-nearby/2978007)
+- [KOB: Why is Zorro Ranch in so many Epstein files? Lawmakers want to know](https://www.kob.com/new-mexico/why-is-zorro-ranch-in-so-many-epstein-files-lawmakers-want-to-know/)
+- [Source New Mexico: NM land commissioner seeks probe into allegation of two girls buried near Epstein ranch](https://sourcenm.com/2026/02/10/nm-land-commissioner-seeks-probe-into-allegation-that-two-girls-were-buried-near-epstein-ranch/)
+- [Wikipedia: Zorro Ranch](https://en.wikipedia.org/wiki/Zorro_Ranch)
 
 *This information was built by Grok and Claude AI research.*

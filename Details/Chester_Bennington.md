@@ -35,10 +35,33 @@ The connection to the documentary has been debunked by fact-checkers and the doc
 - [Kate Spade](Kate_Spade.md) — June 5, 2018 (hanging)
 - [Anthony Bourdain](Anthony_Bourdain.md) — June 8, 2018 (hanging)
 
+## Key Quotes from Media Coverage
+
+> "I can't imagine a world without you in it. I pray you find peace in the next life."
+> -- Chester Bennington, in his open letter to Chris Cornell after Cornell's death, [Entertainment Tonight: Read Chester Bennington's Heartbreaking Letter to Chris Cornell](https://www.etonline.com/music/222104_read_chester_bennington_heartbreaking_letter_to_chris_cornell)
+
+> "One week ago, I lost my soulmate and my children lost their hero -- their Daddy. We had a fairytale life and now it has turned into some sick Shakespearean tragedy."
+> -- Talinda Bennington, [TMZ: Chester Bennington's Wife Releases Heartfelt Tribute](https://www.tmz.com/2017/07/28/linkin-park-chester-bennington-wife-statement-after-death/)
+
+> "He was a bright, loving soul with an angel's voice. And now he is pain-free singing his songs in all of our hearts."
+> -- Talinda Bennington, [ABC News Radio: Chester Bennington's widow Talinda shares statement on late husband](http://abcnewsradioonline.com/music-news/2017/7/28/chester-benningtons-widow-talinda-shares-statement-on-late-h.html)
+
+> "I woke up with Rocky Raccoon playing in my head and a concerned look on my wife's face. She told me my friend had just passed away. Thoughts of you flooded my mind and I wept."
+> -- Chester Bennington, in his letter to Chris Cornell, [NME: Read Linkin Park frontman Chester Bennington's emotional tribute to Chris Cornell](https://www.nme.com/news/music/chris-cornell-chester-bennington-tribute-2073635)
+
 ## Sources
 - LA County Department of Medical Examiner-Coroner report
 - Bennington family statements
 - X/Twitter threads compiling "Silent Children" documentary death cluster
 - CNN, BBC News, Rolling Stone coverage (July 2017)
+- [Entertainment Tonight: Read Chester Bennington's Heartbreaking Letter to Chris Cornell](https://www.etonline.com/music/222104_read_chester_bennington_heartbreaking_letter_to_chris_cornell)
+- [TMZ: Chester Bennington's Wife Releases Heartfelt Tribute](https://www.tmz.com/2017/07/28/linkin-park-chester-bennington-wife-statement-after-death/)
+- [Variety: Linkin Park Singer Chester Bennington Found Dead in Apparent Suicide](https://variety.com/2017/music/news/chester-bennington-dead-linkin-park-suicide-1202501458/)
+- [NME: Chester Bennington Obituary: 1976-2017](https://www.nme.com/blogs/nme-blogs/chester-bennington-obituary-1976-2017-2113700)
+- [NME: Read Linkin Park frontman Chester Bennington's emotional tribute to Chris Cornell](https://www.nme.com/news/music/chris-cornell-chester-bennington-tribute-2073635)
+- [The Local Malibu: Missing Links -- The Unanswered Questions in the Death of Chester Bennington](https://thelocalmalibu.com/exclusive-missing-links-the-unanswered-questions-in-the-death-of-linkin-park-front-man-chester-bennington-part-1/)
+- [Billboard: Chester Bennington's Widow Talinda Celebrates His Birthday in Emotional Post](https://www.billboard.com/music/music-news/chester-bennington-widow-talinda-birthday-tribute-post-1235046556/)
+- [Spin: Chester Bennington's Wife Talinda Urges Fans to 'Keep His Memory Alive'](https://www.spin.com/2017/07/chester-bennington-wife-statement/)
+- [TMZ: Linkin Park Singer Chester Bennington Dead, Commits Suicide by Hanging](https://www.tmz.com/2017/07/20/linkin-park-singer-chester-bennington-dead-commits-suicide/)
 
 *This information was built by Grok and Claude AI research.*

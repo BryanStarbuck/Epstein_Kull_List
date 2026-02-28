@@ -45,10 +45,31 @@ Calabrese is named in online claims as one of 12 NYPD officers who allegedly vie
 
 See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_Maxwell.md)
 
+## Key Quotes from Media Coverage
+
+> "Joseph Calabrese was a dedicated detective, union official, husband and father. He was the salt of the earth."
+> — Michael Palladino, president of the Detectives' Endowment Association ([Fox News](https://www.foxnews.com/us/second-nypd-officer-dead-by-self-inflicted-gunshot-wound-to-the-head-report))
+
+> "This is a mental-health crisis. This cannot be allowed to continue. Accepting help is never a sign of weakness — it's a sign of great strength."
+> — NYPD Commissioner James O'Neill ([CBS News](https://www.cbsnews.com/news/nypd-suicide-third-officer-dies-by-suspected-suicide-in-less-than-10-days-today-2019-06-14/))
+
+> "Three brave members of our police force have taken their lives in recent days. All of them led lives that made their communities better."
+> — New York City Mayor Bill de Blasio ([CBS News](https://www.cbsnews.com/news/nypd-suicide-third-officer-dies-by-suspected-suicide-in-less-than-10-days-today-2019-06-14/))
+
 ## Sources
 
 - [CBS News: Third NYPD officer dies by suspected suicide in less than 10 days](https://www.cbsnews.com/news/nypd-suicide-third-officer-dies-by-suspected-suicide-in-less-than-10-days-today-2019-06-14/)
 - [TIME: 10 NYPD Officers Have Died by Suicide in 2019](https://time.com/5702036/10th-police-suicide-nypd-new-york-city/)
 - [NBC New York: Timeline — The NYPD's Ongoing 2019 Suicide Crisis](https://www.nbcnewyork.com/news/local/timeline-nypd-2019-suicide-crisis/1503549/)
+- [NBC New York: Missing NYPD Homicide Detective Found Dead in Sheepshead Bay from Apparent Suicide](https://www.nbcnewyork.com/news/local/search-underway-for-missing-nypd-detective/1745902/)
+- [Patch: Detective Found Dead By Brooklyn Beach After Manhunt](https://patch.com/new-york/brooklyn/detective-found-dead-brooklyn-beach-after-manhunt-reports)
+- [Brooklyn Paper: Body of Brooklyn cop discovered in Plum Beach following apparent suicide](https://www.brooklynpaper.com/stories/42/24/mm-nypd-officer-suicide-2019-06-14-bk.html)
+- [Police1: Missing NYPD detective found dead of suicide at Brooklyn beach](https://www.police1.com/health-fitness/articles/missing-nypd-detective-found-dead-of-suicide-at-brooklyn-beach-2tYqlXzAnBOkMRTw/)
+- [Bklyner: Highly Respected Homicide Detective Found Dead In Plumb Beach](https://bklyner.com/update-highly-respected-homicide-detective-found-dead-in-plumb-beach/)
+- [PIX11: Body of missing NYPD detective found in Brooklyn](https://pix11.com/2019/06/06/body-found-as-nypd-searches-for-missing-detective-in-brooklyn-source/)
+- [Fox News: NYPD detective found dead in apparent suicide day after deputy chief's suicide](https://www.foxnews.com/us/second-nypd-officer-dead-by-self-inflicted-gunshot-wound-to-the-head-report)
+- [Gothamist: Second NYPD Officer Dies By Suicide Within 24 Hours](http://gothamist.com/2019/06/07/brooklyn_detective_suicide.php)
+- [Crime Online: Missing NYPD homicide detective found dead](https://www.crimeonline.com/2019/06/06/nypd-homicide-detectives-body-found-off-beach-following-brief-manhunt-source/)
+- [PoliceMag: Missing NYPD Homicide Detective Found Dead of Apparent Suicide](https://www.policemag.com/news/missing-nypd-homicide-detective-found-dead-of-apparent-suicide)
 
 *This information was built by Grok and Claude AI research.*

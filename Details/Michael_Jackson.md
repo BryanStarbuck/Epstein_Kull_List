@@ -31,6 +31,17 @@ Jackson reportedly visited [Epstein](Jeffrey_Epstein.md)'s Palm Beach mansion on
 - Jackson's name appeared in connection with Epstein's network through the 2003 visit.
 - However, the connection appears tangential. His death was conclusively attributed to the actions of his personal physician, and there is no evidence tying his death to the Epstein case.
 
+## Key Quotes from Media Coverage
+
+> "We were just viewing houses as Michael wanted to live on Palm Beach so he can be close to his friend Barry Gibb... We never even knew who Epstein was. He was not famous then."
+> — Matt Fiddes, Jackson's former bodyguard, via [The Tab](https://thetab.com/2025/12/22/michael-jacksons-bodyguard-speaks-out-on-that-picture-from-the-epstein-files)
+
+> "He, like the other house owners we viewed that week, wanted a picture with Michael... Epstein was not in Michael's financial circles."
+> — Matt Fiddes, explaining the Epstein photo, via [The Mirror](https://www.themirror.com/entertainment/celebrity-news/michael-jacksons-bodyguard-explains-reason-1574511)
+
+> "No allegations of wrongdoing or involvement in Epstein's illegal activities were made against Jackson in any of the unsealed files."
+> — [Billboard: Michael Jackson Named in Epstein Documents, But Not Accused](https://www.billboard.com/music/music-news/michael-jackson-unsealed-epstein-documents-not-accused-1235575610/)
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md)
@@ -38,5 +49,15 @@ Jackson reportedly visited [Epstein](Jeffrey_Epstein.md)'s Palm Beach mansion on
 ## Sources
 
 - [Times Now Investigation](https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534)
+- [Billboard: Michael Jackson Named in Epstein Documents, But Not Accused](https://www.billboard.com/music/music-news/michael-jackson-unsealed-epstein-documents-not-accused-1235575610/)
+- [The Tab: Michael Jackson's bodyguard speaks out on that picture from the Epstein files](https://thetab.com/2025/12/22/michael-jacksons-bodyguard-speaks-out-on-that-picture-from-the-epstein-files)
+- [The Mirror: Michael Jackson's bodyguard explains reason for Jeffrey Epstein photo](https://www.themirror.com/entertainment/celebrity-news/michael-jacksons-bodyguard-explains-reason-1574511)
+- [Music Times: Michael Jackson Bodyguard Defends Late Star After Epstein Photo Emerges](https://www.musictimes.com/articles/110765/20251223/michael-jackson-bodyguard-defends-late-star-after-epstein-photo-emerges.htm)
+- [Atlanta Black Star: Michael Jackson's Former Bodyguard Tells a Different Story About Singer's Time at Epstein's House](https://atlantablackstar.com/2025/12/24/bodyguard-tells-a-different-story-about-michael-jacksons-time-at-epsteins-house/)
+- [Sportskeeda: Ex-bodyguard pushes back on claims linking Michael Jackson to Epstein](https://www.sportskeeda.com/pop-culture/news-this-2003-ex-bodyguard-pushes-back-claims-linking-michael-jackson-epstein-amidst-photo-release)
+- [WION News: Epstein files — Michael Jackson at the Palm Beach mansion](https://www.wionews.com/photos/epstein-files-michael-jackson-at-the-palm-beach-mansion-what-the-deposition-actually-says-1766237395027)
+- [Snopes: Macaulay Culkin never said Michael Jackson 'saved' him from Epstein](https://www.snopes.com/fact-check/macaulay-culkin-michael-jackson-epstein/)
+- [MJVibe: Michael Jackson, Epstein Photos and Why the Press Needs to Chill](https://www.mjvibe.com/michael-jackson-epstein-photos-and-why-the-press-needs-to-chill/)
+- [Wikipedia: List of people named in the Epstein files](https://en.wikipedia.org/wiki/Prominent_individuals_mentioned_in_the_Epstein_files)
 
 *This information was built by Grok and Claude AI research.*

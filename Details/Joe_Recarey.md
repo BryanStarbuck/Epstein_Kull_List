@@ -150,6 +150,17 @@ Recarey's name has trended on X following the January 2024 unsealing of his June
 ### Key Caveat
 X posts often mix real facts with speculation and frequently cite no primary documentation for the more dramatic claims. The only widely published official statement on his death is the obituary's "brief illness" line. The gap — no public cause-of-death details — is exactly what online theorists use to fill in competing narratives.
 
+## Key Quotes from Media Coverage
+
+> "Joe Recarey, the lead detective, always wanted justice for the girls. My first thought was of him — wishing he had been there to see it."
+> — **Julie K. Brown**, *Miami Herald* investigative journalist and author of *Perversion of Justice*, on Recarey's dedication to the Epstein case ([NPR](https://www.npr.org/transcripts/1017968999))
+
+> "Everything took a turn once Epstein's high-powered defense attorneys became involved."
+> — **Joe Recarey**, in sworn testimony, describing how the prosecution's approach shifted ([Vox](https://vox.com))
+
+> "He was a lead detective in many major investigations, including the high-profile solicitation-of-minors case against billionaire Jeffrey Epstein... He died Friday, May 25, 2018, surrounded by his family after a brief illness."
+> — **Palm Beach Daily News**, obituary for Joseph Recarey ([Legacy.com](https://www.legacy.com/us/obituaries/palmbeachdailynews/name/joseph-recarey-obituary?id=11914016))
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Subject of Recarey's investigation
@@ -164,15 +175,17 @@ X posts often mix real facts with speculation and frequently cite no primary doc
 
 ## Sources
 
-- [Palm Beach Daily News — Recarey Obituary](https://www.palmbeachdailynews.com)
-- [ABC7 — Epstein Investigation Details](https://abc7.com)
-- [Vox — Epstein's "Sexual Pyramid Scheme"](https://vox.com)
-- [Palm Beach Post — Investigation Timeline](https://www.palmbeachpost.com)
+- [Legacy.com: Joseph Recarey Obituary (1967–2018)](https://www.legacy.com/us/obituaries/palmbeachdailynews/name/joseph-recarey-obituary?id=11914016)
+- [Truth or Fiction: Did the Detective Who Led Jeffrey Epstein Investigation Die After a 'Brief Illness' at 50?](https://www.truthorfiction.com/did-the-detective-who-led-jeffrey-epstein-investigation-die-after-a-brief-illness-at-50-in-september-2019/)
+- [NPR: Jeffrey Epstein's Victims Speak in 'Perversion of Justice'](https://www.npr.org/transcripts/1017968999)
+- [ABC7 Chicago: Palm Beach County Grand Jury Docs in 2006 Epstein Case](https://abc7chicago.com/post/grand-jury-docs-2006-epstein-case-palm-beach-county-florida/15018104/)
+- [KSL TV / CNN: In Newly Unsealed Court Documents, A Detective Describes Recruitment of Dozens of Girls for Epstein](https://ksltv.com/cnn/in-newly-unsealed-court-documents-a-detective-describes-recruitment-of-dozens-of-girls-for-epstein/612382/)
+- [Wikispooks: Joseph Recarey](https://wikispooks.com/wiki/Joseph_Recarey)
+- [Mining Awareness: Decorated Former Palm Beach Detective Who Led Epstein Investigation Dead at 50](https://miningawareness.wordpress.com/2018/12/03/decorated-former-palm-beach-detective-who-led-epstein-investigation-dead-at-50/)
 - [Miami Herald — "Perversion of Justice" Series by Julie K. Brown](https://www.miamiherald.com/topics/jeffrey-epstein)
 - [Times Now Investigation](https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
-- [ABC News — Unsealed Grand Jury Transcripts](https://abcnews.go.com)
-- [PEOPLE — Epstein Investigation Scale](https://people.com)
+- [Dignity Memorial: Joseph Recarey Obituary](https://www.dignitymemorial.com/obituaries/west-palm-beach-fl/joseph-recarey-7862448)
 - Recarey March 19, 2010 sworn deposition (cover page identifies "Detective Joseph Recarey")
 
 *This information was built by Grok and Claude AI research.*

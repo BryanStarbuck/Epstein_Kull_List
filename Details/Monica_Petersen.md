@@ -43,6 +43,32 @@ The connection to Epstein is speculative, running through Haiti and the Clinton 
 
 **Suspicion Level:** UNCERTAIN — Trafficking researcher died in Haiti. No direct Epstein link. Conspiracy claims debunked by mainstream sources, but limited public details.
 
+## Key Quotes from Media Coverage
+
+> "I would like to bring this chapter of my dear friend and colleague's life to a close. This does not mean we should end our vigilance around fake news and its very real consequences."
+> — Claude d'Estree, director of the Human Trafficking Center at University of Denver, via [The Washington Post](https://www.washingtonpost.com/news/fact-checker/wp/2016/12/06/another-false-pizzagate-tale-the-death-of-a-sex-worker-activist-in-haiti/)
+
+> "Petersen was not in Haiti to research human trafficking or investigate the Clintons — she had been teaching and was exploring setting up a nongovernmental organization."
+> — Claude d'Estree, statement to the Washington Post (December 2016), via [The Washington Post](https://www.washingtonpost.com/news/fact-checker/wp/2016/12/06/another-false-pizzagate-tale-the-death-of-a-sex-worker-activist-in-haiti/)
+
+> "Petersen's 2016 death in Haiti sparked a conspiracy theory that she was killed for investigating the Clintons' child trafficking."
+> — [PolitiFact: 2016 death not connected to false sex trafficking claims about Clintons](https://www.politifact.com/factchecks/2024/mar/15/instagram-posts/2016-suicide-not-connected-to-false-sex-traffickin/) (rated "Pants on Fire")
+
+## See Also
+
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md)
+- [Jenny Moore](Jenny_Moore.md)
+- [Max Spiers](Max_Spiers.md)
+
+## Sources
+
+- [The Washington Post: Another false 'Pizzagate' tale — the death of a sex-worker activist in Haiti](https://www.washingtonpost.com/news/fact-checker/wp/2016/12/06/another-false-pizzagate-tale-the-death-of-a-sex-worker-activist-in-haiti/)
+- [PolitiFact: 2016 death not connected to false sex trafficking claims about Clintons](https://www.politifact.com/factchecks/2024/mar/15/instagram-posts/2016-suicide-not-connected-to-false-sex-traffickin/)
+- [Snopes: Was Monica Petersen Killed for Investigating Clinton-Related Sex Trafficking in Haiti?](https://www.snopes.com/fact-check/monica-petersen-killed/)
+- [Lead Stories: Fact Check — Monica Petersen Did NOT Die In Haiti While Investigating Clintons For Sex Trafficking](https://leadstories.com/hoax-alert/2024/03/fact-check-monica-petersen-did-not-die-in-haiti-while-investigating-clintons-for-sex-trafficking.html)
+- [Mining Awareness: Monica Petersen Memorial Service Link](https://miningawareness.wordpress.com/2016/11/18/monica-petersen-memorial-service-livestreaming-at-11-am-friday-colorado-time-assistant-direct-human-trafficking-center-died-in-haiti/)
+- [Medium / Surviveandheal15: University of Denver Human Trafficking Researcher Monica Petersen](https://medium.com/@plutoscorpio185/confirmed-university-of-denver-human-trafficking-researcher-monica-petersen-murdered-by-584b42887a5a)
+
 ---
 
 *This information was built by Grok and Claude AI research.*

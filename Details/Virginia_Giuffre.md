@@ -62,6 +62,24 @@ Her posthumous memoir, *Nobody's Girl: A Memoir of Surviving Abuse and Fighting 
 
 In February 2026, newly released Epstein files shed additional light on her case and the circumstances surrounding her death, renewing public scrutiny of the Epstein network's impact on survivors.
 
+## Key Quotes from Media Coverage
+
+> "I am making it publicly known that in no way, shape or form am I suicidal. I have made this known to my therapist and GP -- If something happens to me -- in the sake of my family do not let this go away and help me to protect them. Too many evil people want to see me quieted."
+>
+> — Virginia Giuffre, post on X (formerly Twitter), December 2019 ([Newsweek](https://www.newsweek.com/virginia-giuffre-no-way-suicidal-tweet-resurfaces-2064500))
+
+> "And then for them to say that she committed suicide, there's no way that she did. **Somebody got to her.**"
+>
+> — Sky Roberts, Virginia's father, interview with Piers Morgan ([TMZ](https://www.tmz.com/2025/05/01/virginia-giuffre-father-says-she-did-not-commit-suicide-piers-morgan/))
+
+> "Virginia was much more than a client to me; she was a dear friend and an incredible champion for other victims. Her courage pushed me to fight harder, and her strength was awe-inspiring. The world has lost an amazing human being today."
+>
+> — Attorney Sigrid McCawley ([Newsweek](https://www.newsweek.com/virginia-giuffre-no-way-suicidal-tweet-resurfaces-2064500))
+
+> "Virginia was one of the most extraordinary human beings I have ever had the honor to know. Deeply loving, wise, and funny, she was a beacon to other survivors and victims."
+>
+> — Dini von Mueffling, former spokesperson ([Newsweek](https://www.newsweek.com/virginia-giuffre-no-way-suicidal-tweet-resurfaces-2064500))
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Primary abuser
@@ -74,7 +92,20 @@ In February 2026, newly released Epstein files shed additional light on her case
 
 ## Sources
 
-- [NBC News](https://www.nbcnews.com/news/us-news/virginia-giuffre-one-jeffrey-epsteins-prominent-abuse-survivors-dies-s-rcna203027)
+- [NBC News: Virginia Giuffre, One of Epstein's Most Prominent Abuse Survivors, Dies by Suicide](https://www.nbcnews.com/news/us-news/virginia-giuffre-one-jeffrey-epsteins-prominent-abuse-survivors-dies-s-rcna203027)
+- [CNN: Virginia Giuffre, Prominent Jeffrey Epstein Sex Abuse Survivor and Accuser of Prince Andrew, Has Died](https://www.cnn.com/2025/04/25/australia/prince-andrew-accuser-virginia-giuffre-dies-intl-hnk)
+- [Al Jazeera: Epstein, Prince Andrew Accuser Virginia Giuffre Dies by Suicide](https://www.aljazeera.com/news/2025/4/26/epstein-prince-andrew-accuser-virginia-giuffre-dies-by-suicide-family)
+- [CBS News: Virginia Giuffre, Prominent Jeffrey Epstein Accuser, Dies by Suicide](https://www.cbsnews.com/news/virginia-giuffre-jeffrey-epstein-accuser-dies/)
+- [Newsweek: Virginia Giuffre 'No Way' Suicidal Tweet Resurfaces](https://www.newsweek.com/virginia-giuffre-no-way-suicidal-tweet-resurfaces-2064500)
+- [TMZ: Virginia Giuffre's Father Claims She Didn't Take Her Own Life, 'Somebody Got to Her'](https://www.tmz.com/2025/05/01/virginia-giuffre-father-says-she-did-not-commit-suicide-piers-morgan/)
+- [TMZ: Virginia Giuffre's Father Wants Her Suicide Investigated](https://www.tmz.com/2025/04/28/virginia-giuffre-father-wants-suicide-investigated-doubt/)
+- [TRT World: Virginia Giuffre's Father, Lawyer, Raise Questions Over Her Tragic Death](https://www.trtworld.com/article/6c49a9290ff9)
+- [Variety: Virginia Giuffre, Epstein Accuser and Non-Profit Founder, Dies at 41](https://variety.com/2025/film/people-news/virginia-giuffre-deadepstein-accuser-1236379303/)
+- [LA Magazine: Virginia Giuffre, Advocate and Victim of Jeffrey Epstein Abuse, Dies by Suicide](https://lamag.com/news/virginia-giuffre-advocate-and-victim-of-jeffrey-epstein-abuse-dies-by-suicide/)
+- [Oxygen: Prince Andrew Accuser Virginia Giuffre Says She's Not Suicidal](https://www.oxygen.com/crime-news/prince-andrew-accuser-virginia-giuffre-says-shes-not-suicidal)
+- [CNN: Virginia Giuffre Raped by 'Well-Known Prime Minister,' Posthumous Memoir Claims](https://www.cnn.com/2025/10/20/uk/virginia-giuffre-memoir-epstein-prince-andrew-intl)
+- [Britannica: Virginia Giuffre](https://www.britannica.com/biography/Virginia-Giuffre)
+- [Wikipedia: Virginia Giuffre](https://en.wikipedia.org/wiki/Virginia_Giuffre)
 - [Times Now Investigation](https://www.timesnownews.com/world/us/us-news/mysterious-deaths-linked-to-jeffrey-epstein-over-the-years-a-timeline-of-tragedy-and-suspicion-article-153071534)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 

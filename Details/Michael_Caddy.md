@@ -45,10 +45,26 @@ Caddy is named in online claims as one of 12 NYPD officers who allegedly viewed 
 
 See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_Maxwell.md)
 
+## Key Quotes from Media Coverage
+
+> "This is a mental-health crisis. This cannot be allowed to continue. Cops spend so much of their days assisting others. But before we can help the people we serve, it is imperative that we first help ourselves."
+> — NYPD Commissioner James O'Neill, after Caddy's death made the third in 10 days ([CBS News](https://www.cbsnews.com/news/nypd-suicide-third-officer-dies-by-suspected-suicide-in-less-than-10-days-today-2019-06-14/))
+
+> "Three brave members of our police force have taken their lives in recent days. All of them led lives that made their communities better. All of their lives had meaning."
+> — New York City Mayor Bill de Blasio ([CBS News](https://www.cbsnews.com/news/nypd-suicide-third-officer-dies-by-suspected-suicide-in-less-than-10-days-today-2019-06-14/))
+
+> "There is no shame in seeking assistance from the many resources available, both inside and outside the department. Accepting help is never a sign of weakness — it's a sign of great strength."
+> — NYPD Commissioner James O'Neill, in a message to all 55,000 officers ([NBC News](https://www.nbcnews.com/news/us-news/mental-health-crisis-fifth-nypd-officer-dies-suicide-two-months-n1035471))
+
 ## Sources
 
 - [CBS News: Third NYPD officer dies by suspected suicide in less than 10 days](https://www.cbsnews.com/news/nypd-suicide-third-officer-dies-by-suspected-suicide-in-less-than-10-days-today-2019-06-14/)
 - [TIME: 10 NYPD Officers Have Died by Suicide in 2019](https://time.com/5702036/10th-police-suicide-nypd-new-york-city/)
-- [NBC News: Fifth NYPD officer dies by suicide](https://www.nbcnews.com/news/us-news/mental-health-crisis-fifth-nypd-officer-dies-suicide-two-months-n1035471)
+- [NBC News: Fifth NYPD officer dies by suicide in two months](https://www.nbcnews.com/news/us-news/mental-health-crisis-fifth-nypd-officer-dies-suicide-two-months-n1035471)
+- [Gothamist: Third NYPD Suicide In 10 Days As Police Officer Is Found Dead Near Staten Island Precinct](https://gothamist.com/news/third-nypd-suicide-in-10-days-as-police-officer-is-found-dead-near-staten-island-precinct)
+- [The Daily Beast: NYPD Officer Dies of Suicide, the Third Self-Inflicted Death in Less Than Two Weeks](https://www.thedailybeast.com/nypd-officer-dies-of-apparent-suicide-the-third-self-inflicted-death-in-less-than-two-weeks)
+- [ABC7 New York: NYPD officer found dead after suspected suicide; 4th case for department in June](https://abc7ny.com/nypd-suicides-in-nyc-police-department-suicide-long-island/5368243/)
+- [Western Journal: 'Mental Health Crisis' Declared After 3 NYPD Officers Commit Suicide in 10 Days](https://www.westernjournal.com/mental-health-crisis-declared-3-nypd-officers-commit-suicide-10-days/)
+- [NBC New York: Fifth NYPD Officer Dies by Suicide in the Last Two Months](https://www.nbcnewyork.com/news/local/fifth-nypd-officer-dies-by-suicide-in-the-last-two-months/1520068/)
 
 *This information was built by Grok and Claude AI research.*

@@ -48,6 +48,38 @@ The NTSB ruled this pilot error, but the mid-air disintegration of the aircraft,
 
 **Suspicion Level:** HIGHLY SUSPICIOUS — Plane disintegrated mid-air while carrying evidence in child trafficking investigation. Briefcase of evidence vanished.
 
+## Key Quotes from Media Coverage
+
+> "I do not know anything about sabotage, but I have been told that a phosphorous type bomb would, in fact, vaporize metal and any other material with which it came in contact and that unless someone knew what they were looking for, it would be difficult, if not impossible, to detect.... I am sure there will be those who will scoff at such a suggestion, but there have been **entirely too many violent deaths associated with this investigation**."
+>
+> — Nebraska State Senator Loran Schmit, in a letter to NTSB aviation inspector Bill Bruce, March 6, 1991 ([Wikispooks: Gary Caradori](https://www.wikispooks.com/wiki/Gary_Caradori))
+
+> On July 10, 1990, Caradori called his boss, Nebraska State Senator Loran Schmit, to inform him that they now had the subjects of their investigation **"by the short hairs."** The next morning he and his eight-year-old son were dead.
+>
+> — Wikispooks / Nick Bryant research ([Wikispooks: Gary Caradori](https://www.wikispooks.com/wiki/Gary_Caradori))
+
+> "What we are seeing with Jeffrey Epstein, we saw in the Franklin scandal, although I think the Franklin pandering network was much, much bigger than Jeffrey Epstein's network."
+>
+> — Nick Bryant, author of *The Franklin Scandal* ([The Fred Martinez Report](https://www.thefredmartinezreport.com/2022/01/nick-bryant-franklin-scandal-is-about.html))
+
+## See Also
+
+- [Franklin child prostitution ring allegations — Wikipedia](https://en.wikipedia.org/wiki/Franklin_child_prostitution_ring_allegations)
+- [Lawrence E. King Jr. — Wikipedia](https://en.wikipedia.org/wiki/Lawrence_E._King_Jr.)
+
+## Sources
+
+- [Wikipedia: Franklin child prostitution ring allegations](https://en.wikipedia.org/wiki/Franklin_child_prostitution_ring_allegations)
+- [Wikispooks: Gary Caradori](https://www.wikispooks.com/wiki/Gary_Caradori)
+- [Wikispooks: Loran Schmit](https://wikispooks.com/wiki/Loran_Schmit)
+- [ISSTD News: An Interview with Nick Bryant — The Franklin Scandal](https://news.isst-d.org/an-interview-with-nick-bryant-part-i-the-franklin-scandal/)
+- [Giza Death Star: Murder by Airplane Crash — Remembering Gary Caradori and the Franklin Scandal](https://gizadeathstar.com/2013/11/airplane-remembering-franklin/)
+- [The Fred Martinez Report: Nick Bryant on the Franklin Scandal](https://www.thefredmartinezreport.com/2022/01/nick-bryant-franklin-scandal-is-about.html)
+- [MuckRock: Gary Caradori Crash FOIA Request](https://www.muckrock.com/foi/united-states-of-america-10/gary-caradori-crash-33654/)
+- [Internet Archive: Gary Caradori Interviews of Franklin Scandal Victims](https://archive.org/details/GaryCaradoriInterviewsOfFranklinScandalVictims)
+- [Nick Bryant NYC Blog: Gary Caradori's Leads List](https://nickbryantnyc.com/blog/f/gary-caradoris-leads-list-and-the-abuse-of-boys-town-students)
+- [Biltmore Beacon: The Franklin Scandal — More Relevant Today Than Ever](https://www.biltmorebeacon.com/reviews/the-franklin-scandal-more-relevant-today-than-ever/article_8c2b8b74-6eaf-5fa5-8b71-e469643cc22f.html)
+
 ---
 
 *This information was built by Grok and Claude AI research.*

@@ -43,10 +43,27 @@ Preiss is named in online claims as one of 12 NYPD officers who allegedly viewed
 
 See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_Maxwell.md)
 
+## Key Quotes from Media Coverage
+
+> "He was a hero, he saved babies and everything."
+> — A fellow officer who visited Preiss's home after his death, referring to his role helping deliver a baby earlier that year ([The Epoch Times](https://www.theepochtimes.com/us/bronx-cop-is-fourth-nypd-officer-to-die-by-suicide-this-month-2981972))
+
+> "Seeking help is never a sign of weakness — it's a sign of great strength."
+> — NYPD Commissioner James O'Neill, in a message to all 55,000 officers after Preiss's death ([Crime Online](https://www.crimeonline.com/2019/06/27/breaking-police-suicide-epidemic-nypd-officer-commits-suicide-in-long-island-fourth-nyc-cop-suicide-this-month/))
+
+> "To every member of the NYPD, please know this: it is okay to feel vulnerable. It is okay if you are facing struggles. And it is okay to seek help from others. You may not know this, and it may be hard to imagine, but you are not out there all by yourself."
+> — NYPD Commissioner James O'Neill ([NBC New York](https://www.nbcnewyork.com/investigations/NYC-Top-Cop-Speaks-Out-Mental-Health-Awareness-James-Oneill-Suicides-511005002.html))
+
 ## Sources
 
 - [TIME: 10 NYPD Officers Have Died by Suicide in 2019](https://time.com/5702036/10th-police-suicide-nypd-new-york-city/)
 - [CNN: A ninth NYPD officer this year has died by suicide](https://www.cnn.com/2019/08/13/us/new-york-police-department-suicides/index.html)
 - [NBC New York: Timeline — The NYPD's Ongoing 2019 Suicide Crisis](https://www.nbcnewyork.com/news/local/timeline-nypd-2019-suicide-crisis/1503549/)
+- [NBC News: Fourth NYPD officer dies by suicide this month](https://www.nbcnews.com/news/us-news/fourth-nypd-officer-dies-suicide-month-n1023221)
+- [Daily Caller: NYPD Officer Reportedly Takes His Own Life, Fourth To Commit Suicide This Month](https://dailycaller.com/2019/06/27/nypd-officer-kevin-preiss-suicide-takes-life-report/)
+- [Crime Online: Police Suicide Epidemic? NYPD officer commits suicide in Long Island](https://www.crimeonline.com/2019/06/27/breaking-police-suicide-epidemic-nypd-officer-commits-suicide-in-long-island-fourth-nyc-cop-suicide-this-month/)
+- [The Epoch Times: Bronx Cop Is Fourth NYPD Officer to Die by Suicide This Month](https://www.theepochtimes.com/us/bronx-cop-is-fourth-nypd-officer-to-die-by-suicide-this-month-2981972)
+- [ABC7 New York: NYPD officer found dead after suspected suicide; 4th case for department in June](https://abc7ny.com/nypd-suicides-in-nyc-police-department-suicide-long-island/5368243/)
+- [Riverdale Press: Hero cop sixth NYPD officer to take life in 2019](https://www.riverdalepress.com/stories/hero-cop-sixth-nypd-officer-suicide-nyc-bronx,69386)
 
 *This information was built by Grok and Claude AI research.*

@@ -43,6 +43,24 @@ Epstein's [Zorro Ranch](Zorro_Ranch_Unnamed_Victims.md) — the 7,560-acre prope
 - His death came before the most significant Epstein file releases in 2025–2026 and the New Mexico truth commission investigation.
 - However, he was 75 years old and died in his sleep, which is consistent with natural causes.
 
+## Key Quotes from Media Coverage
+
+> "Virginia Giuffre alleged that Ghislaine Maxwell directed her to have sex with Richardson by telling her to give him a 'massage,' and that Giuffre had been 'sent to' New Mexico."
+>
+> — [NBC News: Jeffrey Epstein ordered teen girl to have sex with powerful men, accuser says](https://www.nbcnews.com/news/us-news/jeffrey-epstein-ordered-teen-girl-have-sex-powerful-men-accuser-n1040996)
+
+> "Former New Mexico Gov. Bill Richardson arranged to meet with Jeffrey Epstein at least nine times after the financier's Florida conviction on sex crimes, including a visit to Epstein's private island. Richardson scheduled meetings with Epstein as late as 2018."
+>
+> — [Santa Fe New Mexican: Records show Gov. Richardson met with Epstein for years after conviction](https://www.santafenewmexican.com/news/local_news/records-show-gov-richardson-met-with-epstein-for-years-after-conviction/article_daf34b03-39af-4f6a-b016-5db73cc7f4b5.html)
+
+> "The University of New Mexico Hospital has quietly removed former New Mexico governor Bill Richardson's name from one of its buildings amid allegations that he and Jeffrey Epstein kept in close contact years after the financier was convicted of sex crimes."
+>
+> — [ABQ Journal: UNM quietly removes Bill Richardson name from children's hospital amid Jeffrey Epstein ties](https://www.abqjournal.com/news/unmh-quietly-separates-itself-from-bill-richardson-amid-alleged-connections-with-epstein/2979055)
+
+> "In his limited interactions with Mr. Epstein, he never saw him in the presence of young or underage girls."
+>
+> — Bill Richardson's spokesperson, denying Virginia Giuffre's allegations ([The Daily Beast: Jeffrey Epstein Accuser Names Bill Richardson, Glenn Dubin, Prince Andrew, George Mitchell](https://www.thedailybeast.com/jeffrey-epstein-unsealed-documents-name-powerful-men-in-sex-ring/))
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Primary subject
@@ -55,6 +73,14 @@ Epstein's [Zorro Ranch](Zorro_Ranch_Unnamed_Victims.md) — the 7,560-acre prope
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 - [Wikipedia: Bill Richardson](https://en.wikipedia.org/wiki/Bill_Richardson)
 - [Santa Fe New Mexican: Records show Gov. Richardson met with Epstein for years after conviction](https://www.santafenewmexican.com/news/local_news/records-show-gov-richardson-met-with-epstein-for-years-after-conviction/article_daf34b03-39af-4f6a-b016-5db73cc7f4b5.html)
-- [ABQ Journal: UNM quietly removes Bill Richardson name from children's hospital](https://www.abqjournal.com/news/unmh-quietly-separates-itself-from-bill-richardson-amid-alleged-connections-with-epstein/2979055)
+- [ABQ Journal: UNM quietly removes Bill Richardson name from children's hospital amid Jeffrey Epstein ties](https://www.abqjournal.com/news/unmh-quietly-separates-itself-from-bill-richardson-amid-alleged-connections-with-epstein/2979055)
+- [NBC News: Jeffrey Epstein ordered teen girl to have sex with powerful men, accuser says](https://www.nbcnews.com/news/us-news/jeffrey-epstein-ordered-teen-girl-have-sex-powerful-men-accuser-n1040996)
+- [The Daily Beast: Jeffrey Epstein Accuser Names Bill Richardson, Glenn Dubin, Prince Andrew, George Mitchell in Alleged Sex Ring](https://www.thedailybeast.com/jeffrey-epstein-unsealed-documents-name-powerful-men-in-sex-ring/)
+- [The Daily Beast: Former New Mexico Governor Bill Richardson Dead at 75](https://www.thedailybeast.com/former-new-mexico-governor-bill-richardson-dead-at-75/)
+- [KOB.com: Former Gov. Bill Richardson's name removed from UNMH building amid Epstein file questions](https://www.kob.com/new-mexico/former-gov-bill-richardsons-name-removed-from-unmh-building-amid-epstein-file-questions/)
+- [KRQE: Former Gov. Bill Richardson's name no longer on University of New Mexico Hospital Pavilion building](https://www.krqe.com/news/albuquerque-metro/former-gov-bill-richardsons-name-no-longer-on-unmh-pavilion-building/)
+- [Source New Mexico: By the Numbers -- New Mexico mentions in recent Epstein email release](https://sourcenm.com/briefs/by-the-s-new-mexico-mentions-in-recent-epstein-email-release/)
+- [CBS News: New Mexico reopens investigation into allegations at Epstein's former Zorro Ranch](https://www.cbsnews.com/news/new-mexico-reopens-investigation-jeffrey-epstein-zorro-ranch/)
+- [Taos News: Records show Gov. Richardson met with Epstein for years after conviction](https://www.taosnews.com/public-safety/records-show-gov-richardson-met-with-epstein-for-years-after-conviction/article_42408c83-d94a-45be-bbc7-70f8bce2f512.html)
 
 *This information was built by Grok and Claude AI research.*

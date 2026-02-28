@@ -35,6 +35,20 @@ FBI documents mention a possible link between Kessler and [Jeffrey Epstein](Jeff
 - He was a documented murderer-for-hire organizer, having been convicted of masterminding two separate contract killing plots.
 - His death in prison at age 84 meant he could never be tried for the Shapiro murder or questioned further about any Epstein connection.
 
+## Key Quotes from Media Coverage
+
+> "Kessler produced some tax returns to which the IRS cocked a snook, as they say, and they were going to call Arthur before a grand jury."
+> — Robert Schwartz, son of law firm founder, on Kessler's motive to silence Shapiro ([The Daily Beast](https://www.thedailybeast.com/who-murdered-arthur-shapiro-the-lawyer-of-victorias-secret-billionaire-les-wexner/))
+
+> "The killing was regarded by police as a professional hit and likely tied to organized crime."
+> — Unlimited Hangout ([Unlimited Hangout: A Kingpin, the Mob, and a Murder](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/))
+
+> "'I thought I got rid of it,' adding that the report was 'scandalous.'"
+> — Columbus official charged with improper disposal of a public record for ordering the destruction of a report on the Shapiro homicide ([Unlimited Hangout](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/))
+
+> "I never saw Wexner do anything illegal or unethical. Unfortunately, he met this guy Epstein."
+> — Harold Levin, Wexner's former financial adviser ([The Daily Beast](https://www.thedailybeast.com/who-murdered-arthur-shapiro-the-lawyer-of-victorias-secret-billionaire-les-wexner/))
+
 ## See Also — The Kessler Pattern
 
 - [Arthur Shapiro](Arthur_Shapiro.md) — Unsolved murder victim (1985); Kessler was prime suspect
@@ -48,5 +62,9 @@ FBI documents mention a possible link between Kessler and [Jeffrey Epstein](Jeff
 
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 - [Uinterview: 22 People Connected to Jeffrey Epstein Have Died](https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+- [The Daily Beast: Who Murdered Arthur Shapiro, the Lawyer of Victoria's Secret Billionaire Les Wexner?](https://www.thedailybeast.com/who-murdered-arthur-shapiro-the-lawyer-of-victorias-secret-billionaire-les-wexner/)
+- [Unlimited Hangout: A Kingpin, the Mob, and a Murder — The Deeper Mystery behind the Arthur Shapiro Homicide](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/)
+- [Freepress.org: The Dispatch goes for the re-kill of Arthur Shapiro](https://freepress.org/article/dispatch-goes-re-kill-arthur-shapiro)
+- [Front Page Detectives: SILENCED — The Arthur Shapiro Killing and the Les Wexner Connection](https://frontpagedetectivesonline.substack.com/p/silenced-the-arthur-shapiro-killing)
 
 *This information was built by Grok and Claude AI research.*

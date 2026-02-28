@@ -33,6 +33,20 @@ Bowers was the former head of Deutsche Bank's American wealth management divisio
 - His death occurred just three months after Epstein's own death, during a period of intensified federal investigation into Epstein's finances and network.
 - As the head of wealth management at Deutsche Bank, he would have had direct knowledge of the financial flows that supported Epstein's operation.
 
+## Key Quotes from Media Coverage
+
+> "Thomas Bowers, the onetime head of Deutsche Bank's American wealth-management division, where he oversaw Trump's private banker, committed suicide by hanging."
+>
+> — LA Magazine ([LA Magazine: Deutsche Bank Death](https://lamag.com/politics/deutsche-bank-death/))
+
+> Bowers "was among the individuals who the FBI hoped to interview about Epstein's finances." At the time of his death, the FBI was seeking to interview Bowers about loans he had approved for Jeffrey Epstein and the child trafficking hedge fund manager's labyrinth of U.S.-based and offshore companies.
+>
+> — Multiple investigative reports ([WhoWhatWhy: Another Banker Suicide](https://whowhatwhy.org/politics/government-integrity/another-banker-suicide-intriguing-parallels-between-us-and-estonian-deaths/))
+
+> Before working at Deutsche Bank, Bowers served in the same capacity at Citigroup as head of its private wealth arm, which also made massive loans to Epstein. He thus had knowledge of Epstein's financial dealings at two major banks.
+>
+> — Investigative reporting summary ([Wikispooks: Thomas Bowers](https://wikispooks.com/wiki/Thomas_Bowers))
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Found hanged, same method, 3 months earlier
@@ -44,8 +58,15 @@ Bowers was the former head of Deutsche Bank's American wealth management divisio
 
 ## Sources
 
+- [LA Magazine: Former Deutsche Bank Exec Connected to Trump Loans Dies by Suicide in Malibu](https://lamag.com/politics/deutsche-bank-death/)
+- [Law & Crime: Former Deutsche Bank Executive Who Oversaw Trump's Loans Dies by Suicide](https://lawandcrime.com/high-profile/former-deutsche-bank-executive-who-oversaw-trumps-loans-dies-by-suicide/)
+- [WhoWhatWhy: Another Banker Suicide — Intriguing Parallels Between US and Estonian Deaths](https://whowhatwhy.org/politics/government-integrity/another-banker-suicide-intriguing-parallels-between-us-and-estonian-deaths/)
+- [The Local Malibu: Former Deutsche Bank Executive Linked to Trump Loans Commits Suicide in Malibu](https://thelocalmalibu.com/former-deutsche-bank-executive-linked-to-trump-loans-commits-suicide-in-malibu/)
+- [National Memo: Deutsche Bank Exec Who Oversaw Trump Loans Commits Suicide](https://www.nationalmemo.com/deutsche-bank-exec-who-oversaw-trump-loans-commits-suicide)
+- [DCReport: Why Congress Wants to Look Inside the Bank That Fronted Trump $2 Billion](https://www.dcreport.org/2020/01/01/why-congress-wants-to-look-inside-the-bank-thats-fronted-trump-2-billion/)
+- [Wikispooks: Thomas Bowers](https://wikispooks.com/wiki/Thomas_Bowers)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
-- [LA Magazine](https://lamag.com/politics/deutsche-bank-death/)
 - [Uinterview: 22 People Connected to Jeffrey Epstein Have Died](https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+- [PolitiFact: Fact Check on Epstein-Related Deaths](https://www.politifact.com/factchecks/2020/sep/18/viral-image/facebook-post-conflates-epsteins-suicide-and-recen/)
 
 *This information was built by Grok and Claude AI research.*

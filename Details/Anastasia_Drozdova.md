@@ -47,6 +47,24 @@ The broader modeling industry pipeline to Epstein is well-documented through [Je
 - The pattern of two nearly identical deaths in the same social circle is unusual.
 - However, the Rose of the World cult connection provides an alternative explanation for the psychological distress that may have led to both deaths.
 
+## Key Quotes from Media Coverage
+
+> "Forgive me for everything. Cremate me."
+>
+> — Anastasia Drozdova, [suicide note left for her mother](https://theweek.com/people-news/5773/models-suicides-blamed-return-1970s-us-cult) (2009)
+
+> "When you enter the Rose, there is darkness and shouting, everything is designed to stun the conscious mind, suspend critical thought. Then the 'life trainer' emerges. He talks so fast you can't help but be confused, the microphone set at a level your head starts hurting."
+>
+> — Peter Pomerantsev, [British TV producer who infiltrated Rose of the World with a hidden camera](https://theweek.com/people-news/5773/models-suicides-blamed-return-1970s-us-cult)
+
+> "She came back down to Kiev from Moscow, where she had been based, refused to leave her room, sat scrunched under a duvet during a 40-degree heat wave."
+>
+> — [Newsweek: Disconcerting New Answers In Model's Suicide](https://www.newsweek.com/disconcerting-new-answers-models-suicide-67659), on Drozdova's mental deterioration after cult sessions
+
+> "The sensitive ones break."
+>
+> — Expert assessment of cult survivors, [Newsweek](https://www.newsweek.com/disconcerting-new-answers-models-suicide-67659)
+
 ## See Also
 
 - [Ruslana Korshunova](Ruslana_Korshunova.md) — Friend who died one year earlier in identical fashion
@@ -58,5 +76,10 @@ The broader modeling industry pipeline to Epstein is well-documented through [Je
 - [Newsweek: Disconcerting New Answers In Model's Suicide](https://www.newsweek.com/disconcerting-new-answers-models-suicide-67659)
 - [Morbidology: The Strange Death of Ruslana Korshunova and the Rose of the World Cult](https://morbidology.com/the-strange-death-of-ruslana-korshunova-the-rose-of-the-world-cult/)
 - [The Week: Models' suicides blamed on return of 1970s US cult](https://theweek.com/people-news/5773/models-suicides-blamed-return-1970s-us-cult)
+- [The Canberra Times: Young Russian models were members of 'dehumanising' cult prior to deaths, book claims](https://www.canberratimes.com.au/story/6075643/young-russian-models-were-members-of-dehumanising-cult-prior-to-deaths-book-claims/)
+- [Cult Report: Ruslana Korshunova's Tragic End: Cult Influence and High-Profile Connections Revealed](https://cult-report.com/2024/01/06/ruslana-korshunovas-tragic-end-cult-influence-and-high-profile-connections-revealed/)
+- [The US Sun: Top model who took own life after Epstein island visit joined 'dehumanising cult' before death](https://www.the-sun.com/news/10021537/model-visited-epstein-island-joined-cult-suicide/amp/)
+- [ABC News: Book Reignites Mystery Over Model's Suicide, Sect](https://abcnews.com/US/book-reignites-mystery-models-suicide-sect/story?id=26972811)
+- [Medium — Liz Manuelle: The Horrific Death of Russian Model: Rose of The World Cult](https://lizmanuelle.medium.com/the-horrific-death-of-russian-model-rose-of-the-world-cult-36525fb95627)
 
 *This information was built by Grok and Claude AI research.*

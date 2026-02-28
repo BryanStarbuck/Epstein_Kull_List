@@ -64,6 +64,17 @@ By the time of his death, his liquid estate had reportedly dwindled from $600 mi
 - His trust named the Clinton Foundation as sole beneficiary — he may have known details about Clinton-Epstein interactions.
 - However, he had well-documented depression, drug problems, financial collapse, and personal turmoil. Multiple friends confirmed his deteriorating mental state.
 
+## Key Quotes from Media Coverage
+
+> "I loved Steve Bing very much. He had a big heart, and he was willing to do anything he could for the people and causes he believed in. I will miss him and his enthusiasm more than I can say, and I hope he's finally found peace."
+> — Bill Clinton ([Twitter/X, June 22, 2020](https://x.com/BillClinton/status/1275272106574598151))
+
+> "During our meetings, you could sense the stress in his silences -- you could feel the energy. There was always someone reaching to grab the money or the power."
+> — John Picard, architect and friend of Bing ([LA Magazine](https://lamag.com/featured/steve-bings-friends-remember-a-man-followed-by-tumult-and-tragedy/))
+
+> "Depression is f***ing horrible. Hold your friends close."
+> — Josh Olson, Oscar-nominated screenwriter and Bing's friend and business partner ([Newsweek](https://www.newsweek.com/bill-clinton-steve-bing-death-suicide-1512703))
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md)
@@ -76,7 +87,13 @@ By the time of his death, his liquid estate had reportedly dwindled from $600 mi
 
 - [Deadline: Steve Bing Dies](https://deadline.com/2020/06/steve-bing-dead-philanthropist-film-financier-1202966891/)
 - [Hollywood Reporter: Behind Steve Bing's Sudden, Tragic End](https://www.hollywoodreporter.com/news/general-news/behind-steve-bing-s-sudden-tragic-end-1300992/)
-- [LA Magazine: Steve Bing's Friends Remember](https://lamag.com/featured/steve-bings-friends-remember-a-man-followed-by-tumult-and-tragedy/)
+- [LA Magazine: Steve Bing's Friends Remember a Man Followed by Tumult and Tragedy](https://lamag.com/featured/steve-bings-friends-remember-a-man-followed-by-tumult-and-tragedy/)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+- [Variety: Steve Bing, Producer and 'Kangaroo Jack' Writer, Dies by Suicide at 55](https://variety.com/2020/film/news/steve-bing-dead-dies-kangaroo-jack-1234645788/)
+- [Newsweek: Bill Clinton Praises Steve Bing After Hollywood Producer's Death at 55](https://www.newsweek.com/bill-clinton-steve-bing-death-suicide-1512703)
+- [ABC7: Hollywood producer, philanthropist Steve Bing dies of apparent suicide](https://abc7.com/post/hollywood-producer-philanthropist-steve-bing-dies-of-apparent-suicide/6260811/)
+- [Chicago Tribune: Steve Bing, ravaged by depression, left suicide notes to kids before 27-story lethal leap](https://www.chicagotribune.com/2020/06/30/steve-bing-ravaged-by-depression-and-coronavirus-anguish-left-suicide-notes-to-kids-before-27-story-lethal-leap/)
+- [Oxygen: Hollywood Producer Steve Bing Died Of Blunt Force Trauma From Suicide, Coroner Rules](https://www.oxygen.com/crime-news/producer-steve-bing-elizabeth-hurleys-ex-died-by-suicide-coroner)
+- [Wikipedia: Steve Bing](https://en.wikipedia.org/wiki/Steve_Bing)
 
 *This information was built by Grok and Claude AI research.*

@@ -60,6 +60,17 @@ The conspiracy theory is driven by pattern-seeking: a comedian makes an edgy Eps
 - [Steve Bing](Steve_Bing.md) — fell from 27th floor in Los Angeles (2020)
 - [Ruslana Korshunova](Ruslana_Korshunova.md) — fell from 9th floor in New York (2008)
 
+## Key Quotes from Media Coverage
+
+> "Early this morning, we learned that we lost our brother, our collaborator and the driving force behind WKUK. He was our best friend, and we speak for all of us in saying that the loss of Trevor is unimaginable."
+> -- Zach Cregger and Sam Brown (WKUK castmates), [Deadline: 'The Whitest Kids U Know' Co-Founder Trevor Moore Dead at 41](https://deadline.com/2021/08/trevor-moore-the-whitest-kids-u-know-41-obituary-1234811024/)
+
+> "There isn't really anything I can say that will cover the place he had in my life. He was a one of a kind. A brilliant and kind man. I'll miss you forever buddy."
+> -- Zach Cregger, [Newsweek: Tributes Paid to Comedian Trevor Moore, 41, Following His Death](https://www.newsweek.com/comedian-trevor-moore-dead-41-remember-laughter-tributes-1617270)
+
+> "Making Trevor Moore really laugh always gave me a sense of accomplishment. I'm so lucky I got to spend the last 20 years trying to get good at that."
+> -- Sam Brown, [PopCulture: Trevor Moore's 'Whitest Kids U Know' Castmates Share Solemn Tribute](https://popculture.com/celebrity/news/trevor-moore-whitest-kids-u-know-castmates-share-solemn-tribute/)
+
 ## Sources
 - Los Angeles County Medical Examiner-Coroner report
 - Deadline Hollywood obituary (August 2021)
@@ -67,5 +78,14 @@ The conspiracy theory is driven by pattern-seeking: a comedian makes an edgy Eps
 - IMDb biography
 - WKUK podcast / "Newsboyz" segment (October 2020)
 - X / TikTok / Instagram viral posts (2024–2026)
+- [Deadline: 'The Whitest Kids U Know' Co-Founder Trevor Moore Dead at 41](https://deadline.com/2021/08/trevor-moore-the-whitest-kids-u-know-41-obituary-1234811024/)
+- [Deadline: 'The Whitest Kids U Know' Co-Founder Trevor Moore's Death Ruled An Accident](https://deadline.com/2021/12/the-whitest-kids-u-know-co-founder-trevor-moores-death-ruled-an-accident-1234899712/)
+- [TMZ: 'The Whitest Kids U Know' Star Trevor Moore Fell to His Death](https://www.tmz.com/2021/09/07/the-whitest-kids-u-know-star-trevor-moore-death-head-trauma-jump-balcony-fall/)
+- [TMZ: 'Whitest Kids U Know' Star Trevor Moore's Cause of Death Revealed, Accidental](https://www.tmz.com/2021/12/20/whitest-kids-u-know-star-trevor-moore-s-cause-of-death-revealed/)
+- [Newsweek: Tributes Paid to Comedian Trevor Moore, 41, Following His Death](https://www.newsweek.com/comedian-trevor-moore-dead-41-remember-laughter-tributes-1617270)
+- [PopCulture: Trevor Moore's 'Whitest Kids U Know' Castmates Share Solemn Tribute](https://popculture.com/celebrity/news/trevor-moore-whitest-kids-u-know-castmates-share-solemn-tribute/)
+- [Complex: 'The Whitest Kids U Know' Co-Creator Trevor Moore's Falling Death Officially Declared an Accident](https://www.complex.com/pop-culture/a/b-blanchet/trevor-moore-the-whitest-kids-u-know-death-declared-accident)
+- [The Sun: The Whitest Kids U Know star Trevor Moore 'fell to his death'](https://www.the-sun.com/news/3616339/trevor-moore-death-fall-balcony-comedian-actor-accident/)
+- [Variety: How The Whitest Kids U'Know's 'Mars' Honors Trevor Moore](https://variety.com/2024/film/news/whitest-kids-u-know-mars-trevor-moore-1236027687/)
 
 *This information was built by Grok and Claude AI research.*

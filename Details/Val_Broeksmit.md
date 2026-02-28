@@ -49,6 +49,20 @@ Val had a history of personal struggles, including substance abuse, and had prev
 - Some reporting suggested he may have been homeless or unstable at the time.
 - His connection to Epstein was indirect, through Deutsche Bank's broader client relationships.
 
+## Key Quotes from Media Coverage
+
+> "This is terrible news. Val was a longtime source of mine and the main character in my book."
+> — David Enrich, New York Times reporter and author of *Dark Towers* ([Salon](https://www.salon.com/2022/04/28/deutsche-whistleblower-helped-investigators-probe-finances-found-in-la/))
+
+> "Val's father took his own life in 2014 and it consumed Val in recent years. To see his life end so short is incredibly depressing."
+> — Scott Stedman, investigative journalist at Forensic News ([Salon](https://www.salon.com/2022/04/28/deutsche-whistleblower-helped-investigators-probe-finances-found-in-la/))
+
+> "Valentin Broeksmit was a complex human being whom I had several interactions with, and his quirky style of communications revealed a tormented soul."
+> — Jane Turner, Whistleblower Network News ([Whistleblowers Blog](https://whistleblowersblog.org/corporate-whistleblowers/deutsche-bank-whistleblower-val-broeksmit-found-dead/))
+
+> "Whistleblowing is a very difficult path with few rewards, and many pitfalls."
+> — Jane Turner, Whistleblower Network News ([Whistleblowers Blog](https://whistleblowersblog.org/corporate-whistleblowers/deutsche-bank-whistleblower-val-broeksmit-found-dead/))
+
 ## See Also
 
 - [William Broeksmit](William_Broeksmit.md) — Father, Deutsche Bank senior executive, found hanged (2014)
@@ -62,5 +76,11 @@ Val had a history of personal struggles, including substance abuse, and had prev
 - [NBC Los Angeles: Reputed Deutsche Bank Whistleblower Found Dead](https://www.nbclosangeles.com/news/local/deutsche-bank-whistleblower-val-broeksmit-death-la-high-school-campus/2881034/)
 - [Today: Reputed federal informant, whistleblower found dead in L.A.](https://www.today.com/news/news/reputed-federal-informant-whistleblower-found-dead-l-s-reported-missin-rcna26409)
 - [FOX 11: Foul play not suspected in death of whistleblower](https://www.foxla.com/news/foul-play-not-suspected-at-this-time-in-death-of-whistleblower-investigating-deutsche-bank)
+- [Salon: Deutsche Bank whistleblower helped investigators probe finances, found in LA](https://www.salon.com/2022/04/28/deutsche-whistleblower-helped-investigators-probe-finances-found-in-la/)
+- [Vice: Val Broeksmit, Deutsche Bank, and the Birth of a New Conspiracy Theory](https://www.vice.com/en/article/val-broeksmit-deutsche-bank-and-the-birth-of-a-new-conspiracy-theory/)
+- [The Daily Beast: Valentin Broeksmit, Whistleblower in Deutsche Bank and Trump Probe Found Dead](https://www.thedailybeast.com/valentin-broeksmit-whisteblower-in-deutsche-bank-and-donald-trump-probe-found-dead-in-los-angeles/)
+- [Whistleblowers Blog: Deutsche Bank Whistleblower Val Broeksmit Found Dead](https://whistleblowersblog.org/corporate-whistleblowers/deutsche-bank-whistleblower-val-broeksmit-found-dead/)
+- [Federal Charges: Federal Informant Whistleblower Found Dead in LA](https://www.federalcharges.com/news/2022-04-29-federal-informant-whistleblower-found-dead-in-la/)
+- [Wikipedia: Val Broeksmit](https://en.wikipedia.org/wiki/Val_Broeksmit)
 
 *This information was built by Grok and Claude AI research.*

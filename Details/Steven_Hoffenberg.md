@@ -59,9 +59,35 @@ Hoffenberg once tried to buy the New York Post. He briefly took over the paper i
 
 See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_Maxwell.md)
 
+## Key Quotes from Media Coverage
+
+> "He was family to me. I loved him. I became his family and he became mine. Believe me, he had a lot of people that loved him."
+>
+> — Maria Farmer, Epstein accuser who befriended Hoffenberg and initiated the welfare check that found his body ([The Daily Beast](https://www.thedailybeast.com/steven-hoffenberg-jeffrey-epsteins-ponzi-schemer-pal-found-dead-after-a-welfare-check/))
+
+> "He would never allow me to do anything for him. He only wanted to do for others."
+>
+> — Maria Farmer, on Hoffenberg's character ([The Daily Beast](https://www.thedailybeast.com/steven-hoffenberg-jeffrey-epsteins-ponzi-schemer-pal-found-dead-after-a-welfare-check/))
+
+> "He was too smart for his own good... He did not have self-control. He always thought he was smarter than the next guy." Baise also called Hoffenberg "a good man" but noted he had not been taking care of himself.
+>
+> — Gary Baise, Hoffenberg's friend and lawyer ([NPR](https://www.npr.org/2022/08/26/1119746511/jeffrey-epstein-mentor-steven-hoffenberg-dead))
+
+> "Epstein has remained free and has used and benefited from the ill-gotten gains he amassed."
+>
+> — Steven Hoffenberg, in a 2019 affidavit accusing Epstein of being his "co-conspirator" in the Ponzi scheme ([The Daily Beast](https://www.thedailybeast.com/steven-hoffenberg-jeffrey-epsteins-ponzi-schemer-pal-found-dead-after-a-welfare-check/))
+
 ## Sources
 
-- [NPR: Jeffrey Epstein mentor Steven Hoffenberg was found dead](https://www.npr.org/2022/08/26/1119746511/jeffrey-epstein-mentor-steven-hoffenberg-dead)
+- [NPR: Jeffrey Epstein Mentor Steven Hoffenberg Was Found Dead](https://www.npr.org/2022/08/26/1119746511/jeffrey-epstein-mentor-steven-hoffenberg-dead)
+- [The Daily Beast: Steven Hoffenberg, Epstein's Ponzi Schemer Pal, Found Dead After Welfare Check](https://www.thedailybeast.com/steven-hoffenberg-jeffrey-epsteins-ponzi-schemer-pal-found-dead-after-a-welfare-check/)
+- [Washington Post: Steven Hoffenberg, Ponzi Swindler and Jeffrey Epstein Mentor, Dies at 77](https://www.washingtonpost.com/obituaries/2022/08/26/hoffenberg-ponzi-epstein-dies/)
+- [NBC News: Jeffrey Epstein's Mentor and Ponzi Schemer Steven Hoffenberg Was Found Dead](https://www.nbcnews.com/news/us-news/jeffrey-epsteins-mentor-ponzi-schemer-steven-hoffenberg-was-found-dead-rcna45024)
+- [CBS News: Jeffrey Epstein Mentor Steven Hoffenberg Dead at 77](https://www.cbsnews.com/news/steven-hoffenberg-jeffrey-epstein-mentor-dead-connecticut-apartment/)
+- [Rolling Stone: Former Jeffrey Epstein Associate Steven Hoffenberg Found Dead at 77](https://www.rollingstone.com/culture/culture-news/epstein-associate-steven-heffenberg-dead-1234580789/)
+- [NBC Connecticut: Man Found Dead in Derby Apartment ID'd as Jeffrey Epstein Mentor](https://www.nbcconnecticut.com/news/local/man-found-dead-in-derby-apartment-idd-as-jeffrey-epstein-mentor-steven-hoffenberg/2860214/)
+- [HuffPost: Former Jeffrey Epstein Associate Steven Hoffenberg Found Dead In His Home](https://www.huffpost.com/entry/steven-hoffenberg-found-dead_n_6308f125e4b0da54badf5e0a)
+- [Fox61: Steven Hoffenberg Believed to Be Person Found Dead](https://www.fox61.com/article/news/crime/police-believe-person-found-dead-swindler-hoffenberg/520-ca71dddd-adca-428a-bbbe-be8259d0768e)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 - [Uinterview: 22 People Connected to Jeffrey Epstein Have Died](https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 

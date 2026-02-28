@@ -149,6 +149,20 @@ Daniel is regularly added to unofficial "Epstein-adjacent death lists" alongside
 
 The platform treats the Salas attack as one of the strongest pieces of circumstantial "Epstein-adjacent" timing evidence. No smoking-gun proof of a larger conspiracy has ever surfaced on X or elsewhere, but the story continues to be invoked whenever Epstein files or "suicide clusters" are discussed. Daniel Anderl remains the human face of the tragedy and is explicitly named in many "Epstein didn't kill himself" extended lists.
 
+## Key Quotes from Media Coverage
+
+> "Daniel being Daniel protected his father and he took the shooter's first bullet directly to the chest."
+> — **Judge Esther Salas**, Daniel's mother, describing her son's final act ([CBS News / 48 Hours](https://www.cbsnews.com/news/esther-salas-son-murder-roy-den-hollander-48-hours/))
+
+> "We are living every parent's worst nightmare — making preparations to bury our only child, Daniel. My son's death cannot be in vain."
+> — **Judge Esther Salas**, in her first public statement after the attack ([CBS News / 48 Hours](https://www.cbsnews.com/news/esther-salas-son-murder-roy-den-hollander-48-hours/))
+
+> "In the seconds before his death, Daniel asked me to keep talking to him. Because he loved talking to me."
+> — **Judge Esther Salas**, recounting Daniel's final moments ([CBS News / 60 Minutes](https://www.cbsnews.com/news/judge-esther-salas-60-minutes-2021-05-30/))
+
+> "The free flow of information from the Internet allowed this sick and depraved human being to find all our personal information and target us."
+> — **Judge Esther Salas**, advocating for the Daniel Anderl Judicial Security and Privacy Act ([NBC News](https://www.nbcnews.com/news/latino/judge-esther-salas-speaks-about-law-named-after-her-son-n1248681))
+
 ## Sources
 
 - [Newsweek: Judge Salas Assigned to Epstein Deutsche Bank Case 4 Days Before Shooting](https://www.newsweek.com/judge-esther-salas-shooting-deutsche-bank-epstein-1518974)
@@ -164,6 +178,15 @@ The platform treats the Salas attack as one of the strongest pieces of circumsta
 - [LostMessiah: Deutsche Bank, Jeffrey Epstein, Robert Maxwell, Kroll Associates and Den Hollander](https://lostmessiahdotcom.wordpress.com/2020/07/23/deutsche-bank-jeffrey-epstein-robert-maxwell-kroll-associates-and-den-hollander-a-different-narrative/)
 - [Wikipedia: Roy Den Hollander](https://en.wikipedia.org/wiki/Roy_Den_Hollander)
 - [Wikipedia: Esther Salas](https://en.wikipedia.org/wiki/Esther_Salas)
+- [CBS News / 60 Minutes: U.S. Judge Esther Salas tells her story](https://www.cbsnews.com/news/judge-esther-salas-60-minutes-2021-05-30/)
+- [CBS News: Federal judges call for increased security after threats jump 400%](https://www.cbsnews.com/news/federal-judge-threats-attack-60-minutes-2021-02-21/)
+- [Washington Post: Judge Esther Salas tells 60 Minutes Justice Sotomayor was targeted by same gunman](https://www.washingtonpost.com/politics/courts_law/sonia-sotomayor-esther-salas-60-minutes/2021/02/19/0374cc80-72c7-11eb-93be-c10813e358a2_story.html)
+- [NBC News: Judge Esther Salas speaks about law named after her son](https://www.nbcnews.com/news/latino/judge-esther-salas-speaks-about-law-named-after-her-son-n1248681)
+- [ABC News: Judge Salas breaks silence in heartbreaking video tribute after son's shooting death](https://abcnews.go.com/US/judge-salas-breaks-silence-heartbreaking-video-tribute-sons/story?id=72143701)
+- [NBC News: Son of New Jersey federal judge killed, husband critical after being shot at home](https://www.nbcnews.com/news/us-news/son-new-jersey-federal-judge-killed-husband-critical-after-being-n1234320)
+- [ABC7 NY: Federal Judge Esther Salas' son killed, husband injured in shooting](https://abc7ny.com/judge-esther-salas-roy-hollander-epstein-nj-shooting/6324993/)
+- [Yahoo Finance: Gunman kills son of judge overseeing Deutsche Bank-Epstein trial](https://finance.yahoo.com/news/hitman-kills-son-judge-overseeing-140939866.html)
+- [MSNBC: Judge Esther Salas on judicial threats — 'The job I choose cost the life of my only son'](https://www.ms.now/deadline-white-house/watch/judge-esther-salas-on-judicial-threats-the-job-i-choose-cost-the-life-of-my-only-son-208094789606)
 
 ---
 

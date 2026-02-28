@@ -37,6 +37,20 @@ Silks is named in online claims as one of 12 NYPD officers who allegedly viewed 
 
 See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_Maxwell.md)
 
+## Key Quotes from Media Coverage
+
+> "He cleaned out his locker, drove two blocks, and put a gun to his head, which is tragic. His whole life was wrapped up in the NYPD."
+> — Bill Stanton, friend and ex-cop ([Bronx Times](https://www.bxtimes.com/chief-steven-silks-borough-cop-mourned-after-suicide/))
+
+> "It was a tragedy and a mystery. I didn't realize the separation anxiety was as deep as it was."
+> — Tom Fahey, retired NYPD assistant chief ([Bronx Times](https://www.bxtimes.com/chief-steven-silks-borough-cop-mourned-after-suicide/))
+
+> "He was highly intelligent and probably would have been successful in any career he had chosen. He was just a good soul. He said he was having separation anxiety and I said why don't you talk to someone."
+> — Lou Palumbo, friend ([Bronx Times](https://www.bxtimes.com/chief-steven-silks-borough-cop-mourned-after-suicide/))
+
+> "Three brave members of our police force have taken their lives in recent days. All of them led lives that made their communities better. All of their lives had meaning."
+> — New York City Mayor Bill de Blasio ([CBS News](https://www.cbsnews.com/news/nypd-suicide-third-officer-dies-by-suspected-suicide-in-less-than-10-days-today-2019-06-14/))
+
 ## Why This Death Possibly Raises Questions
 
 - First of four NYPD officer deaths in a 22-day span in June 2019
@@ -50,5 +64,15 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 - [TIME: 10 NYPD Officers Have Died by Suicide in 2019](https://time.com/5702036/10th-police-suicide-nypd-new-york-city/)
 - [CNN: A ninth NYPD officer this year has died by suicide](https://www.cnn.com/2019/08/13/us/new-york-police-department-suicides/index.html)
 - [NBC New York: Timeline — The NYPD's Ongoing 2019 Suicide Crisis](https://www.nbcnewyork.com/news/local/timeline-nypd-2019-suicide-crisis/1503549/)
+- [Police1: NYPD chief dies by suicide month before mandatory retirement](https://www.police1.com/health-fitness/articles/nypd-chief-dies-by-suicide-month-before-mandatory-retirement-aNDAM7wCTfDUElIg/)
+- [Bronx Times: Chief Steven Silks, borough cop, mourned after suicide](https://www.bxtimes.com/chief-steven-silks-borough-cop-mourned-after-suicide/)
+- [QChron: High-ranking officer commits suicide](https://www.qchron.com/editions/queenswide/high-ranking-officer-commits-suicide/article_42cfe8a8-887f-11e9-8cbb-073d76d4cc60.html)
+- [PIX11: NYPD mourning veteran chief who killed himself ahead of mandatory retirement](https://pix11.com/2019/06/06/nypd-mourning-veteran-chief-who-took-his-own-life-ahead-of-mandatory-retirement/)
+- [Gothamist: High-Ranking NYPD Officer Takes Own Life Weeks Before Forced Retirement](https://gothamist.com/news/high-ranking-nypd-officer-takes-own-life-weeks-before-forced-retirement)
+- [Heavy: Steven Silks Dead — Right-Wing Trolls Link NYPD Hero's Death to Clintons](https://heavy.com/news/2019/06/steven-silks-dead/)
+- [Patch: NYPD Mourns Death Of Queens Police Chief Steven Silks](https://patch.com/new-york/foresthills/nypd-mourns-death-queens-police-chief-steven-silks)
+- [QNS: Late Queens deputy police chief remembered as a 'charming intelligent man'](https://qns.com/2019/06/late-queens-deputy-police-chief-remembered-as-a-charming-intelligent-man-and-friend-of-the-top-cop/)
+- [PoliceMag: Veteran NYPD Chief Dies by Suicide Before Mandatory Retirement](https://www.policemag.com/command/news/15315163/veteran-nypd-chief-dies-by-suicide-before-mandatory-retirement)
+- [CBS News: Third NYPD officer dies by suspected suicide in less than 10 days](https://www.cbsnews.com/news/nypd-suicide-third-officer-dies-by-suspected-suicide-in-less-than-10-days-today-2019-06-14/)
 
 *This information was built by Grok and Claude AI research.*

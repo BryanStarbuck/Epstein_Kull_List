@@ -38,6 +38,38 @@ Rehe's death fits a pattern of banking executives connected to money laundering 
 
 **Suspicion Level:** SUSPICIOUS — Banking executive died during active international money laundering investigation after being questioned as a witness.
 
+## Key Quotes from Media Coverage
+
+> "You've got to be careful... The very nature of the people who want to launder money probably means that they're not the sort that you want to go down to the pub and have a pint with."
+> — Howard Wilkinson, Danske Bank whistleblower ([WhoWhatWhy: Death of a Banker](https://whowhatwhy.org/2019/11/27/death-of-a-banker-did-laundered-russian-billions-play-a-role/))
+
+> "There have been credible threats in recent months to his life."
+> — Estonian police, as reported by WhoWhatWhy ([WhoWhatWhy: Death of a Banker](https://whowhatwhy.org/2019/11/27/death-of-a-banker-did-laundered-russian-billions-play-a-role/))
+
+> "A person has died and the circumstances of his death have to be investigated to the level of all details."
+> — Mart Helme, Estonian Interior Minister ([WhoWhatWhy: Death of a Banker](https://whowhatwhy.org/2019/11/27/death-of-a-banker-did-laundered-russian-billions-play-a-role/))
+
+> Rehe himself declared that he "felt responsible but also believed Danske Bank's anti-money laundering mechanisms at that time were sufficient."
+> — Aivar Rehe, March 2019 ([Al Jazeera](https://www.aljazeera.com/economy/2019/9/25/danske-bank-exec-at-centre-of-money-laundering-scandal-found-dead))
+
+## See Also
+
+- [William Broeksmit](William_Broeksmit.md) — Deutsche Bank senior exec, hanged 2014
+- [Thomas Bowers](Thomas_Bowers.md) — Deutsche Bank wealth management, hanged 2019
+- [Val Broeksmit](Val_Broeksmit.md) — Deutsche Bank whistleblower, found dead 2022
+
+## Sources
+
+- [Bloomberg: Danske Bank Estonia Ex-CEO Committed Suicide, Prosecutor Says](https://www.bloomberg.com/news/articles/2019-09-30/death-of-ex-danske-bank-ceo-in-estonia-ruled-a-suicide)
+- [Bloomberg: Danske Bank Estonia CEO Found Dead After Money-Laundering Scandal](https://www.bloomberg.com/news/articles/2019-09-25/police-reassess-search-as-ex-danske-ceo-in-estonia-feared-dead)
+- [Al Jazeera: Danske Bank exec at centre of money-laundering scandal found dead](https://www.aljazeera.com/economy/2019/9/25/danske-bank-exec-at-centre-of-money-laundering-scandal-found-dead)
+- [The Local (Denmark): Death of former Danske Bank executive ruled suicide](https://www.thelocal.dk/20190930/denmark-death-of-former-danske-bank-executive-ruled-suicide)
+- [The Local (Denmark): Estonian former executive of troubled Danske Bank found dead](https://www.thelocal.dk/20190925/estonian-former-executive-of-troubled-danske-bank-found-dead)
+- [WhoWhatWhy: Death of a Banker — Did Laundered Russian Billions Play a Role?](https://whowhatwhy.org/2019/11/27/death-of-a-banker-did-laundered-russian-billions-play-a-role/)
+- [Estonian World: The former head of Danske Bank's Estonia unit found dead](https://estonianworld.com/business/the-former-head-of-danske-banks-estonia-unit-found-dead-in-an-apparent-suicide/)
+- [RTE: Former Danske Bank Estonian chief found dead by police](https://www.rte.ie/news/business/2019/0925/1078130-danske-banks-estonia-branch/)
+- [Wikipedia: Danske Bank money laundering scandal](https://en.wikipedia.org/wiki/Danske_Bank_money_laundering_scandal)
+
 ---
 
 *This information was built by Grok and Claude AI research.*

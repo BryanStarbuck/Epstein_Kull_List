@@ -34,11 +34,30 @@ No verified evidence connects Kate Spade to any anti-trafficking documentary, in
 - Kate Spade — June 5, 2018 (hanging)
 - [Anthony Bourdain](Anthony_Bourdain.md) — June 8, 2018 (hanging)
 
+## Key Quotes from Media Coverage
+
+> "Kate suffered from depression and anxiety for many years. She was actively seeking help and working closely with her doctors to treat her disease, one that takes far too many lives."
+> -- Andy Spade, [CNN: Read husband's full statement on Kate Spade's suicide](https://www.cnn.com/2018/06/07/us/andy-kate-spade-statement)
+
+> "We were in touch with her the night before and she sounded happy. There was no indication and no warning that she would do this. It was a complete shock."
+> -- Andy Spade, [CNN: Kate Spade's husband says she battled demons but death was complete shock](https://www.cnn.com/2018/06/06/us/kate-spade-husband-statement)
+
+> "She kept watching it and watching it over and over. I think the plan was already in motion even as far back as then."
+> -- Reta Saffo, Kate's sister, on Kate's fixation with Robin Williams' 2014 suicide, [Newsweek: Kate Spade Was Obsessed With Coverage of Robin Williams's Death, Sister Claims](https://www.newsweek.com/kate-spade-was-obsessed-coverage-robin-williams-death-sister-claims-963809)
+
 ## Sources
 - New York City Chief Medical Examiner's report
 - Andy Spade family statement
 - NYPD investigation
 - X/Twitter threads compiling "Silent Children" documentary death cluster
 - New York Times, CNN, BBC News coverage (June 2018)
+- [CNN: Read husband's full statement on Kate Spade's suicide](https://www.cnn.com/2018/06/07/us/andy-kate-spade-statement)
+- [CNN: Kate Spade's husband says she battled demons but death was complete shock](https://www.cnn.com/2018/06/06/us/kate-spade-husband-statement)
+- [NBC News: Kate Spade's husband says fashion star was suffering from depression, but her suicide was 'a complete shock'](https://www.nbcnews.com/news/us-news/kate-spade-s-sister-says-fashion-star-s-suicide-was-n880481)
+- [Newsweek: Kate Spade Was Obsessed With Coverage of Robin Williams's Death, Sister Claims](https://www.newsweek.com/kate-spade-was-obsessed-coverage-robin-williams-death-sister-claims-963809)
+- [ABC News: Kate Spade 'sounded happy' before her suicide](https://abcnews.go.com/GMA/Wellness/kate-spade-sounded-happy-suicide-depression-hidden-loved/story?id=55718387)
+- [Hollywood Reporter: Kate Spade's Suicide Was 'Not Unexpected,' Sister Says](https://www.hollywoodreporter.com/lifestyle/style/kate-spades-suicide-was-not-unexpected-sister-says-1117614/)
+- [ABC News: Kate Spade remembered 7 years after her death](https://abcnews.com/GMA/Culture/kate-spade-remembered-7-years-after-death/story?id=122498264)
+- [Inside Edition: Was Kate Spade Inspired to Kill Herself by the Death of Robin Williams?](https://www.insideedition.com/was-kate-spade-inspired-kill-herself-death-robin-williams-43941)
 
 *This information was built by Grok and Claude AI research.*

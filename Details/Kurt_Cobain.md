@@ -34,6 +34,20 @@ Multiple documentaries have explored the murder theory, including *Soaked in Ble
 
 The connection to Epstein or elite trafficking networks is a more recent online development, largely driven by social media accounts that group Cobain with other musician deaths (e.g., [Chris Cornell](Chris_Cornell.md), [Chester Bennington](Chester_Bennington.md)) under a broader "music industry silences whistleblowers" narrative. However, unlike Cornell and Bennington, there is no documented involvement by Cobain in any anti-trafficking work or documentary.
 
+## Key Quotes from Media Coverage
+
+> "Cobain couldn't have injected himself with such a large amount of heroin — three times a lethal dose — and then been able to shoot himself."
+> — Private investigator Tom Grant, core argument for murder theory, via [All That's Interesting](https://allthatsinteresting.com/kurt-cobain-murdered)
+
+> "The top half of Cobain's letter was meant to announce that he intended to leave the music business behind. But since the bottom half of the note has different content — and mentions Love and Cobain's daughter Frances — he thinks it could have been written by someone else."
+> — Tom Grant on the disputed suicide note, via [All That's Interesting](https://allthatsinteresting.com/kurt-cobain-murdered)
+
+> "Did I find any earth-shattering evidence that would change the medical examiner's conclusion that Kurt committed suicide? No. In fact, I found evidence that strengthened that finding."
+> — Seattle Police Detective Mike Ciesynski, after re-examining the case in 2014, via [All That's Interesting](https://allthatsinteresting.com/kurt-cobain-murdered)
+
+> "He had untreated bipolar disorder, drug addiction, prior suicides of family members, alcohol, violence and unpredictability in his childhood, poor self-esteem, violence in his married life."
+> — Beverly Cobain, Kurt's cousin, on the factors contributing to his death, via [All That's Interesting](https://allthatsinteresting.com/kurt-cobain-murdered)
+
 ## See Also
 - [Chris Cornell](Chris_Cornell.md)
 - [Chester Bennington](Chester_Bennington.md)
@@ -41,10 +55,17 @@ The connection to Epstein or elite trafficking networks is a more recent online 
 
 ## Sources
 - Seattle Police Department case files (partially released 2014)
-- Tom Grant's investigation (tomgrant.com)
-- *Soaked in Bleach* documentary (2015)
+- Tom Grant's investigation — [cobaincase.com](https://www.cobaincase.com/)
+- *Soaked in Bleach* documentary (2015) — [IMDB](https://www.imdb.com/title/tt3253624/)
 - *Kurt & Courtney* documentary (1998)
 - Toxicology reports from King County Medical Examiner
+- [All That's Interesting: Inside The Sudden Death Of Kurt Cobain — And Why Some Think He Was Murdered](https://allthatsinteresting.com/kurt-cobain-murdered)
+- [Rolling Stone: Kurt Cobain's FBI File — What's in Newly Released Documents](https://www.rollingstone.com/music/music-features/kurt-cobain-fbi-file-nirvana-1164749/)
+- [Global News: Debunking the Kurt Cobain was murdered conspiracy once and for all](https://globalnews.ca/news/10404896/debunking-kurt-cobain-conspiracy/)
+- [Euronews: Forensic experts' new report claims that Kurt Cobain may have been murdered (2026)](https://www.euronews.com/culture/2026/02/11/forensic-experts-new-report-claims-that-kurt-cobain-may-have-been-murdered)
+- [Variety: 'Soaked in Bleach' Review](https://variety.com/2015/film/reviews/soaked-in-bleach-review-kurt-cobain-courtney-love-1201519277/)
+- [Wikipedia: Suicide of Kurt Cobain](https://en.wikipedia.org/wiki/Suicide_of_Kurt_Cobain)
+- [Rutgers University: Analysis of the Seattle Police Department's Investigation](https://rucore.libraries.rutgers.edu/rutgers-lib/46189/PDF/1/play/)
 - X/Twitter threads linking Cobain to industry trafficking theories
 
 *This information was built by Grok and Claude AI research.*

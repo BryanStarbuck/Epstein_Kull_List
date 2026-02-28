@@ -49,6 +49,32 @@ Police found nothing suspicious and the apparent cause was a seizure. However, t
 
 **Suspicion Level:** UNCERTAIN — No evidence of foul play per police. Died weeks after reportedly contacting FBI about elite trafficking.
 
+## Key Quotes from Media Coverage
+
+> "At this point, we do not suspect foul play or anything suspicious about her death."
+> — Prince George's County Police Department spokesperson, via [The Daily Beast](https://www.thedailybeast.com/pizzagate-pushers-death-drives-conspiracy-theorists-to-tout-her-as-new-seth-rich/)
+
+> "Whether Moore actually interviewed a subject who made such allegations, and whether Moore in fact reported those allegations to the DHS and FBI shortly before her death remains unconfirmed."
+> — [Snopes: Was Journalist Jen Moore Killed After Contacting Authorities About Bill Clinton?](https://www.snopes.com/fact-check/jen-moore-death/)
+
+> "Right-wing media personalities seized on Moore's death, claiming without any evidence that it's the latest example of Bill and Hillary Clinton killing off their enemies."
+> — [The Daily Beast: Pizzagate Pusher's Death Drives Conspiracy Theorists to Tout Her as New Seth Rich](https://www.thedailybeast.com/pizzagate-pushers-death-drives-conspiracy-theorists-to-tout-her-as-new-seth-rich/)
+
+## See Also
+
+- [Isaac Kappy](Isaac_Kappy.md)
+- [Tracy Twyman](Tracy_Twyman.md)
+- [Max Spiers](Max_Spiers.md)
+
+## Sources
+
+- [Snopes: Was Journalist Jen Moore Killed After Contacting Authorities About Bill Clinton?](https://www.snopes.com/fact-check/jen-moore-death/)
+- [The Daily Beast: Pizzagate Pusher's Death Drives Conspiracy Theorists to Tout Her as New Seth Rich](https://www.thedailybeast.com/pizzagate-pushers-death-drives-conspiracy-theorists-to-tout-her-as-new-seth-rich/)
+- [Pennsylvania Capital-Star: Republican state House candidate shared Clinton conspiracy theory on Facebook](https://penncapital-star.com/government-politics/republican-state-house-candidate-shared-clinton-conspiracy-theory-on-facebook/)
+- [Find a Grave: Jennifer Marie "Task Force" Moore](https://www.findagrave.com/memorial/192429654/jennifer-marie-moore)
+- [Spero Forum: Journalist probing child-trafficking allegations against Bill Clinton found dead](https://www.speroforum.com/a/GTKKEMXFEL30/83840-Journalist-probing-childtrafficking-allegations-against-Bill-Clinton-found-dead)
+- [Citizen's View: TASK FORCE](https://citizensviewrestoringamerica.wordpress.com/2018/08/14/task-force/)
+
 ---
 
 *This information was built by Grok and Claude AI research.*

@@ -151,6 +151,20 @@ The attack on Judge Salas's family became one of the most viral Epstein-adjacent
 
 The official investigation is closed. Den Hollander acted alone, motivated by misogynistic rage. But reasonable people continue to ask: in an era when multiple people connected to Epstein's financial infrastructure have been found dead — often by hanging, often before they could testify — is it truly just a coincidence that a judge was attacked four days after receiving the case that could have exposed Deutsche Bank's full complicity in Epstein's money laundering? And that the attacker happened to have intelligence ties to a firm connected to that very bank?
 
+## Key Quotes from Media Coverage
+
+> "My son's death cannot be in vain."
+> — Judge Esther Salas, [CBS News 48 Hours](https://www.cbsnews.com/news/esther-salas-son-murder-roy-den-hollander-48-hours/)
+
+> "I have to protect and at least help to protect my brothers and sisters on the bench. We do that by never letting anyone forget Daniel. Never letting anyone forget what he did for us. Never letting anyone forget the high price we all pay if indeed the right things aren't done."
+> — Judge Esther Salas, [CBS News 60 Minutes (May 2021)](https://www.cbsnews.com/news/judge-esther-salas-60-minutes-2021-05-30/)
+
+> "Let's keep talking. I love talking to you mom."
+> — Daniel Anderl's last words to his mother before answering the door, as recalled by Judge Salas on [CBS News 60 Minutes](https://www.cbsnews.com/news/judge-esther-salas-60-minutes-2021-05-30/)
+
+> "Lives are at stake."
+> — Judge Salas, urging leaders to end hostile rhetoric toward judges, [PBS NewsHour](https://www.pbs.org/newshour/show/lives-are-at-stake-judge-whose-son-was-murdered-urges-leaders-to-end-hostile-rhetoric)
+
 ## Sources
 
 - [Newsweek: Judge Salas Assigned to Epstein Deutsche Bank Case 4 Days Before Shooting](https://www.newsweek.com/judge-esther-salas-shooting-deutsche-bank-epstein-1518974)
@@ -167,6 +181,14 @@ The official investigation is closed. Den Hollander acted alone, motivated by mi
 - [WHYY / NPR coverage](https://whyy.org/)
 - [Wikipedia: Esther Salas](https://en.wikipedia.org/wiki/Esther_Salas)
 - [Wikipedia: Roy Den Hollander](https://en.wikipedia.org/wiki/Roy_Den_Hollander)
+- [CBS News: Judge Esther Salas on 60 Minutes](https://www.cbsnews.com/news/judge-esther-salas-60-minutes-2021-05-30/)
+- [ABC News: Federal judge speaks in 1st TV interview about son's death after deadly attack](https://abcnews.go.com/GMA/News/nj-judge-speaks-shares-heartfelt-letter-son-murdered/story?id=73438212)
+- [ABC News: 1 year after son's death, Judge Esther Salas says 'we need to send a message'](https://abcnews.go.com/GMA/News/year-sons-death-judge-esther-salas-send-message/story?id=78918412)
+- [PBS NewsHour: 'Lives are at stake' — Judge whose son was murdered urges leaders to end hostile rhetoric](https://www.pbs.org/newshour/show/lives-are-at-stake-judge-whose-son-was-murdered-urges-leaders-to-end-hostile-rhetoric)
+- [NBC News: Son of New Jersey federal judge killed, husband critical after being shot at home](https://www.nbcnews.com/news/us-news/son-new-jersey-federal-judge-killed-husband-critical-after-being-n1234320)
+- [Vice: The Gunman Who Allegedly Shot a Federal Judge's Son Dead Is Believed to Be a Men's Rights Lawyer](https://www.vice.com/en/article/son-of-federal-judge-in-epstein-deutsche-bank-case-shot-dead/)
+- [Yahoo Finance: Gunman kills son of judge overseeing Deutsche Bank Epstein case](https://finance.yahoo.com/news/hitman-kills-son-judge-overseeing-140939866.html)
+- [Law, Power, and Justice: Who Is Esther Salas? Family of Judge on Epstein Trial Shot at Home](https://lawpowerandjustice.com/2025/03/20/who-is-esther-salas-family-of-judge-on-epstein-trial-shot-at-home/)
 
 ---
 

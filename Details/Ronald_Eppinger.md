@@ -32,6 +32,17 @@ Eppinger was described as a Miami pimp who allegedly was the first person to tra
 - The cause of his death remains unknown in public records.
 - His death in 2006 came during the early stages of the Palm Beach Police investigation into Epstein.
 
+## Key Quotes from Media Coverage
+
+> "Ronald Eppinger had faced up to 10 years after pleading guilty this month to charges of alien smuggling for prostitution, interstate travel for prostitution and money laundering."
+> — Sun Sentinel ([Sun Sentinel: Prostitution Ring Leader Sentenced to 21 Months](https://www.sun-sentinel.com/2001/11/11/prostitution-ring-leader-sentenced-to-21-months/))
+
+> At age 13, Virginia "was living on the streets of Miami Beach when she was approached by Ron Eppinger, a self-described modeling agent" which "was, in reality, a front for a sex trafficking operation."
+> — Crime Timelines ([Crime Timelines: Virginia Giuffre](https://crimetimelines.com/virginia-giuffre/))
+
+> "He was not part of the glamorous jet-set elite that orbited Jeffrey Epstein. He never flew to Little Saint James. He did not attend VIP dinners. Yet his operation in Miami became an early node in the trafficking web."
+> — Niels Groeneveld, researcher ([X/Twitter thread](https://x.com/nigroeneveld/status/1950229368757747913))
+
 ## See Also
 
 - [Virginia Giuffre](Virginia_Giuffre.md) — Allegedly trafficked by Eppinger to Epstein
@@ -40,5 +51,11 @@ Eppinger was described as a Miami pimp who allegedly was the first person to tra
 ## Sources
 
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+- [Sun Sentinel: Prostitution Ring Leader Sentenced to 21 Months](https://www.sun-sentinel.com/2001/11/11/prostitution-ring-leader-sentenced-to-21-months/)
+- [FBI Records: The Vault — Ronald Eppinger](https://vault.fbi.gov/ronald-eppinger)
+- [MuckRock: Ronald R. Eppinger FOIA (FBI)](https://www.muckrock.com/foi/united-states-of-america-10/ronald-r-eppinger-federal-bureau-of-investigation-78970/)
+- [MuckRock: Ronald R. Eppinger FOIA (US Attorney, Southern District of Florida)](https://www.muckrock.com/foi/united-states-of-america-10/ronald-r-eppinger-united-states-attorneys-office-southern-district-of-florida-78971/)
+- [Crime Timelines: Virginia Giuffre](https://crimetimelines.com/virginia-giuffre/)
+- [Wikipedia: Virginia Giuffre](https://en.wikipedia.org/wiki/Virginia_Giuffre)
 
 *This information was built by Grok and Claude AI research.*

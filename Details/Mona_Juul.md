@@ -48,6 +48,17 @@ Juul's case is part of a broader crisis in Norway:
 - Crown Princess Mette-Marit was named ~1,000 times in the files and publicly apologized
 - Norway's self-image as an ethical, transparent society has been shaken
 
+## Key Quotes from Media Coverage
+
+> "Juul's contact with convicted sex offender Jeffrey Epstein revealed a serious lapse in judgment, and the situation makes it difficult to restore the trust that the role requires."
+> — Norwegian Foreign Minister Espen Barth Eide, [PBS (February 2026)](https://www.pbs.org/newshour/world/norwegian-ambassador-resigns-amid-scrutiny-over-her-contacts-with-epstein)
+
+> "Palestinian leaders are now questioning whether Oslo's foundational agreements of the two-state solution were brokered by a mediator vulnerable to elite blackmail and foreign intelligence pressure."
+> — [Al Jazeera (February 2026)](https://www.aljazeera.com/features/2026/2/12/compromised-peace-oslo-accords-figure-deeply-linked-to-epstein-network)
+
+> "Norway's self-image as an ethical, transparent society has been shaken by the revelations linking some of its most prominent diplomats to Epstein."
+> — [Courthouse News Service (February 2026)](https://www.courthousenews.com/norways-self-image-cracking-amid-political-elite-expose-in-epstein-files/)
+
 ## See Also
 
 - [Terje Rød-Larsen](Terje_Rod_Larsen.md) — Husband, also under investigation
@@ -61,5 +72,13 @@ Juul's case is part of a broader crisis in Norway:
 - [Courthouse News: Norway's self-image cracking amid political elite exposé in Epstein Files](https://www.courthousenews.com/norways-self-image-cracking-amid-political-elite-expose-in-epstein-files/) (February 2026)
 - [South China Morning Post: Norwegian ambassador resigns over Epstein links](https://www.scmp.com/news/world/europe/article/3342855/senior-diplomat-resigns-norway-investigates-epstein-links) (February 2026)
 - [Al Jazeera: Epstein files fallout](https://www.aljazeera.com/news/2026/2/24/epstein-files-fallout-muted-us-response-vs-political-reckoning-in-europe) (February 2026)
+- [Regjeringen.no: Mona Juul Steps Down as Ambassador](https://www.regjeringen.no/en/whats-new/mona-juul-steps-down-as-ambassador/id3148469/) (February 2026)
+- [Washington Times: Norwegian ambassador resigns as she faces scrutiny over contacts with Jeffrey Epstein](https://www.washingtontimes.com/news/2026/feb/9/norwegian-ambassador-resigns-faces-scrutiny-contacts-jeffrey-epstein/) (February 2026)
+- [Arab News: Norway's ambassador to Jordan and Iraq resigns over Epstein links](https://www.arabnews.com/node/2632256/middle-east) (February 2026)
+- [The New Arab: Norwegian ambassador resigns over contacts with Epstein](https://www.newarab.com/news/norwegian-ambassador-resigns-over-contacts-epstein) (February 2026)
+- [Anadolu Agency: Norway's envoy to Jordan steps down over contact with Epstein](https://www.aa.com.tr/en/europe/-norway-s-envoy-to-jordan-steps-down-over-contact-with-epstein-foreign-minister-says/3824171) (February 2026)
+- [NBC News: Epstein files fallout — Tracking the resignations, firings and investigations](https://www.nbcnews.com/politics/justice-department/epstein-files-fallout-resignations-firings-investigations-rcna259702) (February 2026)
+- [Al Jazeera: Compromised peace? Oslo Accords figure deeply linked to Epstein network](https://www.aljazeera.com/features/2026/2/12/compromised-peace-oslo-accords-figure-deeply-linked-to-epstein-network) (February 2026)
+- [Wikipedia: Mona Juul](https://en.wikipedia.org/wiki/Mona_Juul)
 
 *This information was built by Grok and Claude AI research.*

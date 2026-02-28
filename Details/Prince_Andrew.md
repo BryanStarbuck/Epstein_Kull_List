@@ -46,6 +46,20 @@ Andrew was released on bail at 2 AM on February 24, 2026. He has not been charge
 - King Charles has not publicly commented on the arrest
 - The arrest triggered broader scrutiny of royal family connections to Epstein
 
+## Key Quotes from Media Coverage
+
+> "At last, today, our broken hearts have been lifted at the news that no one is above the law, not even royalty."
+> — Giuffre family statement on Andrew's arrest, [Global News (February 2026)](https://globalnews.ca/news/11674033/virginia-giuffre-prince-andrew-arrest-jeffrey-epstein/)
+
+> "Today is just the beginning of accountability and justice brought forth by Virginia Roberts Giuffre — a young mother who adored her daughter so deeply, she fought the most powerful on earth to protect her. She did this for everyone's daughters. Let's now demand all the dominos of power and corruption begin to fall."
+> — Maria Farmer, first known Epstein survivor to report to law enforcement, [The Hill (February 2026)](https://thehill.com/policy/international/5745795-prince-andrew-arrested-epstein-survivor/)
+
+> "I have learned with the deepest concern the news about Andrew Mountbatten-Windsor and suspicion of misconduct in public office... Let me state clearly: the law must take its course."
+> — King Charles III, statement following the arrest, [CNBC (February 2026)](https://www.cnbc.com/2026/02/19/epstein-files-former-prince-andrew-police-released-arrest.html)
+
+> "I think it's very sad. I think it's so bad for the royal family. It's very, very sad."
+> — President Donald Trump, speaking on Air Force One, [CNBC (February 2026)](https://www.cnbc.com/2026/02/19/epstein-files-former-prince-andrew-police-released-arrest.html)
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Primary subject
@@ -61,5 +75,14 @@ Andrew was released on bail at 2 AM on February 24, 2026. He has not been charge
 - [NPR: U.K. considers cutting ex-Prince Andrew from line of succession](https://www.npr.org/2026/02/20/g-s1-110915/uk-former-prince-andrew-epstein-investigation) (February 2026)
 - [PBS: Ex-Prince Andrew arrested in widening fallout](https://www.pbs.org/newshour/show/ex-prince-andrew-arrested-in-widening-fallout-related-to-jeffrey-epstein-ties) (February 2026)
 - [Al Jazeera: Ex-UK Prince Andrew arrested](https://www.aljazeera.com/news/liveblog/2026/2/19/live-ex-uk-prince-andrew-arrested-amid-epstein-scandal) (February 2026)
+- [CNBC: Epstein files — Former Prince Andrew released by police, Trump calls his arrest 'a shame'](https://www.cnbc.com/2026/02/19/epstein-files-former-prince-andrew-police-released-arrest.html) (February 2026)
+- [The Hill: Epstein survivor welcomes former Prince Andrew's arrest](https://thehill.com/policy/international/5745795-prince-andrew-arrested-epstein-survivor/) (February 2026)
+- [Global News: Virginia Giuffre's family responds to Andrew arrest — 'He was never a prince'](https://globalnews.ca/news/11674033/virginia-giuffre-prince-andrew-arrest-jeffrey-epstein/) (February 2026)
+- [Fox News: Former Prince Andrew arrested; King Charles III reacts](https://www.foxnews.com/live-news/former-prince-andrew-arrested-02-19-26) (February 2026)
+- [The Hill: Lawmakers react to Prince Andrew arrest](https://thehill.com/newsletters/1230-report/5745496-lawmakers-react-prince-andrew-arrest/) (February 2026)
+- [Al Jazeera: Ex-Prince Andrew's arrest spurs Epstein accountability calls from UK to US](https://www.aljazeera.com/news/2026/2/19/ex-prince-andrews-arrest-spurs-epstein-accountability-calls-from-uk-to-us) (February 2026)
+- [Axios: How Virginia Giuffre became a key voice in bringing down Prince Andrew](https://www.axios.com/2026/02/19/prince-andrew-virginia-giuffre-epstein) (February 2026)
+- [CNN: Email appears to confirm photo of former Prince Andrew and Virginia Giuffre is real](https://www.cnn.com/2026/02/05/world/andrew-virginia-giuffre-photo-intl) (February 2026)
+- [Wikipedia: Prince Andrew & the Epstein Scandal](https://en.wikipedia.org/wiki/Prince_Andrew_%26_the_Epstein_Scandal)
 
 *This information was built by Grok and Claude AI research.*

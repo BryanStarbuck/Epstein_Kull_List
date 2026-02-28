@@ -40,6 +40,17 @@ The prime suspect in the Shapiro murder was [Berry L. Kessler](Berry_Kessler.md)
 - The prime suspect (Berry L. Kessler) had a documented history of commissioning murder-for-hire operations, and FBI documents reference a possible link to Epstein.
 - The sequence of events — Shapiro's murder, followed by Epstein stepping into his role — raises questions about whether the killing could have been connected to Epstein's rise.
 
+## Key Quotes from Media Coverage
+
+> "Someone fired two bullets point-blank into his head as he fled from a secretive breakfast meeting — held in his red BMW — at a Columbus cemetery."
+> — **The Daily Beast**, describing the murder scene ([The Daily Beast](https://www.thedailybeast.com/who-murdered-arthur-shapiro-the-lawyer-of-victorias-secret-billionaire-les-wexner/))
+
+> "The reality is that you, in a most cold and calculated fashion, plotted and carried out a contract-style murder. You are, in fact, a clever, cunning and merciless killer."
+> — **Judge William Webb**, sentencing Berry Kessler to death for the murder of John Deroo — the same suspect in Shapiro's unsolved murder ([Tampa Bay Times](https://www.tampabay.com/archive/1997/02/20/75-year-old-is-sentenced-to-death-for-murder-plot/))
+
+> "Shapiro's name appeared decades later in an FBI file involving the activities of another man important to Wexner's business: the pedophile financier Jeffrey Epstein."
+> — **The Daily Beast**, on the Epstein connection ([The Daily Beast](https://www.thedailybeast.com/who-murdered-arthur-shapiro-the-lawyer-of-victorias-secret-billionaire-les-wexner/))
+
 ## See Also — The Kessler Pattern
 
 - [Berry L. Kessler](Berry_Kessler.md) — Prime suspect, died in prison before questioning
@@ -51,6 +62,14 @@ The prime suspect in the Shapiro murder was [Berry L. Kessler](Berry_Kessler.md)
 
 ## Sources
 
+- [The Daily Beast: Who Murdered Arthur Shapiro, the Lawyer of Victoria's Secret Billionaire Les Wexner?](https://www.thedailybeast.com/who-murdered-arthur-shapiro-the-lawyer-of-victorias-secret-billionaire-les-wexner/)
+- [Unlimited Hangout: A Kingpin, the Mob, and a Murder — The Deeper Mystery Behind the Arthur Shapiro Homicide](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/)
+- [Columbus Free Press: Jeffrey Epstein — There's Much More to the Story](https://columbusfreepress.com/article/jeffrey-epstein-there%E2%80%99s-much-more-story-2)
+- [Freepress.org: The Shapiro Murder File](https://freepress.org/article/shapiro-murder-file)
+- [Freepress.org: The Dispatch goes for the re-kill of Arthur Shapiro](https://freepress.org/article/dispatch-goes-re-kill-arthur-shapiro)
+- [Yahoo News: Who Murdered the Lawyer of Victoria's Secret Billionaire Les Wexner?](https://www.yahoo.com/news/murdered-lawyer-victoria-secret-billionaire-034921344.html)
+- [Front Page Detectives: SILENCED — The Arthur Shapiro Killing and the Les Wexner Connection](https://frontpagedetectivesonline.substack.com/p/silenced-the-arthur-shapiro-killing)
+- [Bonner Private Research: In the Shadows](https://www.bonnerprivateresearch.com/p/in-the-shadows)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 - [Uinterview: 22 People Connected to Jeffrey Epstein Have Died](https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 

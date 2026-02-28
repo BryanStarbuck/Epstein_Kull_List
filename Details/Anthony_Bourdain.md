@@ -36,11 +36,34 @@ The claimed involvement with "The Silent Children" documentary has not been veri
 - [Kate Spade](Kate_Spade.md) — June 5, 2018 (hanging)
 - Anthony Bourdain — June 8, 2018 (hanging)
 
+## Key Quotes from Media Coverage
+
+> "Anthony was a dear friend. He was an exceptional human being, so inspiring and generous. One of the great storytellers of our time who connected with so many."
+> -- Eric Ripert, who found Bourdain's body, [TIME: Eric Ripert Speaks Out After Finding Anthony Bourdain Dead](https://time.com/5306636/eric-ripert-statement-anthony-bourdain-death/)
+
+> "He had everything. Success beyond his wildest dreams. Money beyond his wildest dreams."
+> -- Gladys Bourdain, Anthony's mother, [Yahoo: Anthony Bourdain's Shocked Mother Speaks Out After Son's Apparent Suicide](https://www.yahoo.com/entertainment/anthony-bourdain-shocked-mother-speaks-012619425.html)
+
+> "Tony had been in a dark mood these past couple of days."
+> -- Eric Ripert to Gladys Bourdain, [Euronews: Anthony Bourdain's mother speaks out about his tragic death](https://www.euronews.com/culture/2018/06/11/anthony-bourdain-s-mother-remembers-him-feisty-talented-t130641)
+
+> "His suicide appeared to be an impulsive act... Toxicology results were negative for narcotics."
+> -- French prosecutor Christian de Rocquigny du Fayel, [Fortune: Anthony Bourdain's Toxicology Report Shows No Narcotics in His System](https://fortune.com/2018/06/25/anthony-bourdain-toxicology-report/)
+
 ## Sources
 - French authorities' investigation report
 - CNN statement and memorial coverage
 - Eric Ripert and family statements
 - X/Twitter threads compiling "Silent Children" documentary death cluster
 - New York Times, BBC News coverage (June 2018)
+- [TIME: Eric Ripert Speaks Out After Finding Anthony Bourdain Dead](https://time.com/5306636/eric-ripert-statement-anthony-bourdain-death/)
+- [Fortune: Anthony Bourdain's Toxicology Report Shows No Narcotics in His System](https://fortune.com/2018/06/25/anthony-bourdain-toxicology-report/)
+- [Hollywood Reporter: Anthony Bourdain Dead -- CNN Chef Was 61](https://www.hollywoodreporter.com/tv/tv-news/anthony-bourdain-dead-cnn-chef-dies-at-61-1118371/)
+- [All That's Interesting: The Inside Story Of Anthony Bourdain's Tragic Death](https://allthatsinteresting.com/anthony-bourdain-death)
+- [Euronews: Anthony Bourdain's mother speaks out about his tragic death](https://www.euronews.com/culture/2018/06/11/anthony-bourdain-s-mother-remembers-him-feisty-talented-t130641)
+- [Today: Eric Ripert statement on death of friend Anthony Bourdain](https://www.today.com/food/eric-ripert-statement-death-friend-anthony-bourdain-t130547)
+- [Rolling Stone: Last Voyage of Anthony Bourdain -- Why the Final Season of 'Parts Unknown' Hits Home](https://www.rollingstone.com/tv-movies/tv-movie-features/anthony-bourdain-parts-unknown-final-season-745718/)
+- [MindSite News: Controversial Anthony Bourdain Film Explores the Mystery of Suicide](https://mindsitenews.org/2021/10/19/parts-unknown-controversial-documentary-explores-anthony-bourdains-life-and-death/)
+- [The Ringer: The Final Season of 'Anthony Bourdain: Parts Unknown'](https://www.theringer.com/tv/2018/9/25/17900264/anthony-bourdain-parts-unknown-final-season)
 
 *This information was built by Grok and Claude AI research.*

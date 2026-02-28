@@ -44,6 +44,17 @@ Casolaro and Robert Maxwell died within three months of each other in 1991.
 - The 1994 DOJ report concluded suicide, but circumstances remain heavily contested
 - Died the same year as [Robert Maxwell](Robert_Maxwell.md), whose intelligence operations he was investigating
 
+## Key Quotes from Media Coverage
+
+> "By the way, if an accident happens, it's not an accident."
+> — **Danny Casolaro**, warning his brother Tony weeks before his death ([Fox News](https://www.foxnews.com/us/octopus-murders-conspiracy-puts-spotlight-journalists-mysterious-suicide))
+
+> "In my six years as a medic, I've never seen anybody ever cut their wrists that many times — the left arm appears to have had eight cuts and the right arm appeared to have had four cuts. It just did not appear that he physically could have done that."
+> — **Don Shirley**, firefighter and medic who responded to the scene at the Sheraton Hotel ([Fox News](https://www.foxnews.com/us/octopus-murders-conspiracy-puts-spotlight-journalists-mysterious-suicide))
+
+> "Danny was so excited and upbeat about his investigation. I can't believe it's suicide."
+> — **Dr. Anthony (Tony) Casolaro**, Danny's brother, on the last time he saw Danny alive ([Washington Post](https://www.washingtonpost.com/archive/local/1992/01/27/journalists-brother-questions-suicide-ruling/cd054681-80d1-4236-ae3e-15225c79a8c8/))
+
 ## Related Deaths
 
 - [Robert Maxwell](Robert_Maxwell.md) — Died November 5, 1991, three months after Casolaro. Alleged PROMIS distributor for Mossad
@@ -53,8 +64,17 @@ Casolaro and Robert Maxwell died within three months of each other in 1991.
 ## Sources
 
 - [Wikipedia: Danny Casolaro](https://en.wikipedia.org/wiki/Danny_Casolaro)
+- [Wikipedia: American Conspiracy — The Octopus Murders](https://en.wikipedia.org/wiki/American_Conspiracy:_The_Octopus_Murders)
 - [Unsolved Mysteries: Dan Casolaro](https://unsolved.com/gallery/dan-casolaro/)
-- [CovertAction Magazine: Declassified documents on Casolaro's death](https://covertactionmagazine.com/2018/06/17/declassified-documents-call-into-question-official-washington-narrative-of-danny-casolaros-death/)
+- [CovertAction Magazine: Declassified documents call into question official Washington narrative of Danny Casolaro's death](https://covertactionmagazine.com/2018/06/17/declassified-documents-call-into-question-official-washington-narrative-of-danny-casolaros-death/)
+- [Fox News: 'Octopus Murders' conspiracy puts spotlight on journalist's mysterious 'suicide'](https://www.foxnews.com/us/octopus-murders-conspiracy-puts-spotlight-journalists-mysterious-suicide)
+- [Washington Post: Journalist's Brother Questions Suicide Ruling](https://www.washingtonpost.com/archive/local/1992/01/27/journalists-brother-questions-suicide-ruling/cd054681-80d1-4236-ae3e-15225c79a8c8/)
+- [Washington Post: What Killed Danny Casolaro?](https://www.washingtonpost.com/archive/lifestyle/1991/08/31/what-killed-danny-casolaro/ea110460-d4d0-4052-a84c-3660b6989ebe/)
+- [Netflix Tudum: What Happened to Danny Casolaro? American Conspiracy — The Octopus Murders](https://www.netflix.com/tudum/articles/american-conspiracy-octopus-murders-release-date-trailer-news)
+- [The Daily Beast: American Conspiracy — The Octopus Murders Uncovers Danny Casolaro Death](https://www.thedailybeast.com/american-conspiracy-the-octopus-murders-uncovers-danny-casolaro-death/)
+- [Bustle: The Octopus Murders — What Happened To Danny Casolaro?](https://www.bustle.com/entertainment/the-octopus-murders-what-happened-to-danny-casolaro)
+- [The Cinemaholic: Tony Casolaro — Danny Casolaro's Brother Has Come to Terms With His Loss Today](https://thecinemaholic.com/tony-casolaro/)
+- [The Stacks Reader: The Strange Death of Danny Casolaro by Ron Rosenbaum](http://www.thestacksreader.com/the-strange-death-of-danny-casolaro-ron-rosenbaum/)
 - 1994 DOJ Report on the Casolaro death
 
 *This information was built by Grok and Claude AI research.*

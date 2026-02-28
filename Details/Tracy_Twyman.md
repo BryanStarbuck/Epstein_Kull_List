@@ -37,11 +37,27 @@ The "dead man's switch" video she left behind is frequently cited as evidence th
 - **July 6, 2019:** [Jeffrey Epstein](Jeffrey_Epstein.md) arrested
 - **August 10, 2019:** Epstein found dead
 
+## Key Quotes from Media Coverage
+
+> "I'm going to stop using Twitter and YouTube after what happened... I've received death threats."
+>
+> — Tracy Twyman, [in messages before her death](https://burners.me/2019/07/10/another-pedogate-researcher-suddenly-dies-rip-tracy-twyman/) (2019)
+
+> "My heart is broken. I've just been crying. I don't know what else to say... The details surrounding her death are a convoluted mystery. Her family has requested the specifics be kept silent."
+>
+> — S.B. Alger (RX Only Picture Show co-host), [on learning of Twyman's death](https://burners.me/2019/07/10/another-pedogate-researcher-suddenly-dies-rip-tracy-twyman/) (July 2019)
+
+> "She sent a 'Dead Man's Switch' video with information about people who had been sending her death threats... She had been in communication with Isaac Kappy about threats she had received related to a campground near Williams, Arizona."
+>
+> — [Burners.me: Another #PedoGate Researcher Suddenly Dies: RIP Tracy Twyman](https://burners.me/2019/07/10/another-pedogate-researcher-suddenly-dies-rip-tracy-twyman/) (July 10, 2019)
+
 ## Sources
-- Burners.me coverage (July 2019)
+- [Burners.me: Another #PedoGate Researcher Suddenly Dies: RIP Tracy Twyman](https://burners.me/2019/07/10/another-pedogate-researcher-suddenly-dies-rip-tracy-twyman/)
+- [Burners.me: CryptoBeast #21 — Tracy Twyman, Kappy, Epstein and LARP Wars](https://burners.me/2019/07/15/cryptobeast-21-tracy-twyman-kappy-epstein-and-larp-wars-with-lift-the-veil/)
+- [Wikispooks: Tracy Twyman](https://wikispooks.com/wiki/Tracy_Twyman)
+- [Odysee: Tracy Twyman — Dead Man's Switch — Final Video Released After Her Death](https://odysee.com/@JeffreyEpstein:1/twymanfinalvideodeadmansswitch:8)
+- [Hive Blog: Another #PedoGate Researcher Suddenly Dies: RIP Tracy Twyman](https://hive.blog/cryptobeast/@steveouttrim/anotherpedogateresearchersuddenlydiesriptracytwyman-tkxoasf6tn)
 - Twyman's pre-recorded video statement (May 24, 2019)
-- Goodreads discussion: "Was Tracy Twyman murdered?"
-- Wikispooks: Tracy Twyman
 - Independent researcher and podcast community documentation
 
 *This information was built by Grok and Claude AI research.*

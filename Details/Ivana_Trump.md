@@ -41,6 +41,32 @@ The connection to Epstein is tangential — through her ex-husband's social rela
 
 **Suspicion Level:** UNCERTAIN — Tangential Epstein connection through ex-husband. Accidental fall is plausible for age 73.
 
+## Key Quotes from Media Coverage
+
+> "Well I guess Ivana Trump wont be corroborating or refuting any of the depositions tomorrow of Donald, Ivanka, Eric and Don Jr... How convenient #Epsteined"
+> — Viral tweet that helped drive the #Epsteined hashtag, which racked up over 8,000 tweets, via [Rolling Stone](https://www.rollingstone.com/culture/culture-news/ivana-trump-epsteined-twitter-1383781/)
+
+> "'Epsteined' is the ominous new verb for our paranoid times."
+> — [MEL Magazine](https://melmagazine.com/en-us/story/ivana-trump-death-epsteined-theories)
+
+> "The manner of death is accident... The cause of death is blunt impact injuries of torso."
+> — New York City Office of Chief Medical Examiner, ruling issued July 15, 2022, via [CNBC](https://www.cnbc.com/2022/07/15/ivana-trump-died-from-accident-blunt-impact-trauma-medical-examiner-rules.html)
+
+## See Also
+
+- [Jeffrey Epstein](Jeffrey_Epstein.md)
+
+## Sources
+
+- [Rolling Stone: After Ivana Trump Death, #Epsteined Trends on Twitter](https://www.rollingstone.com/culture/culture-news/ivana-trump-epsteined-twitter-1383781/)
+- [ABC News: Ivana Trump, ex-wife of former President Trump, died from fall](https://abcnews.com/US/ivana-trump-wife-president-trump-dies-age/story?id=86834496)
+- [CNBC: Ivana Trump died from accident, blunt impact injuries, New York City medical examiner rules](https://www.cnbc.com/2022/07/15/ivana-trump-died-from-accident-blunt-impact-trauma-medical-examiner-rules.html)
+- [Daily Dot: The left and right are arguing over whether Trump's ex-wife was 'Epsteined'](https://www.dailydot.com/news/left-right-conspiracy-ivana-trump-epsteined/)
+- [MEL Magazine: 'Epsteined' Is the Ominous New Verb for Our Paranoid Times](https://melmagazine.com/en-us/story/ivana-trump-death-epsteined-theories)
+- [Inside Edition: Ivana Trump Determined to Have Died Due to Fall Down Stairs](https://www.insideedition.com/as-ivana-trump-is-determined-to-have-died-due-to-fall-down-stairs-what-to-know-about-staircase)
+- [NBC New York: Where Is Ivana Trump Buried? Photos Show Trump National Golf Course Plot](https://www.nbcnewyork.com/news/local/would-ivana-trumps-gravesite-at-trump-national-golf-club-be-tax-benefit-for-trump-org/3804517/)
+- [The Daily Beast: Did Donald Trump Bury Ivana Trump on His New Jersey Bedminster Golf Course to Claim a Tax Break?](https://www.thedailybeast.com/did-donald-trump-bury-ivana-trump-on-his-new-jersey-bedminster-golf-course-to-claim-a-tax-break/)
+
 ---
 
 *This information was built by Grok and Claude AI research.*

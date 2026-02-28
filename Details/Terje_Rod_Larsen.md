@@ -43,6 +43,20 @@ Norway's economic crime authority, Økokrim:
 
 The Epstein files revealed derogatory remarks by Rød-Larsen, including the phrase "Kill Indian First" in communications, which drew international condemnation.
 
+## Key Quotes from Media Coverage
+
+> "Jeffrey Epstein left little doubt about the value he placed on a Norwegian diplomat and his ambassador wife to tap a network of officials with ties to the United Nations and the Nobel Peace Prize. In his will, the pedophile financier bequeathed the couple's two children $5 million each."
+> — [Bloomberg (February 2026)](https://www.bloomberg.com/news/articles/2026-02-18/how-a-low-key-norwegian-became-epstein-s-top-diplomatic-fixer)
+
+> "The newly released US Justice Department files expose a relationship involving illicit loans, visa fraud for sex-trafficked women, and a beneficiary clause in Epstein's will worth millions of dollars."
+> — [Al Jazeera (February 2026)](https://www.aljazeera.com/features/2026/2/12/compromised-peace-oslo-accords-figure-deeply-linked-to-epstein-network)
+
+> "Norwegian authorities alerted U.S. Epstein investigators in 2019 after reports that Roed-Larsen's think tank, the International Peace Institute, allegedly brought in young and unqualified women from Eastern Europe on very short internships whose photos were shared with Epstein."
+> — [Bloomberg (February 2026)](https://www.bloomberg.com/news/articles/2026-02-18/how-a-low-key-norwegian-became-epstein-s-top-diplomatic-fixer)
+
+> "Have you heard the saying: when you meet an Indian and a snake, kill the Indian first!"
+> — Terje Roed-Larsen, email to Epstein dated December 25, 2015, revealed in DOJ file release, [Free Press Journal (February 2026)](https://www.freepressjournal.in/india/kill-indian-first-norway-ex-diplomat-terje-rd-larsens-derogatory-remarks-revealed-in-epstein-files)
+
 ## See Also
 
 - [Mona Juul](Mona_Juul.md) — Wife, also under investigation
@@ -57,5 +71,12 @@ The Epstein files revealed derogatory remarks by Rød-Larsen, including the phra
 - [Anadolu Agency: Norwegian ex-diplomat questioned over alleged links to Epstein](https://www.aa.com.tr/en/americas/norwegian-ex-diplomat-questioned-over-alleged-links-to-epstein/3835210) (February 2026)
 - [Free Press Journal: Norway diplomat's derogatory remarks revealed in Epstein files](https://www.freepressjournal.in/india/kill-indian-first-norway-ex-diplomat-terje-rd-larsens-derogatory-remarks-revealed-in-epstein-files) (February 2026)
 - [News in English: More caught in Epstein's tangled web](https://www.newsinenglish.no/2026/02/03/more-caught-in-epsteins-tangled-web/) (February 2026)
+- [Al Jazeera: Compromised peace? Oslo Accords figure deeply linked to Epstein network](https://www.aljazeera.com/features/2026/2/12/compromised-peace-oslo-accords-figure-deeply-linked-to-epstein-network) (February 2026)
+- [Middle East Eye: Norway's role in the Oslo Accords questioned after key figures appear in Epstein files](https://www.middleeasteye.net/news/norways-role-oslo-accords-questioned-after-key-figures-appear-epstein-files) (February 2026)
+- [Anadolu Agency: Oslo Accord negotiator's Epstein links raise questions about integrity of Middle East peace process](https://www.aa.com.tr/en/europe/oslo-accord-negotiator-s-epstein-links-raise-questions-about-integrity-of-middle-east-peace-process-report/3828636) (February 2026)
+- [WION News: Epstein files stash reveals Norway diplomat's derogatory remark on 'Indians'](https://www.wionews.com/world/epstein-files-stash-reveals-norway-diplomat-terje-r-d-larsen-s-derogatory-remark-on-indians-social-media-erupts-1770028653881) (February 2026)
+- [PassBlue: Terje Rod-Larsen, a Norwegian Diplomat, Quits a New York Think Tank Amid Links to Jeffrey Epstein](https://passblue.com/2020/10/29/terje-rod-larsen-a-norwegian-diplomat-quits-a-new-york-think-tank-amid-links-to-jeffrey-epstein/) (October 2020)
+- [Yeni Safak: Norwegian ex-diplomat questioned over alleged Epstein ties as probe widens](https://en.yenisafak.com/world/norwegian-ex-diplomat-questioned-over-alleged-epstein-ties-as-probe-widens-3714857) (February 2026)
+- [Wikipedia: Terje Roed-Larsen](https://en.wikipedia.org/wiki/Terje_R%C3%B8d-Larsen)
 
 *This information was built by Grok and Claude AI research.*

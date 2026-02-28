@@ -34,12 +34,32 @@ Reyes was [Jeffrey Epstein](Jeffrey_Epstein.md)'s final cellmate at the Metropol
 - As Epstein's cellmate, he may have had direct knowledge of Epstein's state of mind, any visitors, or any events in the hours and days before Epstein's death.
 - His death from COVID-19, however, occurred during a global pandemic that killed millions.
 
+## Key Quotes from Media Coverage
+
+> "I owe you a favor, thank you for telling us the truth."
+> — **Attorney General William Barr**, reportedly to Reyes after personally questioning him about Epstein's death ([Fox News](https://www.foxnews.com/us/jeffrey-epstein-cellmate-questioned-ag-william-barr))
+
+> "[Staff] were treating him like crap. They were making him sleep on the floor. They wouldn't let him sleep on a cot."
+> — **Angelique Lopez**, Reyes's niece, describing how her uncle was treated in custody after being questioned about Epstein ([Prison Legal News](https://www.prisonlegalnews.org/news/2021/may/1/covid-19-kills-jeffery-epsteins-former-cellmate/))
+
+> "The bunk frames were not tall enough to allow for hanging... It just didn't seem right."
+> — **Efrain "Stone" Reyes**, via his niece Angelique Lopez, expressing skepticism about Epstein's suicide ([Yahoo News](https://news.yahoo.com/harassed-guards-extorted-inmates-jeffrey-160100777.html))
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Cellmate who died the next day
 
 ## Sources
 
+- [Prison Legal News: COVID-19 Kills Jeffrey Epstein's Former Cellmate](https://www.prisonlegalnews.org/news/2021/may/1/covid-19-kills-jeffery-epsteins-former-cellmate/)
+- [Fox News: Epstein's Final Cellmate Questioned by AG Barr After Apparent Suicide](https://www.foxnews.com/us/jeffrey-epstein-cellmate-questioned-ag-william-barr)
+- [Tampa Bay Times: Attorney General William Barr Questioned Epstein's Cellmate After Suicide](https://www.tampabay.com/news/2021/01/04/attorney-general-william-barr-questioned-epsteins-cellmate-after-suicide-source-says/)
+- [uInterview: Attorney General William Barr Questioned Jeffrey Epstein's Final Cellmate](https://uinterview.com/news/attorney-general-william-barr-questioned-jeffrey-epsteins-final-cellmate-efrain-reyes-after-suicide/amp/)
+- [Yahoo News: Harassed by Guards and Extorted by Inmates, Jeffrey Epstein Shared Suicidal Thoughts at NYC Federal Jail](https://news.yahoo.com/harassed-guards-extorted-inmates-jeffrey-160100777.html)
+- [Fox News: Jeffrey Epstein's Last Cellmate Dies from Coronavirus](https://www.foxnews.com/us/jeffrey-epsteins-last-cell-mate-dies-from-coronavirus-reports-say)
+- [Latin Post: Jeffrey Epstein's Last Cellmate Dies from COVID-19](https://www.latinpost.com/articles/148892/20201229/jeffrey-epstein-last-cellmate-dies-covid-19.htm)
+- [Washington Examiner: Jeffrey Epstein's Last Cellmate Died After Contracting Coronavirus](https://www.washingtonexaminer.com/news/epstein-cellmate-died-coronavirus)
+- [CBS News: In Cell Where Jeffrey Epstein Died, A Scene of Disarray](https://www.cbsnews.com/news/jeffrey-epstein-cell-where-he-died-disarray-no-thorough-inspection/)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 - [Uinterview: 22 People Connected to Jeffrey Epstein Have Died](https://uinterview.com/news/22-people-connected-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
 
