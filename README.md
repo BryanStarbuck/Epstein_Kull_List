@@ -10,46 +10,51 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 
 | Name | Cause of Death | Suspicion Level | Details |
 |------|----------------|-----------------|---------|
-| [Jeffrey Epstein](Details/Jeffrey_Epstein.md) | Hanging in jail cell | **HIGHLY SUSPICIOUS** | Guards asleep, cameras failed, brother says murder. |
 | [Jean-Luc Brunel](Details/Jean_Luc_Brunel.md) | Hanged in prison cell | **HIGHLY SUSPICIOUS** | Found hanged awaiting trafficking trial, like Epstein. |
 | [Mark Middleton](Details/Mark_Middleton.md) | Hanged and shot | **HIGHLY SUSPICIOUS** | Clinton aide, Epstein White House access. Records sealed. |
-| [Robert Maxwell](Details/Robert_Maxwell.md) | Fell from yacht | **SUSPICIOUS** | Ghislaine's father, alleged Mossad agent. Cause disputed. |
 | [Daniel Anderl](Details/Daniel_Anderl.md) | Shot at home | **HIGHLY SUSPICIOUS** | Judge's son killed 4 days after Epstein-Deutsche Bank assignment. Gunman had intel ties. |
 | [Arthur Shapiro](Details/Arthur_Shapiro.md) | Gunned down | **HIGHLY SUSPICIOUS** | Murdered weeks before IRS questioning. |
+| [Danny Casolaro](Details/Danny_Casolaro.md) | Wrists slashed in hotel | **HIGHLY SUSPICIOUS** | Investigating PROMIS/Maxwell intel op. Briefcase missing. |
+| [John Deroo](Details/John_Deroo.md) | Shot six times in face | **HIGHLY SUSPICIOUS** | Kessler's partner. $500K insurance policy taken on him. |
+| [Gary Caradori](Details/Gary_Caradori.md) | Plane disintegrated mid-air | **HIGHLY SUSPICIOUS** | Franklin scandal investigator. Plane broke apart; briefcase missing. |
+| [Robert Maxwell](Details/Robert_Maxwell.md) | Fell from yacht | **SUSPICIOUS** | Ghislaine's father, alleged Mossad agent. Cause disputed. |
 | [Thomas Bowers](Details/Thomas_Bowers.md) | Hanged in home | **SUSPICIOUS** | Deutsche Bank exec who moved Epstein's money. |
-| [William Broeksmit](Details/William_Broeksmit.md) | Hanged at home | **UNCERTAIN** | Deutsche Bank senior exec. Son became FBI informant. |
-| [Val Broeksmit](Details/Val_Broeksmit.md) | Blunt-force trauma | **UNCERTAIN** | Deutsche Bank whistleblower. Found dead on LA campus. |
 | [Steven Hoffenberg](Details/Steven_Hoffenberg.md) | Found dead in apartment | **SUSPICIOUS** | FBI cooperator. Exposed blackmail op. Dead 7+ days. |
 | [Virginia Giuffre](Details/Virginia_Giuffre.md) | Suicide | **SUSPICIOUS** | Top Epstein accuser. Posted "not suicidal." |
 | [Ruslana Korshunova](Details/Ruslana_Korshunova.md) | Fell from 9th floor | **SUSPICIOUS** | On Epstein's jet at 18. Mother rejects suicide. |
 | [Isaac Kappy](Details/Isaac_Kappy.md) | Fell from bridge | **SUSPICIOUS** | Named Hollywood pedophiles. Said "if I die, wasn't suicide." |
 | [Tracy Twyman](Details/Tracy_Twyman.md) | Hanged in garage | **SUSPICIOUS** | Continued Kappy's research. Left dead man's switch. |
 | [Anastasia Drozdova](Details/Anastasia_Drozdova.md) | Jumped from building | **SUSPICIOUS** | Korshunova's friend. Died identically one year later. |
-| [Carolyn Andriano](Details/Carolyn_Andriano.md) | Accidental overdose | **MODERATE SUSPICION** | Testified against Maxwell. Mother says "doesn't make sense." |
-| [Steve Bing](Details/Steve_Bing.md) | Fell from 27th floor | **MODERATE SUSPICION** | Clinton donor named in Epstein files. |
-| [Joe Recarey](Details/Joe_Recarey.md) | Brief illness | **MODERATE SUSPICION** | Lead Epstein detective. Died unexpectedly at 50. |
-| [Danny Casolaro](Details/Danny_Casolaro.md) | Wrists slashed in hotel | **HIGHLY SUSPICIOUS** | Investigating PROMIS/Maxwell intel op. Briefcase missing. |
-| [John Deroo](Details/John_Deroo.md) | Shot six times in face | **HIGHLY SUSPICIOUS** | Kessler's partner. $500K insurance policy taken on him. |
 | [Frank Yassenoff](Details/Frank_Yassenoff.md) | Shot to death | **SUSPICIOUS** | Kessler's Columbus partner, killed with fiancee. Unsolved. |
 | [Ella Rich](Details/Ella_Rich.md) | Shot to death | **SUSPICIOUS** | Yassenoff's fiancee, killed alongside him. Unsolved. |
 | [Marjorie Dyer](Details/Marjorie_Dyer.md) | Car accident | **SUSPICIOUS** | Co-signed Yassenoff's will with Kessler. |
-| [Wendy Leigh](Details/Wendy_Leigh.md) | Found beneath balcony | **UNCERTAIN** | Investigating Epstein. Ex-husband rejects suicide. |
-| [Leigh Skye Patrick](Details/Leigh_Skye_Patrick.md) | Heroin overdose | Likely trauma-related | Lured to Epstein's mansion at 16. |
-| [Alfredo Rodriguez](Details/Alfredo_Rodriguez.md) | Mesothelioma | Likely natural | Had Epstein's "black book." Confirmed mesothelioma. |
-| [Efrain "Stone" Reyes](Details/Efrain_Stone_Reyes.md) | COVID-19 | Likely coincidental | Epstein's cellmate. Died after talking to investigators. |
-| [Ronald R. Eppinger Sr.](Details/Ronald_Eppinger.md) | Unknown | Unknown | Allegedly first to traffic Giuffre to Epstein. |
-| [Berry L. Kessler](Details/Berry_Kessler.md) | Died in prison | Likely old age | Prime suspect in Shapiro murder. FBI links to Epstein. |
-| [John Connolly](Details/John_Connolly.md) | Brief illness | Likely old age | Co-authored *Filthy Rich*. Age 78. |
-| [Kenneth Starr](Details/Kenneth_Starr.md) | Surgical complications | Likely old age | Helped Epstein get 2008 plea deal. Age 76. |
-| [Roy Black](Details/Roy_Black.md) | Died at home | Likely old age | Epstein defense attorney. Age 80. |
-| [Bill Richardson](Details/Bill_Richardson.md) | Died in sleep | Likely old age | Named in Epstein documents. Age 75. |
-| [Marvin Minsky](Details/Marvin_Minsky.md) | Cerebral hemorrhage | Not suspicious | Named in Epstein filings. Age 88. |
-| [Stephen Hawking](Details/Stephen_Hawking.md) | Natural causes (ALS) | Not suspicious | Visited Epstein's island. Died of ALS at 76. |
-| [Michael Jackson](Details/Michael_Jackson.md) | Drug intoxication | Not suspicious | Visited Epstein's mansion once. Unrelated. |
 | [Chris Cornell](Details/Chris_Cornell.md) | Hanging, ruled suicide | **SUSPICIOUS** | Backed trafficking documentary. Wife disputes ruling. |
 | [Chester Bennington](Details/Chester_Bennington.md) | Hanging, ruled suicide | **SUSPICIOUS** | Cornell's friend. Same method, Cornell's birthday. |
 | [Avicii (Tim Bergling)](Details/Avicii_Tim_Bergling.md) | Self-inflicted wounds | **SUSPICIOUS** | Worked on trafficking documentary. Died at 28. |
 | [Anthony Bourdain](Details/Anthony_Bourdain.md) | Hanging, ruled suicide | **SUSPICIOUS** | Vocal against abusers. Hanged in France, no warning. |
+| [Deputy Chief Steven Silks](Details/Steven_Silks.md) | Suicide | **SUSPICIOUS** | NYPD officer who allegedly viewed Weiner laptop. First of 4 in 22 days. |
+| [Det. Joseph Calabrese](Details/Joseph_Calabrese.md) | Suicide | **SUSPICIOUS** | NYPD detective who allegedly viewed Weiner laptop. Died day after Silks. |
+| [Officer Michael Caddy](Details/Michael_Caddy.md) | Suicide | **SUSPICIOUS** | NYPD, age 29. Allegedly viewed Weiner laptop. |
+| [Officer Kevin Preiss](Details/Kevin_Preiss.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
+| [Sgt. Terrence McAvoy](Details/Terrence_McAvoy.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
+| [Johnny Rios](Details/Johnny_Rios.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
+| [Robert Echeverria](Details/Robert_Echeverria.md) | Gunshot wound | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
+| [Aivar Rehe](Details/Aivar_Rehe.md) | Found dead at home | **SUSPICIOUS** | Danske Bank exec over $230B laundering branch. Questioned as witness. |
+| [Vince Foster](Details/Vince_Foster.md) | Gunshot, ruled suicide | **SUSPICIOUS** | Clinton deputy counsel. Epstein emails reference affair with Hillary. |
+| [John Ashe](Details/John_Ashe.md) | Barbell crushed throat | **SUSPICIOUS** | UN General Assembly president. Died before corruption trial. |
+| [Philip Haney](Details/Philip_Haney.md) | Gunshot, ruled suicide | **SUSPICIOUS** | DHS whistleblower on trafficking. Family doubts suicide. |
+| [Jeffrey Epstein](Details/Jeffrey_Epstein.md) | Hanging in jail cell | **HIGHLY SUSPICIOUS** | Guards asleep, cameras failed, brother says murder. |
+| [Carolyn Andriano](Details/Carolyn_Andriano.md) | Accidental overdose | **MODERATE SUSPICION** | Testified against Maxwell. Mother says "doesn't make sense." |
+| [Steve Bing](Details/Steve_Bing.md) | Fell from 27th floor | **MODERATE SUSPICION** | Clinton donor named in Epstein files. |
+| [Joe Recarey](Details/Joe_Recarey.md) | Brief illness | **MODERATE SUSPICION** | Lead Epstein detective. Died unexpectedly at 50. |
+| [Leigh Skye Patrick](Details/Leigh_Skye_Patrick.md) | Heroin overdose | Likely trauma-related | Lured to Epstein's mansion at 16. |
+| [Alfredo Rodriguez](Details/Alfredo_Rodriguez.md) | Mesothelioma | Likely natural | Had Epstein's "black book." Confirmed mesothelioma. |
+| [Efrain "Stone" Reyes](Details/Efrain_Stone_Reyes.md) | COVID-19 | Likely coincidental | Epstein's cellmate. Died after talking to investigators. |
+| [Two Unnamed Foreign Women](Details/Zorro_Ranch_Unnamed_Victims.md) | Allegedly strangled | Unverified | 2026 DOJ email alleging bodies near Zorro Ranch. Unverified. |
+| [Ronald R. Eppinger Sr.](Details/Ronald_Eppinger.md) | Unknown | Unknown | Allegedly first to traffic Giuffre to Epstein. |
+| [William Broeksmit](Details/William_Broeksmit.md) | Hanged at home | **UNCERTAIN** | Deutsche Bank senior exec. Son became FBI informant. |
+| [Val Broeksmit](Details/Val_Broeksmit.md) | Blunt-force trauma | **UNCERTAIN** | Deutsche Bank whistleblower. Found dead on LA campus. |
+| [Wendy Leigh](Details/Wendy_Leigh.md) | Found beneath balcony | **UNCERTAIN** | Investigating Epstein. Ex-husband rejects suicide. |
 | [Kate Spade](Details/Kate_Spade.md) | Hanging, ruled suicide | **UNCERTAIN** | Hanged three days before Bourdain. No Epstein link. |
 | [Trevor Moore](Details/Trevor_Moore.md) | Fell from balcony | **UNCERTAIN** | Comedian satirized Epstein "kill switch" theory. BAC 0.27. |
 | [Anne Heche](Details/Anne_Heche.md) | Car crash | **UNCERTAIN** | Starred in trafficking film *Girl in Room 13*. Cocaine/marijuana impairment. |
@@ -58,23 +63,18 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Andrew Breitbart](Details/Andrew_Breitbart.md) | Heart failure | **UNCERTAIN** | Died before releasing videos. Tweeted about Podesta trafficking cover-up. |
 | [Vitaly Churkin](Details/Vitaly_Churkin.md) | Sudden cardiac event | **UNCERTAIN** | Russian UN Ambassador. Cause withheld by State Dept. |
 | [Deborah Jeane Palfrey](Details/Deborah_Jeane_Palfrey.md) | Hanged in Florida | **UNCERTAIN** | "DC Madam." Said she'd never hang herself. Hanged 16 days post-conviction. |
-| [Two Unnamed Foreign Women](Details/Zorro_Ranch_Unnamed_Victims.md) | Allegedly strangled | Unverified | 2026 DOJ email alleging bodies near Zorro Ranch. Unverified. |
-| [Deputy Chief Steven Silks](Details/Steven_Silks.md) | Suicide | **SUSPICIOUS** | NYPD officer who allegedly viewed Weiner laptop. First of 4 in 22 days. |
-| [Det. Joseph Calabrese](Details/Joseph_Calabrese.md) | Suicide | **SUSPICIOUS** | NYPD detective who allegedly viewed Weiner laptop. Died day after Silks. |
-| [Officer Michael Caddy](Details/Michael_Caddy.md) | Suicide | **SUSPICIOUS** | NYPD, age 29. Allegedly viewed Weiner laptop. |
-| [Officer Kevin Preiss](Details/Kevin_Preiss.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
-| [Sgt. Terrence McAvoy](Details/Terrence_McAvoy.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
-| [Johnny Rios](Details/Johnny_Rios.md) | Suicide | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
-| [Robert Echeverria](Details/Robert_Echeverria.md) | Gunshot wound | **SUSPICIOUS** | NYPD. Allegedly viewed Weiner laptop. |
 | [Ivana Trump](Details/Ivana_Trump.md) | Fell down stairs | **UNCERTAIN** | Trump's ex-wife. Found dead at bottom of staircase. #Epsteined trended. |
-| [Aivar Rehe](Details/Aivar_Rehe.md) | Found dead at home | **SUSPICIOUS** | Danske Bank exec over $230B laundering branch. Questioned as witness. |
-| [Vince Foster](Details/Vince_Foster.md) | Gunshot, ruled suicide | **SUSPICIOUS** | Clinton deputy counsel. Epstein emails reference affair with Hillary. |
-| [John Ashe](Details/John_Ashe.md) | Barbell crushed throat | **SUSPICIOUS** | UN General Assembly president. Died before corruption trial. |
-| [Gary Caradori](Details/Gary_Caradori.md) | Plane disintegrated mid-air | **HIGHLY SUSPICIOUS** | Franklin scandal investigator. Plane broke apart; briefcase missing. |
-| [Philip Haney](Details/Philip_Haney.md) | Gunshot, ruled suicide | **SUSPICIOUS** | DHS whistleblower on trafficking. Family doubts suicide. |
 | [Monica Petersen](Details/Monica_Petersen.md) | Ruled suicide in Haiti | **UNCERTAIN** | Trafficking researcher. Died in Haiti at 32. |
 | [Max Spiers](Details/Max_Spiers.md) | Drug intoxication in Poland | **UNCERTAIN** | Researching elite pedophilia ring. Told mother "investigate" if he died. |
 | [Jenny Moore](Details/Jenny_Moore.md) | Found dead in DC hotel | **UNCERTAIN** | Journalist investigating trafficking. Died weeks after FBI report. |
+| [Berry L. Kessler](Details/Berry_Kessler.md) | Died in prison | Likely old age | Prime suspect in Shapiro murder. FBI links to Epstein. |
+| [John Connolly](Details/John_Connolly.md) | Brief illness | Likely old age | Co-authored *Filthy Rich*. Age 78. |
+| [Kenneth Starr](Details/Kenneth_Starr.md) | Surgical complications | Likely old age | Helped Epstein get 2008 plea deal. Age 76. |
+| [Roy Black](Details/Roy_Black.md) | Died at home | Likely old age | Epstein defense attorney. Age 80. |
+| [Bill Richardson](Details/Bill_Richardson.md) | Died in sleep | Likely old age | Named in Epstein documents. Age 75. |
+| [Marvin Minsky](Details/Marvin_Minsky.md) | Cerebral hemorrhage | Not suspicious | Named in Epstein filings. Age 88. |
+| [Stephen Hawking](Details/Stephen_Hawking.md) | Natural causes (ALS) | Not suspicious | Visited Epstein's island. Died of ALS at 76. |
+| [Michael Jackson](Details/Michael_Jackson.md) | Drug intoxication | Not suspicious | Visited Epstein's mansion once. Unrelated. |
 | [Austin Tucker Martin](Details/Austin_Tucker_Martin.md) | Shot by Secret Service | Not suspicious | Breached Mar-a-Lago armed, fixated on Epstein files. Age 21. |
 
 ## Living Persons at Risk
@@ -89,6 +89,7 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Peter Mandelson](Details/Peter_Mandelson.md) | Arrested Feb 2026 | UK ex-ambassador. Accused of leaking government intel to Epstein. |
 | [Terje Rød-Larsen](Details/Terje_Rod_Larsen.md) | Under investigation, Feb 2026 | Norwegian diplomat. Epstein paid him $250K; left $10M to his children. |
 | [Mona Juul](Details/Mona_Juul.md) | Resigned and under investigation, Feb 2026 | Norwegian ambassador. Husband is Rød-Larsen. Epstein willed $5M per child. |
+| [Karen Mulder](Details/Karen_Mulder.md) | Alive, living privately in France | Original whistleblower. Named Brunel and Elite execs on French TV in 2001; footage destroyed, hospitalized 5 months. |
 | [Denise George](Details/Denise_George.md) | Fired Dec 2022; reported threats to FBI | USVI AG fired 4 days after suing JPMorgan over Epstein. Governor pressured her to drop case. |
 | [Esther Salas](Details/Esther_Salas.md) | Son murdered July 2020; survived attack | Federal judge assigned Epstein-Deutsche Bank case 4 days before gunman killed her son. Gunman had Kroll Associates intel background. |
 
@@ -99,6 +100,8 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 **Banking executive deaths:** [William Broeksmit](Details/William_Broeksmit.md) (Deutsche Bank senior exec, hanged 2014), [Thomas Bowers](Details/Thomas_Bowers.md) (Deutsche Bank wealth management, hanged 2019), [Aivar Rehe](Details/Aivar_Rehe.md) (Danske Bank Estonia, found dead 2019), [Val Broeksmit](Details/Val_Broeksmit.md) (Deutsche Bank whistleblower, found dead 2022), and [Daniel Anderl](Details/Daniel_Anderl.md) (son of judge assigned to Epstein-Deutsche Bank case, shot 2020). Deutsche Bank paid $150M in fines for managing Epstein's accounts. Danske Bank processed $230B in suspicious transactions. The gunman who killed Anderl, Roy Den Hollander, had previously worked for Kroll Associates — a firm with direct ties to both Deutsche Bank and intelligence agencies.
 
 **2017–2018 "Silent Children" cluster:** [Chris Cornell](Details/Chris_Cornell.md) (May 2017), [Chester Bennington](Details/Chester_Bennington.md) (July 2017), [Avicii](Details/Avicii_Tim_Bergling.md) (April 2018), [Kate Spade](Details/Kate_Spade.md) (June 2018), and [Anthony Bourdain](Details/Anthony_Bourdain.md) (June 2018) — five high-profile figures all died within 13 months. Four of the five died by hanging.
+
+**Modeling industry pipeline:** [Karen Mulder](Details/Karen_Mulder.md) named [Jean-Luc Brunel](Details/Jean_Luc_Brunel.md) as a "child hunter" and accused Elite Model Management of supplying girls to powerful men — on French national television in October 2001. The footage was destroyed. She was hospitalized for five months (paid for by her accused rapist, Gérald Marie). Brunel wasn't arrested until 2020 and was found hanged in prison in 2022. [Ruslana Korshunova](Details/Ruslana_Korshunova.md) flew on Epstein's jet at 18 and fell from a building two years later. [Anastasia Drozdova](Details/Anastasia_Drozdova.md) died identically one year after Korshunova. [Nadia Marcinko](Details/Nadia_Marcinko.md) has been missing since January 2024. The modeling industry was a documented recruitment pipeline for the Epstein network.
 
 **Balcony falls:** [Ruslana Korshunova](Details/Ruslana_Korshunova.md) (New York, 2008), [Anastasia Drozdova](Details/Anastasia_Drozdova.md) (Kyiv, 2009), [Wendy Leigh](Details/Wendy_Leigh.md) (London, 2016), and [Steve Bing](Details/Steve_Bing.md) (Los Angeles, 2020) all fell from buildings.
 
@@ -166,4 +169,4 @@ Private investigator Ed Opperman: *"There were a lot of people entrapped and ent
 
 ---
 
-*Last Updated: February 26, 2026*
+*Last Updated: February 28, 2026*
