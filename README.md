@@ -76,6 +76,8 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Stephen Hawking](Details/Stephen_Hawking.md) | Natural causes (ALS) | Not suspicious | Visited Epstein's island. Died of ALS at 76. |
 | [Michael Jackson](Details/Michael_Jackson.md) | Drug intoxication | Not suspicious | Visited Epstein's mansion once. Unrelated. |
 | [Austin Tucker Martin](Details/Austin_Tucker_Martin.md) | Shot by Secret Service | Not suspicious | Breached Mar-a-Lago armed, fixated on Epstein files. Age 21. |
+| [B. Stanley Pons](Details/B_Stanley_Pons.md) | Career destroyed (alive) | **UNCERTAIN** | Epstein emailed "i killed pons years ago." Cold fusion defunded; Pons silent 30 years. |
+| [Al Seckel](Details/B_Stanley_Pons.md#al-seckel---the-email-recipient) | Found at base of cliff | **SUSPICIOUS** | Married Isabel Maxwell. Did Epstein reputation management. Body found weeks after death. |
 
 ## Living Persons at Risk
 
@@ -139,15 +141,40 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 
 **New evidence from 2026 DOJ releases:** Surveillance logs show an unidentified orange-clad figure approaching Epstein's locked housing tier hours before his death. French prosecutors reopened the Brunel investigation. DOJ withheld pages related to accusations against President Trump. Epstein emails to Michael Wolff reference a Clinton-[Vince Foster](Details/Vince_Foster.md) affair.
 
+**Cold fusion suppression:** Epstein emailed Al Seckel on October 1, 2009: *"regarding cold fusion. i killed pons years ago"* (DOJ documents EFTA02437662, EFTA00740161, EFTA00740600). [B. Stanley Pons](Details/B_Stanley_Pons.md) and Martin Fleischmann announced room-temperature nuclear fusion in 1989. Congressional funding was cut in the early 1990s. Pons fled to France, renounced his citizenship, and has not been heard from in ~30 years. Seckel — who was married to Isabel Maxwell (Ghislaine's sister) — was found dead at the base of a 100-foot cliff in France in 2015. His death has never been officially confirmed; an author who investigated stated he could never establish that Seckel actually died.
+
+**Maxwell family network:** [Robert Maxwell](Details/Robert_Maxwell.md) (Ghislaine's father, fell from yacht 1991), Al Seckel (married Isabel Maxwell, found dead at cliff base 2015), and [Ghislaine Maxwell](Details/Ghislaine_Maxwell.md) (serving 20 years). The Maxwell family's intelligence ties span decades — Robert allegedly distributed backdoored PROMIS software for Mossad, and his daughter ran Epstein's trafficking operation.
+
 ## Detailed Research
 
 The [Details/](Details/) subdirectory contains:
 - Individual markdown files for every person listed above with full backgrounds, circumstances, suspicion assessments, and source links
 - A file on [Ghislaine Maxwell](Details/Ghislaine_Maxwell.md) (living, at risk) documenting threats, prison transfers, and cooperation status
-- YAML databases with structured data on all individuals
-- Research notes from major investigative articles (National Enquirer, Times Now, Uinterview)
+- A file on [B. Stanley Pons](Details/B_Stanley_Pons.md) documenting Epstein's claim to have "killed" his cold fusion career
 - [Location data](locations.md) and the [Weiner laptop overview](laptop.md)
 - A detailed breakdown of the [NYPD Weiner laptop deaths](laptop.md)
+
+## Data Files
+
+### YAML Databases
+- **epstein_deaths.yaml** — Primary database: 22+ individuals with name, location, year, cause of death, person type, and multiple sourced URLs
+- **epstein_deaths_comprehensive.yaml** — Expanded database with additional individuals and cross-references
+- **epstein_deaths_expanded_details.yaml** — Extended detail fields per individual
+- **epstein_related_deaths.yaml** — Deaths with indirect or peripheral Epstein connections
+
+### CSV Reference Files
+- **person_types.csv** — 30 categories of connected individuals (victims, law enforcement, politicians, co-conspirators, witnesses, journalists, lawyers, judges, prison guards, pilots, staff, business associates, intelligence operatives, and more)
+- **person_categories.csv** — Groupings and subcategories for analysis
+- **locations.csv** — 40 locations across 20+ countries/states/cities where deaths occurred or were investigated (NY, FL, NM, CA, OH, USVI, France, UK, Israel, Morocco, Spain, Monaco, Switzerland, Austria, Belgium)
+
+### Research Notes
+- **findings_national_enquirer.txt** — Notes from National Enquirer investigation (two dozen+ linked deaths)
+- **findings_timesnow.txt** / **findings_timesnow 2.txt** — Notes from Times Now timeline article
+- **findings_uinterview_22_deaths.txt** — Complete list from Uinterview article (22 deaths)
+- **findings_zorro_ranch.txt** / **findings_zorro_ranch_alleged.txt** — Zorro Ranch death allegations and FBI barn report
+- **findings_palm_beach_hotels.txt** — Palm Beach hotel victim deaths
+- **detailed_alfredo_rodriguez.txt** — Deep dive on Epstein's house manager
+- **detailed_steven_hoffenberg.txt** — Deep dive on FBI cooperator found dead
 
 ## NYPD Weiner Laptop Deaths
 
@@ -167,6 +194,16 @@ Primary sources include:
 
 Private investigator Ed Opperman: *"There were a lot of people entrapped and entangled through Epstein's web, and many of those people are gone now — dead. They are all connected through a money trail."*
 
+## Research Methodology
+
+Searches were conducted systematically across:
+1. **Years**: 1970–2026
+2. **Locations**: 40 different locations (20+ countries, states, and cities)
+3. **Person Categories**: 30 different types of individuals
+4. **DOJ File Releases**: January–February 2026 document dumps
+
+This research documents deaths and events connected to the Epstein case from public sources. Connection strength ranges from direct involvement to tangential association. New information continues to emerge as the DOJ releases more files and international investigations proceed.
+
 ---
 
-*Last Updated: February 28, 2026*
+*Last Updated: March 3, 2026*
