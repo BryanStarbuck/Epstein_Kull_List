@@ -41,6 +41,7 @@ Anne Heche's death in August 2022 occurred during a year with multiple Epstein-c
 - [Steven Hoffenberg](Steven_Hoffenberg.md) — August 2022 (found dead in apartment)
 - Anne Heche — August 2022 (car crash)
 - [Kenneth Starr](Kenneth_Starr.md) — September 2022 (surgical complications)
+- [Nikolai Mushegian](Nikolai_Mushegian.md) — October 2022 (drowning)
 
 ## Key Quotes from Media Coverage
 

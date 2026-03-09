@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Gary Caradori
 
 Private investigator for the Nebraska Franklin scandal who died with his 8-year-old son when his plane disintegrated mid-air; briefcase of evidence went missing.

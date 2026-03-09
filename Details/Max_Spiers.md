@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Max Spiers
 
 British conspiracy researcher investigating elite pedophilia networks who died in Poland at 39 after telling his mother "if anything happens to me, investigate."
@@ -60,6 +62,7 @@ The 2019 inquest determined drug-related death, and Spiers had a documented opio
 - [Monica Petersen](Monica_Petersen.md)
 - [Isaac Kappy](Isaac_Kappy.md)
 - [Tracy Twyman](Tracy_Twyman.md)
+- [Nikolai Mushegian](Nikolai_Mushegian.md) — tweeted about CIA/Mossad trafficking ring, drowned hours later (2022)
 
 ## Sources
 

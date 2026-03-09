@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Jenny Moore
 
 Former police officer turned independent journalist investigating elite trafficking; found dead in a DC-area hotel room weeks after filing reports with FBI and DHS.
@@ -65,6 +67,7 @@ Police found nothing suspicious and the apparent cause was a seizure. However, t
 - [Isaac Kappy](Isaac_Kappy.md)
 - [Tracy Twyman](Tracy_Twyman.md)
 - [Max Spiers](Max_Spiers.md)
+- [Nikolai Mushegian](Nikolai_Mushegian.md) — tweeted about CIA/Mossad trafficking ring, drowned hours later (2022)
 
 ## Sources
 

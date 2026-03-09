@@ -34,6 +34,7 @@ A geographic breakdown of deaths connected to Jeffrey Epstein, organized by loca
 | Muscat, Oman | Oman | 1 | [Avicii (Tim Bergling)](Details/Avicii_Tim_Bergling.md) |
 | Western Australia | Australia | 1 | [Virginia Giuffre](Details/Virginia_Giuffre.md) |
 | Bellemont, AZ | USA | 1 | [Isaac Kappy](Details/Isaac_Kappy.md) |
+| San Juan, Puerto Rico | USA | 1 | [Nikolai Mushegian](Details/Nikolai_Mushegian.md) |
 | U.S. Virgin Islands | USVI | 0 | No confirmed deaths. See USVI section for government protection details. |
 | Atlantic Ocean (Canary Islands) | International Waters | 1 | [Robert Maxwell](Details/Robert_Maxwell.md) |
 | Unknown | — | 6 | [Arthur Shapiro](Details/Arthur_Shapiro.md), [Alfredo Rodriguez](Details/Alfredo_Rodriguez.md), [Efrain "Stone" Reyes](Details/Efrain_Stone_Reyes.md), [Kenneth Starr](Details/Kenneth_Starr.md), [John Connolly](Details/John_Connolly.md), [Tracy Twyman](Details/Tracy_Twyman.md) |
@@ -127,6 +128,10 @@ Epstein's 7,560-acre ranch near Stanley, New Mexico. Under active criminal inves
 
 - **[Two Unnamed Foreign Women](Details/Zorro_Ranch_Unnamed_Victims.md)** (year unknown) — Under investigation. Anonymous former employee alleged two foreign girls were strangled and buried in the hills near the ranch. NM AG and truth commission investigating.
 - **[Brice & Karen Gordon](Details/Brice_Karen_Gordon.md)** (Missing since ~2020) — Zorro Ranch managers for 20 years. Vanished after Maxwell's arrest. NM truth commission considers them "people of interest" with subpoena power to compel testimony.
+
+### San Juan, Puerto Rico
+
+- **[Nikolai Mushegian](Details/Nikolai_Mushegian.md)** (2022, age 29) — **SUSPICIOUS.** MakerDAO co-founder and crypto pioneer. Tweeted about a CIA/Mossad sex trafficking blackmail ring operating out of Puerto Rico and the Caribbean islands — the same region as Epstein's network — four hours before being found drowned at Condado Beach. Found fully clothed with wallet. Predicted his own death in the tweet.
 
 ### Georgia (federal prison)
 

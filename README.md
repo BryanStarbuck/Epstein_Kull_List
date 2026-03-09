@@ -4,7 +4,7 @@ Jeffrey Epstein operated a sex trafficking network involving underage girls and 
 
 In the years before and after Epstein's death, a striking number of individuals connected to the case — victims, witnesses, investigators, journalists, associates, and co-conspirators — have died under circumstances that range from clearly natural to deeply questionable. Multiple individuals were found hanged. Others died shortly after cooperating with the FBI or testifying in court. Death records were sealed by judges. Key witnesses died before they could be deposed. Individuals who possessed damaging evidence died before that evidence could be fully explored.
 
-The question that drives this research is whether some of these deaths may have been connected to an effort to cover up the full scope of the Epstein network and protect the powerful individuals involved.
+This also includes clones-of-Jeffrey Epstein blackmail operations (that are ran by intelligence services). The question that drives this research is whether some of these deaths may have been connected to an effort to cover up the full scope of the Epstein network and protect the powerful individuals involved.
 
 We're not sure that any of these individuals were killed as part of a cover-up. What we do know is that an unusual number of people connected to this case have died, and that the circumstances surrounding several of these deaths contain elements that reasonable people find troubling. The list below documents every known death connected to the Epstein case so that the public can examine the pattern and draw their own conclusions.
 

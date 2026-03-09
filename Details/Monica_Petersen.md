@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Monica Petersen
 
 University of Denver trafficking researcher who died in Haiti at age 32; her work focused on labor exploitation in Haitian industrial parks.

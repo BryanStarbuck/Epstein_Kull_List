@@ -70,6 +70,7 @@ Middleton served as a Special Assistant to President Bill Clinton and as an aide
 - [Steven Hoffenberg](Steven_Hoffenberg.md) — August 2022 (found dead in apartment)
 - [Anne Heche](Anne_Heche.md) — August 2022 (car crash)
 - [Kenneth Starr](Kenneth_Starr.md) — September 2022 (surgical complications)
+- [Nikolai Mushegian](Nikolai_Mushegian.md) — October 2022 (drowning)
 - [John Connolly](John_Connolly.md) — January 2022 (natural causes)
 - [Steve Bing](Steve_Bing.md) — Also a Clinton associate, fell from building
 

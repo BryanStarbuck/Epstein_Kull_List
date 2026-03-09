@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Daniel Anderl
 
 Son of Judge Esther Salas, shot dead at home during his 20th birthday celebration — 4 days after his mother was assigned the Epstein-Deutsche Bank money laundering case.

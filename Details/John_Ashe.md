@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # John Ashe
 
 Former UN General Assembly president who died when a barbell crushed his throat at home, days before his corruption trial involving a major Clinton Foundation donor.

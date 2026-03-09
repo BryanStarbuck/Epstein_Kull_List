@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Ivana Trump
 
 Donald Trump's first wife, found dead at bottom of stairs in her Manhattan townhouse in 2022; #Epsteined trended on social media.

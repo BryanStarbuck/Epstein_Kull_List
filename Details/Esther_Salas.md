@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Esther Salas
 
 Federal judge assigned to the Epstein-Deutsche Bank case; her son was murdered 4 days later by a gunman with intelligence ties who then killed himself.

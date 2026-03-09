@@ -1,3 +1,5 @@
+[< Back to Main List](../README.md) | [Locations](../locations.md)
+
 # Vince Foster
 
 Clinton's White House deputy counsel found shot dead in 1993; Epstein's 2016 emails appear to reference an affair between Hillary Clinton and Foster.
