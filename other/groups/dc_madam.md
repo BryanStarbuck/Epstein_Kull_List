@@ -61,6 +61,7 @@ Palfrey's operation was not directly connected to Epstein, but it demonstrates t
 
 Washington DC has been the site of multiple elite sex operations with potential blackmail implications:
 - **[Craig Spence](craig_spence.md)** — DC lobbyist who organized midnight White House tours with male prostitutes (1989)
+- **[Henry Vinson Escort Service](henry_vinson_escort_service.md)** — Largest gay escort service in DC; supplied escorts to Spence; clients allegedly included CIA Director Casey (1986–1989)
 - **[Franklin scandal](franklin_scandal.md)** — Alleged trafficking of minors to DC parties (1980s)
 - **The Epstein network** — Multiple DC-area victims and contacts
 

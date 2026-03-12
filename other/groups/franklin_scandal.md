@@ -23,7 +23,7 @@ A state grand jury dismissed the allegations as a "carefully crafted hoax" and i
 
 * Lawrence King allegedly operated a pedophile ring supplying children to powerful men
 * Victims alleged they were flown to Washington DC for parties where they were sexually abused
-* Alleged midnight tours of the White House with male prostitutes, facilitated by DC lobbyist [Craig Spence](craig_spence.md)
+* Alleged midnight tours of the White House with male prostitutes, facilitated by DC lobbyist [Craig Spence](craig_spence.md) using escorts from [Henry Vinson's service](henry_vinson_escort_service.md)
 * Children from Boys Town (a Catholic home for troubled youth) were allegedly among the victims
 * King was allegedly connected to the Republican Party establishment and sang the national anthem at the 1984 Republican National Convention
 * The FBI allegedly failed to properly investigate the allegations

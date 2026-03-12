@@ -20,6 +20,7 @@ Organizations, intelligence services, financial institutions, and operations con
 | [Franklin Scandal](franklin_scandal.md) | 1980s Nebraska child trafficking ring with White House connections |
 | [DC Madam Operation](dc_madam.md) | Deborah Jeane Palfrey's escort service exposing DC power brokers |
 | [Craig Spence Operation](craig_spence.md) | DC lobbyist who ran midnight White House tours with male prostitutes |
+| [Henry Vinson Escort Service](henry_vinson_escort_service.md) | Largest gay escort service in DC; supplied escorts to CIA asset Craig Spence for blackmail; clients allegedly included CIA Director Casey |
 | [Dutroux Affair](dutroux_affair.md) | Belgian pedophile ring with alleged establishment protection; 27+ witnesses died |
 | [Jimmy Savile / BBC](jimmy_savile.md) | UK's most prolific sex offender protected by the BBC and British establishment |
 

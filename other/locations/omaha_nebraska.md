@@ -35,6 +35,7 @@ Boys Town, a Catholic home for troubled youth located just west of Omaha, was al
 
 - [Franklin Scandal](../groups/franklin_scandal.md) — The operation centered in Omaha
 - [Craig Spence Operation](../groups/craig_spence.md) — DC lobbyist who facilitated the Washington side of the Franklin network
+- [Henry Vinson Escort Service](../groups/henry_vinson_escort_service.md) — Supplied escorts to Spence; connected to Franklin via Nick Bryant's reporting
 - [CIA](../groups/cia.md) — Alleged cover-up of the Franklin investigation
 
 ## Surprising Details

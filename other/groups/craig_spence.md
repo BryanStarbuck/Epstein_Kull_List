@@ -21,7 +21,7 @@ He reportedly told friends before his death that he was being watched and that h
 
 ## Alleged Activities
 
-* Spent up to **$20,000/month** on male prostitutes from Henry Vinson's DC escort service
+* Spent up to **$20,000/month** on male prostitutes from [Henry Vinson](henry_vinson_escort_service.md)'s DC escort service
 * His **Kalorama** residence was wired with extensive audio/visual surveillance equipment — reportedly installed by "CIA operatives," according to Spence's own claims to Vinson
 * Ran two-tier parties: "squares" who left early, and serious customers who stayed for drugs and prostitutes — creating compromising situations
 * Arranged at least **four midnight tours of the White House**, including one on June 29, 1988, during which he brought a **15-year-old boy** whom he falsely identified as his son
@@ -34,7 +34,7 @@ He reportedly told friends before his death that he was being watched and that h
 ## Key Figures
 
 * **Craig Spence** — Republican lobbyist; organized White House tours; **found dead in Room 429, Boston Ritz-Carlton, November 10, 1989**, dressed in a black tuxedo with $3 in his pocket, phone cradled to his ear, a Walkman playing Mozart. Left a newspaper clipping about CIA Director William Webster protecting agents from testimony.
-* **Henry Vinson** — Operator of DC's largest male escort service; supplied escorts to Spence; later wrote *Confessions of a D.C. Madam* (2015, with Nick Bryant) detailing the blackmail operation
+* **[Henry Vinson](henry_vinson_escort_service.md)** — Operator of DC's largest male escort service; supplied escorts to Spence; later wrote *Confessions of a D.C. Madam* (2015, with Nick Bryant) detailing the blackmail operation
 * **Reginald deGueldre** — White House guard who authorized the midnight tours
 * Connection to [Franklin scandal](franklin_scandal.md) figures — Paul Bonacci, a Franklin victim, alleged he was taken to Washington DC parties that overlapped with Spence's network; Washington Times reporter Paul Rodriguez confirmed: "I had been told by several prostitutes along with law enforcement that there were connections between Craig Spence and Larry King"
 
@@ -46,7 +46,7 @@ The Spence operation is a direct predecessor to the pattern seen in the Epstein 
 - Both had alleged intelligence connections
 - Both operators died under circumstances their associates found suspicious
 - Both involved access to the highest levels of government (White House)
-- Together with the [DC Madam](dc_madam.md) and [Franklin scandal](franklin_scandal.md), the Spence case shows decades of politically compromising sex operations in Washington DC
+- Together with the [DC Madam](dc_madam.md), [Henry Vinson Escort Service](henry_vinson_escort_service.md), and [Franklin scandal](franklin_scandal.md), the Spence case shows decades of politically compromising sex operations in Washington DC
 
 ## Notable Books, Documentaries, and Investigations
 

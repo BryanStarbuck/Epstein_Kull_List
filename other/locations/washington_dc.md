@@ -8,7 +8,7 @@ The political protection hub — where elite blackmail operations targeted polit
 |-------|---------|
 | **Region** | Washington DC, McLean VA, Arlington VA, Fort Marcy Park VA |
 | **Deaths** | 2+ direct; multiple connected through groups |
-| **Key Operations** | [Craig Spence](../groups/craig_spence.md) midnight White House tours, [DC Madam](../groups/dc_madam.md) escort service, [PROMIS/Octopus](../groups/promis_octopus.md), [Franklin Scandal](../groups/franklin_scandal.md) DC connections |
+| **Key Operations** | [Craig Spence](../groups/craig_spence.md) midnight White House tours, [Henry Vinson Escort Service](../groups/henry_vinson_escort_service.md), [DC Madam](../groups/dc_madam.md) escort service, [PROMIS/Octopus](../groups/promis_octopus.md), [Franklin Scandal](../groups/franklin_scandal.md) DC connections |
 | **Key Organizations** | [CIA](../groups/cia.md) (Langley HQ), [Mossad](../groups/mossad.md) (DC operations) |
 
 ## Why Washington DC Matters
@@ -16,7 +16,7 @@ The political protection hub — where elite blackmail operations targeted polit
 More elite sex trafficking and blackmail operations have been documented in the DC area than anywhere else in the United States. The concentration is not coincidental — DC is where the targets are. Politicians, military officials, intelligence operatives, and government contractors are the ideal targets for sexual blackmail operations, and multiple such operations have been documented operating in and around the capital.
 
 The pattern repeats across decades:
-- **1980s**: [Craig Spence](../groups/craig_spence.md) ran a $20,000/month escort operation from his wired Kalorama mansion and took a 15-year-old on a midnight White House tour
+- **1980s**: [Craig Spence](../groups/craig_spence.md) spent $20,000/month on escorts from [Henry Vinson's service](../groups/henry_vinson_escort_service.md), ran a blackmail operation from his wired Kalorama mansion, and took a 15-year-old on a midnight White House tour
 - **1980s–90s**: The [Franklin scandal](../groups/franklin_scandal.md) allegedly trafficked children from Omaha to DC parties attended by powerful men
 - **1990s–2000s**: [Deborah Jeane Palfrey](../../Details/Deborah_Jeane_Palfrey.md)'s [DC Madam](../groups/dc_madam.md) operation had 10,000–15,000 client phone numbers including senators, Pentagon officials, and FBI employees
 - **1980s–2019**: Epstein's own operation allegedly served intelligence objectives, with Alexander Acosta told to "leave it alone" because Epstein "belonged to intelligence"
@@ -28,12 +28,13 @@ The pattern repeats across decades:
 
 ## DC-Area Operations
 
-### Craig Spence Operation (1980s)
-- Spence's Kalorama mansion was wired with hidden cameras and microphones
-- He organized midnight tours of the White House, including one with a 15-year-old boy
-- Connected to lobbyist Henry Vinson's male escort service
+### Craig Spence Operation & Henry Vinson Escort Service (1980s)
+- [Henry Vinson](../groups/henry_vinson_escort_service.md) operated the largest gay escort service ever exposed in DC — up to 40 phone lines, 20 escorts nightly, clients allegedly including CIA Director William Casey and NSC adviser Donald Gregg
+- Craig Spence was Vinson's biggest client ($20,000/month) and used the escorts in a blackmail operation from his surveillance-wired Kalorama mansion
+- Spence organized midnight tours of the White House, including one with a 15-year-old boy
 - Washington Times front-page story (June 29, 1989): "Homosexual Prostitution Inquiry Ensnares VIPs with Reagan, Bush"
-- See: [Craig Spence group file](../groups/craig_spence.md)
+- Vinson faced 43-count RICO indictment; client list sealed; served 63 months
+- See: [Henry Vinson Escort Service](../groups/henry_vinson_escort_service.md) | [Craig Spence Operation](../groups/craig_spence.md)
 
 ### DC Madam / Palfrey (1993–2006)
 - Operated from McLean, Virginia — 4 miles from CIA headquarters in Langley
@@ -72,6 +73,7 @@ Every decade since the 1980s, a sex trafficking or blackmail operation targeting
 ## Related Groups
 
 - [Craig Spence Operation](../groups/craig_spence.md)
+- [Henry Vinson Escort Service](../groups/henry_vinson_escort_service.md)
 - [DC Madam (Palfrey)](../groups/dc_madam.md)
 - [PROMIS Software / The Octopus](../groups/promis_octopus.md)
 - [Franklin Scandal](../groups/franklin_scandal.md)
@@ -81,7 +83,7 @@ Every decade since the 1980s, a sex trafficking or blackmail operation targeting
 
 ## Surprising Details
 
-- **Spence's wired mansion**: Craig Spence's Kalorama home was outfitted with extensive surveillance equipment — hidden cameras and microphones throughout. Friends and guests reported that Spence would entice guests into sexual encounters with prostitutes specifically to create blackmail material. The operation was run through a male escort service operated by Henry Vinson, who laundered money through a funeral parlor.
+- **Spence's wired mansion**: Craig Spence's Kalorama home was outfitted with extensive surveillance equipment — hidden cameras and microphones throughout. Friends and guests reported that Spence would entice guests into sexual encounters with prostitutes specifically to create blackmail material. The operation was run through a male escort service operated by [Henry Vinson](../groups/henry_vinson_escort_service.md), who laundered money through a funeral parlor.
 - **Spence's death message**: Found dead at the Boston Ritz-Carlton on November 10, 1989, Spence left a message: "Chief, consider this case closed." He barricaded himself in Room 429 — the most expensive room in the hotel.
 - **PROMIS as intelligence backdoor**: Michael Riconoscuito claimed to have tampered with PROMIS software to turn it into an espionage tool. A DOJ copy was allegedly provided to a man identifying himself as "Joseph Ben-Orr" — reportedly an alias of Israeli spymaster Rafi Eitan, who, according to former Israeli spy Ari Ben-Menashe, later admitted his role. Danny Casolaro dubbed the interlocking scandals (PROMIS, Iran-Contra, BCCI, October Surprise) "The Octopus" and was found with his wrists slashed 10–12 times in a West Virginia hotel room while investigating the network.
 - **DC Madam's suicide notes**: Palfrey left handwritten notes dated a week before her death. To her sister: "You must comprehend there was no way out, I.E. 'exit strategy,' for me other than the one I have chosen here." She described her predicament as a "modern-day lynching." Notably, her escort service employee Brandi Britton had also died by hanging in January 2007 — Palfrey initially reacted by saying "I guess I'm made of something that Brandy Britton wasn't made of."
