@@ -1,10 +1,12 @@
-# Intelligence Service Murders: Political Assassinations and Suspicious Deaths (1969–Present)
+# Intelligence Service Murders: Political Assassinations and Suspicious Deaths (1953–Present)
 
 Since the Church Commission exposed CIA assassination plots in 1975, the public has known that intelligence services murder people. What the Church Commission revealed — plots against Castro, Lumumba, Trujillo, Schneider, and Diem — was supposed to end the practice. President Ford signed Executive Order 11905 in 1976: *"No employee of the United States Government shall engage in, or conspire to engage in, political assassination."* Reagan's E.O. 12333 repeated it verbatim in 1981.
 
 The killings never stopped. They evolved.
 
-This project documents intelligence service murders, political assassinations, and suspicious deaths of journalists, whistleblowers, scientists, dissidents, and political figures from 1969 to the present. The focus is on killings carried out by or connected to intelligence agencies worldwide — CIA, MI6, Mossad, KGB/FSB/GRU, DINA, ISI, Saudi GIP, and others — with special attention to operations targeting Americans or conducted to control American politics.
+This project documents intelligence service murders, political assassinations, and suspicious deaths of journalists, whistleblowers, scientists, dissidents, and political figures from the Cold War to the present. The focus is on killings carried out by or connected to intelligence agencies worldwide — CIA, MI6, Mossad, KGB/FSB/GRU, DINA, ISI, Saudi GIP, and others — with special attention to operations targeting Americans or conducted to control American politics.
+
+**98 profiles documented. 58 new entries added March 2026.**
 
 **For deaths connected to Jeffrey Epstein's sex-trafficking and blackmail operation, see the [Epstein Kill List](../../README.md).**
 
@@ -14,31 +16,77 @@ This project documents intelligence service murders, political assassinations, a
 
 | Name | Year | Cause of Death | Suspicion Level | Details |
 |------|------|----------------|-----------------|---------|
+| [Patrice Lumumba](Details/Patrice_Lumumba.md) | 1961 | Executed | **CONFIRMED** | Congolese PM. CIA and Belgian intelligence orchestrated his overthrow and assassination. Church Committee confirmed CIA plots. |
+| [Rafael Trujillo](Details/Rafael_Trujillo.md) | 1961 | Ambushed and shot in car | **CONFIRMED** | Dominican Republic dictator. CIA supplied weapons to conspirators. Church Committee confirmed CIA involvement. |
+| [Dag Hammarskjold](Details/Dag_Hammarskjold.md) | 1961 | Plane crash, Zambia | **HIGHLY SUSPICIOUS** | UN Secretary-General. 2019 UN inquiry found "plausible" that plane was shot down. CIA, MI6, South African intelligence implicated. |
+| [Ngo Dinh Diem](Details/Ngo_Dinh_Diem.md) | 1963 | Shot in back of APC during coup | **CONFIRMED** | South Vietnamese president. CIA-backed coup with Kennedy administration approval. Shot after surrendering. |
+| [Mehdi Ben Barka](Details/Mehdi_Ben_Barka.md) | 1965 | Kidnapped and murdered in Paris | **CONFIRMED** | Moroccan opposition leader. French SDECE and Moroccan intelligence collaborated. Body never found. |
+| [Humberto Delgado](Details/Humberto_Delgado.md) | 1965 | Murdered near Spanish border | **CONFIRMED** | Portuguese opposition leader killed by PIDE secret police. Body found 1967. |
+| [Che Guevara](Details/Che_Guevara.md) | 1967 | Executed in Bolivia | **CONFIRMED** | Revolutionary captured with CIA assistance. CIA operative Felix Rodriguez present at execution. |
+| [Eduardo Mondlane](Details/Eduardo_Mondlane.md) | 1969 | Book bomb | **HIGHLY SUSPICIOUS** | Mozambican independence leader. Portuguese PIDE and possibly CIA implicated. |
+| [Rene Schneider](Details/Rene_Schneider.md) | 1970 | Shot during kidnapping attempt | **CONFIRMED** | Chilean army commander. CIA-backed kidnapping to prevent Allende's inauguration. Church Committee confirmed. |
 | [Salvador Allende](Details/Salvador_Allende.md) | 1973 | Gunshot during CIA-backed coup | **CONFIRMED** | Chilean president overthrown by Pinochet with CIA support. Officially suicide; disputed. |
+| [Carlos Prats](Details/Carlos_Prats.md) | 1974 | Car bomb, Buenos Aires | **CONFIRMED** | Chilean general and Pinochet's predecessor. Killed by DINA car bomb. Operation Condor. Convictions obtained. |
 | [Orlando Letelier](Details/Orlando_Letelier.md) | 1976 | Car bomb, Washington DC | **CONFIRMED** | Chilean diplomat killed by DINA agents on US soil. CIA knew Pinochet ordered it. |
 | [Aldo Moro](Details/Aldo_Moro.md) | 1978 | Shot by Red Brigades after 55-day kidnapping | **SUSPICIOUS** | Italian PM who sought Communist coalition. Allegations of CIA/Gladio manipulation of Red Brigades. |
 | [Park Chung-hee](Details/Park_Chung_hee.md) | 1979 | Shot by own intelligence chief | **SUSPICIOUS** | South Korean president killed by KCIA director Kim Jae-gyu. US intelligence allegedly aware in advance. |
+| [Oscar Romero](Details/Oscar_Romero.md) | 1980 | Shot while saying mass | **CONFIRMED** | El Salvador Archbishop. Killed by US-backed death squads. UN Truth Commission confirmed. |
+| [Jaime Roldos](Details/Jaime_Roldos.md) | 1981 | Plane crash | **SUSPICIOUS** | Ecuadorian president. Died two months before Torrijos. Both opposed US policy. John Perkins alleged CIA involvement. |
+| [Omar Torrijos](Details/Omar_Torrijos.md) | 1981 | Plane crash | **HIGHLY SUSPICIOUS** | Panamanian leader. Died two months after Roldos died same way. John Perkins alleged CIA sabotage. |
+| [Maurice Bishop](Details/Maurice_Bishop.md) | 1983 | Executed in coup | **SUSPICIOUS** | Grenadian PM. Killed in internal coup. US invaded days later. CIA involvement in destabilization alleged. |
 | [Olof Palme](Details/Olof_Palme.md) | 1986 | Shot on Stockholm street | **SUSPICIOUS** | Swedish PM. CIA and MI6 allegedly suspected him of KGB ties. Claims of Stay Behind/Gladio involvement. Case officially closed 2020. |
-| [Zia ul-Haq](Details/Zia_ul_Haq.md) | 1988 | Plane crash | **SUSPICIOUS** | Pakistani president, US ambassador, and top generals killed. Sabotage widely suspected. Multiple intelligence services had motive. |
 | [Thomas Sankara](Details/Thomas_Sankara.md) | 1987 | Shot in coup | **CONFIRMED** | Burkina Faso's revolutionary president. Overthrown by Compaoré with alleged French intelligence (DGSE) backing. Compaoré convicted 2022. |
-| [Dag Hammarskjold](Details/Dag_Hammarskjold.md) | 1961 | Plane crash, Zambia | **HIGHLY SUSPICIOUS** | UN Secretary-General. 2019 UN inquiry found "plausible" that plane was shot down. CIA, MI6, South African intelligence implicated. |
-| [Patrice Lumumba](Details/Patrice_Lumumba.md) | 1961 | Executed | **CONFIRMED** | Congolese PM. CIA and Belgian intelligence orchestrated his overthrow and assassination. Church Committee confirmed CIA plots. |
-| [Benazir Bhutto](Details/Benazir_Bhutto.md) | 2007 | Bomb and gunshot, Rawalpindi | **SUSPICIOUS** | Pakistani PM. UN investigation found Pakistani government failed to protect her. ISI involvement alleged. |
+| [Zia ul-Haq](Details/Zia_ul_Haq.md) | 1988 | Plane crash | **SUSPICIOUS** | Pakistani president, US ambassador, and top generals killed. Sabotage widely suspected. Multiple intelligence services had motive. |
+| [Chris Hani](Details/Chris_Hani.md) | 1993 | Shot at home | **SUSPICIOUS** | South African Communist Party leader. Assassin convicted; alleged South African intelligence connections. Nearly derailed democratic transition. |
 | [Yitzhak Rabin](Details/Yitzhak_Rabin.md) | 1995 | Shot by Israeli extremist | **MODERATE SUSPICION** | Israeli PM killed by far-right assassin. Allegations of Shin Bet failures and possible manipulation of assassin. |
+| [Rafik Hariri](Details/Rafik_Hariri.md) | 2005 | Massive car bomb, Beirut | **CONFIRMED** | Lebanese PM. UN Special Tribunal convicted Hezbollah operative. Syrian intelligence widely suspected of involvement. |
+| [Pierre Gemayel](Details/Pierre_Gemayel.md) | 2006 | Shot in car, Beirut | **HIGHLY SUSPICIOUS** | Lebanese anti-Syrian politician. Part of wave of assassinations targeting March 14 Alliance figures. Syrian/Hezbollah intelligence suspected. |
+| [Benazir Bhutto](Details/Benazir_Bhutto.md) | 2007 | Bomb and gunshot, Rawalpindi | **SUSPICIOUS** | Pakistani PM. UN investigation found Pakistani government failed to protect her. ISI involvement alleged. |
+| [Bernardo Leighton](Details/Bernardo_Leighton.md) | 1975 (survived; died 1995) | Shot in Rome (survived) | **CONFIRMED** | Chilean politician. DINA and Italian neofascist collaboration. Operation Condor. Convictions obtained. |
 
 ## Dissidents, Defectors, and Exiles Killed
 
 | Name | Year | Cause of Death | Suspicion Level | Details |
 |------|------|----------------|-----------------|---------|
 | [Georgi Markov](Details/Georgi_Markov.md) | 1978 | Ricin-tipped umbrella, London | **CONFIRMED** | Bulgarian dissident killed by Bulgarian DS with KGB assistance. Poison pellet fired into leg on Waterloo Bridge. |
+| [Boris Nemtsov](Details/Boris_Nemtsov.md) | 2015 | Shot near Kremlin, Moscow | **HIGHLY SUSPICIOUS** | Russian opposition leader shot four times on bridge within sight of Kremlin. Chechen security forces convicted; mastermind never identified. |
 | [Alexander Litvinenko](Details/Alexander_Litvinenko.md) | 2006 | Polonium-210 poisoning, London | **CONFIRMED** | Former FSB officer. UK inquiry: "probably approved by Putin." European Court ruled Russia responsible. |
+| [Boris Berezovsky](Details/Boris_Berezovsky.md) | 2013 | Hanging (ligature around neck) | **SUSPICIOUS** | Russian oligarch and Kremlin critic. Coroner recorded open verdict. German pathologist said evidence consistent with third-party strangulation. |
 | [Sergei Skripal](Details/Sergei_Skripal.md) | 2018 | Novichok poisoning, Salisbury (survived) | **CONFIRMED** | Former GRU double agent. UK inquiry (2025): Putin ordered the attack. GRU Unit 29155 identified. Bystander Dawn Sturgess killed. |
 | [Jamal Khashoggi](Details/Jamal_Khashoggi.md) | 2018 | Strangled and dismembered, Istanbul | **CONFIRMED** | Saudi journalist. CIA concluded MBS ordered it. 15-man Saudi hit squad recorded by Turkish intelligence. |
-| [Boris Nemtsov](Details/Boris_Nemtsov.md) | 2015 | Shot near Kremlin, Moscow | **HIGHLY SUSPICIOUS** | Russian opposition leader shot four times on bridge within sight of Kremlin. Chechen security forces convicted; mastermind never identified. |
 | [Alexei Navalny](Details/Alexei_Navalny.md) | 2024 | Died in Arctic penal colony | **HIGHLY SUSPICIOUS** | Russian opposition leader. Survived 2020 Novichok poisoning by FSB. Died in prison under suspicious circumstances. |
-| [Mahmoud Al-Mabhouh](Details/Mahmoud_Al_Mabhouh.md) | 2010 | Suffocated in Dubai hotel | **CONFIRMED** | Hamas commander. Mossad operation using forged passports. Captured on hotel CCTV. Caused diplomatic crisis. |
 | [Zelimkhan Khangoshvili](Details/Zelimkhan_Khangoshvili.md) | 2019 | Shot in Berlin park | **CONFIRMED** | Chechen-Georgian dissident. Killer identified as Russian FSB/GRU agent. Germany expelled Russian diplomats. |
 | [Gerald Bull](Details/Gerald_Bull.md) | 1990 | Shot at Brussels apartment | **HIGHLY SUSPICIOUS** | Canadian weapons designer building Iraqi "supergun." Mossad widely believed responsible. Five shots to head and neck. |
+| [Nikolai Glushkov](Details/Nikolai_Glushkov.md) | 2018 | Strangulation, London | **HIGHLY SUSPICIOUS** | Russian exile found strangled in his home. Death staged to look like suicide. One week after Skripal poisoning. Counter Terrorism Command investigated. |
+| [Maxim Kuzminov](Details/Maxim_Kuzminov.md) | 2024 | Shot and run over, Spain | **HIGHLY SUSPICIOUS** | Russian helicopter pilot who defected to Ukraine. Found dead in Spanish parking garage. Russian-made ammunition. SVR chief called him "traitor." |
+| [Denis Voronenkov](Details/Denis_Voronenkov.md) | 2017 | Shot in Kyiv | **HIGHLY SUSPICIOUS** | Russian Duma defector. Shot dead in broad daylight after testifying against Russian government. |
+| [Yevgeny Prigozhin](Details/Yevgeny_Prigozhin.md) | 2023 | Plane crash (bomb) | **HIGHLY SUSPICIOUS** | Wagner Group founder. Killed exactly two months after armed mutiny against Putin. Hand grenade fragments found in bodies. |
+| [Kim Jong-nam](Details/Kim_Jong_nam.md) | 2017 | VX nerve agent at Kuala Lumpur airport | **CONFIRMED** | Half-brother of North Korean leader. Two women smeared VX on his face. North Korean intelligence operation. |
+| [Alexander Zakharchenko](Details/Alexander_Zakharchenko.md) | 2018 | Bomb in Donetsk cafe | **SUSPICIOUS** | Donetsk People's Republic leader. Ukrainian intelligence suspected. Internal power struggle also possible. |
+| [Vitaly Churkin](Details/Vitaly_Churkin.md) | 2017 | Sudden death in New York | **SUSPICIOUS** | Russian UN Ambassador. NYC medical examiner initially refused to release cause of death. Part of cluster of Russian diplomat deaths. |
+| [Arkady Babchenko](Details/Arkady_Babchenko.md) | 2018 | **Survived** — faked death with Ukrainian SBU | **CONFIRMED** | Russian journalist. Ukraine staged his assassination to expose Russian plot to kill him. Russian intelligence confirmed as threat. |
+
+## Intelligence Service Targeted Killings (Mossad and Others)
+
+| Name | Year | Cause of Death | Suspicion Level | Details |
+|------|------|----------------|-----------------|---------|
+| [Wael Zwaiter](Details/Wael_Zwaiter.md) | 1972 | Shot 12 times in Rome | **CONFIRMED** | Palestinian intellectual. First killing in Mossad's Operation Wrath of God after Munich Olympics. Possibly misidentified. |
+| [Mahmoud Hamshari](Details/Mahmoud_Hamshari.md) | 1973 | Phone bomb in Paris | **CONFIRMED** | PLO representative. Mossad planted explosive under his telephone. Part of Operation Wrath of God. |
+| [Wadie Haddad](Details/Wadie_Haddad.md) | 1978 | Allegedly poisoned (chocolate laced with biological agent) | **HIGHLY SUSPICIOUS** | PFLP hijacking mastermind. Mossad reportedly poisoned via contaminated Belgian chocolate. Died of "leukemia." |
+| [Ali Hassan Salameh](Details/Ali_Hassan_Salameh.md) | 1979 | Car bomb, Beirut | **CONFIRMED** | PLO intelligence chief and alleged Munich planner. Also a CIA asset. Mossad car bomb killed 4 bystanders. |
+| [Yahya Ayyash](Details/Yahya_Ayyash.md) | 1996 | Booby-trapped cell phone | **CONFIRMED** | Hamas bomb maker. Shin Bet placed explosive in his mobile phone. Israel acknowledged the operation. |
+| [Fathi Shaqaqi](Details/Fathi_Shaqaqi.md) | 1995 | Shot on Malta street | **CONFIRMED** | Palestinian Islamic Jihad leader. Mossad agents shot him six times. Malta investigation identified Israeli operatives. |
+| [Imad Mughniyeh](Details/Imad_Mughniyeh.md) | 2008 | Car bomb, Damascus | **CONFIRMED** | Hezbollah military commander. Joint CIA-Mossad operation confirmed. One of the most wanted terrorists in the world. |
+| [Mahmoud Al-Mabhouh](Details/Mahmoud_Al_Mabhouh.md) | 2010 | Suffocated in Dubai hotel | **CONFIRMED** | Hamas commander. Mossad operation using forged passports. Captured on hotel CCTV. Caused diplomatic crisis. |
+| [Anwar al-Awlaki](Details/Anwar_al_Awlaki.md) | 2011 | CIA drone strike, Yemen | **CONFIRMED** | US-born cleric. First known deliberate killing of US citizen by US government without trial. Obama authorized the strike. |
+| [Abdulrahman al-Awlaki](Details/Abdulrahman_al_Awlaki.md) | 2011 | CIA drone strike, Yemen | **HIGHLY SUSPICIOUS** | 16-year-old US citizen killed two weeks after his father Anwar. Obama administration said he was not specifically targeted. |
+| [Mohsen Fakhrizadeh](Details/Mohsen_Fakhrizadeh.md) | 2020 | Remote-controlled gun, near Tehran | **CONFIRMED** | Iranian nuclear scientist. Mossad widely blamed. Reportedly used AI-assisted remote weapon system. |
+| [Qasem Soleimani](Details/Qasem_Soleimani.md) | 2020 | US drone strike, Baghdad airport | **CONFIRMED** | Iranian IRGC Quds Force commander. Trump ordered the strike. Near-act of war. |
+| [Ahmed Yassin](Details/Ahmed_Yassin.md) | 2004 | Israeli helicopter strike, Gaza | **CONFIRMED** | Hamas founder and spiritual leader. Killed in wheelchair by Israeli missile. Widely condemned internationally. |
+| [Abdel Aziz al-Rantisi](Details/Abdel_Aziz_al_Rantisi.md) | 2004 | Israeli missile strike, Gaza | **CONFIRMED** | Hamas leader. Killed one month after Yassin. Israel's policy of targeted killings against Hamas leadership. |
+| [Ismail Haniyeh](Details/Ismail_Haniyeh.md) | 2024 | Bomb in Tehran guesthouse | **CONFIRMED** | Hamas political bureau chief. Mossad widely blamed. Killed in Iranian capital during presidential inauguration. |
+| [Salah al-Arouri](Details/Salah_al_Arouri.md) | 2024 | Israeli drone strike, Beirut | **CONFIRMED** | Hamas deputy leader. Killed during Israel-Gaza war. |
+| [Fuad Shukr](Details/Fuad_Shukr.md) | 2024 | Israeli airstrike, Beirut | **CONFIRMED** | Hezbollah senior military commander. Killed during Israel-Lebanon escalation. |
 
 ## Journalists and Investigators Killed
 
@@ -52,6 +100,12 @@ This project documents intelligence service murders, political assassinations, a
 | [Serena Shim](Details/Serena_Shim.md) | 2014 | Car crash, Turkey | **SUSPICIOUS** | Press TV journalist who reported on ISIS using UN WFP trucks. Told she was accused of espionage by Turkish intelligence. Died in car crash two days later. |
 | [Jan Kuciak](Details/Jan_Kuciak.md) | 2018 | Shot at home, Slovakia | **CONFIRMED** | Investigative journalist exposing Italian mafia-government ties. Killed with fiancee. Led to PM's resignation. |
 | [Jenny Moore](Details/Jenny_Moore.md) | 2018 | Found dead in DC hotel | **UNCERTAIN** | Citizen journalist investigating trafficking. Filed FBI report weeks before death. |
+| [Paul Klebnikov](Details/Paul_Klebnikov.md) | 2004 | Shot outside Moscow office | **SUSPICIOUS** | American journalist, founding editor of Forbes Russia. Contract killing. First US journalist murdered in Russia. Suspects acquitted. |
+| [Natalya Estemirova](Details/Natalya_Estemirova.md) | 2009 | Kidnapped and shot, Chechnya | **HIGHLY SUSPICIOUS** | Human rights activist documenting Chechen atrocities. Kidnapped from Kadyrov-controlled territory. Case unsolved 15+ years later. |
+| [Yuri Shchekochikhin](Details/Yuri_Shchekochikhin.md) | 2003 | Mysterious illness (suspected thallium poisoning) | **HIGHLY SUSPICIOUS** | Novaya Gazeta journalist. Died days before meeting FBI. Symptoms matched poisoning. Medical records sealed. |
+| [Stanislav Markelov](Details/Stanislav_Markelov.md) | 2009 | Shot in Moscow | **HIGHLY SUSPICIOUS** | Human rights lawyer investigating Chechen war crimes. Shot alongside journalist Anastasia Baburova. Neo-Nazi nationalists convicted. |
+| [Anastasia Baburova](Details/Anastasia_Baburova.md) | 2009 | Shot in Moscow | **HIGHLY SUSPICIOUS** | Novaya Gazeta journalist. Killed alongside Stanislav Markelov when she tried to intervene. |
+| [Sergei Yushenkov](Details/Sergei_Yushenkov.md) | 2003 | Shot outside his Moscow home | **HIGHLY SUSPICIOUS** | Russian Duma member investigating FSB apartment bombings. Shot hours after registering his political party. |
 
 ## Whistleblowers and Insiders Killed
 
@@ -63,14 +117,25 @@ This project documents intelligence service murders, political assassinations, a
 | [Philip Haney](Details/Philip_Haney.md) | 2020 | Gunshot, ruled suicide | **SUSPICIOUS** | DHS whistleblower on terrorism. Family disputes suicide. Had been threatening to expose more. |
 | [William Colby](Details/William_Colby.md) | 1996 | Drowned during canoe trip | **SUSPICIOUS** | Former CIA Director who cooperated with Church Commission. Left dinner half-eaten, computer on. Found in river 9 days later. |
 | [Barry Seal](Details/Barry_Seal.md) | 1986 | Machine-gunned in car, Baton Rouge | **HIGHLY SUSPICIOUS** | CIA-connected drug pilot turned DEA informant. Medellín Cartel ordered hit, but CIA allegedly exposed his cover. Judge forced him into unprotected halfway house. |
+| [Sergei Magnitsky](Details/Sergei_Magnitsky.md) | 2009 | Beaten in prison, denied medical care | **CONFIRMED** | Russian tax advisor who exposed $230M government fraud. ECHR found Russia responsible. Led to Magnitsky Act sanctions worldwide. |
+| [Enrique Camarena](Details/Enrique_Camarena.md) | 1985 | Kidnapped, tortured, murdered in Mexico | **HIGHLY SUSPICIOUS** | DEA agent. CIA allegedly had assets involved in the kidnapping. CIA reportedly knew about the plot and failed to intervene. |
 
-## Activists and Domestic Targets
+## Activists, Domestic Targets, and Civilian Casualties
 
 | Name | Year | Cause of Death | Suspicion Level | Details |
 |------|------|----------------|-----------------|---------|
 | [Fred Hampton](Details/Fred_Hampton.md) | 1969 | Shot in bed during police raid | **CONFIRMED** | Black Panther leader. FBI COINTELPRO provided floor plans via informant. Drugged beforehand. Police fired 99 shots; Panthers fired 1. $1.85M settlement. |
 | [Mark Clark](Details/Mark_Clark.md) | 1969 | Shot during same raid as Hampton | **CONFIRMED** | Black Panther killed alongside Fred Hampton. Single Panther shot came from his gun as he was killed. |
+| [Victor Jara](Details/Victor_Jara.md) | 1973 | Tortured and shot 44 times | **CONFIRMED** | Chilean folk singer. Hands broken, then machine-gunned in Santiago stadium during Pinochet coup. Convictions obtained decades later. |
+| [Charles Horman](Details/Charles_Horman.md) | 1973 | Executed during Chilean coup | **CONFIRMED** | American journalist. Subject of film "Missing." US government complicity confirmed by declassified documents. Chilean court convictions 2015. |
+| [Frank Teruggi](Details/Frank_Teruggi.md) | 1973 | Executed during Chilean coup | **CONFIRMED** | American student killed alongside Horman. US intelligence aware. Chilean court convictions 2015. |
+| [Steve Biko](Details/Steve_Biko.md) | 1977 | Beaten to death in police custody | **CONFIRMED** | South African anti-apartheid leader. Initially ruled death by hunger strike. Security police confessed at TRC. |
+| [Ruth First](Details/Ruth_First.md) | 1982 | Letter bomb in Mozambique | **CONFIRMED** | South African anti-apartheid activist and journalist. South African Military Intelligence confirmed. Assassin confessed at TRC. |
+| [Gerard Hoarau](Details/Gerard_Hoarau.md) | 1985 | Shot in London | **HIGHLY SUSPICIOUS** | Seychelles opposition leader. South African intelligence suspected. Case unsolved. |
+| [Fernando Pereira](Details/Fernando_Pereira.md) | 1985 | Drowned in bombed ship | **CONFIRMED** | Photographer killed when French DGSE bombed the Rainbow Warrior in Auckland. France confirmed responsibility. Agents convicted. |
+| [Dulcie September](Details/Dulcie_September.md) | 1988 | Shot in Paris | **HIGHLY SUSPICIOUS** | ANC representative. South African intelligence (CCB) widely suspected. She was investigating arms deals. Case unsolved. |
 | [Pat Tillman](Details/Pat_Tillman.md) | 2004 | "Friendly fire" in Afghanistan | **HIGHLY SUSPICIOUS** | NFL star turned Army Ranger. Shot three times in head at close range. Pentagon covered up friendly fire for weeks. Had become critical of Iraq War, planned to meet Noam Chomsky. |
+| [Berta Caceres](Details/Berta_Caceres.md) | 2016 | Shot at home, Honduras | **CONFIRMED** | Environmental activist. US-trained military intelligence agents involved. She had criticized US-backed 2009 coup. Goldman Prize winner. |
 | [Judi Bari](Details/Judi_Bari.md) | 1990 | Car bomb (survived; died of cancer 1997) | **SUSPICIOUS** | Earth First! organizer. FBI blamed her for bombing her own car, then dropped charges. FBI had infiltrated Earth First! Jury awarded $4.4M to Bari's estate. |
 
 ## Scientists and Weapons Researchers Killed
@@ -80,6 +145,7 @@ This project documents intelligence service murders, political assassinations, a
 | [Gerald Bull](Details/Gerald_Bull.md) | 1990 | Shot at Brussels apartment | **HIGHLY SUSPICIOUS** | See Dissidents section above. Building Iraqi "supergun." Mossad widely blamed. |
 | [David Kelly](Details/David_Kelly.md) | 2003 | See Whistleblowers section above | **HIGHLY SUSPICIOUS** | UK weapons inspector on Iraq WMDs. |
 | [Frank Olson](Details/Frank_Olson.md) | 1953 | See Whistleblowers section above | **HIGHLY SUSPICIOUS** | CIA biological weapons scientist. MKULTRA victim. |
+| [Mohsen Fakhrizadeh](Details/Mohsen_Fakhrizadeh.md) | 2020 | See Targeted Killings section above | **CONFIRMED** | Iranian nuclear scientist. Mossad operation. |
 
 ## Bankers and Financiers with Intelligence Connections
 
@@ -92,25 +158,33 @@ This project documents intelligence service murders, political assassinations, a
 
 ## Patterns Worth Noting
 
-**Poisoning as signature:** [Georgi Markov](Details/Georgi_Markov.md) (ricin, 1978), [Alexander Litvinenko](Details/Alexander_Litvinenko.md) (polonium-210, 2006), [Sergei Skripal](Details/Sergei_Skripal.md) (Novichok, 2018), [Alexei Navalny](Details/Alexei_Navalny.md) (Novichok, 2020 — survived). Russian intelligence services have a documented pattern of chemical assassination spanning four decades.
+**Poisoning as signature:** [Georgi Markov](Details/Georgi_Markov.md) (ricin, 1978), [Wadie Haddad](Details/Wadie_Haddad.md) (biological agent, 1978), [Yuri Shchekochikhin](Details/Yuri_Shchekochikhin.md) (suspected thallium, 2003), [Alexander Litvinenko](Details/Alexander_Litvinenko.md) (polonium-210, 2006), [Sergei Skripal](Details/Sergei_Skripal.md) (Novichok, 2018), [Alexei Navalny](Details/Alexei_Navalny.md) (Novichok, 2020 — survived), [Kim Jong-nam](Details/Kim_Jong_nam.md) (VX nerve agent, 2017). Multiple intelligence services use chemical assassination — Russian FSB, Mossad, and North Korean intelligence each have documented patterns.
 
-**Journalists who die investigating intelligence:** [Danny Casolaro](Details/Danny_Casolaro.md) (PROMIS/CIA, 1991), [Gary Webb](Details/Gary_Webb.md) (CIA-crack, 2004), [Anna Politkovskaya](Details/Anna_Politkovskaya.md) (Chechnya/FSB, 2006), [Michael Hastings](Details/Michael_Hastings.md) (CIA director, 2013), [Daphne Caruana Galizia](Details/Daphne_Caruana_Galizia.md) (Panama Papers, 2017), [Jan Kuciak](Details/Jan_Kuciak.md) (mafia-government, 2018). Investigating intelligence operations remains one of the most dangerous activities in journalism.
+**Journalists who die investigating intelligence:** [Danny Casolaro](Details/Danny_Casolaro.md) (PROMIS/CIA, 1991), [Yuri Shchekochikhin](Details/Yuri_Shchekochikhin.md) (FSB/organized crime, 2003), [Paul Klebnikov](Details/Paul_Klebnikov.md) (Russian oligarchs, 2004), [Gary Webb](Details/Gary_Webb.md) (CIA-crack, 2004), [Anna Politkovskaya](Details/Anna_Politkovskaya.md) (Chechnya/FSB, 2006), [Natalya Estemirova](Details/Natalya_Estemirova.md) (Chechen war crimes, 2009), [Stanislav Markelov](Details/Stanislav_Markelov.md) & [Anastasia Baburova](Details/Anastasia_Baburova.md) (Chechen justice, 2009), [Michael Hastings](Details/Michael_Hastings.md) (CIA director, 2013), [Daphne Caruana Galizia](Details/Daphne_Caruana_Galizia.md) (Panama Papers, 2017), [Jan Kuciak](Details/Jan_Kuciak.md) (mafia-government, 2018). Investigating intelligence operations remains one of the most dangerous activities in journalism.
 
 **"Suicide" before testimony or publication:** [Karen Silkwood](Details/Karen_Silkwood.md) died en route to deliver documents to the New York Times. [Danny Casolaro](Details/Danny_Casolaro.md) died the night before a key meeting. [David Kelly](Details/David_Kelly.md) died days after being exposed as the source challenging Iraq WMD claims. [Gary Webb](Details/Gary_Webb.md) died after his career was systematically destroyed. The pattern: people who threaten to publish or testify die before they can.
 
-**Car crashes and car bombs:** [Karen Silkwood](Details/Karen_Silkwood.md) (1974), [Orlando Letelier](Details/Orlando_Letelier.md) (1976), [Barry Seal](Details/Barry_Seal.md) (1986), [Michael Hastings](Details/Michael_Hastings.md) (2013), [Daphne Caruana Galizia](Details/Daphne_Caruana_Galizia.md) (2017). Vehicle-based killings remain a preferred method because they can be disguised as accidents.
+**Car crashes and car bombs:** [Karen Silkwood](Details/Karen_Silkwood.md) (1974), [Carlos Prats](Details/Carlos_Prats.md) (1974), [Orlando Letelier](Details/Orlando_Letelier.md) (1976), [Ali Hassan Salameh](Details/Ali_Hassan_Salameh.md) (1979), [Barry Seal](Details/Barry_Seal.md) (1986), [Rafik Hariri](Details/Rafik_Hariri.md) (2005), [Michael Hastings](Details/Michael_Hastings.md) (2013), [Daphne Caruana Galizia](Details/Daphne_Caruana_Galizia.md) (2017). Vehicle-based killings remain a preferred method because they can be disguised as accidents.
 
-**Sealed records and destroyed evidence:** [David Kelly](Details/David_Kelly.md)'s records sealed until 2073. [Danny Casolaro](Details/Danny_Casolaro.md)'s briefcase vanished from his hotel room. [Karen Silkwood](Details/Karen_Silkwood.md)'s documents were never found in the car wreckage. [Frank Olson](Details/Frank_Olson.md)'s CIA files were largely destroyed in 1973.
+**Operation Condor:** [Salvador Allende](Details/Salvador_Allende.md) (1973), [Victor Jara](Details/Victor_Jara.md) (1973), [Charles Horman](Details/Charles_Horman.md) (1973), [Frank Teruggi](Details/Frank_Teruggi.md) (1973), [Carlos Prats](Details/Carlos_Prats.md) (1974), [Bernardo Leighton](Details/Bernardo_Leighton.md) (1975), [Orlando Letelier](Details/Orlando_Letelier.md) (1976), [Ronni Moffitt](Details/Ronni_Moffitt.md) (1976). The CIA-backed coordination of South American dictatorships to hunt and kill dissidents across borders — including on US soil.
 
-**Defectors who don't survive:** Intelligence services systematically hunt defectors. [Georgi Markov](Details/Georgi_Markov.md) was killed 9 years after defecting. [Alexander Litvinenko](Details/Alexander_Litvinenko.md) was killed 6 years after defecting. [Sergei Skripal](Details/Sergei_Skripal.md) was attacked 8 years after being released in a spy swap. The message is clear: leaving is never forgiven.
+**Mossad's targeted killing program:** [Wael Zwaiter](Details/Wael_Zwaiter.md) (1972), [Mahmoud Hamshari](Details/Mahmoud_Hamshari.md) (1973), [Wadie Haddad](Details/Wadie_Haddad.md) (1978), [Ali Hassan Salameh](Details/Ali_Hassan_Salameh.md) (1979), [Gerald Bull](Details/Gerald_Bull.md) (1990), [Fathi Shaqaqi](Details/Fathi_Shaqaqi.md) (1995), [Yahya Ayyash](Details/Yahya_Ayyash.md) (1996), [Mahmoud Al-Mabhouh](Details/Mahmoud_Al_Mabhouh.md) (2010). From Operation Wrath of God through modern targeted killings, Israel's intelligence service has conducted the most documented assassination program of any Western-aligned nation.
+
+**Sealed records and destroyed evidence:** [David Kelly](Details/David_Kelly.md)'s records sealed until 2073. [Danny Casolaro](Details/Danny_Casolaro.md)'s briefcase vanished from his hotel room. [Karen Silkwood](Details/Karen_Silkwood.md)'s documents were never found in the car wreckage. [Frank Olson](Details/Frank_Olson.md)'s CIA files were largely destroyed in 1973. [Yuri Shchekochikhin](Details/Yuri_Shchekochikhin.md)'s medical records were sealed.
+
+**Defectors who don't survive:** [Georgi Markov](Details/Georgi_Markov.md) (killed 9 years after defecting), [Alexander Litvinenko](Details/Alexander_Litvinenko.md) (6 years), [Sergei Skripal](Details/Sergei_Skripal.md) (8 years), [Maxim Kuzminov](Details/Maxim_Kuzminov.md) (6 months), [Denis Voronenkov](Details/Denis_Voronenkov.md) (months). The message is clear: leaving is never forgiven.
+
+**South African apartheid intelligence:** [Steve Biko](Details/Steve_Biko.md) (1977), [Ruth First](Details/Ruth_First.md) (1982), [Gerard Hoarau](Details/Gerard_Hoarau.md) (1985), [Dulcie September](Details/Dulcie_September.md) (1988). South Africa's BOSS/NIS/CCB carried out assassinations across Africa and Europe, using letter bombs, shootings, and car bombs against anti-apartheid activists.
 
 **COINTELPRO and domestic targeting:** [Fred Hampton](Details/Fred_Hampton.md) and [Mark Clark](Details/Mark_Clark.md) were killed in a coordinated FBI-police operation using an informant's floor plans. The FBI's COINTELPRO program targeted Black Panthers, civil rights leaders, and antiwar activists. The Church Commission exposed these programs but domestic surveillance and targeting continued.
 
 **Operation Gladio and stay-behind networks:** NATO's secret stay-behind armies across Europe have been linked to political violence including the [Aldo Moro](Details/Aldo_Moro.md) kidnapping (Italy, 1978) and the [Olof Palme](Details/Olof_Palme.md) assassination (Sweden, 1986). The "Strategy of Tension" used terrorism to manipulate politics.
 
-**The Church Commission's legacy:** The 1975 Church Committee confirmed CIA assassination plots against at least five foreign leaders. Executive orders banning assassination followed — but targeted killings continued under different legal frameworks, evolving from covert assassination into the drone program's "disposition matrix."
+**The Church Commission's legacy:** The 1975 Church Committee confirmed CIA assassination plots against at least five foreign leaders: Castro, [Lumumba](Details/Patrice_Lumumba.md), [Trujillo](Details/Rafael_Trujillo.md), [Schneider](Details/Rene_Schneider.md), and [Diem](Details/Ngo_Dinh_Diem.md). Executive orders banning assassination followed — but targeted killings continued under different legal frameworks, evolving from covert assassination into the drone program's "disposition matrix."
 
-**CIA and drugs:** [Barry Seal](Details/Barry_Seal.md) was a drug pilot with intelligence connections. [Gary Webb](Details/Gary_Webb.md) exposed the CIA-Contra-crack pipeline. Both died violently. The pattern of intelligence agencies facilitating drug trafficking — and silencing those who expose it — spans decades.
+**CIA and drugs:** [Barry Seal](Details/Barry_Seal.md) was a drug pilot with intelligence connections. [Gary Webb](Details/Gary_Webb.md) exposed the CIA-Contra-crack pipeline. [Enrique Camarena](Details/Enrique_Camarena.md) was a DEA agent whose kidnapping and murder allegedly involved CIA assets. The pattern of intelligence agencies facilitating drug trafficking — and silencing those who expose it — spans decades.
+
+**Russian opposition deaths cluster:** [Sergei Yushenkov](Details/Sergei_Yushenkov.md) (2003), [Yuri Shchekochikhin](Details/Yuri_Shchekochikhin.md) (2003), [Paul Klebnikov](Details/Paul_Klebnikov.md) (2004), [Anna Politkovskaya](Details/Anna_Politkovskaya.md) (2006), [Alexander Litvinenko](Details/Alexander_Litvinenko.md) (2006), [Natalya Estemirova](Details/Natalya_Estemirova.md) (2009), [Stanislav Markelov](Details/Stanislav_Markelov.md) (2009), [Sergei Magnitsky](Details/Sergei_Magnitsky.md) (2009), [Boris Nemtsov](Details/Boris_Nemtsov.md) (2015), [Alexei Navalny](Details/Alexei_Navalny.md) (2024). A systematic pattern of eliminating critics of the Russian state.
 
 ---
 
@@ -125,7 +199,7 @@ The Senate Select Committee to Study Governmental Operations with Respect to Int
 * **E.O. 12333** (Reagan, 1981) — Current version, still in force: "No person employed by or acting on behalf of the United States Government shall engage in, or conspire to engage in, assassination."
 
 ### From Assassination Ban to Targeted Killing
-Despite the assassination ban, the US government developed legal frameworks for "targeted killing" — first through covert action findings, then through the post-9/11 AUMF and drone warfare program. The CIA's "disposition matrix" and the DOD's Joint Special Operations Command (JSOC) now conduct killings that would have been called assassinations before 1976.
+Despite the assassination ban, the US government developed legal frameworks for "targeted killing" — first through covert action findings, then through the post-9/11 AUMF and drone warfare program. The CIA's "disposition matrix" and the DOD's Joint Special Operations Command (JSOC) now conduct killings that would have been called assassinations before 1976. [Anwar al-Awlaki](Details/Anwar_al_Awlaki.md) — a US citizen — was killed by a CIA drone strike in 2011 without trial.
 
 ---
 
@@ -152,12 +226,16 @@ Primary references include:
 - [List of Israeli assassinations (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Israeli_assassinations)
 - [Human rights violations by the CIA (Wikipedia)](https://en.wikipedia.org/wiki/Human_rights_violations_by_the_CIA)
 - [Committee to Protect Journalists — Killed database](https://cpj.org/data/killed/country/)
+- [Operation Condor (Wikipedia)](https://en.wikipedia.org/wiki/Operation_Condor)
+- [Operation Wrath of God (Wikipedia)](https://en.wikipedia.org/wiki/Operation_Wrath_of_God)
 - Tim Weiner, *Legacy of Ashes: The History of the CIA* (2007)
 - David Talbot, *The Devil's Chessboard: Allen Dulles, the CIA, and the Rise of America's Secret Government* (2015)
 - Stephen Kinzer, *Poisoner in Chief: Sidney Gottlieb and the CIA Search for Mind Control* (2019)
 - Jeremy Scahill, *Dirty Wars: The World Is a Battlefield* (2013)
 - Andrew Cockburn, *Kill Chain: The Rise of the High-Tech Assassins* (2015)
 - Nick Schou, *Kill the Messenger: How the CIA's Crack-Cocaine Controversy Destroyed Journalist Gary Webb* (2006)
+- Ronen Bergman, *Rise and Kill First: The Secret History of Israel's Targeted Assassinations* (2018)
+- John Dinges, *The Condor Years: How Pinochet and His Allies Brought Terrorism to Three Continents* (2004)
 
 Senator Frank Church, 1975: *"The United States must not adopt the tactics of the enemy. Means are as important as ends. Crisis makes it tempting to ignore the wise restraints that make men free. But each time we do so, each time the means we use are wrong, our inner strength, the strength which makes us free, is lessened."*
 
