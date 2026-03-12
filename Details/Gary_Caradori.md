@@ -64,6 +64,12 @@ The NTSB ruled this pilot error, but the mid-air disintegration of the aircraft,
 >
 > — Nick Bryant, author of *The Franklin Scandal* ([The Fred Martinez Report](https://www.thefredmartinezreport.com/2022/01/nick-bryant-franklin-scandal-is-about.html))
 
+## Related Deaths
+
+- [Ted Gunderson](Ted_Gunderson.md) — Former FBI SAC who provided investigative assistance to John DeCamp on the Franklin case. Described "brownstone operations" (intelligence-run sexual blackmail using minors) for decades. Died of bladder cancer in 2011; associates allege arsenic poisoning.
+- [Danny Casolaro](Danny_Casolaro.md) — Investigating PROMIS/Maxwell intelligence blackmail operations; found with wrists slashed in 1991, the year after Caradori's death.
+- [Jeffrey Epstein](Jeffrey_Epstein.md) — Ran the sexual blackmail operation that the Franklin scandal prefigured.
+
 ## See Also
 
 - [Franklin child prostitution ring allegations — Wikipedia](https://en.wikipedia.org/wiki/Franklin_child_prostitution_ring_allegations)
