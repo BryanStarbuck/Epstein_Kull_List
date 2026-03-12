@@ -59,7 +59,7 @@ On **July 19, 2020** — just four days after receiving the Epstein-Deutsche Ban
 
 ## The Gunman: Roy Den Hollander
 
-**Roy Den Hollander** (September 26, 1947 – July 20, 2020) was identified as the shooter. He was found dead the next day in a rental car in a remote area of Sullivan County, New York (near Liberty, in the Catskills), of an apparently self-inflicted gunshot wound.
+**[Roy Den Hollander](Roy_Den_Hollander.md)** (September 26, 1947 – July 20, 2020) was identified as the shooter. He was found dead the next day in a rental car in a remote area of Sullivan County, New York (near Liberty, in the Catskills), of an apparently self-inflicted gunshot wound.
 
 ### Official Motive
 The FBI concluded Den Hollander harbored a personal grudge against Salas over a draft registration case she presided over in 2015, and that he also had a general hatred of women and minorities based on 2,000+ pages of misogynistic writings he posted online. He explicitly called her a "lazy and incompetent Latina judge appointed by Obama" in his 1,700-page autobiography titled "Stupid Frigging Fool."
@@ -67,16 +67,16 @@ The FBI concluded Den Hollander harbored a personal grudge against Salas over a 
 ### Full Background on Den Hollander
 - **Education:** JD George Washington University Law School (1985); MBA Columbia Business School (1997)
 - **Legal career:** IRS Chief Counsel attorney; associate at Cravath, Swaine & Moore; solo practitioner filing frivolous "men's rights" lawsuits
-- **Intelligence work:** Private investigator for **Kroll Associates** in Moscow (1999–2000), managing intelligence and security operations. Also spoke at the Kremlin in 1993
+- **Intelligence work:** Private investigator for **[Kroll Associates](../other/groups/kroll_associates.md)** in Moscow (1999–2000), managing intelligence and security operations. Also spoke at the Kremlin in 1993
 - **Russia:** Married Russian model Angelina Shipilina (2000, separated 9 months later); accused her of organized crime ties
 - **Terminal illness:** Metastasized melanoma diagnosed ~June 2019; publicly said he was "painfully dying" in January 2020
-- **Other murder:** Prime suspect in July 11, 2020, murder of Marc Angelucci (California men's rights lawyer, same deliveryman MO, same-caliber weapon)
+- **Other murder:** Prime suspect in July 11, 2020, murder of [Marc Angelucci](Marc_Angelucci.md) (California men's rights lawyer, same deliveryman MO, same-caliber weapon)
 - **Target list:** Investigators found names/photos of Judge Salas, NY Chief Judge Janet DiFiore, Supreme Court Justice Sonia Sotomayor, a comedian, and his oncologist
 - **In his own words:** "Things begin to change when individual men start taking out those specific persons responsible for destroying their lives before committing suicide"
 
 ### Suspicious Background — Why Theories Persist
 
-- **Kroll Associates** was known as the **"CIA of Wall Street"** and employed former CIA, FBI, MI6, and Mossad officers. French intelligence agencies alleged Kroll was an actual CIA front. **Kroll had direct business ties to Deutsche Bank** — the very institution at the center of the case Salas had just been assigned
+- **[Kroll Associates](../other/groups/kroll_associates.md)** was known as the **"CIA of Wall Street"** and employed former CIA, FBI, MI6, and Mossad officers. French intelligence agencies alleged Kroll was an actual CIA front. **Kroll had direct business ties to Deutsche Bank** — the very institution at the center of the case Salas had just been assigned
 - Den Hollander's intelligence background (Kremlin speech, Kroll Moscow, Russian wife with alleged mob ties) contradicts the narrative of a simple "angry loner"
 - A terminally ill man with an intelligence background and a documented personal grudge provides the ideal **"patsy" profile** — someone with nothing to lose, a plausible personal motive already on the public record, and no future to protect
 - His death ~24 hours later in a remote area ensured he could never be interrogated about possible handlers, communications, or whether someone encouraged the timing
@@ -167,9 +167,16 @@ The official investigation is closed. Den Hollander acted alone, motivated by mi
 > "Lives are at stake."
 > — Judge Salas, urging leaders to end hostile rhetoric toward judges, [PBS NewsHour](https://www.pbs.org/newshour/show/lives-are-at-stake-judge-whose-son-was-murdered-urges-leaders-to-end-hostile-rhetoric)
 
+## See Also
+
+- [Daniel Anderl](Daniel_Anderl.md) — Her son, murdered by the gunman
+- [Roy Den Hollander](Roy_Den_Hollander.md) — The gunman; former Kroll Associates operative in Moscow
+- [Marc Angelucci](Marc_Angelucci.md) — Men's rights lawyer killed by the same gunman eight days earlier
+
 ## Related Groups
 
 - [Deutsche Bank](../other/groups/deutsche_bank.md) — Was assigned the Epstein-Deutsche Bank investor lawsuit when her son was murdered
+- [Kroll Associates](../other/groups/kroll_associates.md) — Den Hollander worked at Kroll's Moscow office; Kroll had ties to Deutsche Bank
 
 ## Related Locations
 

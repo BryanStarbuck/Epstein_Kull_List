@@ -16,16 +16,17 @@ On July 19, 2020, a gunman dressed as a FedEx driver arrived at the home of U.S.
 
 ## The Attack
 
-- **[Daniel Anderl](../../Details/Daniel_Anderl.md)** (2020, age 20) — Shot and killed answering the front door of his family's home. The gunman, Roy Den Hollander, was a self-described "anti-feminist" attorney who had previously worked for **Kroll Associates** — known as "the CIA of Wall Street."
+- **[Daniel Anderl](../../Details/Daniel_Anderl.md)** (2020, age 20) — Shot and killed answering the front door of his family's home. The gunman, [Roy Den Hollander](../../Details/Roy_Den_Hollander.md), was a self-described "anti-feminist" attorney who had previously worked for **[Kroll Associates](../groups/kroll_associates.md)** — known as "the CIA of Wall Street."
 - **[Judge Esther Salas](../../Details/Esther_Salas.md)** — Survived the attack; was in the basement at the time. Had been assigned a Deutsche Bank/Epstein case. Later championed "Daniel's Law" to protect judges' personal information.
 
 ## The Kroll Associates Connection
 
-Roy Den Hollander had worked for Kroll Associates, a corporate intelligence firm with deep ties to intelligence agencies. Kroll also had connections to [Deutsche Bank](../groups/deutsche_bank.md) — the same bank whose case Judge Salas had been assigned. The overlap between Kroll, Deutsche Bank, and the Epstein network has been noted by researchers, though no direct link between the Epstein case assignment and the attack has been officially established.
+[Roy Den Hollander](../../Details/Roy_Den_Hollander.md) had worked for [Kroll Associates](../groups/kroll_associates.md), a corporate intelligence firm with deep ties to intelligence agencies. Kroll also had connections to [Deutsche Bank](../groups/deutsche_bank.md) — the same bank whose case Judge Salas had been assigned. The overlap between Kroll, Deutsche Bank, and the Epstein network has been noted by researchers, though no direct link between the Epstein case assignment and the attack has been officially established.
 
 ## Related Groups
 
 - [Deutsche Bank](../groups/deutsche_bank.md) — Judge Salas was assigned a Deutsche Bank/Epstein case
+- [Kroll Associates](../groups/kroll_associates.md) — Den Hollander worked at Kroll's Moscow office; Kroll had Deutsche Bank ties
 - [Jeffrey Epstein Network](../groups/jeffrey_epstein_network.md)
 - [CIA](../groups/cia.md) — Kroll Associates ("the CIA of Wall Street")
 

@@ -4,12 +4,13 @@
 
 Organizations, intelligence services, financial institutions, and operations connected to the Epstein network and related elite blackmail/trafficking operations.
 
-## Intelligence Services
+## Intelligence Services & Private Intelligence
 
 | Group | Description |
 |-------|-------------|
 | [Mossad](mossad.md) | Israeli intelligence service allegedly behind Epstein's blackmail operation via Robert Maxwell |
 | [CIA](cia.md) | U.S. intelligence agency with alleged connections to Epstein and multiple cover-ups |
+| [Kroll Associates](kroll_associates.md) | "CIA of Wall Street" — private intelligence firm connected to Epstein network via Deutsche Bank, Robert Maxwell, and the Salas attack |
 
 ## Blackmail & Trafficking Operations
 

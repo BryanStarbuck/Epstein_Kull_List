@@ -37,9 +37,9 @@ The bank's connection to the Epstein case is notable not just for the financial 
 
 ## The Salas Attack
 
-On July 19, 2020, a gunman disguised as a FedEx driver arrived at Judge Esther Salas's home in North Brunswick, New Jersey. The gunman, Roy Den Hollander, shot and killed her 20-year-old son [Daniel Anderl](../../Details/Daniel_Anderl.md) and seriously wounded her husband. Salas had been assigned the Epstein-Deutsche Bank investor lawsuit just four days earlier.
+On July 19, 2020, a gunman disguised as a FedEx driver arrived at Judge Esther Salas's home in North Brunswick, New Jersey. The gunman, [Roy Den Hollander](../../Details/Roy_Den_Hollander.md), shot and killed her 20-year-old son [Daniel Anderl](../../Details/Daniel_Anderl.md) and seriously wounded her husband. Salas had been assigned the Epstein-Deutsche Bank investor lawsuit just four days earlier.
 
-Den Hollander had previously worked for **Kroll Associates** — a firm known as "the CIA of Wall Street" — which had direct ties to both Deutsche Bank and intelligence agencies. He killed himself the following day.
+Den Hollander had previously worked for **[Kroll Associates](kroll_associates.md)** — a firm known as "the CIA of Wall Street" — which had direct ties to both Deutsche Bank and intelligence agencies. He killed himself the following day.
 
 ## Connection to Epstein Network
 

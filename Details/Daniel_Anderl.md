@@ -34,13 +34,13 @@ The gunman **never entered the house** — he fired at the doorway and fled. As 
 
 ## The Gunman: Roy Den Hollander
 
-The shooter was identified as **Roy Den Hollander** (September 26, 1947 – July 20, 2020), a 72-year-old self-described "anti-feminist" lawyer. He was found dead of an apparently self-inflicted gunshot wound the very next day, July 20, in a rental car in a remote area of Sullivan County, New York (near Liberty, in the Catskills).
+The shooter was identified as **[Roy Den Hollander](Roy_Den_Hollander.md)** (September 26, 1947 – July 20, 2020), a 72-year-old self-described "anti-feminist" lawyer. He was found dead of an apparently self-inflicted gunshot wound the very next day, July 20, in a rental car in a remote area of Sullivan County, New York (near Liberty, in the Catskills).
 
 ### Full Background on Den Hollander
 
 - **Education:** JD from George Washington University Law School (1985); MBA from Columbia Business School (1997)
 - **Legal career:** Attorney in the Office of Chief Counsel at the IRS; associate at Cravath, Swaine & Moore (white-shoe NYC law firm); later became a solo practitioner filing frivolous "men's rights" lawsuits
-- **Intelligence work:** Private investigator for **Kroll Associates** in Moscow (1999–2000), where he "managed and upgraded Kroll's delivery of intelligence and security in the former Soviet Union." He also gave a speech at the Kremlin in 1993
+- **Intelligence work:** Private investigator for **[Kroll Associates](../other/groups/kroll_associates.md)** in Moscow (1999–2000), where he "managed and upgraded Kroll's delivery of intelligence and security in the former Soviet Union." He also gave a speech at the Kremlin in 1993
 - **Russia connections:** Married Russian model Angelina Shipilina in March 2000; separated nine months later. He accused her of ties to Russian organized crime and claimed she used him for a green card
 - **Media presence:** Appeared on The Colbert Report and Fox News for his anti-feminist lawsuits (challenging ladies' night discounts, women's studies courses at Columbia, VAWA, the male-only draft)
 - **Political connections:** Trump volunteer/donor; filed a RICO suit against media outlets for "negative coverage" of Trump
@@ -48,7 +48,7 @@ The shooter was identified as **Roy Den Hollander** (September 26, 1947 – July
 - **Writings:** Produced 2,000+ pages of racist, sexist, and misogynistic screeds, including a 1,700-page autobiography titled "Stupid Frigging Fool." He explicitly attacked Salas as a "lazy and incompetent Latina judge appointed by Obama"
 - **Terminal illness:** Diagnosed with metastasized melanoma (~June 2019). Publicly stated he was "painfully dying from cancer" in January 2020. Had handed off cases to other lawyers
 - **Target list:** Investigators found in his car the names and photos of Judge Salas, New York State Chief Judge Janet DiFiore, Supreme Court Justice Sonia Sotomayor, a comedian, and his oncologist
-- **Other murder:** Prime suspect in the July 11, 2020 murder of **Marc Angelucci**, a rival men's rights lawyer shot at his California doorstep by someone posing as a package deliveryman. Same delivery-driver disguise MO. Same-caliber Walther semiautomatic pistol linked ballistically to both shootings
+- **Other murder:** Prime suspect in the July 11, 2020 murder of **[Marc Angelucci](Marc_Angelucci.md)**, a rival men's rights lawyer shot at his California doorstep by someone posing as a package deliveryman. Same delivery-driver disguise MO. Same-caliber Walther semiautomatic pistol linked ballistically to both shootings
 - **Foreshadowing in own writings:** "Things begin to change when individual men start taking out those specific persons responsible for destroying their lives before committing suicide"
 
 ### The Official Narrative
@@ -63,7 +63,7 @@ The timing raises questions that the official narrative does not adequately answ
 
 2. **Broader Epstein timeline:** Ghislaine Maxwell was arrested on **July 2, 2020** — just 17 days before the Salas attack. The Epstein network was under maximum legal pressure at precisely this moment.
 
-3. **Den Hollander's intelligence background:** He worked for **Kroll Associates**, known as the "CIA of Wall Street." Kroll frequently hired former CIA, FBI, MI6, and Mossad officers. French intelligence agencies alleged Kroll was an actual CIA front. Critically, **Kroll had direct business ties to Deutsche Bank** — the very institution in the case Salas had just been assigned.
+3. **Den Hollander's intelligence background:** He worked for **[Kroll Associates](../other/groups/kroll_associates.md)**, known as the "CIA of Wall Street." Kroll frequently hired former CIA, FBI, MI6, and Mossad officers. French intelligence agencies alleged Kroll was an actual CIA front. Critically, **Kroll had direct business ties to Deutsche Bank** — the very institution in the case Salas had just been assigned.
 
 4. **The Russia connection:** Kremlin speech in 1993. Years working intelligence in Russia. Marriage to a Russian model he accused of organized crime ties. This is not the profile of a simple "angry loner."
 
@@ -165,9 +165,16 @@ The platform treats the Salas attack as one of the strongest pieces of circumsta
 > "The free flow of information from the Internet allowed this sick and depraved human being to find all our personal information and target us."
 > — **Judge Esther Salas**, advocating for the Daniel Anderl Judicial Security and Privacy Act ([NBC News](https://www.nbcnews.com/news/latino/judge-esther-salas-speaks-about-law-named-after-her-son-n1248681))
 
+## See Also
+
+- [Roy Den Hollander](Roy_Den_Hollander.md) — The gunman who killed Daniel; former Kroll Associates operative
+- [Esther Salas](Esther_Salas.md) — Daniel's mother, the judge assigned to the Epstein-Deutsche Bank case
+- [Marc Angelucci](Marc_Angelucci.md) — Men's rights lawyer killed by the same gunman eight days earlier
+
 ## Related Groups
 
 - [Deutsche Bank](../other/groups/deutsche_bank.md) — His mother was assigned the Epstein-Deutsche Bank case four days before his murder
+- [Kroll Associates](../other/groups/kroll_associates.md) — The gunman Roy Den Hollander worked at Kroll's Moscow office (1999–2000)
 
 ## Related Locations
 
