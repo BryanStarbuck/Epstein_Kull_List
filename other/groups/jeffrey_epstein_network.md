@@ -74,6 +74,17 @@ The network operated across multiple properties, employed a sophisticated logist
 * The 2026 DOJ file releases triggered investigations in 10+ countries
 * At least 30+ connected individuals have died under circumstances ranging from natural to deeply suspicious
 
+## Related Locations
+
+- [New York City Metro](../locations/new_york_metro.md) — Epstein's townhouse and MCC prison; primary US base
+- [South Florida](../locations/south_florida.md) — Palm Beach mansion; primary crime scene; original investigation
+- [Caribbean (USVI & Puerto Rico)](../locations/caribbean.md) — Little St. James and Great St. James islands
+- [New Mexico](../locations/new_mexico.md) — Zorro Ranch; only property never raided by FBI
+- [Southern California](../locations/southern_california.md) — Deutsche Bank whistleblower deaths
+- [France](../locations/france.md) — Paris apartment; Brunel's death; modeling industry hub
+- [United Kingdom](../locations/united_kingdom.md) — Maxwell family base; Prince Andrew connection
+- [Columbus, Ohio](../locations/columbus_ohio.md) — Wexner's base of operations
+
 ## Sources
 
 - [Wikipedia: Jeffrey Epstein](https://en.wikipedia.org/wiki/Jeffrey_Epstein)

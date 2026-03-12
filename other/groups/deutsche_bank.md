@@ -64,6 +64,13 @@ The pattern of deaths among Deutsche Bank executives connected to Epstein's fina
 * The Salas attack shows the lengths to which individuals connected to this network may go to prevent exposure
 * The $150M fine was considered by many to be inadequate given the scope of the bank's facilitation
 
+## Related Locations
+
+- [New York City Metro](../locations/new_york_metro.md) — Deutsche Bank NY office managed Epstein's accounts
+- [Southern California](../locations/southern_california.md) — Bowers (Malibu) and Val Broeksmit (LA) died here
+- [United Kingdom](../locations/united_kingdom.md) — William Broeksmit died in Kensington, London
+- [New Jersey](../locations/new_jersey.md) — Judge Salas attack connected to Deutsche Bank case
+
 ## Sources
 
 - [NYDFS: Deutsche Bank Consent Order — $150M Penalty](https://www.dfs.ny.gov/reports_and_publications/press_releases/pr202007071)

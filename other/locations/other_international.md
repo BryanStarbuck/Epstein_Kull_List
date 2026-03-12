@@ -6,13 +6,16 @@ Deaths and connections spanning Belgium, Ukraine, Oman, Australia, Mexico, Eston
 
 ## Belgium — The Dutroux Affair
 
-The most lethal cover-up in European judicial history: **27+ witnesses died** during the investigation of Marc Dutroux's pedophile ring.
+The most lethal cover-up in European judicial history: **20–27+ witnesses died** during the investigation of Marc Dutroux's pedophile ring.
 
 - See full details: [Dutroux Affair group file](../groups/dutroux_affair.md)
 - 6 girls kidnapped (ages 8–19); 2 starved to death in basement dungeon
 - 300,000 people marched in Brussels (the "White March") when evidence emerged of institutional sabotage
-- Key witness deaths: Bruno Tagliaferro (poisoned), Fabienne Jaupart (burned), Jose Steppe (died before testimony), Anna Konjevoda (beaten/strangled)
-- Not directly connected to Epstein, but the structural parallels are the most striking of any international case
+- Key witness deaths: Bruno Tagliaferro (ruled heart attack, but American analysts later determined he was **poisoned**), his wife Fabienne Jaupart (found dead after her mattress was set on fire — she had been determined to find her husband's killer), Jose Steppe (died before testimony), Anna Konjevoda (beaten/strangled)
+- **Testimony suppressed at the highest level**: Witness "X1" (Regina Louf) named multiple elite Belgian political and business figures. The presiding judge, Jean-Claude Van Espen, discarded her testimony and stopped the investigation. The new judge, Anne Thily, declared Louf "a fantasist." Substantial efforts by magistrates and senior police officials were made to demolish the testimony of all X-witnesses.
+- **Christine Van Hees**: Named by witness X1 as one of the victims of the child sex ring who was allegedly murdered to prevent her from going to authorities. Dutroux and his associate Michel Nihoul were suspected in her 1984 death.
+- **Complete reorganization of Belgian law enforcement**: The lenient treatment of Dutroux in his first prosecution, combined with police shortcomings, caused such widespread discontent that it triggered a complete reorganization of Belgium's law enforcement agencies.
+- Not directly connected to Epstein, but the structural parallels are the most striking of any international case: institutional protection of perpetrators, witness deaths, suppressed testimony, and elite involvement
 
 ## Ukraine — Kyiv
 
@@ -64,6 +67,9 @@ Multiple living persons connected to Epstein are based in Norway:
 
 - Individual detail profiles contain full sourcing for each death
 - [Wikipedia: Marc Dutroux](https://en.wikipedia.org/wiki/Marc_Dutroux)
+- [Wikipedia: Regina Louf](https://en.wikipedia.org/wiki/Regina_Louf)
+- [Consortium News: The Revelations of WikiLeaks No. 4 — The Haunting Case of a Belgian Child Killer](https://consortiumnews.com/2019/07/11/the-revelations-of-wikileaks-no-4-the-haunting-case-of-a-belgian-child-killer-and-how-wikileaks-helped-crack-it/)
+- [Ashes on Air: Marc Dutroux — Obscured Testimony and Unjust Silence](https://ashesonair.org/2025/05/13/marc-dutroux-obscured-testimony-and-unjust-silence/)
 - Whitney Webb, *One Nation Under Blackmail* (TrineDay, 2022)
 
 *This information was built by Grok and Claude AI research.*

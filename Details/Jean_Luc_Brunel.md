@@ -72,6 +72,10 @@ Brunel was detained in December 2020 at Paris Charles de Gaulle airport while at
 - [Ruslana Korshunova](Ruslana_Korshunova.md) — Model connected to Epstein's modeling pipeline
 - [Anastasia Drozdova](Anastasia_Drozdova.md) — Model connected to same network
 
+## Related Locations
+
+- [France](../other/locations/france.md) — Found hanged in La Sante Prison in Paris; detained at Charles de Gaulle airport
+
 ## Sources
 
 - [BBC News: Jean-Luc Brunel, model agent accused of procuring girls for Jeffrey Epstein, found dead](https://www.bbc.com/news/world-europe-60443518)

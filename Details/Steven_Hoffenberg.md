@@ -82,6 +82,10 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 >
 > — Steven Hoffenberg, in a 2019 affidavit accusing Epstein of being his "co-conspirator" in the Ponzi scheme ([The Daily Beast](https://www.thedailybeast.com/steven-hoffenberg-jeffrey-epsteins-ponzi-schemer-pal-found-dead-after-a-welfare-check/))
 
+## Related Locations
+
+- [New York City Metro](../other/locations/new_york_metro.md) — Based in New York City during partnership with Epstein; ran Towers Financial Corp from NYC; found dead in Derby, Connecticut
+
 ## Sources
 
 - [NPR: Jeffrey Epstein Mentor Steven Hoffenberg Was Found Dead](https://www.npr.org/2022/08/26/1119746511/jeffrey-epstein-mentor-steven-hoffenberg-dead)

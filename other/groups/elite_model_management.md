@@ -58,6 +58,11 @@ The connection between Elite and Epstein was direct:
 * The destruction of Mulder's TV interview footage shows active evidence suppression
 * The statute of limitations closure of the Marie case shows how the justice system fails long-term abuse victims
 
+## Related Locations
+
+- [France](../locations/france.md) — Paris HQ; where Karen Mulder was silenced
+- [New York City Metro](../locations/new_york_metro.md) — New York office
+
 ## Sources
 
 - [Wikipedia: Elite Model Management](https://en.wikipedia.org/wiki/Elite_Model_Management)

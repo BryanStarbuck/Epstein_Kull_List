@@ -43,9 +43,22 @@ In 1996, **Southern Air Transport** — an airline **owned outright by the CIA f
 - [CIA](../groups/cia.md) — Southern Air Transport connection
 - [Mossad](../groups/mossad.md) — Mega Group alleged connections
 
+## Surprising Details
+
+- **The police memo that was ordered destroyed**: In June 1991, a Columbus police analyst submitted an internal memo concluding that "it appears that Les Wexner had established contact with associates reputed to be organized crime figures, one of whom was a major investment partner and another was using The Limited headquarters as a mailing address." Columbus Police Chief James G. Jackson ordered the memo destroyed the same month it was completed. Investigative journalist Bob Fitrakis later obtained the findings when they were accidentally released through a public records request.
+- **Epstein took Shapiro's position**: In July 1991 — one month after the Shapiro murder memo was submitted — Wexner signed a document giving Epstein power of attorney to act on his behalf in all affairs, effectively handing Epstein personal control of his vast fortune. Epstein stepped into the financial role that Shapiro had occupied.
+- **Interconnected death web**: Shapiro, Yassenoff, and Kessler were all "connected through a maze of business dealings." Kessler and Marjorie Dyer were the only witnesses who had signed Yassenoff's will. Kessler came under suspicion when Dyer died in a questionable automobile accident. Law enforcement was allegedly involved in covering up the Yassenoff, Rich, and Shapiro murders.
+- **CIA airline shipped lingerie**: Southern Air Transport — owned outright by the CIA from 1960 to 1973 and used in Iran-Contra arms/drug smuggling — filed for bankruptcy in Columbus, Ohio on October 1, 1998. That was the same day the CIA Inspector General released a report detailing allegations of Southern Air Transport's involvement in drug trafficking. Much of the Hong Kong-to-Rickenbacker cargo was for Wexner's The Limited, which was operating under Epstein's power of attorney.
+- **House committee finding**: A House Oversight Committee panel stated that Wexner gave Epstein "about a billion dollars" — far exceeding prior public estimates of the financial relationship.
+
 ## Sources
 
-- [Drop Site News: Epstein, Israel, and the CIA — How the Iran-Contra Planes Landed at Les Wexner's Base](https://www.dropsitenews.com/)
+- [Drop Site News: Epstein, Israel, and the CIA — How the Iran-Contra Planes Landed at Les Wexner's Base](https://www.dropsitenews.com/p/jeffrey-epstein-iran-contra-planes-leslie-wexner-pottinger-leese-arms-weapons-smuggling)
+- [Unlimited Hangout: A Kingpin, the Mob, and a Murder — The Deeper Mystery behind the Arthur Shapiro Homicide](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/)
+- [Columbus Free Press: Jeffrey Epstein — There's much more to the story](https://columbusfreepress.com/article/jeffrey-epstein-there%E2%80%99s-much-more-story-2)
+- [The Shapiro Murder File (Freepress.org)](https://freepress.org/article/shapiro-murder-file)
+- [Front Page Detectives: Read the Document — Wexner, Organized Crime, and the Arthur Shapiro Hit](https://frontpagedetectivesonline.substack.com/p/read-the-document-lex-wexner-organized)
+- [ABC6: House Panel says Wexner gave Epstein about a billion dollars](https://abc6onyourside.com/news/local/house-oversight-committee-panel-les-leslie-wexner-jeffrey-epstein-billion-dollars-l-brands-limited-victorias-secret-new-albany-billionaire-columbus-ohio)
 - [Wikipedia: Les Wexner](https://en.wikipedia.org/wiki/Les_Wexner)
 - [Wikipedia: Southern Air Transport](https://en.wikipedia.org/wiki/Southern_Air_Transport)
 - Whitney Webb, *One Nation Under Blackmail* (TrineDay, 2022)

@@ -91,6 +91,10 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 > "Shielding records won't discourage the conspiracy theorists, it will only encourage them."
 > — **Max Brantley**, Arkansas Times editor, commenting on the decision to seal records ([Arkansas Times](https://arktimes.com/arkansas-blog/2022/06/08/family-seeks-to-shield-images-of-mark-middletons-death-in-perry-county))
 
+## Related Locations
+
+- [Arkansas](../other/locations/arkansas.md) — Found dead at Heifer International Ranch in Perryville, Perry County, Arkansas
+
 ## Sources
 
 - [Arkansas Times: Family seeks to shield images of Mark Middleton's death in Perry County](https://arktimes.com/arkansas-blog/2022/06/08/family-seeks-to-shield-images-of-mark-middletons-death-in-perry-county)

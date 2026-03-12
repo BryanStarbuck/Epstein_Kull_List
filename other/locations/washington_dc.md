@@ -79,11 +79,25 @@ Every decade since the 1980s, a sex trafficking or blackmail operation targeting
 - [Mossad](../groups/mossad.md)
 - [Jeffrey Epstein Network](../groups/jeffrey_epstein_network.md)
 
+## Surprising Details
+
+- **Spence's wired mansion**: Craig Spence's Kalorama home was outfitted with extensive surveillance equipment — hidden cameras and microphones throughout. Friends and guests reported that Spence would entice guests into sexual encounters with prostitutes specifically to create blackmail material. The operation was run through a male escort service operated by Henry Vinson, who laundered money through a funeral parlor.
+- **Spence's death message**: Found dead at the Boston Ritz-Carlton on November 10, 1989, Spence left a message: "Chief, consider this case closed." He barricaded himself in Room 429 — the most expensive room in the hotel.
+- **PROMIS as intelligence backdoor**: Michael Riconoscuito claimed to have tampered with PROMIS software to turn it into an espionage tool. A DOJ copy was allegedly provided to a man identifying himself as "Joseph Ben-Orr" — reportedly an alias of Israeli spymaster Rafi Eitan, who, according to former Israeli spy Ari Ben-Menashe, later admitted his role. Danny Casolaro dubbed the interlocking scandals (PROMIS, Iran-Contra, BCCI, October Surprise) "The Octopus" and was found with his wrists slashed 10–12 times in a West Virginia hotel room while investigating the network.
+- **DC Madam's suicide notes**: Palfrey left handwritten notes dated a week before her death. To her sister: "You must comprehend there was no way out, I.E. 'exit strategy,' for me other than the one I have chosen here." She described her predicament as a "modern-day lynching." Notably, her escort service employee Brandi Britton had also died by hanging in January 2007 — Palfrey initially reacted by saying "I guess I'm made of something that Brandy Britton wasn't made of."
+- **CIPA at a prostitution trial**: The government invoked CIPA (Classified Information Procedures Act) during Palfrey's trial — a procedure normally reserved for terrorism and espionage cases. This suggests classified intelligence information was connected to the escort service's client list.
+- **Four decades, same pattern**: Each DC blackmail operation (Spence 1980s, Franklin-DC 1980s, DC Madam 1990s–2000s, Epstein 2000s–2019) followed the same arc: exposure, key witnesses die, client lists sealed or destroyed, investigation shut down.
+
 ## Sources
 
-- [Washington Times: Homosexual Prostitution Inquiry Ensnares VIPs (June 29, 1989)](https://www.washingtonpost.com/archive/politics/1989/06/30/)
+- [Washington Post: The Shadow World of Craig Spence (1989)](https://www.washingtonpost.com/archive/lifestyle/1989/07/18/the-shadow-world-of-craig-spence/2837e91e-49ce-4121-9416-8e0c7a2debf6/)
+- [Washington Post: D.C. Sex Scandal Figure Taped Farewell to Friends (1989)](https://www.washingtonpost.com/archive/local/1989/11/13/dc-sex-scandal-figure-taped-farewell-to-friends/1c2fcd73-876f-4394-84c1-50948d41589d/)
+- [TIME: Washington's Man from Nowhere](https://time.com/archive/6703057/washingtons-man-from-nowhere/)
+- [Wikipedia: Craig J. Spence](https://en.wikipedia.org/wiki/Craig_J._Spence)
+- [Wikipedia: Danny Casolaro](https://en.wikipedia.org/wiki/Danny_Casolaro)
 - [Wikipedia: Deborah Jeane Palfrey](https://en.wikipedia.org/wiki/Deborah_Jeane_Palfrey)
-- [Wikipedia: Suicide of Vince Foster](https://en.wikipedia.org/wiki/Suicide_of_Vince_Foster)
+- [CNN: DC Madam found hanged](https://edition.cnn.com/2008/POLITICS/05/01/dc.madam/index.html)
+- [CBS News: DC Madam suicide notes released](https://www.cbsnews.com/news/dc-madam-suicide-notes-released/)
 - Whitney Webb, *One Nation Under Blackmail* (TrineDay, 2022)
 - Nick Bryant, *The Franklin Scandal* (TrineDay, 2009)
 

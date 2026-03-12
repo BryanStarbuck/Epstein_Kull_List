@@ -67,6 +67,11 @@ Casolaro and Robert Maxwell died within three months of each other in 1991.
 - [Mossad](../other/groups/mossad.md) — Israeli intelligence service that allegedly distributed backdoored PROMIS via Robert Maxwell
 - [CIA](../other/groups/cia.md) — U.S. intelligence agency allegedly involved in the PROMIS software theft and modification
 
+## Related Locations
+
+- [Other U.S. Locations](../other/locations/other_us.md) — Found dead in Sheraton Hotel in Martinsburg, West Virginia
+- [Washington DC Area](../other/locations/washington_dc.md) — Investigated PROMIS software theft from the U.S. Department of Justice; his "Octopus" investigation centered on Washington power networks
+
 ## Sources
 
 - [Wikipedia: Danny Casolaro](https://en.wikipedia.org/wiki/Danny_Casolaro)

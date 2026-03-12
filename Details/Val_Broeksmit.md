@@ -74,6 +74,10 @@ Val had a history of personal struggles, including substance abuse, and had prev
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Found hanged in prison, same month cluster (2022)
 - [Mark Middleton](Mark_Middleton.md) — Found hanged, died one month later (2022)
 
+## Related Locations
+
+- [Southern California](../other/locations/southern_california.md) — Found dead on Wilson High School campus in El Sereno, Los Angeles
+
 ## Sources
 
 - [Newsweek: Valentin Broeksmit, Deutsche Bank Informant, Found Dead](https://www.newsweek.com/valentin-broeksmit-deutsche-bank-trump-dead-1701370)

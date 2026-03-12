@@ -64,6 +64,11 @@ Former Israeli intelligence operative Ari Ben-Menashe has publicly stated that E
 - [PROMIS / The Octopus](../other/groups/promis_octopus.md) — Backdoored software Maxwell allegedly distributed worldwide for Mossad
 - [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — The operation his daughter Ghislaine co-ran with Epstein
 
+## Related Locations
+
+- [United Kingdom](../other/locations/united_kingdom.md) — British media mogul based in London; built his publishing empire in the UK
+- [Other International](../other/locations/other_international.md) — Found dead floating in the Atlantic Ocean near the Canary Islands; buried on the Mount of Olives in Jerusalem
+
 ## Sources
 
 - [Wikipedia: Robert Maxwell](https://en.wikipedia.org/wiki/Robert_Maxwell)

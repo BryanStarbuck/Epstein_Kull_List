@@ -169,6 +169,10 @@ The platform treats the Salas attack as one of the strongest pieces of circumsta
 
 - [Deutsche Bank](../other/groups/deutsche_bank.md) — His mother was assigned the Epstein-Deutsche Bank case four days before his murder
 
+## Related Locations
+
+- [New Jersey](../other/locations/new_jersey.md) — Shot dead at family home in North Brunswick Township, New Jersey
+
 ## Sources
 
 - [Newsweek: Judge Salas Assigned to Epstein Deutsche Bank Case 4 Days Before Shooting](https://www.newsweek.com/judge-esther-salas-shooting-deutsche-bank-epstein-1518974)

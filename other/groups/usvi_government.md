@@ -51,6 +51,10 @@ The USVI eventually secured a $105 million settlement from Epstein's estate and 
 * Reveals that Epstein's influence extended to crafting actual legislation in his favor
 * The USVI's protection apparatus enabled Epstein to operate Little St. James for over 20 years
 
+## Related Locations
+
+- [Caribbean (USVI & Puerto Rico)](../locations/caribbean.md) — Little St. James and government protection
+
 ## Sources
 
 - [St. Thomas Source: Epstein Documents Shed Light on Former AG's Ouster](https://stthomassource.com/content/2026/01/30/i-cant-get-you-to-let-this-go-epstein-documents-shed-light-on-former-v-i-attorney-generals-ouster/)

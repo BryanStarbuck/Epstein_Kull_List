@@ -164,6 +164,16 @@ The [Groups](other/groups/) directory documents the organizations, intelligence 
 
 **Government Entities:** [USVI Government](other/groups/usvi_government.md) (territorial government that protected Epstein)
 
+## Locations
+
+The [Locations](locations.md) index maps every death and operation geographically. The [Locations directory](other/locations/) contains detailed breakdowns for each region:
+
+**Major U.S. Hubs:** [New York Metro](other/locations/new_york_metro.md) (12+ deaths), [South Florida](other/locations/south_florida.md) (8+ deaths), [Southern California](other/locations/southern_california.md) (9+ deaths), [Washington DC](other/locations/washington_dc.md) (4 decades of overlapping blackmail ops), [Columbus, Ohio](other/locations/columbus_ohio.md) (Wexner's base, CIA airline), [New Mexico](other/locations/new_mexico.md) (Zorro Ranch, never raided)
+
+**Other U.S.:** [Arkansas](other/locations/arkansas.md) (Middleton, sealed records), [Omaha](other/locations/omaha_nebraska.md) (Franklin scandal), [New Jersey](other/locations/new_jersey.md) (Judge Salas attack), [Caribbean](other/locations/caribbean.md) (Little St. James, government protection), [Other U.S.](other/locations/other_us.md)
+
+**International:** [France](other/locations/france.md) (Brunel, modeling industry), [United Kingdom](other/locations/united_kingdom.md) (Maxwell family, Savile), [Other International](other/locations/other_international.md) (Belgium, Ukraine, Oman, Australia, Mexico)
+
 ## Detailed Research
 
 The [Details/](Details/) subdirectory contains:
@@ -173,6 +183,7 @@ The [Details/](Details/) subdirectory contains:
 - [Location data](locations.md) and the [Weiner laptop overview](other/laptop.md)
 - A detailed breakdown of the [NYPD Weiner laptop deaths](other/laptop.md)
 - [Groups & Organizations](other/groups/) — 15 profiles of intelligence services, trafficking operations, financial institutions, and other connected groups
+- [Locations](other/locations/) — 14 geographic profiles covering every region where deaths or operations occurred
 
 ## Data Files
 
@@ -185,7 +196,7 @@ The [Details/](Details/) subdirectory contains:
 ### CSV Reference Files
 - **person_types.csv** — 30 categories of connected individuals (victims, law enforcement, politicians, co-conspirators, witnesses, journalists, lawyers, judges, prison guards, pilots, staff, business associates, intelligence operatives, and more)
 - **person_categories.csv** — Groupings and subcategories for analysis
-- **locations.csv** — 40 locations across 20+ countries/states/cities where deaths occurred or were investigated (NY, FL, NM, CA, OH, USVI, France, UK, Israel, Morocco, Spain, Monaco, Switzerland, Austria, Belgium)
+- **other/locations/locations.csv** — 40 locations across 20+ countries/states/cities where deaths occurred or were investigated (NY, FL, NM, CA, OH, USVI, France, UK, Israel, Morocco, Spain, Monaco, Switzerland, Austria, Belgium)
 
 ### Research Notes
 - **findings_national_enquirer.txt** — Notes from National Enquirer investigation (two dozen+ linked deaths)

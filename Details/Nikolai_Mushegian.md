@@ -66,6 +66,10 @@ Mushegian fits a documented pattern of individuals who publicly accused intellig
 >
 > — [Candace Owens](https://x.com/realcandaceo/status/1597619580352200704), November 29, 2022
 
+## Related Locations
+
+- [Caribbean](../other/locations/caribbean.md) — Drowned at Condado Beach in San Juan, Puerto Rico; tweeted about CIA/Mossad trafficking ring operating out of Puerto Rico and Caribbean islands
+
 ## Sources
 - [Wikipedia: Nikolai Mushegian](https://en.wikipedia.org/wiki/Nikolai_Mushegian)
 - [CoinDesk: Early MakerDAO Developer and Stablecoin Pioneer Found Dead in Puerto Rico](https://www.coindesk.com/business/2022/11/01/early-makerdao-developer-and-stablecoin-pioneer-found-dead-in-puerto-rico)

@@ -84,6 +84,13 @@ Epstein had a previous conviction in 2008 under a controversial Florida plea dea
 - [Joe Recarey](Joe_Recarey.md) — Lead detective on the original investigation
 - [Weiner Laptop Officers](../other/laptop.md) — NYPD officers who allegedly died after viewing related evidence
 
+## Related Locations
+
+- [New York City Metro](../other/locations/new_york_metro.md) — Died at Metropolitan Correctional Center in Manhattan; primary base of operations
+- [South Florida](../other/locations/south_florida.md) — Palm Beach mansion where trafficking was first investigated; 2008 plea deal in Florida
+- [Caribbean](../other/locations/caribbean.md) — Owned Little St. James island in the U.S. Virgin Islands, center of trafficking operation
+- [New Mexico](../other/locations/new_mexico.md) — Owned Zorro Ranch near Stanley, New Mexico; another documented abuse location
+
 ## Sources
 
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)

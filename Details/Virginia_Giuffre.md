@@ -95,6 +95,11 @@ In February 2026, newly released Epstein files shed additional light on her case
 - [Leigh Skye Patrick](Leigh_Skye_Patrick.md) — Fellow victim who died of overdose
 - [Ruslana Korshunova](Ruslana_Korshunova.md) — Model documented on Epstein's jet
 
+## Related Locations
+
+- [Other International](../other/locations/other_international.md) — Died at her farm in Neergabby, Western Australia; trafficked internationally by Epstein
+- [South Florida](../other/locations/south_florida.md) — Recruited by Ghislaine Maxwell in Florida; raised primarily in the state
+
 ## Sources
 
 - [NBC News: Virginia Giuffre, One of Epstein's Most Prominent Abuse Survivors, Dies by Suicide](https://www.nbcnews.com/news/us-news/virginia-giuffre-one-jeffrey-epsteins-prominent-abuse-survivors-dies-s-rcna203027)

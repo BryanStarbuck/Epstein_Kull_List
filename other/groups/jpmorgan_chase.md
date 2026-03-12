@@ -50,6 +50,11 @@ JPMorgan was Epstein's primary bank before [Deutsche Bank](deutsche_bank.md) too
 * The firing of AG Denise George for suing JPMorgan shows the power of institutional retaliation
 * Combined with [Deutsche Bank](deutsche_bank.md), demonstrates that Epstein had continuous major-bank access for 20+ years despite his crimes
 
+## Related Locations
+
+- [New York City Metro](../locations/new_york_metro.md) — JPMorgan HQ; managed Epstein's accounts
+- [Caribbean (USVI & Puerto Rico)](../locations/caribbean.md) — USVI AG sued JPMorgan; Cecile de Jongh payroll
+
 ## Sources
 
 - [USVI v. JPMorgan Chase, filed December 27, 2022](https://ag.vi.gov/press-releases)

@@ -54,6 +54,10 @@ However, Kappy had no known history of suicidal ideation prior to the final note
 
 - [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — Named Hollywood pedophiles connected to trafficking networks
 
+## Related Locations
+
+- [Other U.S. Locations](../other/locations/other_us.md) — Fell from Transwestern Road bridge near Bellemont, Arizona, onto Interstate 40
+
 ## Sources
 - [PolitiFact: Actor Isaac Kappy died years ago, but QAnon claims that he was murdered persist](https://www.politifact.com/factchecks/2023/jan/24/facebook-posts/actor-isaac-kappy-died-years-ago-qanon-claims-he-w/)
 - [Wikipedia: Isaac Kappy](https://en.wikipedia.org/wiki/Isaac_Kappy)

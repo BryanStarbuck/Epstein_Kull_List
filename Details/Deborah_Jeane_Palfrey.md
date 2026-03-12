@@ -69,6 +69,11 @@ Her death is relevant to the broader pattern because it demonstrates what can ha
 - [Craig Spence Operation](../other/groups/craig_spence.md) — Another DC-area political sex operation from the 1980s
 - [Franklin Scandal](../other/groups/franklin_scandal.md) — Earlier DC-connected child trafficking ring
 
+## Related Locations
+
+- [South Florida](../other/locations/south_florida.md) — Found hanged at her mother's mobile home in Tarpon Springs, Florida
+- [Washington DC Area](../other/locations/washington_dc.md) — Operated Pamela Martin and Associates escort service serving Washington DC power brokers
+
 ## Sources
 
 - [Wikipedia: Deborah Jeane Palfrey](https://en.wikipedia.org/wiki/Deborah_Jeane_Palfrey)

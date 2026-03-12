@@ -68,6 +68,11 @@ The PROMIS operation and the Epstein operation share a common thread: both were 
 * Danny Casolaro's death demonstrates the lethal consequences of investigating these operations
 * The operation shows how stolen technology was weaponized for intelligence gathering — a precursor to modern surveillance concerns
 
+## Related Locations
+
+- [Washington DC Area](../locations/washington_dc.md) — PROMIS theft originated at DOJ; DC-based operation
+- [Other U.S. Locations](../locations/other_us.md) — Danny Casolaro killed in Martinsburg, WV
+
 ## Sources
 
 - [Wikipedia: Inslaw](https://en.wikipedia.org/wiki/Inslaw)

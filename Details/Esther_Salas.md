@@ -171,6 +171,10 @@ The official investigation is closed. Den Hollander acted alone, motivated by mi
 
 - [Deutsche Bank](../other/groups/deutsche_bank.md) — Was assigned the Epstein-Deutsche Bank investor lawsuit when her son was murdered
 
+## Related Locations
+
+- [New Jersey](../other/locations/new_jersey.md) — U.S. District Court Judge for the District of New Jersey; family attacked at home in North Brunswick Township
+
 ## Sources
 
 - [Newsweek: Judge Salas Assigned to Epstein Deutsche Bank Case 4 Days Before Shooting](https://www.newsweek.com/judge-esther-salas-shooting-deutsche-bank-epstein-1518974)

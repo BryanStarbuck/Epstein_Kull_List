@@ -66,6 +66,10 @@ The official ruling is suicide, supported by a handwriting-verified suicide note
 
 - [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — DHS whistleblower on trafficking
 
+## Related Locations
+
+- [Other U.S. Locations](../other/locations/other_us.md) — Found shot dead near Plymouth, California, in a park-and-ride lot along State Highway 16
+
 ## Sources
 
 - [Wikipedia: Philip Haney](https://en.wikipedia.org/wiki/Philip_Haney)

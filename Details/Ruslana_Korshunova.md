@@ -114,6 +114,10 @@ Two young models, both connected to the same psychological group, both dying by 
 - [Steve Bing](Steve_Bing.md) — Also died from a building fall
 - [Wendy Leigh](Wendy_Leigh.md) — Also found beneath a balcony
 
+## Related Locations
+
+- [New York City Metro](../other/locations/new_york_metro.md) — Fell from 9th-floor apartment at 130 Water Street in Manhattan's Financial District
+
 ## Sources
 
 - [Yahoo News: Epstein Files Reveal Russian Model Who Died by Suicide Flew on His Private Jet](https://www.yahoo.com/news/articles/epstein-files-reveal-russian-model-223600030.html)

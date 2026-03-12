@@ -75,6 +75,10 @@ The NTSB ruled this pilot error, but the mid-air disintegration of the aircraft,
 - [Franklin Scandal](../other/groups/franklin_scandal.md) — The child trafficking ring Caradori was investigating when his plane disintegrated
 - [Craig Spence Operation](../other/groups/craig_spence.md) — DC lobbyist connected to the Franklin network's Washington operations
 
+## Related Locations
+
+- [Omaha, Nebraska](../other/locations/omaha_nebraska.md) — Investigated the Franklin scandal centered in Omaha; was returning to Nebraska when his plane disintegrated
+
 ## See Also
 
 - [Franklin child prostitution ring allegations — Wikipedia](https://en.wikipedia.org/wiki/Franklin_child_prostitution_ring_allegations)

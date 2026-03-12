@@ -73,6 +73,11 @@ Whitney Webb's *One Nation Under Blackmail* draws direct parallels between the F
 * Caradori's death demonstrates the lethal risk facing investigators of these networks
 * The pulled Discovery Channel documentary demonstrates media suppression
 
+## Related Locations
+
+- [Omaha, Nebraska](../locations/omaha_nebraska.md) — Where the scandal was centered; Boys Town
+- [Washington DC Area](../locations/washington_dc.md) — Where victims were allegedly trafficked for parties
+
 ## Sources
 
 - [Wikipedia: Franklin child prostitution ring allegations](https://en.wikipedia.org/wiki/Franklin_child_prostitution_ring_allegations)

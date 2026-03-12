@@ -49,10 +49,10 @@ Epstein died at the Metropolitan Correctional Center in Lower Manhattan — a fe
 
 | Property | Address | Significance |
 |----------|---------|-------------|
-| Epstein Townhouse | 9 E. 71st St, Manhattan | Primary residence; site of alleged trafficking; wired with cameras |
-| Metropolitan Correctional Center | 150 Park Row, Manhattan | Where Epstein died; cameras failed; guards asleep |
+| Epstein Townhouse | 9 E. 71st St, Manhattan | 28,000 sq ft mansion originally built 1930 for Herbert Straus (Macy's heir); Birch Wathen School 1962–1989; Wexner bought for $13.2M in 1989, renovated by Thierry Despont, never lived there; transferred to Epstein 1998 for $20M (ownership records murky until 2011); sold 2021 for $51M to former Goldman exec, proceeds to victims fund |
+| Metropolitan Correctional Center | 150 Park Row, Manhattan | Where Epstein died; no inmate suicide in 21 years prior; J-tier camera not recording; surveillance system offline July 29–August 14 (death was August 10); guards shopped online instead of rounds; falsified log entries contradicted by footage; guards asleep for 3+ hours |
 | 301 E. 66th St apartment | Manhattan | Israeli government installed security equipment for Ehud Barak visits |
-| Deutsche Bank NY office | 60 Wall St, Manhattan | Managed Epstein's accounts; $150M fine |
+| Deutsche Bank NY office | 60 Wall St, Manhattan | Managed $100M–$300M/year in Epstein transactions; $150M fine; suspicious payments to Russian models, law firms ($6M+), settlement payments ($7M+), and $800K+ in unexplained cash withdrawals |
 | JPMorgan Chase HQ | 383 Madison Ave, Manhattan | 15+ year banking relationship; $365M settlements |
 
 ## Patterns
@@ -72,10 +72,27 @@ Epstein died at the Metropolitan Correctional Center in Lower Manhattan — a fe
 - [MC2 Model Management](../groups/mc2_model_management.md)
 - [Mossad](../groups/mossad.md) — Ehud Barak's visits to Epstein's NYC apartments
 
+## Surprising Details
+
+- **The townhouse transfer**: Wexner bought 9 E. 71st for $13.2M, spent millions renovating it with architect Thierry Despont, then never lived there (spent at most two months in the house). Epstein moved in by 1995, claiming to own it, but the deed didn't formally transfer until 1998 — and registered ownership didn't change from a Wexner-Epstein joint trust to an Epstein-only trust until 2011.
+- **MCC camera contradictions**: Video released as part of the Epstein files includes footage from a camera previously described as non-recording. The four clips are all dated August 12, 2019 — two days *after* Epstein's death — while DOJ correspondence states the surveillance system was offline from July 29 to August 14. This paradox has never been explained.
+- **Deutsche Bank knew**: The relationship manager who brought Epstein to Deutsche Bank had previously managed his accounts at a competing bank. Despite Epstein being a convicted sex offender, the banker estimated his accounts would generate $4M/year in revenue. Deutsche Bank processed payments to "Russian models," women's school tuition, hotel and rent expenses, and over $800,000 in suspicious cash withdrawals.
+- **Korshunova flight logs**: 2024 document releases confirmed Korshunova visited Little St. James in 2006, flying on Epstein's jet as a teenager. In a 2010 email made public in 2026, Epstein referenced her death, blaming her boyfriend for "refusing to get her the help she needed."
+- **Five dead Russian diplomats**: Churkin's death made him the fifth Russian diplomat posted abroad to die unexpectedly since November 2016. The first died at the Russian consulate in NYC on the morning of the US presidential election. The State Department requested a gag order on Churkin's cause of death citing diplomatic immunity.
+
 ## Sources
 
+- [Wikipedia: Herbert N. Straus House](https://en.wikipedia.org/wiki/Herbert_N._Straus_House)
+- [NBC4: What Les Wexner said about the Manhattan penthouse he sold to Epstein](https://www.nbc4i.com/news/local-news/new-albany/what-les-wexner-said-about-the-manhattan-penthouse-he-sold-to-jeffrey-epstein/)
+- [ABC News: Epstein Manhattan townhouse sells for $51M](https://abcnews.com/US/jeffrey-epsteins-manhattan-townhouse-sells-approximately-51-million/story?id=76371810)
+- [DOJ OIG: Investigation of Federal Bureau of Prisons' Custody of Epstein](https://oig.justice.gov/reports/investigation-and-review-federal-bureau-prisons-custody-care-and-supervision-jeffrey)
+- [CBS News: Epstein files videos raise fresh questions about jail footage](https://www.cbsnews.com/news/epstein-files-videos-jail-footage/)
+- [The Hill: FBI examining broken cameras outside Epstein jail cell](https://thehill.com/homenews/news/459294-fbi-examining-broken-cameras-outside-epstein-jail-cell-report/)
+- [CNBC: Deutsche Bank hit with $150M penalty for Epstein relationship](https://www.cnbc.com/2020/07/07/jeffrey-epstein-case-deutsche-bank-fined-150-million-penalty-for-relationship.html)
+- [NY DFS: $150M penalty on Deutsche Bank](https://www.dfs.ny.gov/reports_and_publications/press_releases/pr202007071)
+- [Tengrinews: Epstein files spark renewed debate over death of Kazakh model Korshunova](https://en.tengrinews.kz/people/epstein-files-spark-renewed-debate-over-death-of-kazakh-270892/)
+- [Wikipedia: Vitaly Churkin](https://en.wikipedia.org/wiki/Vitaly_Churkin)
 - [Wikipedia: Jeffrey Epstein](https://en.wikipedia.org/wiki/Jeffrey_Epstein)
-- [NY Times: Epstein's Manhattan Mansion](https://www.nytimes.com/2019/07/08/nyregion/epstein-nyc-mansion.html)
 - [Al Jazeera: Israel Installed Security at Epstein's Manhattan Apartment](https://www.aljazeera.com/news/2026/2/19/israel-installed-security-at-epsteins-manhattan-apartment-for-ex-pm-barak)
 - Whitney Webb, *One Nation Under Blackmail* (TrineDay, 2022)
 

@@ -62,6 +62,10 @@ Foster's death was ruled suicide by five investigations with unlimited resources
 
 - [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — Referenced in Epstein's 2016 emails
 
+## Related Locations
+
+- [Washington DC Area](../other/locations/washington_dc.md) — Found dead at Fort Marcy Park in McLean, Virginia; served as White House deputy counsel
+
 ## Sources
 
 - [Washington Post: Foster Note Reveals an Anguished Aide (August 11, 1993)](https://www.washingtonpost.com/archive/politics/1993/08/11/foster-note-reveals-an-anguished-aide/43ff5183-ca17-47c1-aa04-6d39839d1dcd/)

@@ -61,11 +61,26 @@ Both were young women whose abuse began as teenagers at Epstein's mansion. Both 
 - [DC Madam (Palfrey)](../groups/dc_madam.md) — Palfrey died in Tarpon Springs
 - [Wexner/L Brands](../groups/wexner_l_brands.md) — John Deroo connection
 
+## Surprising Details
+
+- **Grand jury blamed the victims**: 2024-released Palm Beach County grand jury transcripts revealed that prosecutor Barry Krischer presented Epstein's underage victims as "prostitutes" to the grand jury, resulting in a single charge of solicitation — rather than the multiple felony sex offense charges the police recommended. Police Chief Michael Reiter was so incensed he publicly apologized to the victims and turned the case over to the FBI.
+- **The non-prosecution agreement**: On September 24, 2007, Epstein signed a federal non-prosecution agreement — one day before prosecutors were prepared to indict him. Acosta agreed to grant immunity not just to Epstein but to four named co-conspirators *and any unnamed "potential co-conspirators"* — effectively shielding the entire network. The deal was concealed from victims in violation of the Crime Victims' Rights Act (ruled by a federal judge in 2019).
+- **"Belonged to intelligence"**: According to reporting, when asked why he gave Epstein such a lenient deal, Acosta reportedly said Epstein "belonged to intelligence" and was told to "leave it alone." Acosta resigned as Trump's Labor Secretary in July 2019 after renewed scrutiny.
+- **MC2 as trafficking pipeline**: Jean-Luc Brunel's MC2 Model Management, headquartered in Miami Beach, was directly financed by Epstein starting in 2004. The agency scouted models from Brazil, former Soviet countries, and Europe. Multiple victims testified that Brunel helped recruit girls for Epstein under the guise of modeling opportunities.
+- **DC Madam died in Florida**: Deborah Jeane Palfrey, the "DC Madam," was found hanged in Tarpon Springs, Florida — not DC — at her mother's mobile home. She had previously said she'd "never want my life to end in suicide" but also left handwritten notes dated a week before her death. One note stated: "there was no way out...other than the one I have chosen here." Her escort service employee Brandi Britton had also died by hanging before Palfrey.
+- **35+ victims, one plea**: Palm Beach police identified approximately 35 underage girls with similar stories of "sexual massages" at Epstein's mansion. Chief Reiter stated: "This was 50-something 'shes' and one 'he' — and the 'shes' all basically told the same story." Despite this, Epstein served only 13 months in county jail with work release during the day.
+
 ## Sources
 
 - [Wikipedia: Jeffrey Epstein](https://en.wikipedia.org/wiki/Jeffrey_Epstein)
 - [Miami Herald: Perversion of Justice investigation](https://www.miamiherald.com/topics/jeffrey-epstein)
 - [Palm Beach Post: Joe Recarey obituary](https://www.palmbeachpost.com/story/news/crime/2018/05/28/epstein-lead-detective-joe-recarey/6706838007/)
+- [ABC7: Palm Beach County grand jury docs reveal victims accused of prostitution](https://abc7ny.com/post/grand-jury-docs-2006-epstein-case-palm-beach-county-florida/15018104/)
+- [NBC News: Ex-Florida police chief says Epstein case worst failure of criminal justice](https://www.nbcnews.com/news/us-news/ex-florida-police-chief-epstein-case-worst-failure-criminal-justice-n1057226)
+- [PBS: The completely unprecedented plea deal Epstein made with Acosta](https://www.pbs.org/newshour/show/the-completely-unprecedented-plea-deal-jeffrey-epstein-made-with-alex-acosta)
+- [NPR: Epstein's prosecutors used poor judgment in 2008 deal](https://www.npr.org/2020/11/12/934265386/jeffrey-epsteins-former-prosecutors-used-poor-judgment-in-deal-doj-says)
+- [Wikipedia: Jean-Luc Brunel](https://en.wikipedia.org/wiki/Jean-Luc_Brunel)
+- [Wikipedia: Deborah Jeane Palfrey](https://en.wikipedia.org/wiki/Deborah_Jeane_Palfrey)
 - Whitney Webb, *One Nation Under Blackmail* (TrineDay, 2022)
 - Julie K. Brown, *Perversion of Justice* (Dey Street Books, 2021)
 

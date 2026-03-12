@@ -64,6 +64,10 @@ The prime suspect in the Shapiro murder was [Berry L. Kessler](Berry_Kessler.md)
 - [Marjorie Dyer](Marjorie_Dyer.md) — Co-signed Yassenoff's will with Kessler, died in car accident
 - [John Deroo](John_Deroo.md) — Kessler business partner, shot six times (1991); Kessler convicted
 
+## Related Locations
+
+- [Columbus, Ohio](../other/locations/columbus_ohio.md) — Gunned down in Columbus; managed Les Wexner's finances at L Brands headquarters
+
 ## Sources
 
 - [The Daily Beast: Who Murdered Arthur Shapiro, the Lawyer of Victoria's Secret Billionaire Les Wexner?](https://www.thedailybeast.com/who-murdered-arthur-shapiro-the-lawyer-of-victorias-secret-billionaire-les-wexner/)

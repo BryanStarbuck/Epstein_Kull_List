@@ -73,6 +73,10 @@ The Dutroux affair is not directly connected to Epstein, but the structural para
 * The Belgian public's response (300,000-person march) shows what happens when a nation confronts the reality of institutional protection of pedophiles
 * The failure to fully investigate the broader network remains one of Belgium's greatest judicial failures
 
+## Related Locations
+
+- [Other International](../locations/other_international.md) — Belgium; 27+ witness deaths
+
 ## Sources
 
 - [Wikipedia: Marc Dutroux](https://en.wikipedia.org/wiki/Marc_Dutroux)

@@ -71,6 +71,11 @@ The CIA's alleged connection to Epstein operates through several channels:
 * The pattern of intelligence-linked figures appearing throughout the Epstein case (Barr, Acosta, Kroll, PROMIS) is difficult to dismiss as coincidental
 * The alleged U.S.-Israeli intelligence partnership on blackmail operations has implications for understanding how democratic governments are compromised
 
+## Related Locations
+
+- [Washington DC Area](../locations/washington_dc.md) — CIA HQ in Langley; political protection apparatus
+- [Columbus, Ohio](../locations/columbus_ohio.md) — Southern Air Transport relocated to Wexner's base
+
 ## Sources
 
 - [Daily Beast: Vicky Ward on Alexander Acosta's Epstein deal](https://www.thedailybeast.com/jeffrey-epsteins-sick-story-played-out-for-years-in-plain-sight)

@@ -43,6 +43,11 @@ MC2 represents the evolution of the modeling-industry trafficking pipeline from 
 * The agency's Tel Aviv office raises questions about [intelligence service connections](mossad.md)
 * Brunel's death in prison before trial means the full extent of MC2's operations may never be known
 
+## Related Locations
+
+- [South Florida](../locations/south_florida.md) — Miami Beach headquarters
+- [France](../locations/france.md) — Brunel's base; died in Paris prison
+
 ## Sources
 
 - [Wikipedia: Jean-Luc Brunel](https://en.wikipedia.org/wiki/Jean-Luc_Brunel)

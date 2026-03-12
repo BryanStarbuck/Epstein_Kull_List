@@ -62,6 +62,10 @@ The Savile case is not directly connected to Epstein, but the parallels are exte
 * Savile's knighthood and royal connections show how predators embed themselves in establishment power structures
 * The scale of abuse (450+ victims) and duration (six decades) demonstrates what happens when institutions choose to protect their reputation over protecting victims
 
+## Related Locations
+
+- [United Kingdom](../locations/united_kingdom.md) — Savile operated across BBC, NHS, and children's homes
+
 ## Sources
 
 - [Wikipedia: Jimmy Savile sexual abuse scandal](https://en.wikipedia.org/wiki/Jimmy_Savile_sexual_abuse_scandal)

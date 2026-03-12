@@ -78,6 +78,11 @@ Washington DC has been the site of multiple elite sex operations with potential 
 * Palfrey's death adds to the pattern of individuals who possess compromising information about elites dying before that information is fully revealed
 * Her explicit statement against hanging, followed by death by hanging, is one of the most cited examples in conspiracy research
 
+## Related Locations
+
+- [Washington DC Area](../locations/washington_dc.md) — McLean, VA base of operations; near CIA HQ
+- [South Florida](../locations/south_florida.md) — Palfrey died in Tarpon Springs
+
 ## Sources
 
 - [Wikipedia: Deborah Jeane Palfrey](https://en.wikipedia.org/wiki/Deborah_Jeane_Palfrey)

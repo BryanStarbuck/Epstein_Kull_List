@@ -75,6 +75,12 @@ The alleged Mossad connection is considered by many researchers to be the key to
 
 An FBI Los Angeles field office memo reported a confidential human source (CHS) believed Epstein was "a co-opted Mossad agent" who had been "trained as a spy" for Israel. The same source claimed Alan Dershowitz had also "been co-opted by Mossad." **Caveat:** These are raw, unverified allegations from a single source. The Times of Israel reported the CHS had promoted conspiracy theories, raising credibility questions.
 
+## Related Locations
+
+- [New York City Metro](../locations/new_york_metro.md) — Israeli security installed at Epstein's 301 E. 66th St for Barak
+- [United Kingdom](../locations/united_kingdom.md) — Robert Maxwell's empire was based in London
+- [Caribbean (USVI & Puerto Rico)](../locations/caribbean.md) — Mushegian tweeted about Mossad trafficking ring in Caribbean
+
 ## Sources
 
 - [Al Jazeera: What Were Jeffrey Epstein's Links to Israel?](https://www.aljazeera.com/news/2026/2/9/what-were-jeffrey-epsteins-links-to-israel)

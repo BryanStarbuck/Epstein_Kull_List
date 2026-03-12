@@ -68,6 +68,11 @@ The Wexner connection is foundational to the Epstein operation:
 * Wexner's claim of being "deceived" by Epstein has been widely questioned given the extraordinary financial control he granted
 * The Victoria's Secret connection demonstrates how legitimate brands can be exploited as tools in trafficking operations
 
+## Related Locations
+
+- [Columbus, Ohio](../locations/columbus_ohio.md) — Wexner's base; Southern Air Transport; multiple deaths
+- [New York City Metro](../locations/new_york_metro.md) — Wexner transferred the Manhattan townhouse to Epstein
+
 ## Sources
 
 - [The Daily Beast: Who Murdered Arthur Shapiro?](https://www.thedailybeast.com/who-murdered-arthur-shapiro-the-lawyer-of-victorias-secret-billionaire-les-wexner/)

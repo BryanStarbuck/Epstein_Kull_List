@@ -37,10 +37,23 @@ Boys Town, a Catholic home for troubled youth located just west of Omaha, was al
 - [Craig Spence Operation](../groups/craig_spence.md) — DC lobbyist who facilitated the Washington side of the Franklin network
 - [CIA](../groups/cia.md) — Alleged cover-up of the Franklin investigation
 
+## Surprising Details
+
+- **$40M embezzlement was the least of it**: The Franklin Credit Union collapse revealed $39.4 million in fraud and embezzlement — but the real scandal was the allegations that followed. Multiple victims alleged they were trafficked to parties attended by powerful men in both Omaha and Washington DC as minors.
+- **Larry King sang at the 1984 Republican National Convention**: King was the fastest-rising African-American star in the Republican Party. He was well-connected enough to sing the national anthem at the RNC — making the allegations about his operation particularly explosive for the political establishment.
+- **Caradori's plane disintegrated mid-air**: The lead investigator's Piper Saratoga broke apart in flight near Ashton, Illinois, between 2:40 and 2:57 a.m. on July 11, 1990. His 8-year-old son Andrew was also killed. The night before, Caradori reportedly called his boss and said he had the perpetrators "by the short hairs." His briefcase of evidence was never recovered. No definitive cause for the crash has been established.
+- **Accusers were jailed, not abusers**: After state and federal grand juries declared the allegations a "carefully crafted hoax" in late 1990, two of the accusers — Alisha Owen and Paul Bonacci — were charged with perjury. Owen served nearly five years in prison. Bonacci later won a $1 million civil judgment against Larry King in a default ruling.
+- **Connected to Craig Spence in DC**: Craig Spence, the DC lobbyist who organized midnight White House tours with male prostitutes and wired his home for blackmail, was connected to the same network. Spence was found dead in a Boston hotel room shortly after the Washington Times exposed the operation.
+- **Seven connected deaths**: Aaron Owen (hanged in cell before sister's trial), Troy Boner (found dead in hospital after recanting), Shawn Boner (shot playing "Russian Roulette" at military housing), Kathleen Sorenson (head-on car crash), Charlie Rogers (alleged suicide), and Caradori and his son — all died before the investigation concluded.
+- **Nick Bryant's comparison**: Investigative journalist Nick Bryant, who spent years investigating the Franklin case, stated: "What we are seeing with Jeffrey Epstein, we saw in the Franklin scandal, although I think the Franklin pandering network was much, much bigger."
+
 ## Sources
 
 - [Wikipedia: Franklin child prostitution ring allegations](https://en.wikipedia.org/wiki/Franklin_child_prostitution_ring_allegations)
+- [Wikipedia: Lawrence E. King Jr.](https://en.wikipedia.org/wiki/Lawrence_E._King_Jr.)
 - [Wikispooks: Gary Caradori](https://www.wikispooks.com/wiki/Gary_Caradori)
+- [ISSTD News: An Interview with Nick Bryant — The Franklin Scandal](https://news.isst-d.org/an-interview-with-nick-bryant-part-i-the-franklin-scandal/)
+- [East County Magazine: Book Review — The Franklin Scandal](https://www.eastcountymagazine.org/book-review-franklin-scandal)
 - Nick Bryant, *The Franklin Scandal* (TrineDay, 2009)
 - John DeCamp, *The Franklin Cover-Up* (AWT, 1992)
 

@@ -61,6 +61,10 @@ Bowers was the former head of Deutsche Bank's American wealth management divisio
 - [Val Broeksmit](Val_Broeksmit.md) — Deutsche Bank whistleblower, son of William, found dead (2022)
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Co-conspirator, still alive
 
+## Related Locations
+
+- [Southern California](../other/locations/southern_california.md) — Found hanged at his home in Malibu, California
+
 ## Sources
 
 - [LA Magazine: Former Deutsche Bank Exec Connected to Trump Loans Dies by Suicide in Malibu](https://lamag.com/politics/deutsche-bank-death/)

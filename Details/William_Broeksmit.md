@@ -69,6 +69,10 @@ After Broeksmit's death, his son [Val Broeksmit](Val_Broeksmit.md) discovered th
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Found hanged in jail cell
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Found hanged in prison
 
+## Related Locations
+
+- [United Kingdom](../other/locations/united_kingdom.md) — Found hanged at his home in Kensington, London
+
 ## Sources
 
 - [CNBC: Ex-Deutsche banker left notes before killing himself](https://www.cnbc.com/2014/03/25/ex-deutsche-banker-left-notes-before-killing-himself-london-inquest.html)

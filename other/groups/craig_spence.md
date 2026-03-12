@@ -63,6 +63,11 @@ The Spence operation is a direct predecessor to the pattern seen in the Epstein 
 * His death — like Palfrey's and Epstein's — followed the pattern of operators dying before full exposure
 * The Franklin connection suggests a network of overlapping DC blackmail operations in the 1980s
 
+## Related Locations
+
+- [Washington DC Area](../locations/washington_dc.md) — Spence's Kalorama mansion and White House tours
+- [Omaha, Nebraska](../locations/omaha_nebraska.md) — Connected to the Franklin scandal network
+
 ## Sources
 
 - [Wikipedia: Craig Spence](https://en.wikipedia.org/wiki/Craig_Spence)
