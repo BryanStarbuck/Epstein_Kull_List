@@ -67,6 +67,12 @@ Ghislaine Maxwell is the only convicted Epstein co-conspirator still alive. Give
 > "She's not suicidal."
 > — Ian Maxwell, Ghislaine's brother, publicly warning against an Epstein-like outcome, [ABC News (2025)](https://abcnews.com/US/ghislaine-maxwells-brother-talks-prince-andrew-petition-freedom/story?id=130228703)
 
+## Related Groups
+
+- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — The core operation she co-ran with Epstein
+- [Mossad](../other/groups/mossad.md) — Intelligence service her father allegedly served; researchers allege she continued his intelligence role
+- [Elite Model Management](../other/groups/elite_model_management.md) — Introduced Brunel to Epstein; Brunel's agency was a trafficking pipeline
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Found hanged in prison

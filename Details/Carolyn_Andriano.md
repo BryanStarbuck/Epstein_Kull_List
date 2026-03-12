@@ -52,6 +52,10 @@ She testified against [Ghislaine Maxwell](Ghislaine_Maxwell.md) in the 2021 tria
 > "Even though Epstein is dead, and Maxwell is behind bars, victims of Jeffrey Epstein will forever live with the abuse that occurred to them."
 > — **Spencer Kuvin**, Palm Beach County attorney representing Epstein victims ([CBS12](https://cbs12.com/news/local/jeffrey-epstein-victims-trauma-drug-usage-experts-on-the-lingering-trauma-of-sexual-abuse-victims-october-30-2023))
 
+## Related Groups
+
+- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — Victim who testified at Maxwell trial
+
 ## See Also
 
 - [Leigh Skye Patrick](Leigh_Skye_Patrick.md) — First Epstein victim to die of overdose in Palm Beach hotel

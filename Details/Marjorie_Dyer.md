@@ -52,6 +52,10 @@ Dyer's death removed a witness to the will of a man Kessler was suspected of mur
 >
 > — Judge William Webb, [sentencing Berry Kessler for the murder-for-hire of John Deroo](https://www.tampabay.com/archive/1997/02/20/75-year-old-is-sentenced-to-death-for-murder-plot/) (February 1997)
 
+## Related Groups
+
+- [Wexner / L Brands](../other/groups/wexner_l_brands.md) — Columbus death pattern
+
 ## See Also
 
 - [Frank Yassenoff](Frank_Yassenoff.md) — Murdered; Dyer co-signed his will

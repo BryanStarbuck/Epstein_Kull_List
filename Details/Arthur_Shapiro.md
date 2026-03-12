@@ -51,6 +51,10 @@ The prime suspect in the Shapiro murder was [Berry L. Kessler](Berry_Kessler.md)
 > "Shapiro's name appeared decades later in an FBI file involving the activities of another man important to Wexner's business: the pedophile financier Jeffrey Epstein."
 > — **The Daily Beast**, on the Epstein connection ([The Daily Beast](https://www.thedailybeast.com/who-murdered-arthur-shapiro-the-lawyer-of-victorias-secret-billionaire-les-wexner/))
 
+## Related Groups
+
+- [Wexner / L Brands](../other/groups/wexner_l_brands.md) — The Columbus business empire Shapiro managed before his murder; Epstein took his position
+
 ## See Also — The Kessler Pattern
 
 - [Berry L. Kessler](Berry_Kessler.md) — Prime suspect, died in prison before questioning

@@ -71,6 +71,11 @@ Cecile de Jongh, wife of former USVI Governor John de Jongh (2007–2015), was a
 > "This is the suggested language; will it work for you?"
 > — Cecile de Jongh, former USVI first lady, to Epstein regarding weakening sex offender monitoring legislation, [NBC News](https://www.nbcnews.com/news/us-news/jpmorgan-alleges-ex-virgin-islands-first-lady-aided-jeffrey-epstein-rcna86365)
 
+## Related Groups
+
+- [USVI Government](../other/groups/usvi_government.md) — The territorial government that protected Epstein and fired George
+- [JPMorgan Chase](../other/groups/jpmorgan_chase.md) — The bank George sued, triggering her firing
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Primary subject, owned Little St. James island in USVI

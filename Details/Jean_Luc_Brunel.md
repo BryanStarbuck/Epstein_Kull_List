@@ -56,6 +56,12 @@ Brunel was detained in December 2020 at Paris Charles de Gaulle airport while at
 > "I am disappointed that I was not able to face him in a final trial and hold him accountable for his actions, but gratified that I was able to face him in person last year in Paris, to keep him in prison."
 > — **Virginia Giuffre**, key Epstein accuser who testified against Brunel ([ABC News](https://abcnews.com/International/jeffrey-epstein-associate-jean-luc-brunel-found-dead/story?id=83001807))
 
+## Related Groups
+
+- [Elite Model Management](../other/groups/elite_model_management.md) — Agency where Brunel worked as a scout; used as trafficking pipeline
+- [MC2 Model Management](../other/groups/mc2_model_management.md) — Agency Brunel co-founded with Epstein's direct financial backing
+- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — The core trafficking and blackmail operation
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Found hanged in same manner

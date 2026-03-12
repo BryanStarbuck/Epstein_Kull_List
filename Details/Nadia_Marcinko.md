@@ -48,6 +48,11 @@ As of late 2025, OSINT investigators reported that her email account appeared to
 > "She was described as having encouraged and engaged in sexual acts with the underage girls, sometimes involving sex toys, at the suggestion of Epstein."
 > — Written testimony from Epstein's underage victims (2019), as reported by [Wikipedia](https://en.wikipedia.org/wiki/Nadia_Marcinko)
 
+## Related Groups
+
+- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — Epstein's pilot
+- [MC2 Model Management](../other/groups/mc2_model_management.md) — Entered orbit through modeling
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Primary subject

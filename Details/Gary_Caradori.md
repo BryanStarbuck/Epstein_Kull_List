@@ -70,6 +70,11 @@ The NTSB ruled this pilot error, but the mid-air disintegration of the aircraft,
 - [Danny Casolaro](Danny_Casolaro.md) — Investigating PROMIS/Maxwell intelligence blackmail operations; found with wrists slashed in 1991, the year after Caradori's death.
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Ran the sexual blackmail operation that the Franklin scandal prefigured.
 
+## Related Groups
+
+- [Franklin Scandal](../other/groups/franklin_scandal.md) — The child trafficking ring Caradori was investigating when his plane disintegrated
+- [Craig Spence Operation](../other/groups/craig_spence.md) — DC lobbyist connected to the Franklin network's Washington operations
+
 ## See Also
 
 - [Franklin child prostitution ring allegations — Wikipedia](https://en.wikipedia.org/wiki/Franklin_child_prostitution_ring_allegations)

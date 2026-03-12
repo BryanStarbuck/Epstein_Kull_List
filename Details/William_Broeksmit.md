@@ -58,6 +58,10 @@ After Broeksmit's death, his son [Val Broeksmit](Val_Broeksmit.md) discovered th
 > "Even by the amoral standards of Wall Street, Deutsche exhibited a jarring lack of interest in its clients' reputations."
 > — David Enrich, *Dark Towers* ([NPR: Dark Towers review](https://www.npr.org/2020/02/18/806984703/dark-towers-is-a-cautionary-tale-of-pursuing-profits-at-any-cost))
 
+## Related Groups
+
+- [Deutsche Bank](../other/groups/deutsche_bank.md) — The financial institution where Broeksmit was a senior executive during Epstein's account period
+
 ## See Also
 
 - [Thomas Bowers](Thomas_Bowers.md) — Deutsche Bank wealth chief, also found hanged (2019)

@@ -167,6 +167,10 @@ The official investigation is closed. Den Hollander acted alone, motivated by mi
 > "Lives are at stake."
 > — Judge Salas, urging leaders to end hostile rhetoric toward judges, [PBS NewsHour](https://www.pbs.org/newshour/show/lives-are-at-stake-judge-whose-son-was-murdered-urges-leaders-to-end-hostile-rhetoric)
 
+## Related Groups
+
+- [Deutsche Bank](../other/groups/deutsche_bank.md) — Was assigned the Epstein-Deutsche Bank investor lawsuit when her son was murdered
+
 ## Sources
 
 - [Newsweek: Judge Salas Assigned to Epstein Deutsche Bank Case 4 Days Before Shooting](https://www.newsweek.com/judge-esther-salas-shooting-deutsche-bank-epstein-1518974)

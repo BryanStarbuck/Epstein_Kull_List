@@ -49,6 +49,10 @@ FBI documents mention a possible link between Kessler and [Jeffrey Epstein](Jeff
 > "I never saw Wexner do anything illegal or unethical. Unfortunately, he met this guy Epstein."
 > — Harold Levin, Wexner's former financial adviser ([The Daily Beast](https://www.thedailybeast.com/who-murdered-arthur-shapiro-the-lawyer-of-victorias-secret-billionaire-les-wexner/))
 
+## Related Groups
+
+- [Wexner / L Brands](../other/groups/wexner_l_brands.md) — Connected to the Columbus/Wexner financial orbit
+
 ## See Also — The Kessler Pattern
 
 - [Arthur Shapiro](Arthur_Shapiro.md) — Unsolved murder victim (1985); Kessler was prime suspect

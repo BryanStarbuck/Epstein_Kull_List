@@ -61,6 +61,12 @@ Casolaro and Robert Maxwell died within three months of each other in 1991.
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Allegedly ran the successor blackmail operation to PROMIS
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Robert Maxwell's daughter, Epstein's co-conspirator
 
+## Related Groups
+
+- [PROMIS / The Octopus](../other/groups/promis_octopus.md) — The intelligence surveillance operation Casolaro was investigating when he died
+- [Mossad](../other/groups/mossad.md) — Israeli intelligence service that allegedly distributed backdoored PROMIS via Robert Maxwell
+- [CIA](../other/groups/cia.md) — U.S. intelligence agency allegedly involved in the PROMIS software theft and modification
+
 ## Sources
 
 - [Wikipedia: Danny Casolaro](https://en.wikipedia.org/wiki/Danny_Casolaro)

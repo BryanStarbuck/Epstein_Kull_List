@@ -80,6 +80,11 @@ In February 2026, newly released Epstein files shed additional light on her case
 >
 > — Dini von Mueffling, former spokesperson ([Newsweek](https://www.newsweek.com/virginia-giuffre-no-way-suicidal-tweet-resurfaces-2064500))
 
+## Related Groups
+
+- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — The operation that trafficked her
+- [MC2 Model Management](../other/groups/mc2_model_management.md) — Brunel's agency that she testified provided girls to Epstein
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Primary abuser

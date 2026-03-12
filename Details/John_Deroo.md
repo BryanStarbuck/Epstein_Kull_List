@@ -50,6 +50,10 @@ Kessler's documented willingness to arrange contract killings adds weight to sus
 > "Kessler was charged in Florida with arranging the slaying of a business partner, John Deroo. He was convicted of that crime in 1994 and died in prison in 2005."
 > — **Whitney Webb**, Unlimited Hangout, connecting the Deroo murder to the broader Kessler-Wexner-Epstein pattern ([Unlimited Hangout](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/))
 
+## Related Groups
+
+- [Wexner / L Brands](../other/groups/wexner_l_brands.md) — Columbus death pattern
+
 ## See Also
 
 - [Berry L. Kessler](Berry_Kessler.md) — Convicted of arranging Deroo's murder; prime suspect in Shapiro murder

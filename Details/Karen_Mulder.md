@@ -110,6 +110,12 @@ As of 2026, Karen Mulder is alive and living privately in France, primarily in P
 > "Karen Mulder Named Them in 2001. The Epstein Files Brought the Names Back."
 > — [India Herald headline (February 2026)](https://www.indiaherald.com/Breaking/Read/994877587/Karen-Mulder-Named-Them-in-The-Epstein-Files-Brought-the-Names-Back)
 
+## Related Groups
+
+- [Elite Model Management](../other/groups/elite_model_management.md) — The agency where Brunel and Marie operated; used as trafficking pipeline
+- [MC2 Model Management](../other/groups/mc2_model_management.md) — Agency Brunel later founded with Epstein's money
+- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — The broader operation Mulder tried to expose 19 years before Brunel's arrest
+
 ## See Also
 
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Named by Mulder as a "child hunter" in 2001; found hanged in prison 2022

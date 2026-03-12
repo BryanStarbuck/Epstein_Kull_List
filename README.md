@@ -148,6 +148,22 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 
 **Maxwell family network:** [Robert Maxwell](Details/Robert_Maxwell.md) (Ghislaine's father, fell from yacht 1991), Al Seckel (married Isabel Maxwell, found dead at cliff base 2015), and [Ghislaine Maxwell](Details/Ghislaine_Maxwell.md) (serving 20 years). The Maxwell family's intelligence ties span decades — Robert allegedly distributed backdoored PROMIS software for Mossad, and his daughter ran Epstein's trafficking operation.
 
+## Groups & Organizations
+
+The [Groups](other/groups/) directory documents the organizations, intelligence services, financial institutions, and operations connected to the Epstein network:
+
+**Intelligence Services:** [Mossad](other/groups/mossad.md) (alleged Epstein backing via Maxwell family), [CIA](other/groups/cia.md) (Acosta said Epstein "belonged to intelligence")
+
+**Blackmail & Trafficking Operations:** [Jeffrey Epstein Network](other/groups/jeffrey_epstein_network.md) (the core operation), [PROMIS / The Octopus](other/groups/promis_octopus.md) (predecessor surveillance/blackmail op), [Franklin Scandal](other/groups/franklin_scandal.md) (1980s child trafficking with White House connections), [DC Madam](other/groups/dc_madam.md) (Palfrey's escort service), [Craig Spence Operation](other/groups/craig_spence.md) (DC lobbyist, midnight White House tours), [Dutroux Affair](other/groups/dutroux_affair.md) (Belgian ring, 27+ dead witnesses), [Jimmy Savile / BBC](other/groups/jimmy_savile.md) (UK's most prolific offender, institutional cover-up)
+
+**Financial Institutions:** [Deutsche Bank](other/groups/deutsche_bank.md) ($150M fine, multiple exec deaths), [JPMorgan Chase](other/groups/jpmorgan_chase.md) ($365M in settlements)
+
+**Modeling Agencies:** [Elite Model Management](other/groups/elite_model_management.md) (trafficking pipeline), [MC2 Model Management](other/groups/mc2_model_management.md) (Epstein-funded agency)
+
+**Business Networks:** [Wexner / L Brands](other/groups/wexner_l_brands.md) (source of Epstein's wealth; Columbus death pattern)
+
+**Government Entities:** [USVI Government](other/groups/usvi_government.md) (territorial government that protected Epstein)
+
 ## Detailed Research
 
 The [Details/](Details/) subdirectory contains:
@@ -156,6 +172,7 @@ The [Details/](Details/) subdirectory contains:
 - A file on [B. Stanley Pons](Details/B_Stanley_Pons.md) documenting Epstein's claim to have "killed" his cold fusion career
 - [Location data](locations.md) and the [Weiner laptop overview](other/laptop.md)
 - A detailed breakdown of the [NYPD Weiner laptop deaths](other/laptop.md)
+- [Groups & Organizations](other/groups/) — 15 profiles of intelligence services, trafficking operations, financial institutions, and other connected groups
 
 ## Data Files
 

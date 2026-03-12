@@ -58,6 +58,18 @@ Epstein had a previous conviction in 2008 under a controversial Florida plea dea
 > "The movement is more consistent with an inmate — or someone wearing an orange prison uniform — than a corrections officer."
 > — Independent video analysts reviewing newly released surveillance logs, via [CBS News](https://www.cbsnews.com/news/epstein-files-jail-cell-death-video-logs/)
 
+## Related Groups
+
+- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — The core trafficking and blackmail operation
+- [Mossad](../other/groups/mossad.md) — Israeli intelligence allegedly behind the operation via the Maxwell family
+- [CIA](../other/groups/cia.md) — Acosta allegedly said Epstein "belonged to intelligence"
+- [Deutsche Bank](../other/groups/deutsche_bank.md) — Moved Epstein's money; $150M fine
+- [JPMorgan Chase](../other/groups/jpmorgan_chase.md) — Maintained accounts for 15+ years; $365M in settlements
+- [Wexner / L Brands](../other/groups/wexner_l_brands.md) — Source of Epstein's wealth and NYC townhouse
+- [Elite Model Management](../other/groups/elite_model_management.md) — Modeling agency used as trafficking pipeline
+- [MC2 Model Management](../other/groups/mc2_model_management.md) — Agency Epstein funded for Brunel
+- [USVI Government](../other/groups/usvi_government.md) — Territorial government that protected Epstein
+
 ## See Also
 
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Only convicted co-conspirator, serving 20 years

@@ -51,6 +51,10 @@ The "dead man's switch" video she left behind is frequently cited as evidence th
 >
 > — [Burners.me: Another #PedoGate Researcher Suddenly Dies: RIP Tracy Twyman](https://burners.me/2019/07/10/another-pedogate-researcher-suddenly-dies-rip-tracy-twyman/) (July 10, 2019)
 
+## Related Groups
+
+- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — Continued Kappy's research into elite pedophilia
+
 ## Sources
 - [Burners.me: Another #PedoGate Researcher Suddenly Dies: RIP Tracy Twyman](https://burners.me/2019/07/10/another-pedogate-researcher-suddenly-dies-rip-tracy-twyman/)
 - [Burners.me: CryptoBeast #21 — Tracy Twyman, Kappy, Epstein and LARP Wars](https://burners.me/2019/07/15/cryptobeast-21-tracy-twyman-kappy-epstein-and-larp-wars-with-lift-the-veil/)

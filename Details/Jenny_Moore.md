@@ -62,6 +62,10 @@ Police found nothing suspicious and the apparent cause was a seizure. However, t
 > "Right-wing media personalities seized on Moore's death, claiming without any evidence that it's the latest example of Bill and Hillary Clinton killing off their enemies."
 > — [The Daily Beast: Pizzagate Pusher's Death Drives Conspiracy Theorists to Tout Her as New Seth Rich](https://www.thedailybeast.com/pizzagate-pushers-death-drives-conspiracy-theorists-to-tout-her-as-new-seth-rich/)
 
+## Related Groups
+
+- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — Journalist investigating trafficking
+
 ## See Also
 
 - [Isaac Kappy](Isaac_Kappy.md)

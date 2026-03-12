@@ -165,6 +165,10 @@ The platform treats the Salas attack as one of the strongest pieces of circumsta
 > "The free flow of information from the Internet allowed this sick and depraved human being to find all our personal information and target us."
 > — **Judge Esther Salas**, advocating for the Daniel Anderl Judicial Security and Privacy Act ([NBC News](https://www.nbcnews.com/news/latino/judge-esther-salas-speaks-about-law-named-after-her-son-n1248681))
 
+## Related Groups
+
+- [Deutsche Bank](../other/groups/deutsche_bank.md) — His mother was assigned the Epstein-Deutsche Bank case four days before his murder
+
 ## Sources
 
 - [Newsweek: Judge Salas Assigned to Epstein Deutsche Bank Case 4 Days Before Shooting](https://www.newsweek.com/judge-esther-salas-shooting-deutsche-bank-epstein-1518974)

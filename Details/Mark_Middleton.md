@@ -64,6 +64,10 @@ Middleton served as a Special Assistant to President Bill Clinton and as an aide
 - The official ruling took nine months to release.
 - His death occurred during 2022, when four Epstein-connected individuals died within eight months.
 
+## Related Groups
+
+- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — Clinton aide who gave Epstein White House access
+
 ## See Also — 2022 Death Cluster
 
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md) — February 2022 (hanging in prison)

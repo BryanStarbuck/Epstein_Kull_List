@@ -100,6 +100,11 @@ Two young models, both connected to the same psychological group, both dying by 
 >
 > — Friends and life coaches, as reported by Grunge ([Grunge](https://www.grunge.com/1486576/tragic-details-model-ruslana-korshunova/))
 
+## Related Groups
+
+- [Elite Model Management](../other/groups/elite_model_management.md) — Modeling industry trafficking pipeline
+- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — Documented on Epstein's jet
+
 ## See Also
 
 - [Anastasia Drozdova](Anastasia_Drozdova.md) — Friend who died identically one year later

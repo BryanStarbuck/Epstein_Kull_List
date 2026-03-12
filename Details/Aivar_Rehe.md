@@ -54,6 +54,10 @@ Rehe's death fits a pattern of banking executives connected to money laundering 
 > Rehe himself declared that he "felt responsible but also believed Danske Bank's anti-money laundering mechanisms at that time were sufficient."
 > — Aivar Rehe, March 2019 ([Al Jazeera](https://www.aljazeera.com/economy/2019/9/25/danske-bank-exec-at-centre-of-money-laundering-scandal-found-dead))
 
+## Related Groups
+
+- [Deutsche Bank](../other/groups/deutsche_bank.md) — Danske Bank exec connected to the broader banking scandal pattern
+
 ## See Also
 
 - [William Broeksmit](William_Broeksmit.md) — Deutsche Bank senior exec, hanged 2014

@@ -65,6 +65,10 @@ The broader modeling industry pipeline to Epstein is well-documented through [Je
 >
 > — Expert assessment of cult survivors, [Newsweek](https://www.newsweek.com/disconcerting-new-answers-models-suicide-67659)
 
+## Related Groups
+
+- [Elite Model Management](../other/groups/elite_model_management.md) — Modeling industry pattern
+
 ## See Also
 
 - [Ruslana Korshunova](Ruslana_Korshunova.md) — Friend who died one year earlier in identical fashion

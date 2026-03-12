@@ -63,6 +63,12 @@ Her death is relevant to the broader pattern because it demonstrates what can ha
 >
 > — On the Supreme Court blocking release of Palfrey's full client list after her death ([NBC News: SCOTUS Denies Request from D.C. Madam's Attorney to Release Info](https://www.nbcnews.com/news/us-news/scotus-denies-request-dc-madam-s-attorney-release-info-n551121))
 
+## Related Groups
+
+- [DC Madam Operation](../other/groups/dc_madam.md) — Palfrey's escort service and the broader pattern of DC elite sex operations
+- [Craig Spence Operation](../other/groups/craig_spence.md) — Another DC-area political sex operation from the 1980s
+- [Franklin Scandal](../other/groups/franklin_scandal.md) — Earlier DC-connected child trafficking ring
+
 ## Sources
 
 - [Wikipedia: Deborah Jeane Palfrey](https://en.wikipedia.org/wiki/Deborah_Jeane_Palfrey)

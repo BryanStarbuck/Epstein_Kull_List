@@ -63,6 +63,10 @@ Val had a history of personal struggles, including substance abuse, and had prev
 > "Whistleblowing is a very difficult path with few rewards, and many pitfalls."
 > — Jane Turner, Whistleblower Network News ([Whistleblowers Blog](https://whistleblowersblog.org/corporate-whistleblowers/deutsche-bank-whistleblower-val-broeksmit-found-dead/))
 
+## Related Groups
+
+- [Deutsche Bank](../other/groups/deutsche_bank.md) — The institution his father worked at and whose documents he whistleblew to the FBI
+
 ## See Also
 
 - [William Broeksmit](William_Broeksmit.md) — Father, Deutsche Bank senior executive, found hanged (2014)

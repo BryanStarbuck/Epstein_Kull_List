@@ -49,6 +49,10 @@ Hoffenberg once tried to buy the New York Post. He briefly took over the paper i
 - His death in 2022 coincided with renewed investigations into Epstein's network.
 - His friend and lawyer Gary Baise noted Hoffenberg did not appear to be taking good care of himself, and he was living in a small apartment far removed from his former wealth.
 
+## Related Groups
+
+- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — Epstein's business partner who described the blackmail operation
+
 ## See Also — 2022 Death Cluster
 
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md) — February 2022 (hanging in prison)

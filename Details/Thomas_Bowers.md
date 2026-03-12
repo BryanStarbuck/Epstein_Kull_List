@@ -47,6 +47,11 @@ Bowers was the former head of Deutsche Bank's American wealth management divisio
 >
 > — Investigative reporting summary ([Wikispooks: Thomas Bowers](https://wikispooks.com/wiki/Thomas_Bowers))
 
+## Related Groups
+
+- [Deutsche Bank](../other/groups/deutsche_bank.md) — The financial institution where Bowers oversaw Epstein's accounts
+- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — The operation Bowers' division financially enabled
+
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Found hanged, same method, 3 months earlier

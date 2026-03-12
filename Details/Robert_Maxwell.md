@@ -58,6 +58,12 @@ Former Israeli intelligence operative Ari Ben-Menashe has publicly stated that E
 >
 > — Seymour Hersh's reporting, summarized in *The Samson Option* ([WION News](https://www.wionews.com/world/epstein-files-robert-maxwell-mossad-allegations-1770127431656))
 
+## Related Groups
+
+- [Mossad](../other/groups/mossad.md) — Intelligence service Maxwell allegedly served as agent; received state funeral from Israel
+- [PROMIS / The Octopus](../other/groups/promis_octopus.md) — Backdoored software Maxwell allegedly distributed worldwide for Mossad
+- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — The operation his daughter Ghislaine co-ran with Epstein
+
 ## Sources
 
 - [Wikipedia: Robert Maxwell](https://en.wikipedia.org/wiki/Robert_Maxwell)

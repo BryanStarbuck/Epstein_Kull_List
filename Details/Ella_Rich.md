@@ -38,6 +38,10 @@ Rich was connected to the Epstein network through her fiance Yassenoff and his b
 >
 > — Judge William Webb, [sentencing Berry Kessler for the murder-for-hire of John Deroo](https://www.tampabay.com/archive/1997/02/20/75-year-old-is-sentenced-to-death-for-murder-plot/) (February 1997)
 
+## Related Groups
+
+- [Wexner / L Brands](../other/groups/wexner_l_brands.md) — Columbus death pattern
+
 ## See Also
 
 - [Frank Yassenoff](Frank_Yassenoff.md) — Killed alongside Rich

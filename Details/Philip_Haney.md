@@ -62,6 +62,10 @@ The official ruling is suicide, supported by a handwriting-verified suicide note
 >
 > — Friends of Philip Haney ([The New American: Suicide or Deep State Murder?](https://thenewamerican.com/us/crime/suicide-or-deep-state-murder-death-of-dhs-whistleblower-philip-haney/))
 
+## Related Groups
+
+- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — DHS whistleblower on trafficking
+
 ## Sources
 
 - [Wikipedia: Philip Haney](https://en.wikipedia.org/wiki/Philip_Haney)

@@ -58,6 +58,10 @@ Foster's death was ruled suicide by five investigations with unlimited resources
 >
 > — [NBC News: Despite Trump's 'Fishy' Comments, Vince Foster Case Is Closed](https://www.nbcnews.com/politics/2016-election/despite-trumps-fishy-comments-vince-foster-case-closed-n579691)
 
+## Related Groups
+
+- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — Referenced in Epstein's 2016 emails
+
 ## Sources
 
 - [Washington Post: Foster Note Reveals an Anguished Aide (August 11, 1993)](https://www.washingtonpost.com/archive/politics/1993/08/11/foster-note-reveals-an-anguished-aide/43ff5183-ca17-47c1-aa04-6d39839d1dcd/)
