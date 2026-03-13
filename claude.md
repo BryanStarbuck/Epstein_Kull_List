@@ -1,4 +1,19 @@
-## Epstein Kill List
+# Epstein Kull List — Project Instructions
+
+## Web Search
+
+Use web search when running prompts to find up-to-date information about individuals, events, court filings, and news articles related to the Epstein case. This is a research-heavy project where current sources matter.
+
+## Links Between Markdown Files
+
+All markdown files should be interconnected:
+- Every Details page should link back to the main [README.md](README.md).
+- Details pages should cross-link to related individuals (e.g., co-conspirators, same cluster of deaths, shared connections).
+- The main README.md table must link to each person's Details page.
+- Pattern sections in README.md should use inline links to the relevant Details pages.
+- If a person is mentioned in another person's Details page, that mention should be a link to their Details page (e.g., `[Ghislaine Maxwell](Ghislaine_Maxwell.md)`).
+
+## Overview
 
 A list of people who died suspiciously, likely murdered in connection with elite-level crimes — primarily Jeffrey Epstein's blackmail and trafficking operation, but also other Compromat operations, pedophile rings, and intelligence service cover-ups.
 
