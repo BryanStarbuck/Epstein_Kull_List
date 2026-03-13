@@ -97,6 +97,7 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Mona Juul](Details/Mona_Juul.md) | Resigned and under investigation, Feb 2026 | Norwegian ambassador. Husband is Rød-Larsen. Epstein willed $5M per child. |
 | [Gabriela Rico Jimenez](Details/Gabriela_Rico_Jimenez.md) | Missing/unknown since August 2009 | Accused elites of cannibalism and murder on camera in Monterrey. Named Carlos Slim's son. Sent to psychiatric facility; never seen again. |
 | [Karen Mulder](Details/Karen_Mulder.md) | Alive, living privately in France | Original whistleblower. Named Brunel and Elite execs on French TV in 2001; footage destroyed, hospitalized 5 months. |
+| [Tom Alexandrovich](Details/Tom_Alexandrovich.md) | Free in Israel; trial scheduled March 2026 | Senior Israeli cyber official caught in FBI child predator sting in Las Vegas. Posted $10K bail, fled to Israel in 48 hours. No passport confiscated. Bipartisan outrage. |
 | [Denise George](Details/Denise_George.md) | Fired Dec 2022; reported threats to FBI | USVI AG fired 4 days after suing JPMorgan over Epstein. Governor pressured her to drop case. |
 | [Esther Salas](Details/Esther_Salas.md) | Son murdered July 2020; survived attack | Federal judge assigned Epstein-Deutsche Bank case 4 days before gunman killed her son. Gunman had Kroll Associates intel background. |
 
@@ -165,6 +166,8 @@ The [Groups](other/groups/) directory documents the organizations, intelligence 
 **Business Networks:** [Wexner / L Brands](other/groups/wexner_l_brands.md) (source of Epstein's wealth; Columbus death pattern)
 
 **Government Entities:** [USVI Government](other/groups/usvi_government.md) (territorial government that protected Epstein)
+
+**Foreign Impunity Cases:** [Tom Alexandrovich Case](other/groups/tom_alexandrovich_case.md) (Israeli cyber official fled U.S. after child sex sting arrest)
 
 ## Locations
 

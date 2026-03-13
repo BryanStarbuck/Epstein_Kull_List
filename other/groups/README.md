@@ -51,6 +51,12 @@ Organizations, intelligence services, financial institutions, and operations con
 |-------|-------------|
 | [USVI Government](usvi_government.md) | U.S. Virgin Islands territorial government that actively protected Epstein |
 
+## Foreign Impunity Cases
+
+| Group | Description |
+|-------|-------------|
+| [Tom Alexandrovich Case](tom_alexandrovich_case.md) | Israeli cyber official caught in FBI child sex sting in Las Vegas; posted bail, fled to Israel in 48 hours without passport confiscation |
+
 ---
 
 *This information was built by Grok and Claude AI research.*
