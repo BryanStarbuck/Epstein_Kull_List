@@ -67,6 +67,7 @@ At the time of his death, DeGeus was reportedly traveling to Europe to meet with
 - [John Bedini](John_Bedini.md) — Free energy researcher who also died suddenly
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly at a restaurant
+- [Arie DeGeus (UAP Deaths project)](../../UAPs/Details/Arie_DeGeus.md) — Parallel profile in UAP Deaths project
 
 ## Sources
 

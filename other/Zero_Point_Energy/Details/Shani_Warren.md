@@ -59,6 +59,19 @@ While Warren's murder was ultimately solved and attributed to a sex attacker unr
 - The initial "suicide" ruling was maintained for over 30 years before DNA evidence led to a murder conviction
 - While the murder was ultimately attributed to a sex attacker, the willingness of police to rule such an obviously suspicious death as suicide raises questions about how other deaths in the cluster were investigated
 
+## See Also
+
+- [Alistair Beckham](Alistair_Beckham.md) — SDI engineer electrocuted in garden shed
+- [Peter Ferry](Peter_Ferry.md) — Marconi marketing director electrocuted via tooth fillings
+- [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi computer scientist found dead at Clifton Suspension Bridge
+- [Arshad Sharif](Arshad_Sharif.md) — Marconi scientist decapitated by rope near Bristol
+- [Keith Bowden](Keith_Bowden.md) — GEC-Marconi contractor killed in suspicious car crash
+- [David Sands](David_Sands.md) — Easams scientist killed in car crash and fire
+- [Richard Pugh](Richard_Pugh.md) — MOD consultant found bound with plastic bag on head
+- [Trevor Knight](Trevor_Knight.md) — Marconi engineer found dead of carbon monoxide
+- [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
+- [Shani Warren (UAP Deaths project)](../../UAPs/Details/Shani_Warren.md) — Parallel profile in UAP Deaths project
+
 ## Sources
 
 - [The Killer of Shani Warren, Caught 35 Years Later — Vocal Media](https://vocal.media/criminal/the-killer-of-shani-warren-caught-35-years-later)

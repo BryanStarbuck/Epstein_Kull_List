@@ -47,6 +47,19 @@ The deaths were investigated by journalist Tony Collins of *Computer News* (late
 - Carbon monoxide poisoning could potentially be staged to appear as suicide
 - No detailed public information has been released about whether there was a specific investigation into whether his death could have been staged
 
+## See Also
+
+- [Alistair Beckham](Alistair_Beckham.md) — SDI engineer electrocuted in garden shed
+- [Peter Ferry](Peter_Ferry.md) — Marconi marketing director electrocuted via tooth fillings
+- [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi computer scientist found dead at Clifton Suspension Bridge
+- [Arshad Sharif](Arshad_Sharif.md) — Marconi scientist decapitated by rope near Bristol
+- [Keith Bowden](Keith_Bowden.md) — GEC-Marconi contractor killed in suspicious car crash
+- [David Sands](David_Sands.md) — Easams scientist killed in car crash and fire
+- [Richard Pugh](Richard_Pugh.md) — MOD consultant found bound with plastic bag on head
+- [Shani Warren](Shani_Warren.md) — Micro Scope PA found drowned, bound and gagged
+- [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
+- [Trevor Knight (UAP Deaths project)](../../UAPs/Details/Trevor_Knight.md) — Parallel profile in UAP Deaths project
+
 ## Sources
 
 - [The Marconi Murders Conspiracy — Hidden Influences](https://blog.hiddeninfluences.com/2017/09/30/marconi-murders-conspiracy/)

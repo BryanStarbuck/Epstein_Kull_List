@@ -45,6 +45,15 @@ Despite the court ruling, Meyer continued promoting his technology and seeking i
 - Had been found guilty of fraud by an Ohio court in 1996, complicating the "suppressed genius" narrative
 - The Belgian investor present denied any involvement and considered Meyer a friend
 
+## See Also
+
+- [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
+- [Arie DeGeus](Arie_DeGeus.md) — Free energy inventor found dead at airport
+- [Paul Brown](Paul_Brown.md) — Nuclear battery inventor killed in car accident
+- [Rory Johnson](Rory_Johnson.md) — Free energy inventor who died after DOE gag order
+- [Amy Eskridge](Amy_Eskridge.md) — Antigravity researcher found dead from gunshot wound
+- [Floyd Sweet](Floyd_Sweet.md) — Free energy inventor who received death threats
+
 ## Sources
 
 - [Water fuel cell - Wikipedia](https://en.wikipedia.org/wiki/Water_fuel_cell)

@@ -42,6 +42,12 @@ The connection between UFO contact experiences and government psychic research p
 - However, very little publicly verifiable information exists about Lynch, making independent confirmation of these claims difficult
 - Drug overdoses among young people, while tragic, are not inherently suspicious without additional context
 
+## See Also
+
+- [Don Elkins](Don_Elkins.md) — UFO researcher and channeler who died of a gunshot wound in 1984
+- [Frank Olson](Frank_Olson.md) — CIA scientist dosed with LSD under MKULTRA who fell from a hotel window
+- [Jim Sullivan](Jim_Sullivan.md) — Musician who disappeared in the New Mexico desert in 1975
+
 ## Sources
 
 - [Someone Is Killing Our UFO Investigators — Metatech](http://www.metatech.org/wp/ufos/is-someone-killing-our-ufo-sightings-investigators/)

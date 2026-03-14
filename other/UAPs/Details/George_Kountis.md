@@ -34,6 +34,15 @@ Kountis worked as a systems analyst at Bristol Polytechnic on defence-related co
 - Circumstances of how his car ended up in the River Mersey were unclear
 - The cluster was raised in British Parliament and investigated by MI5
 
+## See Also
+
+- [Shani Warren](Shani_Warren.md) — GEC-connected employee who died on the same day as Kountis
+- [Ashad Sharif](Ashad_Sharif.md) — Marconi computer analyst who died in a suspicious car crash
+- [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi software engineer who fell from the Clifton Suspension Bridge
+- [David Sands](David_Sands.md) — Easams/Marconi scientist who drove his car into a building
+- [Keith Bowden](Keith_Bowden.md) — GEC computer scientist killed in a car crash
+- [Brian Lynch](Brian_Lynch.md) — Contactee who died of a drug overdose after connection to intelligence programs
+
 ## Sources
 
 - [GEC-Marconi scientist deaths - Wikipedia](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory)

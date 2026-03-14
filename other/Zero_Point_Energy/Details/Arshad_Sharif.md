@@ -57,6 +57,19 @@ The deaths were investigated by journalist Tony Collins of *Computer News* (late
 - He was working on satellite-based submarine detection — one of the most sensitive defense technologies of the Cold War
 - His death was part of a cluster of ~25 defense scientist deaths over an eight-year period
 
+## See Also
+
+- [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi colleague who died near Bristol the same year
+- [Alistair Beckham](Alistair_Beckham.md) — SDI engineer electrocuted in garden shed
+- [Peter Ferry](Peter_Ferry.md) — Marconi marketing director electrocuted via tooth fillings
+- [Keith Bowden](Keith_Bowden.md) — GEC-Marconi contractor killed in suspicious car crash
+- [David Sands](David_Sands.md) — Easams scientist killed in car crash and fire
+- [Richard Pugh](Richard_Pugh.md) — MOD consultant found bound with plastic bag on head
+- [Shani Warren](Shani_Warren.md) — Micro Scope PA found drowned, bound and gagged
+- [Trevor Knight](Trevor_Knight.md) — Marconi engineer found dead of carbon monoxide
+- [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
+- [Arshad Sharif (UAP Deaths project)](../../UAPs/Details/Ashad_Sharif.md) — Parallel profile in UAP Deaths project
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

@@ -44,6 +44,13 @@ In 2009, Tomion allegedly developed a working prototype of his technology. Detai
 - Cardiac events can and do occur unexpectedly without foul play
 - Without more documentation, it is difficult to assess the credibility of claims about his work
 
+## See Also
+
+- [Arie DeGeus](Arie_DeGeus.md) — Clean energy inventor who died of heart failure en route to secure funding
+- [Floyd Sweet](Floyd_Sweet.md) — VTA inventor whose research materials were allegedly confiscated after death
+- [John Bedini](John_Bedini.md) — Free energy researcher who died suddenly
+- [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher whose work was allegedly classified
+
 ## Sources
 
 - References in alternative energy and zero-point energy research communities

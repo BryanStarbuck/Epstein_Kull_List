@@ -88,6 +88,7 @@ Tom Bearden has written that Sweet was genuinely terrified in the period before 
 - [Nikola Tesla](Nikola_Tesla.md) — Inventor whose papers were seized after his death
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Thomas Henry Moray](Thomas_Henry_Moray.md) — Radiant energy inventor whose devices were destroyed
+- [Floyd Sweet (UAP Deaths project)](../../UAPs/Details/Floyd_Sweet.md) — Parallel profile in UAP Deaths project
 
 ## Sources
 

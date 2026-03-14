@@ -44,6 +44,14 @@ McCandlish was also a witness in Dr. Steven Greer's Disclosure Project, where he
 - Pattern of UFO/UAP disclosure witnesses dying before providing formal testimony
 - The specific timing -- as Congressional UAP hearings were ramping up -- is considered suspicious by many in the disclosure community
 
+## See Also
+
+- [Karl Wolfe](Karl_Wolfe.md) — Fellow Disclosure Project witness killed in a cycling accident in 2018
+- [David Grusch](David_Grusch.md) — UAP whistleblower who testified before Congress about recovered craft
+- [Lue Elizondo](Lue_Elizondo.md) — Former AATIP director and disclosure advocate
+- [Dean Warwick](Dean_Warwick.md) — Researcher who collapsed and died at a conference moments before disclosing information
+- [Phil Schneider](Phil_Schneider.md) — Government insider found dead after lecturing about classified programs
+
 ## Sources
 
 - [Mark McCandlish Obituary - Redding Record Searchlight](https://www.legacy.com/us/obituaries/redding/name/mark-mccandlish-obituary?id=55837309)

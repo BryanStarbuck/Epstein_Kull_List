@@ -50,6 +50,19 @@ The deaths were investigated by journalist Tony Collins of *Computer News* (late
 - His death occurred during the peak period of the GEC-Marconi deaths cluster (1986-1988)
 - The death fits a pattern seen across the cluster: bizarre methods, quickly closed investigations, and rulings that strain credulity
 
+## See Also
+
+- [Alistair Beckham](Alistair_Beckham.md) — SDI engineer electrocuted in garden shed
+- [Peter Ferry](Peter_Ferry.md) — Marconi marketing director electrocuted via tooth fillings
+- [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi computer scientist found dead at Clifton Suspension Bridge
+- [Arshad Sharif](Arshad_Sharif.md) — Marconi scientist decapitated by rope near Bristol
+- [Keith Bowden](Keith_Bowden.md) — GEC-Marconi contractor killed in suspicious car crash
+- [David Sands](David_Sands.md) — Easams scientist killed in car crash and fire
+- [Shani Warren](Shani_Warren.md) — Micro Scope PA found drowned, bound and gagged
+- [Trevor Knight](Trevor_Knight.md) — Marconi engineer found dead of carbon monoxide
+- [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
+- [Richard Pugh (UAP Deaths project)](../../UAPs/Details/Richard_Pugh.md) — Parallel profile in UAP Deaths project
+
 ## Sources
 
 - [Richard Pugh — Whale.to](http://whale.to/a/pugh_h.html)

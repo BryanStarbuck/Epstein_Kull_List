@@ -45,6 +45,13 @@ Tesla made direct appeals to multiple governments, including the United States, 
 - Tesla spent his final years impoverished and isolated, despite holding patents worth billions in modern terms -- raising questions about whether his marginalization was engineered
 - Some military personnel dismissed his inventions while "another group said there was really something to it," suggesting internal disagreement about the significance of his work
 
+## See Also
+
+- [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher whose work was allegedly classified
+- [Floyd Sweet](Floyd_Sweet.md) — Free energy inventor whose research materials were confiscated after death
+- [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died before scheduled testing
+- [Frank Olson](Frank_Olson.md) — Government scientist whose death was concealed by the CIA for 22 years
+
 ## Sources
 
 - [The Mystery of Nikola Tesla's Missing Files - HISTORY](https://www.history.com/articles/nikola-tesla-files-declassified-fbi)

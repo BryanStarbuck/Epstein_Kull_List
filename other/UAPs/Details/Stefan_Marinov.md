@@ -60,6 +60,14 @@ Marinov was survived by his son, Marin Marinov, who at the time of his father's 
 - His anti-relativistic views placed him outside mainstream physics, and professional isolation can contribute to depression
 - The suicide ruling is not implausible given the totality of circumstances
 
+## See Also
+
+- [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died before scheduled testing in New Zealand
+- [Floyd Sweet](Floyd_Sweet.md) — Free energy inventor who received death threats and died under suspicious circumstances
+- [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
+- [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
+- [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher
+
 ## Sources
 
 - [Stefan Marinov — Wikipedia](https://en.wikipedia.org/wiki/Stefan_Marinov)

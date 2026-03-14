@@ -6,7 +6,7 @@ The pattern is consistent: an inventor or physicist announces or demonstrates a 
 
 Whether these technologies actually worked is a separate question from whether the people behind them were silenced. Some of these devices were almost certainly fraudulent. Others were backed by credentialed scientists with reproducible results. What is documented here is the pattern of what happened to the *people* — not whether their inventions violated thermodynamics.
 
-This project documents suspicious deaths, suppression events, and destroyed careers connected to breakthrough energy research. **35 profiles documented.**
+This project documents suspicious deaths, suppression events, and destroyed careers connected to breakthrough energy research. **41 profiles documented.**
 
 **For deaths connected to Jeffrey Epstein's sex-trafficking and blackmail operation, see the [Epstein Kill List](../../README.md).**
 
@@ -75,6 +75,15 @@ Between 1982 and 1990, approximately 25 British-based scientists and engineers w
 | [Alistair Beckham](Details/Alistair_Beckham.md) | 1988 | Electrocution in garden shed | **HIGHLY SUSPICIOUS** | SDI computer engineer, age 50. Found with wires attached to chest, plugged into socket, handkerchief in mouth. Wife denied depression. Same month as Peter Ferry's electrocution. Open verdict. |
 | [Peter Ferry](Details/Peter_Ferry.md) | 1988 | Electrocution — leads in mouth | **HIGHLY SUSPICIOUS** | Retired Brigadier and Marconi marketing director, age 60. Found with stripped electrical leads jammed into tooth fillings. Same month as Alistair Beckham's electrocution. Open verdict. |
 
+## Anti-Gravity and UAP-Connected Research
+
+| Name | Year | Cause of Death | Suspicion Level | Details |
+|------|------|----------------|-----------------|---------|
+| [Amy Eskridge](Details/Amy_Eskridge.md) | 2022 | Gunshot, ruled suicide | **SUSPICIOUS** | Anti-gravity researcher, co-founder of Institute for Exotic Science in Huntsville, AL. Age 34. Father was NASA plasma physicist. A retired UK intelligence officer alleged she was "murdered by a private aerospace company." Case included in Congressional UAP testimony (Nov 2024). No police reports released. |
+| [Ning Li](Details/Ning_Li.md) | 2021 | Alzheimer's disease | **Research classified** | Chinese-American physicist, published anti-gravity research (Physical Review D/B). Received $448,970 DOD grant. Obtained top secret clearance. Emailed colleagues about "successful new experiments" in 2003, then went silent for 17 years. Hit by car in 2014, permanent brain damage. Classified DOD work never released. |
+| [Eric Wang](Details/Eric_Wang.md) | 1960 | Not publicly stated | **UNCERTAIN** | Austrian-born engineer, director of Office of Special Studies at Wright-Patterson AFB. Obituary gave no cause of death at age 54. Eric H. Wang Civil Engineering Research Facility named after him at Kirtland AFB. UFO researchers allege he headed a reverse-engineering unit for recovered craft. National Archives found no records on him. |
+| [William Neil McCasland](Details/William_Neil_McCasland.md) | 2026 | **MISSING** | **MISSING — AT RISK** | Retired USAF Major General, former commander of Air Force Research Laboratory at Wright-Patterson (2011–2013). Named in WikiLeaks Podesta emails as key UAP figure. Vanished from Albuquerque home Feb 27, 2026. Phone and glasses left behind; firearm missing. FBI searching. Newsweek called it a "grave national security crisis." |
+
 ## Physics and Engineering Suppression Cases
 
 | Name | Year | Cause of Death | Suspicion Level | Details |
@@ -89,6 +98,15 @@ Between 1982 and 1990, approximately 25 British-based scientists and engineers w
 | [Nuno Loureiro](Details/Nuno_Loureiro.md) | 2025 | Shot in apartment foyer | **SUSPICIOUS** | MIT Plasma Science and Fusion Center director, age 47. Shot in Brookline, MA. Suspect Cláudio Valente (former classmate) also shot up Brown University 2 days prior, then killed himself. Loureiro was leading breakthrough fusion research with Commonwealth Fusion Systems. Presidential Early Career Award winner. |
 | [Martin Fleischmann](Details/Martin_Fleischmann.md) | 2012 | Natural causes (Parkinson's) | **Career destroyed** | Co-discoverer of cold fusion. See Cold Fusion section above. |
 | [Philo Farnsworth](Details/Philo_Farnsworth.md) | 1971 | Pneumonia (age 64) | **Research defunded** | Invented television at 21, then developed the Farnsworth fusor — first device to demonstrably produce fusion. ITT cut funding in 1967 under board pressure. Died before completing fusion work. Fusor concept still used today but never developed for energy. |
+| [Carl Grillmair](Details/Carl_Grillmair.md) | 2026 | Shot at home | **UNCERTAIN — Mischaracterized** | Caltech astrophysicist (stellar streams, exoplanets), NOT a propulsion/energy researcher despite conspiracy claims. Shot at 6:10 a.m. by troubled neighbor. Suspect's prior firearms charge had been inexplicably dismissed weeks earlier. 147 peer-reviewed papers. NASA Exceptional Scientific Achievement Medal (2011). |
+
+## Misattributed Cases
+
+These individuals appear on conspiracy-theory lists of "suppressed energy scientists" but research shows no credible connection to energy technology or anti-gravity work.
+
+| Name | Year | Cause of Death | Assessment | Details |
+|------|------|----------------|------------|---------|
+| [Monica Jacinto Reza](Details/Monica_Jacinto_Reza.md) | 2025 | Hiking accident | **Not connected** | Cited as involved in "anti-gravity research and fusion/plasma science" — but no evidence connects her to any scientific work. Does not appear in any academic databases. Died after going missing while hiking in Angeles National Forest. Appears to be fabrication or mistaken identity. |
 
 ---
 
@@ -98,13 +116,13 @@ Between 1982 and 1990, approximately 25 British-based scientists and engineers w
 
 **Deaths before funding or publication:** [Arie DeGeus](Details/Arie_DeGeus.md) died while en route to secure European funding. [Eugene Mallove](Details/Eugene_Mallove.md) was killed days before a major media appearance. [Stanley Meyer](Details/Stanley_Meyer.md) died during a meeting with investors. [Tom Ogle](Details/Tom_Ogle.md) died after selling marketing rights and gaining national attention. [Dimitri Petronov](Details/Dimitri_Petronov.md) vanished weeks after demonstrating to Russian military. The pattern: inventors die or disappear at the precise moment they are about to scale up.
 
-**Government seizure of research:** [Nikola Tesla](Details/Nikola_Tesla.md)'s papers were seized by the FBI and Office of Alien Property within hours of his death. [Thomas Henry Moray](Details/Thomas_Henry_Moray.md)'s device was destroyed by his own assistant. [Viktor Schauberger](Details/Viktor_Schauberger.md) was coerced into signing away all rights and all documents were confiscated in the US. [Floyd Sweet](Details/Floyd_Sweet.md)'s research materials were allegedly confiscated the day after his death. [Rory Johnson](Details/Rory_Johnson.md)'s Magnatron was targeted by DOE gag and grab orders. Adam Trombly claims all his devices were confiscated under national security orders. [B. Stanley Pons](../../Details/B_Stanley_Pons.md)' cold fusion research was defunded by Congress. [Thomas Townsend Brown](Details/Thomas_Townsend_Brown.md)'s electrogravitics research was allegedly classified. [Paul Pantone](Details/Paul_Pantone.md) was committed to a state mental hospital after patenting his GEET reactor. The technology disappears even when the inventor survives.
+**Government seizure and classification of research:** [Nikola Tesla](Details/Nikola_Tesla.md)'s papers were seized by the FBI and Office of Alien Property within hours of his death. [Thomas Henry Moray](Details/Thomas_Henry_Moray.md)'s device was destroyed by his own assistant. [Viktor Schauberger](Details/Viktor_Schauberger.md) was coerced into signing away all rights and all documents were confiscated in the US. [Floyd Sweet](Details/Floyd_Sweet.md)'s research materials were allegedly confiscated the day after his death. [Rory Johnson](Details/Rory_Johnson.md)'s Magnatron was targeted by DOE gag and grab orders. Adam Trombly claims all his devices were confiscated under national security orders. [B. Stanley Pons](../../Details/B_Stanley_Pons.md)' cold fusion research was defunded by Congress. [Thomas Townsend Brown](Details/Thomas_Townsend_Brown.md)'s electrogravitics research was allegedly classified. [Paul Pantone](Details/Paul_Pantone.md) was committed to a state mental hospital after patenting his GEET reactor. [Ning Li](Details/Ning_Li.md)'s DOD-funded anti-gravity research was classified after she obtained top secret clearance — her results have never been released. [Eric Wang](Details/Eric_Wang.md)'s work at the Office of Special Studies at Wright-Patterson has no records in the National Archives. The technology disappears even when the inventor survives.
 
 **Imprisonment as suppression:** [Wilhelm Reich](Details/Wilhelm_Reich.md) was imprisoned for selling orgone accumulators — 6 tons of his books were burned by federal court order, the only government-sanctioned book burning in US history. He died in Lewisburg Federal Penitentiary one day before parole eligibility. [Paul Pantone](Details/Paul_Pantone.md) was committed to Utah State Mental Hospital for nearly 4 years after a securities fraud plea related to his GEET reactor. [Joseph Westley Newman](Details/Joseph_Westley_Newman.md) spent 7+ years battling the US Patent Office, which refused his energy machine patent on perpetual motion grounds. When murder is too conspicuous, the state uses courts, prisons, and mental institutions.
 
 **Inventors drugged, poisoned, or physically attacked:** [Stanley Meyer](Details/Stanley_Meyer.md) cried "They poisoned me" before collapsing. [Tom Ogle](Details/Tom_Ogle.md) told his attorney people were drugging his drinks — then died of an overdose ruled suicide. [Thomas Henry Moray](Details/Thomas_Henry_Moray.md) was shot at multiple times and took a bullet to the leg. [Paul Brown](Details/Paul_Brown.md)'s home was robbed 3 times, vandalized 4 times, and his mother's car was pipe-bombed. [Lester Hendershot](Details/Lester_Hendershot.md) was hospitalized after a 2,000-volt shock from his own device. [Andrija Puharich](Details/Andrija_Puharich.md)'s home was destroyed by arson. [Floyd Sweet](Details/Floyd_Sweet.md) received death threats. Adam Trombly claims multiple poisoning attempts. The methods vary but the pattern is direct physical violence or chemical attack against the inventor.
 
-**Disappearances and missing research:** [Dimitri Petronov](Details/Dimitri_Petronov.md) vanished from Moscow after demonstrating plasma battery to Russian generals. [Mark Tomion](Details/Mark_Tomion.md)'s research reportedly disappeared after his death. [Nikola Tesla](Details/Nikola_Tesla.md)'s papers remain partially unaccounted for decades later. [Lester Hendershot](Details/Lester_Hendershot.md)'s device was never reproduced after his death. When inventors die or vanish, their research vanishes with them.
+**Disappearances and missing research:** [Dimitri Petronov](Details/Dimitri_Petronov.md) vanished from Moscow after demonstrating plasma battery to Russian generals. [William Neil McCasland](Details/William_Neil_McCasland.md) — former commander of the Air Force Research Laboratory at Wright-Patterson, linked to UAP programs through WikiLeaks — vanished from his Albuquerque home in February 2026; FBI is searching. [Mark Tomion](Details/Mark_Tomion.md)'s research reportedly disappeared after his death. [Nikola Tesla](Details/Nikola_Tesla.md)'s papers remain partially unaccounted for decades later. [Lester Hendershot](Details/Lester_Hendershot.md)'s device was never reproduced after his death. When inventors die or vanish, their research vanishes with them.
 
 **Career destruction as alternative to murder:** [Martin Fleischmann](Details/Martin_Fleischmann.md) and [B. Stanley Pons](../../Details/B_Stanley_Pons.md) weren't killed — their careers were. Jeffrey Epstein emailed "i killed pons years ago," claiming credit for destroying Pons' cold fusion work. Congressional funding was cut. Pons fled to France and renounced his citizenship. Fleischmann was shunned until his death. Sometimes you don't need to kill the person — you just need to kill the research.
 
@@ -113,6 +131,8 @@ Between 1982 and 1990, approximately 25 British-based scientists and engineers w
 **GEC-Marconi cluster (1982–1990):** [Keith Bowden](Details/Keith_Bowden.md) (car crash, tires swapped, 1982), [Vimal Dajibhai](Details/Vimal_Dajibhai.md) (bridge fall, needle wound, 1986), [Arshad Sharif](Details/Arshad_Sharif.md) (decapitation-by-car, 1986), [Richard Pugh](Details/Richard_Pugh.md) (bound with bag, 1987), [David Sands](Details/David_Sands.md) (car with extra petrol, 1987), [Shani Warren](Details/Shani_Warren.md) (drowned bound and gagged, 1987), [David Greenhalgh](Details/David_Greenhalgh.md) (bridge fall, 1987), [Trevor Knight](Details/Trevor_Knight.md) (car exhaust, 1988), [Alistair Beckham](Details/Alistair_Beckham.md) (electrocuted with wires, 1988), [Peter Ferry](Details/Peter_Ferry.md) (electrocuted via tooth fillings, 1988). Ten of approximately 25 scientists working on Star Wars/SDI directed-energy weapons who died in 8 years. The UK Defence Ministry called it coincidence. The cluster has never been explained.
 
 **Fusion scientists targeted:** [Nuno Loureiro](Details/Nuno_Loureiro.md) — MIT Plasma Science and Fusion Center director — was shot dead in December 2025, the highest-profile fusion scientist murder in modern history. [Martin Fleischmann](Details/Martin_Fleischmann.md) and [B. Stanley Pons](../../Details/B_Stanley_Pons.md) had their careers destroyed after the cold fusion announcement. [Eugene Mallove](Details/Eugene_Mallove.md) — the chief advocate for their work — was beaten to death. The fusion research community has suffered an unusual pattern of violence and suppression.
+
+**Anti-gravity researchers silenced or killed:** [Ning Li](Details/Ning_Li.md) (research classified by DOD, 2003–2021), [Amy Eskridge](Details/Amy_Eskridge.md) (gunshot ruled suicide, age 34, 2022), [Thomas Townsend Brown](Details/Thomas_Townsend_Brown.md) (electrogravitics classified, 1957), [Eric Wang](Details/Eric_Wang.md) (died at 54 with no stated cause, records missing, 1960), [William Neil McCasland](Details/William_Neil_McCasland.md) (missing, 2026). The anti-gravity/exotic propulsion field has seen an unusual concentration of classification, career destruction, suspicious deaths, and disappearances. Huntsville, Alabama — home to NASA Marshall and the University of Alabama in Huntsville — connects both Ning Li and Amy Eskridge.
 
 **Diesel and Tesla — the original pattern:** [Rudolf Diesel](Details/Rudolf_Diesel.md) vanished from a ship in 1913 — his engine threatened coal and petroleum monopolies. [Nikola Tesla](Details/Nikola_Tesla.md) died alone in 1943 and his papers were immediately seized — his wireless energy transmission threatened the entire utility industry. The pattern of eliminating or suppressing inventors whose work threatens incumbent energy industries predates the modern era by over a century.
 
@@ -125,6 +145,9 @@ Jeffrey Epstein's email to Al Seckel (October 1, 2009) — *"regarding cold fusi
 ---
 
 ## Cross-References
+
+**UAP Deaths (suspicious deaths of UFO/UAP researchers):** [../UAPs/README.md](../UAPs/README.md)
+* 20 people appear in both projects — Marconi scientists, Tesla, Stanley Meyer, Eugene Mallove, Thomas Townsend Brown, Floyd Sweet, Bruce DePalma, Arie DeGeus, Stefan Marinov, Paul Brown, Rory Johnson, Ning Li, and others
 
 **Epstein Kill List (sex-trafficking blackmail deaths):** [../../README.md](../../README.md)
 * [B. Stanley Pons](../../Details/B_Stanley_Pons.md) — Epstein claimed to have "killed" his cold fusion career
@@ -176,4 +199,4 @@ Primary references include:
 
 ---
 
-*Last Updated: March 13, 2026*
+*Last Updated: March 14, 2026*

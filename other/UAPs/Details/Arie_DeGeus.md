@@ -47,6 +47,14 @@ At the time of his death, DeGeus was reportedly close to securing the funding ne
 - Officials quickly ruled out homicide, which some researchers found premature given the circumstances
 - Fits a broader pattern of alternative energy inventors dying under suspicious circumstances at critical junctures in their work
 
+## See Also
+
+- [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died under suspicious circumstances
+- [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death
+- [Amy Eskridge](Amy_Eskridge.md) — NASA antigravity researcher found dead from gunshot wound in 2022
+- [Rory Johnson](Rory_Johnson.md) — Free energy inventor who died suddenly after DOE gag order
+- [Paul Brown](Paul_Brown.md) — Nuclear battery inventor killed in car accident after years of harassment
+
 ## Sources
 
 - [Project Camelot - In Tribute: Arie DeGeus](https://projectcamelot.org/degeus.html)

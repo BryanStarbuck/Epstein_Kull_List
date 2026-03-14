@@ -51,6 +51,14 @@ Eskridge was based in Huntsville, Alabama -- a city with deep connections to the
 - The pattern of two antigravity researchers in the same city experiencing suspicious events is notable
 - Journalist Michael Shellenberger considered the case significant enough to include in formal Congressional testimony
 
+## See Also
+
+- [Ning Li](Ning_Li.md) — Another antigravity researcher based at UAH who was struck by a vehicle, causing permanent brain damage
+- [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
+- [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
+- [Arie DeGeus](Arie_DeGeus.md) — Free energy inventor found dead in car at airport
+- [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died weeks before testing his device
+
 ## Sources
 
 - [Amy Eskridge Obituary - Legacy.com](https://www.legacy.com/obituaries/name/amy-eskridge-obituary?pid=202191023)

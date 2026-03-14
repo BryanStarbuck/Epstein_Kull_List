@@ -53,6 +53,13 @@ Pantone was released from the Utah State Mental Hospital in May 2009, but his he
 - Mental health commitment can sometimes follow criminal proceedings when psychological evaluations recommend it
 - His health problems, while serious, are not uncommon in institutional settings
 
+## See Also
+
+- [Wilhelm Reich](Wilhelm_Reich.md) — Scientist imprisoned by the government; books burned by court order
+- [Joseph Westley Newman](Joseph_Westley_Newman.md) — Energy Machine inventor who fought the US Patent Office for 7+ years
+- [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
+- [Rory Johnson](Rory_Johnson.md) — Magnatron inventor targeted by DOE gag and grab orders
+
 ## Sources
 
 - paulpantone.com — Official website documenting Pantone's technology and legal struggles

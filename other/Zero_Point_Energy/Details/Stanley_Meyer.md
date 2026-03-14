@@ -71,6 +71,7 @@ The dinner at which Meyer died was reportedly a business meeting. The Belgian in
 - [Tom Ogle](Tom_Ogle.md) — Fuel vapor system inventor who died of overdose in 1981
 - [Rudolf Diesel](Rudolf_Diesel.md) — Diesel engine inventor who vanished from a ship in 1913
 - [Nikola Tesla](Nikola_Tesla.md) — Wireless energy pioneer whose papers were seized by the FBI
+- [Stanley Meyer (UAP Deaths project)](../../UAPs/Details/Stanley_Meyer.md) — Parallel profile in UAP Deaths project
 
 ## Sources
 

@@ -65,6 +65,14 @@ Bell studied Eastern philosophy, trained with Himalayan teachers, and received a
 - Some of Bell's later career claims (pyramid healing technology, Pleiadian contact) diminish his credibility in mainstream scientific circles
 - However, the timing of death relative to the interview remains striking regardless of one's assessment of Bell's broader claims
 
+## See Also
+
+- [Dean Warwick](Dean_Warwick.md) — Researcher who collapsed and died on stage at a UFO conference in 2006
+- [Mark McCandlish](Mark_McCandlish.md) — Aerospace illustrator who died after offering to testify before the Senate
+- [Max Spiers](Max_Spiers.md) — UFO researcher who died mysteriously in Warsaw after warning his mother
+- [Phil Schneider](Phil_Schneider.md) — Government insider who died after lecturing about classified programs
+- [Frank Olson](Frank_Olson.md) — CIA scientist connected to MKULTRA who fell from a hotel window
+
 ## Sources
 
 - [Dr. Fred Bell, a Mysterious Death — The Free Dictionary](https://encyclopedia2.thefreedictionary.com/Dr.+Fred+Bell,+a+Mysterious+Death)

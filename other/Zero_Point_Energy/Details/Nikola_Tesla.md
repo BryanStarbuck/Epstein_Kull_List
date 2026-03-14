@@ -110,6 +110,8 @@ Tesla's wireless power transmission work was particularly threatening to the ele
 - [Rudolf Diesel](Rudolf_Diesel.md) — Diesel engine inventor who vanished from a ship in 1913
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
+- [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher whose work was allegedly classified
+- [Nikola Tesla (UAP Deaths project)](../../UAPs/Details/Nikola_Tesla.md) — Parallel profile in UAP Deaths project
 
 ## Sources
 

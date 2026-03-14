@@ -58,6 +58,19 @@ Dajibhai's death, along with that of [Arshad Sharif](Arshad_Sharif.md) two month
 - Marconi attempted to minimize his role at the company after his death
 - The coroner could not determine whether he jumped or was pushed, returning an open verdict
 
+## See Also
+
+- [Arshad Sharif](Arshad_Sharif.md) — Marconi colleague who died near Bristol the same year
+- [Alistair Beckham](Alistair_Beckham.md) — SDI engineer electrocuted in garden shed
+- [Peter Ferry](Peter_Ferry.md) — Marconi marketing director electrocuted via tooth fillings
+- [Keith Bowden](Keith_Bowden.md) — GEC-Marconi contractor killed in suspicious car crash
+- [David Sands](David_Sands.md) — Easams scientist killed in car crash and fire
+- [Richard Pugh](Richard_Pugh.md) — MOD consultant found bound with plastic bag on head
+- [Shani Warren](Shani_Warren.md) — Micro Scope PA found drowned, bound and gagged
+- [Trevor Knight](Trevor_Knight.md) — Marconi engineer found dead of carbon monoxide
+- [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
+- [Vimal Dajibhai (UAP Deaths project)](../../UAPs/Details/Vimal_Dajibhai.md) — Parallel profile in UAP Deaths project
+
 ## Sources
 
 - [GEC-Marconi Scientist Deaths Conspiracy Theory — Wikipedia](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory)

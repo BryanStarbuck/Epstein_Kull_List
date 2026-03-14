@@ -48,6 +48,13 @@ Petronov reportedly demonstrated his plasma battery to top Russian military gene
 - It is possible that aspects of his story have been embellished or distorted as they circulated through alternative media
 - "Dimitri Petronov" may be a transliteration variant, making records searches more difficult
 
+## See Also
+
+- [Arie DeGeus](Arie_DeGeus.md) — Clean energy inventor who died of heart failure en route to secure funding
+- [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly at a restaurant
+- [Floyd Sweet](Floyd_Sweet.md) — VTA inventor who received death threats before his death
+- [Rory Johnson](Rory_Johnson.md) — Magnatron inventor who relocated and died mysteriously
+
 ## Sources
 
 - Peak Oil News — Reports on Petronov's disappearance and plasma battery technology

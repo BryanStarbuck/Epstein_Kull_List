@@ -84,6 +84,7 @@ Despite the harassment, Brown continued his work through Nuclear Solutions Inc. 
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [John Bedini](John_Bedini.md) — Free energy researcher
+- [Paul Brown (UAP Deaths project)](../../UAPs/Details/Paul_Brown.md) — Parallel profile in UAP Deaths project
 
 ## Sources
 

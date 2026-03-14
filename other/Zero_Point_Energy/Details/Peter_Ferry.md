@@ -48,6 +48,19 @@ The deaths were investigated by journalist Tony Collins of *Computer News* (late
 - The coroner returned an open verdict rather than ruling it suicide
 - His death was part of a cluster of ~25 defense scientist and industry deaths over an eight-year period
 
+## See Also
+
+- [Alistair Beckham](Alistair_Beckham.md) — SDI engineer electrocuted same month as Ferry
+- [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi computer scientist found dead at Clifton Suspension Bridge
+- [Arshad Sharif](Arshad_Sharif.md) — Marconi scientist decapitated by rope near Bristol
+- [Keith Bowden](Keith_Bowden.md) — GEC-Marconi contractor killed in suspicious car crash
+- [David Sands](David_Sands.md) — Easams scientist killed in car crash and fire
+- [Richard Pugh](Richard_Pugh.md) — MOD consultant found bound with plastic bag on head
+- [Shani Warren](Shani_Warren.md) — Micro Scope PA found drowned, bound and gagged
+- [Trevor Knight](Trevor_Knight.md) — Marconi engineer found dead of carbon monoxide
+- [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
+- [Peter Ferry (UAP Deaths project)](../../UAPs/Details/Peter_Ferry.md) — Parallel profile in UAP Deaths project
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

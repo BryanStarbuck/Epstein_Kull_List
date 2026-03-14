@@ -88,6 +88,7 @@ When Johnson learned of the seizure order, he reportedly moved all motors, proto
 - [Tom Ogle](Tom_Ogle.md) — Fuel vapor system inventor who died of overdose in 1981
 - [Wilhelm Reich](Wilhelm_Reich.md) — Scientist imprisoned after government injunction against his work
 - [Thomas Henry Moray](Thomas_Henry_Moray.md) — Radiant energy inventor subjected to repeated suppression
+- [Rory Johnson (UAP Deaths project)](../../UAPs/Details/Rory_Johnson.md) — Parallel profile in UAP Deaths project
 
 ## Sources
 

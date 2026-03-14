@@ -52,6 +52,13 @@ Sullivan's music, especially *U.F.O.*, was rediscovered and reissued by Light in
 - The fact that he passed a sobriety test the night before his disappearance undermines theories of disoriented wandering
 - His disappearance occurred on a route through an area near several restricted military installations
 
+## See Also
+
+- [Frederick Valentich](Frederick_Valentich.md) — Australian pilot who disappeared after reporting a UFO over Bass Strait
+- [Felix Moncla](Felix_Moncla.md) — USAF pilot who disappeared during a UFO intercept over Lake Superior
+- [Todd Sees](Todd_Sees.md) — Pennsylvania man found dead after UFO sighting on the same morning
+- [Zigmund Adamski](Zigmund_Adamski.md) — Coal miner found dead under bizarre circumstances in Yorkshire
+
 ## Sources
 
 - [Jim Sullivan's Mysterious Masterpiece: 'U.F.O.' - NPR](https://www.npr.org/2010/12/09/131936448/jim-sullivan-s-mysterious-masterpiece-u-f-o)

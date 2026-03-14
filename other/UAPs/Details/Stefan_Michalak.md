@@ -77,6 +77,13 @@ His son, Stan Michalak, co-authored a book with UFO researcher Chris Rutkowski t
 - The Canadian government released its investigative files, which are now held at the University of Manitoba and Library and Archives Canada
 - In 2018, the Royal Canadian Mint issued a commemorative coin depicting the Falcon Lake incident, reflecting the case's status in Canadian history
 
+## See Also
+
+- [John Burroughs](John_Burroughs.md) — Rendlesham Forest witness who suffered radiation injuries from a close UAP encounter
+- [Frederick Valentich](Frederick_Valentich.md) — Australian pilot who disappeared after reporting a UFO
+- [Todd Sees](Todd_Sees.md) — Pennsylvania man found dead after UFO sighting on the same morning
+- [Zigmund Adamski](Zigmund_Adamski.md) — Coal miner found dead with unexplained burns and unidentifiable substance
+
 ## Sources
 
 - [Falcon Lake Incident — Wikipedia](https://en.wikipedia.org/wiki/Falcon_Lake_Incident)

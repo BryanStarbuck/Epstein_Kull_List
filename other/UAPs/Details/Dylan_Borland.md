@@ -38,6 +38,15 @@ Borland is a federal whistleblower who has testified to both the ICIG and AARO w
 - Case demonstrates the professional cost of UAP-related whistleblowing in the intelligence community
 - Reported that the craft interfered with his electronic equipment, consistent with other UAP encounter reports
 
+## See Also
+
+- [David Grusch](David_Grusch.md) — UAP whistleblower who testified to Congress about recovered non-human craft
+- [Lue Elizondo](Lue_Elizondo.md) — Former AATIP director facing retaliation for disclosure efforts
+- [Ryan Graves](Ryan_Graves.md) — Navy pilot and founder of Americans for Safe Aerospace
+- [Bob Lazar](Bob_Lazar.md) — Physicist who claims to have worked on alien craft at Area 51
+- [Tim Burchett](Tim_Burchett.md) — Congressman who organized UAP hearings and received death threats
+- [John Burroughs](John_Burroughs.md) — Rendlesham Forest witness whose medical records were classified
+
 ## Sources
 
 - [Dylan Borland Written Testimony - House Oversight Committee](https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf)

@@ -50,6 +50,13 @@ The mystery deepened when Li was struck by a vehicle in 2014 on the UAH campus, 
 - Her case has been cited by UAP researchers as potentially connected to broader suppression of antigravity and advanced propulsion technologies
 - Fits a pattern of researchers working on gravity modification who experience career destruction, disappearance, or death
 
+## See Also
+
+- [Amy Eskridge](Amy_Eskridge.md) — Another antigravity researcher based in Huntsville, Alabama, found dead from a gunshot wound
+- [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died weeks before scheduled testing
+- [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher whose work was allegedly classified
+- [Arie DeGeus](Arie_DeGeus.md) — Free energy inventor found dead at airport en route to secure funding
+
 ## Sources
 
 - [Ning Li (physicist) - Wikipedia](https://en.wikipedia.org/wiki/Ning_Li_(physicist))

@@ -44,6 +44,13 @@ McKinnon was diagnosed with Asperger syndrome during the extradition proceedings
 - The UK government's decision to block extradition on human rights grounds set a legal precedent
 - McKinnon has been unable to provide copies of what he found, as he did not download the files, making his claims unverifiable
 
+## See Also
+
+- [Bob Lazar](Bob_Lazar.md) — Physicist who claims to have reverse-engineered alien craft at S-4
+- [David Grusch](David_Grusch.md) — UAP whistleblower who testified about recovered non-human craft
+- [Lue Elizondo](Lue_Elizondo.md) — Former AATIP director and disclosure advocate
+- [George Knapp](George_Knapp.md) — Journalist who has reported on UFO cover-ups for over 35 years
+
 ## Sources
 
 - [Gary McKinnon - Wikipedia](https://en.wikipedia.org/wiki/Gary_McKinnon)

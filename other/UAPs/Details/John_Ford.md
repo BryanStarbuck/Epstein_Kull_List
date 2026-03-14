@@ -40,6 +40,12 @@ Ford was charged with illegal possession of radioactive materials, three counts 
 - Supporters argue the recorded meeting was an entrapment operation
 - The case raises broader questions about the use of mental health institutionalization to permanently silence inconvenient investigators
 
+## See Also
+
+- [Paul Bennewitz](Paul_Bennewitz.md) — UFO investigator driven to psychiatric breakdown by AFOSI disinformation campaign
+- [John Mack](John_Mack.md) — Harvard psychiatrist targeted by institutional pressure for alien abduction research
+- [Phil Schneider](Phil_Schneider.md) — Government insider who died after lecturing about classified programs
+
 ## Sources
 
 - [John Ford: Where is the Chairman of Long Island UFO Network Today? - The Cinemaholic](https://thecinemaholic.com/john-ford/)

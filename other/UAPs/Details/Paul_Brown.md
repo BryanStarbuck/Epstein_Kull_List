@@ -45,6 +45,14 @@ Brown founded Nuclear Solutions, Inc. to commercialize both the Nucell battery a
 - Fits a broader pattern of alternative energy inventors dying in accidents or under suspicious circumstances
 - His company, Nuclear Solutions Inc., was actively developing commercial applications at the time of his death
 
+## See Also
+
+- [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
+- [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
+- [Arie DeGeus](Arie_DeGeus.md) — Free energy inventor found dead at airport
+- [Rory Johnson](Rory_Johnson.md) — Free energy inventor who died after DOE gag order
+- [Amy Eskridge](Amy_Eskridge.md) — Antigravity researcher found dead from gunshot wound
+
 ## Sources
 
 - [Remembering Paul Brown, A Nuclear Genius - Future Energy eNews](https://thelivingmoon.com/41pegasus/02documents/Paul_Eulogy.htm)

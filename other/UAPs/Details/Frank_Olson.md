@@ -63,6 +63,13 @@ Olson's story was the subject of Errol Morris's 2017 Netflix documentary series 
 - Manhattan DA opened a homicide investigation in 1996 based on the forensic evidence
 - His case established a documented pattern of CIA willingness to harm its own personnel to protect secrets
 
+## See Also
+
+- [James Forrestal](James_Forrestal.md) — First Secretary of Defense who fell from a hospital window in 1949
+- [Phil Schneider](Phil_Schneider.md) — Government insider found dead with catheter around neck after lecturing about classified programs
+- [William Cooper](William_Cooper.md) — Naval intelligence veteran shot by sheriff's deputies in 2001
+- [Frank Olson](../../../other/Intel_Murders/Details/Frank_Olson.md) — This case also appears in the Intelligence Service Murders project
+
 ## Sources
 
 - [Frank Olson - Wikipedia](https://en.wikipedia.org/wiki/Frank_Olson)

@@ -40,6 +40,15 @@ Notably, a Los Alamos National Laboratory phone directory from the late 1980s di
 - Claims have been featured in congressional UAP discussions as part of the broader disclosure movement
 - Case illustrates the difficulty of verifying or disproving claims when the claimant alleges systematic evidence destruction
 
+## See Also
+
+- [George Knapp](George_Knapp.md) — Journalist who broke the Lazar story in 1989
+- [David Grusch](David_Grusch.md) — UAP whistleblower who testified to Congress about recovered craft
+- [Lue Elizondo](Lue_Elizondo.md) — Former AATIP director and disclosure advocate
+- [Ryan Graves](Ryan_Graves.md) — Navy pilot and UAP disclosure advocate
+- [Dylan Borland](Dylan_Borland.md) — Air Force witness facing retaliation for UAP testimony
+- [Gary McKinnon](Gary_McKinnon.md) — Hacker who claimed to find evidence of UFO cover-ups on military systems
+
 ## Sources
 
 - [Bob Lazar - Wikipedia](https://en.wikipedia.org/wiki/Bob_Lazar)

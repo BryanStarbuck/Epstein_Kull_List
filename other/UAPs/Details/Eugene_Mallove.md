@@ -43,6 +43,14 @@ At the time of his death, Mallove was one of the most vocal and credentialed adv
 - The property where he was killed was in a neighborhood with a history of crime
 - The convictions significantly weaken the conspiracy theory, though some supporters still question whether the convicted men were hired
 
+## See Also
+
+- [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
+- [Arie DeGeus](Arie_DeGeus.md) — Free energy inventor found dead at airport
+- [Amy Eskridge](Amy_Eskridge.md) — Antigravity researcher found dead from gunshot wound
+- [Paul Brown](Paul_Brown.md) — Nuclear battery inventor killed in car accident
+- [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died weeks before scheduled testing
+
 ## Sources
 
 - [Eugene Mallove - Wikipedia](https://en.wikipedia.org/wiki/Eugene_Mallove)

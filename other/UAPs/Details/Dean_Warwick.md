@@ -39,6 +39,13 @@ Warwick was reportedly preparing to reveal information about the identity of the
 - Some researchers, including David Icke, have alleged this was an intelligence agency hit using an ELF (Extremely Low Frequency) weapon
 - The dramatic timing -- dying mid-sentence during a disclosure event -- is considered by some to be statistically improbable as a coincidence
 
+## See Also
+
+- [Fred Bell](Fred_Bell.md) — Physicist who died within 48 hours of filming an interview about beam weapons
+- [Max Spiers](Max_Spiers.md) — UFO researcher who died in Warsaw after sending "if anything happens to me, investigate"
+- [Phil Schneider](Phil_Schneider.md) — Government insider who died after lecturing publicly about classified programs
+- [Mark McCandlish](Mark_McCandlish.md) — Aerospace illustrator who died before planned Senate testimony
+
 ## Sources
 
 - [Project Camelot - In Tribute - Dean Warwick](https://projectcamelot.org/warwick.html)

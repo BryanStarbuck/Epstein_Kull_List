@@ -77,6 +77,13 @@ None of these theories adequately explain all the anomalies: the burns, the unid
 - Adamski had no known enemies, no reason to disappear, and was preparing for his goddaughter's wedding the next day
 - No satisfactory conventional explanation has ever been provided for the full set of anomalies
 
+## See Also
+
+- [Todd Sees](Todd_Sees.md) — Pennsylvania man found dead in underwear after UFO sighting, with unexplained physical anomalies
+- [Jonathan Lovette](Jonathan_Lovette.md) — Alleged USAF airman mutilation case near Holloman AFB
+- [Stefan Michalak](Stefan_Michalak.md) — Civilian who suffered mysterious burns from a close encounter at Falcon Lake
+- [Frederick Valentich](Frederick_Valentich.md) — Australian pilot who disappeared after reporting a UFO over Bass Strait
+
 ## Sources
 
 - [The Unsolved Death of Zigmund Adamski: UFO Abduction or Foul Play? — Discovery UK](https://www.discoveryuk.com/mysteries/the-unsolved-death-of-zigmund-adamski-ufo-abduction-or-foul-play/)

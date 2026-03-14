@@ -38,6 +38,14 @@ His threat disclosures are significant because they came from a sitting member o
 - Connected to [Lue Elizondo](Lue_Elizondo.md) and [David Grusch](David_Grusch.md) through overlapping disclosure efforts
 - His position as a member of Congress means his threats cannot be dismissed as fringe claims
 
+## See Also
+
+- [David Grusch](David_Grusch.md) — UAP whistleblower whose hearing Burchett organized in July 2023
+- [Lue Elizondo](Lue_Elizondo.md) — Former AATIP director who also stated "I am not suicidal"
+- [Ryan Graves](Ryan_Graves.md) — Navy pilot who testified at the hearing Burchett organized
+- [Dylan Borland](Dylan_Borland.md) — Air Force veteran facing retaliation for UAP testimony
+- [George Knapp](George_Knapp.md) — Journalist who testified before Congress in 2025
+
 ## Sources
 
 - [Tim Burchett - Wikipedia](https://en.wikipedia.org/wiki/Tim_Burchett)

@@ -64,6 +64,14 @@ The Australian Department of Transport investigation concluded that "the reason 
 - His pre-existing belief in UFOs and fear of UFO attack may be relevant to interpreting his radio reports
 - Bass Strait is known for treacherous flying conditions
 
+## See Also
+
+- [Felix Moncla](Felix_Moncla.md) — USAF pilot who disappeared during a UFO intercept over Lake Superior in 1953
+- [Thomas Mantell](Thomas_Mantell.md) — USAF pilot who crashed while pursuing a UFO in 1948
+- [Todd Sees](Todd_Sees.md) — Pennsylvania man found dead after UFO sighting on the same morning
+- [Jonathan Lovette](Jonathan_Lovette.md) — Alleged USAF airman mutilation case near Holloman AFB
+- [Jim Sullivan](Jim_Sullivan.md) — Musician who vanished in the New Mexico desert in 1975
+
 ## Sources
 
 - [Disappearance of Frederick Valentich - Wikipedia](https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich)

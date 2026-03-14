@@ -55,6 +55,13 @@ Haney was also reportedly engaged to be married at the time of his death, which 
 - However, the official investigation found a verified suicide note, evidence of recent depression, and behavior consistent with planning a suicide (giving away possessions)
 - The two-year investigation timeline, while lengthy, may reflect thoroughness rather than suspicion
 
+## See Also
+
+- [James Forrestal](James_Forrestal.md) — Government insider who fell from a hospital window in 1949
+- [Frank Olson](Frank_Olson.md) — CIA scientist who fell from a hotel window in 1953
+- [William Cooper](William_Cooper.md) — Government whistleblower shot by sheriff's deputies in 2001
+- [Phil Schneider](Phil_Schneider.md) — Government insider found dead after lecturing about classified programs
+
 ## Sources
 
 - [Philip Haney - Wikipedia](https://en.wikipedia.org/wiki/Philip_Haney)

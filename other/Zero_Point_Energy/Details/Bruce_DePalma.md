@@ -91,6 +91,7 @@ Associates and biographers have noted that DePalma struggled with alcohol and su
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died before commercial development
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
 - [Stefan Marinov](Stefan_Marinov.md) — Physicist who fell from a building while researching unconventional energy
+- [Bruce DePalma (UAP Deaths project)](../../UAPs/Details/Bruce_DePalma.md) — Parallel profile in UAP Deaths project
 
 ## Sources
 

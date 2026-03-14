@@ -43,6 +43,13 @@ Days before his death, Spiers texted his mother, Vanessa Bates, with the warning
 - His mother and associates have publicly expressed doubts about the official findings
 - No autopsy was initially performed in Poland
 
+## See Also
+
+- [Dean Warwick](Dean_Warwick.md) — Researcher who collapsed and died at a conference in 2006
+- [Fred Bell](Fred_Bell.md) — Physicist who died within 48 hours of filming an interview about beam weapons
+- [Phil Schneider](Phil_Schneider.md) — Government insider found dead after lecturing about classified programs
+- [Jim Keith](Jim_Keith.md) — Conspiracy author who died after routine knee surgery in 1999
+
 ## Sources
 
 - [Death of Max Spiers - Wikipedia](https://en.wikipedia.org/wiki/Death_of_Max_Spiers)

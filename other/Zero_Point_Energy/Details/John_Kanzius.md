@@ -49,6 +49,12 @@ Rustum Roy, a materials scientist at Pennsylvania State University, verified the
 
 The Kanzius water-splitting phenomenon is real and verified, but mainstream scientific consensus holds that the process as demonstrated consumed more energy (to power the RF generator) than it produced (from burning the released hydrogen). For the technology to be practical as an energy source, significant improvements in efficiency would be needed. Whether such improvements are theoretically possible remains an open question that has received insufficient research attention since Kanzius's death.
 
+## See Also
+
+- [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
+- [Andrija Puharich](Andrija_Puharich.md) — Medical inventor with US patent for water-splitting method
+- [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
+
 ## Sources
 
 - Wikipedia — John Kanzius, including biography and descriptions of both the cancer treatment and water-splitting discoveries

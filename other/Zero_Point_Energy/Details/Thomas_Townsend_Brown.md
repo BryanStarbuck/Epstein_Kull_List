@@ -88,6 +88,7 @@ A 2002 U.S. Army Research Laboratory paper by Thomas Bahder and Chris Fazi studi
 - [Philo Farnsworth](Philo_Farnsworth.md) — Television and fusion inventor whose fusor research was defunded by ITT
 - [Thomas Henry Moray](Thomas_Henry_Moray.md) — Radiant energy inventor whose lab was ransacked
 - [John Bedini](John_Bedini.md) — Free energy inventor who died of an apparent heart attack
+- [Thomas Townsend Brown (UAP Deaths project)](../../UAPs/Details/Thomas_Townsend_Brown.md) — Parallel profile in UAP Deaths project
 
 ## Sources
 

@@ -46,6 +46,13 @@ William Moore publicly confessed his role in the operation at the 1989 MUFON (Mu
 - The operation also served to discredit the broader UFO research community by association
 - No accountability was ever imposed on AFOSI or Richard Doty for the deliberate psychological destruction of a civilian
 
+## See Also
+
+- [John Ford](John_Ford.md) — UFO investigator institutionalized since 1996 without trial
+- [Bob Lazar](Bob_Lazar.md) — Physicist who claims credibility attacks and record erasure by the government
+- [Phil Schneider](Phil_Schneider.md) — Government insider who died after lecturing about classified programs
+- [Frank Olson](Frank_Olson.md) — CIA scientist destroyed by the agency he served
+
 ## Sources
 
 - [Paul Bennewitz - Wikipedia](https://en.wikipedia.org/wiki/Paul_Bennewitz)

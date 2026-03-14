@@ -38,6 +38,16 @@ On July 26, 2023, Graves testified before the House Oversight Subcommittee on Na
 - His advocacy addresses the systemic underreporting of UAP encounters due to professional stigma among pilots
 - Wrote in *Newsweek* that his Congressional testimony "was the tip of the iceberg"
 
+## See Also
+
+- [David Grusch](David_Grusch.md) — UAP whistleblower who testified alongside Graves in July 2023
+- [Lue Elizondo](Lue_Elizondo.md) — Former AATIP director and disclosure advocate
+- [Bob Lazar](Bob_Lazar.md) — Physicist who claims to have worked on alien craft near Area 51
+- [Tim Burchett](Tim_Burchett.md) — Congressman who organized the 2023 hearing and received death threats
+- [Dylan Borland](Dylan_Borland.md) — Air Force veteran facing retaliation for UAP whistleblowing
+- [George Knapp](George_Knapp.md) — Journalist who testified before Congress in 2025
+- [John Burroughs](John_Burroughs.md) — Rendlesham Forest witness with government-acknowledged UAP injuries
+
 ## Sources
 
 - [Ryan Graves Congressional Bio](https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-GravesR-20230726.pdf)

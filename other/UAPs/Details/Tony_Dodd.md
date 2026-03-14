@@ -59,6 +59,15 @@ Dodd authored *Alien Investigator: The Case Files of Britain's Leading UFO Detec
 - There is no direct evidence of foul play or external causation
 - His death may simply reflect the natural incidence of brain tumors in elderly populations
 
+## See Also
+
+- [J. Allen Hynek](J_Allen_Hynek.md) — UFO researcher who died of a brain tumor
+- [Ivan Sanderson](Ivan_Sanderson.md) — Biologist and SITU founder who died of brain cancer
+- [Karla Turner](Karla_Turner.md) — Abduction researcher who died of fast-acting breast cancer at 48
+- [Ann Livingston](Ann_Livingston.md) — MUFON researcher who died of fast-acting ovarian cancer
+- [Wilbert Smith](Wilbert_Smith.md) — Canadian UFO researcher who died of cancer
+- [Olavo Fontes](Olavo_Fontes.md) — Brazilian UFO researcher who died of cancer at 43
+
 ## Sources
 
 - [The Passing of Retired Police Officer Tony Dodd — Colin Andrews](https://colinandrews.net/TonyDoddPassing.html)

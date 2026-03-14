@@ -38,6 +38,13 @@ He authored several books including *Crash at Corona* (1992), *TOP SECRET/MAJIC*
 - No warnings, threats, or premonitions were reported prior to his death
 - The UFO research community broadly accepted his death as natural
 
+## See Also
+
+- [J. Allen Hynek](J_Allen_Hynek.md) — Astronomer and Project Blue Book consultant who died of a brain tumor
+- [John Mack](John_Mack.md) — Harvard psychiatrist and alien abduction researcher killed in London
+- [Leonard Stringfield](Leonard_Stringfield.md) — Pioneer crash-retrieval researcher who died of cancer
+- [Frank Edwards](Frank_Edwards.md) — Radio broadcaster and UFO author who died of a heart attack in 1967
+
 ## Sources
 
 - [Stanton T. Friedman - Wikipedia](https://en.wikipedia.org/wiki/Stanton_T._Friedman)

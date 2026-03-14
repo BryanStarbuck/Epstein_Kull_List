@@ -45,6 +45,14 @@ The U.S. Department of Energy placed a restraining order -- commonly referred to
 - All of his technology and research materials appear to have disappeared after his death
 - Fits a broader pattern of alternative energy inventors dying under suspicious circumstances after government intervention
 
+## See Also
+
+- [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
+- [Arie DeGeus](Arie_DeGeus.md) — Free energy inventor found dead at airport en route to investors
+- [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
+- [Floyd Sweet](Floyd_Sweet.md) — Free energy inventor who received death threats and died under suspicious circumstances
+- [Paul Brown](Paul_Brown.md) — Nuclear battery inventor killed in car accident after years of harassment
+
 ## Sources
 
 - [Dead Inventor's Don't Talk: Meet Rory Johnson - Steemit](https://steemit.com/physics/@deepwaterscrypto/dead-inventor-s-don-t-talk-meet-rory-johnson)

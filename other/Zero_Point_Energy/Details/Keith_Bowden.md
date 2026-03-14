@@ -49,6 +49,19 @@ Some investigators have suggested KGB or Eastern Bloc involvement, theorizing th
 - His death was the first in what would become a cluster of ~25 defense scientist deaths over the following eight years
 - The tire-swapping detail suggests premeditation and technical knowledge of how to stage a fatal car "accident"
 
+## See Also
+
+- [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi computer scientist found dead at Clifton Suspension Bridge
+- [Arshad Sharif](Arshad_Sharif.md) — Marconi scientist decapitated by rope near Bristol
+- [Alistair Beckham](Alistair_Beckham.md) — SDI engineer electrocuted in garden shed
+- [Peter Ferry](Peter_Ferry.md) — Marconi marketing director electrocuted via tooth fillings
+- [David Sands](David_Sands.md) — Easams scientist killed in car crash and fire
+- [Richard Pugh](Richard_Pugh.md) — MOD consultant found bound with plastic bag on head
+- [Shani Warren](Shani_Warren.md) — Micro Scope PA found drowned, bound and gagged
+- [Trevor Knight](Trevor_Knight.md) — Marconi engineer found dead of carbon monoxide
+- [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
+- [Keith Bowden (UAP Deaths project)](../../UAPs/Details/Keith_Bowden.md) — Parallel profile in UAP Deaths project
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

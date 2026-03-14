@@ -39,6 +39,13 @@ Wolfe held a top-secret crypto clearance during his time in the Air Force and st
 - The limited details available about the collision leave questions about the specific circumstances
 - Pattern of Disclosure Project witnesses dying in unusual circumstances
 
+## See Also
+
+- [Mark McCandlish](Mark_McCandlish.md) — Fellow Disclosure Project witness who died of a gunshot wound ruled suicide in 2021
+- [David Grusch](David_Grusch.md) — UAP whistleblower who testified about recovered non-human craft
+- [Lue Elizondo](Lue_Elizondo.md) — Former AATIP director and disclosure advocate
+- [Phil Schneider](Phil_Schneider.md) — Government insider found dead after lecturing about classified programs
+
 ## Sources
 
 - [Yahoo News - Karl Wolfe, Who Claimed He Saw NASA Photos Of Alien Structures On The Moon, Dies In Bike Accident](https://www.yahoo.com/news/karl-wolfe-claimed-saw-nasa-122126101.html)

@@ -42,6 +42,15 @@ Knapp has reported being under surveillance: "They were listening to my phone. T
 - Hosted Netflix's *Investigation Alien* docuseries (2024), reaching a global audience
 - One of the few journalists with decades of continuous UAP reporting, making him a living archive of source relationships and classified knowledge
 
+## See Also
+
+- [Bob Lazar](Bob_Lazar.md) — Physicist whose Area 51 story Knapp broke in 1989
+- [David Grusch](David_Grusch.md) — UAP whistleblower who testified to Congress in 2023
+- [Lue Elizondo](Lue_Elizondo.md) — Former AATIP director and disclosure advocate
+- [Ryan Graves](Ryan_Graves.md) — Navy pilot and founder of Americans for Safe Aerospace
+- [Tim Burchett](Tim_Burchett.md) — Congressman leading UAP hearings
+- [Dorothy Kilgallen](Dorothy_Kilgallen.md) — Journalist who died while investigating UFO and JFK stories
+
 ## Sources
 
 - [George Knapp - Wikipedia](https://en.wikipedia.org/wiki/George_Knapp_(television_journalist))

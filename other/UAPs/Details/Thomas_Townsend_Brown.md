@@ -42,6 +42,13 @@ For most of his later life, Brown lived in semi-retirement in California, contin
 - His research, while potentially significant, had been largely marginalized by the scientific mainstream decades before his death
 - His work is relevant to the UAP discussion primarily in a historical and theoretical context
 
+## See Also
+
+- [Nikola Tesla](Nikola_Tesla.md) — Pioneer of electromagnetic technology whose papers were seized after death
+- [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died before scheduled testing
+- [Floyd Sweet](Floyd_Sweet.md) — Free energy inventor whose research materials were confiscated after death
+- [Ning Li](Ning_Li.md) — Antigravity researcher whose DOD-funded results were never published
+
 ## Sources
 
 - [Thomas Townsend Brown - Wikipedia](https://en.wikipedia.org/wiki/Thomas_Townsend_Brown)

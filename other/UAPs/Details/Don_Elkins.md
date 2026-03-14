@@ -51,6 +51,12 @@ Elkins also co-authored *Secrets of the UFO* with Carla Rueckert and published *
 - His colleagues did not allege foul play; they attributed his decline to the psychological toll of the channeling work combined with personal stressors
 - Suicide is a known outcome of untreated or undertreated severe mental illness
 
+## See Also
+
+- [John Mack](John_Mack.md) — Harvard psychiatrist and alien abduction researcher killed in London in 2004
+- [Brian Lynch](Brian_Lynch.md) — Young contactee who died of an alleged drug overdose after involvement with intelligence-linked PSI research
+- [Morris Jessup](Morris_Jessup.md) — UFO researcher who died of apparent suicide in 1959
+
 ## Sources
 
 - [Elkins, Donald T. (1930-1984) — Encyclopedia.com](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/elkins-donald-t-1930-1984)

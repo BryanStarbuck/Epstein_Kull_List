@@ -46,6 +46,14 @@ In the early 1990s, DePalma left the United States and eventually settled in New
 - Fits a pattern of free energy researchers dying before critical demonstrations or testing milestones
 - His brother Brian De Palma, a famous Hollywood director, has not publicly discussed the circumstances of Bruce's death
 
+## See Also
+
+- [Floyd Sweet](Floyd_Sweet.md) — Inventor of the Vacuum Triode Amplifier who received death threats and died under suspicious circumstances
+- [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Antigravity researcher whose electrogravitics work was allegedly classified
+- [Nikola Tesla](Nikola_Tesla.md) — Pioneer of electromagnetic technology whose papers were seized after death
+- [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
+- [Stefan Marinov](Stefan_Marinov.md) — Physicist researching free energy who fell from a building in 1997
+
 ## Sources
 
 - [Bruce DePalma, N-Machine - Official Site](https://brucedepalma.com/)

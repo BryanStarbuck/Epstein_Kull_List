@@ -39,6 +39,15 @@ In 2015, the U.S. government made an unprecedented acknowledgment by granting Bu
 - His case represents one of the only instances where the U.S. government has formally acknowledged physical harm from a UAP encounter
 - Advocates for other veterans who have suffered UAP-related health effects
 
+## See Also
+
+- [David Grusch](David_Grusch.md) — UAP whistleblower who testified to Congress about recovered craft
+- [Lue Elizondo](Lue_Elizondo.md) — Former AATIP director and disclosure advocate
+- [Ryan Graves](Ryan_Graves.md) — Navy pilot who testified before Congress about UAP encounters
+- [Bob Lazar](Bob_Lazar.md) — Physicist who claims to have worked on alien craft near Area 51
+- [Dylan Borland](Dylan_Borland.md) — Air Force veteran facing retaliation for UAP whistleblowing
+- [Stefan Michalak](Stefan_Michalak.md) — Civilian who suffered radiation burns from a close encounter at Falcon Lake
+
 ## Sources
 
 - [John Burroughs and the Government's Unprecedented Acknowledgment - RDR News](https://www.rdrnews.com/news/national/john-burroughs-and-the-governments-unprecedented-acknowledgment/article_22fde1e0-eac0-11ed-bb5f-a3db8e1a9427.html)

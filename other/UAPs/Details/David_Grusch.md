@@ -44,6 +44,15 @@ His testimony was corroborated in part by two other witnesses at the hearing: re
 - Represents a shift from anonymous or unofficial UAP claims to formal, on-the-record government whistleblowing
 - His case tests the strength of whistleblower protections for individuals disclosing information about classified UAP programs
 
+## See Also
+
+- [Lue Elizondo](Lue_Elizondo.md) — Former AATIP director who also testified before Congress about UAP programs
+- [Ryan Graves](Ryan_Graves.md) — Navy pilot who testified alongside Grusch in July 2023
+- [Bob Lazar](Bob_Lazar.md) — Earlier whistleblower who claimed to have worked on alien craft at S-4
+- [Dylan Borland](Dylan_Borland.md) — Air Force veteran and UAP whistleblower facing career retaliation
+- [Tim Burchett](Tim_Burchett.md) — Congressman who organized the 2023 UAP hearing and received death threats
+- [George Knapp](George_Knapp.md) — Investigative journalist who testified before Congress in 2025
+
 ## Sources
 
 - [David Grusch UFO whistleblower claims - Wikipedia](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims)

@@ -73,6 +73,8 @@ Marinov's supporters point out that even if some of his claims were wrong, he ha
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death
 - [Arie DeGeus](Arie_DeGeus.md) — Clean energy inventor who died of heart failure
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly
+- [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died weeks before testing
+- [Stefan Marinov (UAP Deaths project)](../../UAPs/Details/Stefan_Marinov.md) — Parallel profile in UAP Deaths project
 
 ## Sources
 

@@ -61,6 +61,12 @@ This entry is included because the Lovette-Cunningham incident is widely referen
 - No serious investigative journalist or historian has been able to confirm any aspect of the account
 - Including this case in a research database does not constitute endorsement of its claims
 
+## See Also
+
+- [Todd Sees](Todd_Sees.md) — Pennsylvania man found dead in underwear after UFO sighting, with unexplained physical anomalies
+- [Zigmund Adamski](Zigmund_Adamski.md) — Coal miner found dead with mysterious burns and unidentifiable substance
+- [Frederick Valentich](Frederick_Valentich.md) — Australian pilot who disappeared after reporting a UFO
+
 ## Sources
 
 - [The Dark Connection Between UFOs and Grisly Mutilations — HISTORY](https://www.history.com/articles/ufos-aliens-animal-human-mutilation-lovette-cunningham)

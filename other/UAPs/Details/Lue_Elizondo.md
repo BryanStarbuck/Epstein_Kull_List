@@ -38,6 +38,16 @@ He is a graduate of the University of Miami, where he studied microbiology and i
 - Pentagon has publicly disputed his claims, stating it "has not found any verifiable evidence that any UAP observation represented extraterrestrial activity"
 - Connected to [David Grusch](David_Grusch.md), who made similar whistleblower claims before Congress in July 2023
 
+## See Also
+
+- [David Grusch](David_Grusch.md) — UAP whistleblower who made similar claims before Congress in 2023
+- [Ryan Graves](Ryan_Graves.md) — Navy pilot and founder of Americans for Safe Aerospace
+- [Bob Lazar](Bob_Lazar.md) — Earlier whistleblower who claimed to work on alien craft at S-4
+- [Tim Burchett](Tim_Burchett.md) — Congressman leading UAP hearings who received death threats
+- [Dylan Borland](Dylan_Borland.md) — Air Force veteran facing retaliation for UAP whistleblowing
+- [George Knapp](George_Knapp.md) — Investigative journalist covering UAP for over 35 years
+- [Mark McCandlish](Mark_McCandlish.md) — Disclosure witness who died before planned Senate testimony
+
 ## Sources
 
 - [Luis Elizondo - Wikipedia](https://en.wikipedia.org/wiki/Luis_Elizondo)

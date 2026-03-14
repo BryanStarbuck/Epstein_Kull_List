@@ -44,6 +44,14 @@ Sweet's claims were never validated by mainstream scientific peer review and rem
 - The pattern of threats followed by death followed by confiscation of materials mirrors other suppressed technology cases
 - The identity of the individuals who confiscated his materials was never established
 
+## See Also
+
+- [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died weeks before scheduled testing
+- [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher whose work was allegedly classified
+- [Nikola Tesla](Nikola_Tesla.md) — Inventor whose research materials were seized by the government after death
+- [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
+- [Rory Johnson](Rory_Johnson.md) — Free energy inventor who died after DOE gag order
+
 ## Sources
 
 - [Floyd Sweet's Vacuum Triode Amplifier - amasci.com](http://amasci.com/freenrg/sweetvta.html)

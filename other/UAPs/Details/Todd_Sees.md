@@ -55,6 +55,13 @@ Todd Sees was a 39-year-old resident of Point Township, Northumberland County, P
 - However, the official investigation did close the case as accidental death from cocaine toxicity
 - The low cocaine levels could theoretically still be fatal in certain circumstances involving pre-existing conditions
 
+## See Also
+
+- [Zigmund Adamski](Zigmund_Adamski.md) — Coal miner found dead with mysterious burns and unidentifiable substance in Yorkshire
+- [Jonathan Lovette](Jonathan_Lovette.md) — Alleged USAF airman mutilation case near Holloman AFB
+- [Frederick Valentich](Frederick_Valentich.md) — Australian pilot who disappeared after reporting a UFO
+- [Stefan Michalak](Stefan_Michalak.md) — Civilian who suffered radiation burns from a close encounter at Falcon Lake
+
 ## Sources
 
 - [The Todd Sees Case: Alien Abduction, Murder and Coverup — Soul Ask](https://www.soulask.com/todd-sees-case-alien-abduction-murder-coverup/)

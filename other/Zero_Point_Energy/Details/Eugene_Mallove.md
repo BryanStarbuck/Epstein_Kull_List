@@ -102,6 +102,7 @@ The official explanation — that Mallove was killed by angry former tenants in 
 - [B. Stanley Pons](../../../Details/B_Stanley_Pons.md) — Co-discoverer of cold fusion; Epstein claimed to have "killed" his career
 - [Martin Fleischmann](Martin_Fleischmann.md) — Co-discoverer of cold fusion; career destroyed
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly at a restaurant
+- [Eugene Mallove (UAP Deaths project)](../../UAPs/Details/Eugene_Mallove.md) — Parallel profile in UAP Deaths project
 
 ## Sources
 

@@ -40,6 +40,15 @@ Sanderson authored numerous books, including *Invisible Residents* (1970), which
 - The rapid progression of his cancer has been noted by researchers who track suspicious deaths in the UFO community
 - However, brain cancer at 62 is not uncommon in the general population, and no direct evidence of foul play exists
 
+## See Also
+
+- [J. Allen Hynek](J_Allen_Hynek.md) — UFO researcher who also died of a brain tumor
+- [Wilbert Smith](Wilbert_Smith.md) — Canadian engineer and UFO researcher who died of cancer
+- [Olavo Fontes](Olavo_Fontes.md) — Brazilian UFO researcher who died of cancer at 43
+- [Tony Dodd](Tony_Dodd.md) — British UFO investigator who died of an inoperable brain tumor
+- [Ann Livingston](Ann_Livingston.md) — MUFON researcher who died of fast-acting ovarian cancer
+- [Karla Turner](Karla_Turner.md) — Abduction researcher who died of fast-acting breast cancer at 48
+
 ## Sources
 
 - [Ivan T. Sanderson — Wikipedia](https://en.wikipedia.org/wiki/Ivan_T._Sanderson)
