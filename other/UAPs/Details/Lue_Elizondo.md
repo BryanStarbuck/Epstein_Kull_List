@@ -1,0 +1,49 @@
+[< Back to Main List](../README.md)
+
+# Luis "Lue" Elizondo
+Former head of the Pentagon's Advanced Aerospace Threat Identification Program (AATIP), UAP whistleblower, author of *Imminent*, and the most prominent government insider advocating for UAP disclosure.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Luis Elizondo |
+| **Born** | c. 1972 (exact date not publicly disclosed) |
+| **Status** | ALIVE |
+| **Current Location** | United States |
+| **Category** | Intelligence / Government Whistleblower |
+
+## Assessment: AT RISK / THREATENED
+
+Elizondo has publicly stated "I am not suicidal. I am not prone to accidents. I am not abusing drugs. I am not engaged in any illicit activities. If something happens to me or my family members in the future, you will know what happened." This preemptive statement, made on *The Good Trouble Show* in May 2024, mirrors the warnings made by other UAP figures who later died under suspicious circumstances. As the most visible face of UAP disclosure, he represents the highest-profile target in the current wave of government transparency efforts.
+
+## Current Situation
+
+Elizondo's 2024 memoir *Imminent: Inside the Pentagon's Hunt for UFOs* debuted at number one on *The New York Times* Best Seller list. In November 2024, he testified before a joint hearing of the House Oversight Subcommittee on National Security, entitled "Unidentified Anomalous Phenomena: Exposing the Truth," where he reportedly claimed the government has conducted secret retrievals of UFOs and alien bodies. He has filed an Inspector General complaint regarding Pentagon obstruction of UAP transparency. Elizondo has reported receiving threats against himself and his family in connection with his disclosure activities.
+
+## Background
+
+Elizondo is a decorated former U.S. Army counterintelligence officer who served in sensitive positions across South Korea, Latin America, the Caribbean, Afghanistan, and the Middle East. He held roles with the Office of the National Counterintelligence Executive and the Office of the Director of National Intelligence before being recruited to lead AATIP, the Pentagon's secretive UAP investigation program.
+
+In 2017, Elizondo resigned from the Department of Defense in protest, citing excessive secrecy and what he described as internal efforts to suppress information about UAPs. His resignation letter to then-Secretary of Defense James Mattis reportedly stated that the bureaucratic challenges he faced were "beyond frustrating." His departure, along with the simultaneous release of Navy UAP videos through *The New York Times*, triggered the modern era of UAP disclosure.
+
+He is a graduate of the University of Miami, where he studied microbiology and immunology.
+
+## Why This Person Matters
+
+- Led the Pentagon's only known official UAP investigation program (AATIP) from within the Department of Defense
+- His 2017 resignation and *New York Times* revelations forced the U.S. government to publicly acknowledge the UAP issue for the first time in decades
+- Testified before Congress in November 2024, reportedly claiming government possession of recovered non-human craft and biological specimens
+- Filed an Inspector General complaint alleging Pentagon obstruction and retaliation against UAP transparency efforts
+- Published the preemptive "I am not suicidal" statement, indicating he believes his life may be at risk
+- His book *Imminent* reached #1 on the *New York Times* Best Seller list, bringing UAP disclosure to mainstream attention
+- Pentagon has publicly disputed his claims, stating it "has not found any verifiable evidence that any UAP observation represented extraterrestrial activity"
+- Connected to [David Grusch](David_Grusch.md), who made similar whistleblower claims before Congress in July 2023
+
+## Sources
+
+- [Luis Elizondo - Wikipedia](https://en.wikipedia.org/wiki/Luis_Elizondo)
+- [Luis Elizondo Official Website](https://luiselizondo-official.com/)
+- [Imminent: Inside the Pentagon's Hunt for UFOs - Amazon](https://www.amazon.com/Imminent-Pentagons-Investigating-UAPs_Featured-Experience/dp/0063235560)
+- ['I Am Not Suicidal': UFO Whistleblower Claims Threats to Himself and Family](https://stardrive.org/index.php/sd-weird-desk-news/69392-i-am-not-suicidal-ufo-whistleblower-claims-threats-to-himself-and-family)
+- [UFO whistleblower says he's 'not suicidal' - Irish Star](https://www.irishstar.com/news/us-news/ufo-whistleblowers-protection-tim-burchett-33078333)
+
+*This information was built by Grok and Claude AI research.*

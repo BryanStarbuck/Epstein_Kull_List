@@ -1,0 +1,43 @@
+[< Back to Main List](../README.md)
+
+# George Kountis
+Systems analyst found dead in overturned car in the River Mersey, one of 25 British defense scientists to die under mysterious circumstances (1982-1990).
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | George Kountis |
+| **Born** | Unknown |
+| **Died** | April 17, 1987 |
+| **Age at Death** | Unknown |
+| **Location of Death** | River Mersey, Liverpool, England |
+| **Cause of Death** | Car accident / drowning |
+| **Official Ruling** | Misadventure |
+| **Category** | SDI/Defense Scientist |
+
+## Assessment: SUSPICIOUS
+
+Kountis died on the same day as Shani Warren, another GEC-connected employee. His sister requested a fresh inquest, stating that "things didn't add up." Part of a cluster of 25 British defense scientist deaths between 1982 and 1990.
+
+## Circumstances of Death
+
+On April 17, 1987, George Kountis's car was found overturned in the River Mersey in Liverpool. He was a systems analyst at Bristol Polytechnic working on defence-related projects. The circumstances of how his car ended up in the river were never fully explained. His death occurred on the exact same day as [Shani Warren](Shani_Warren.md), who was found gagged, bound, and drowned in a shallow lake in Buckinghamshire.
+
+## Background
+
+Kountis worked as a systems analyst at Bristol Polytechnic on defence-related computing work. He was one of at least 25 scientists and engineers connected to GEC-Marconi and the British defence establishment who died under mysterious circumstances between 1982 and 1990.
+
+## Why This Death Possibly Raises Questions
+
+- Died on the same day as [Shani Warren](Shani_Warren.md), another GEC-connected employee
+- His sister formally requested a fresh inquest, saying "things didn't add up"
+- Part of a statistically anomalous cluster of 25 defence scientist deaths in 8 years
+- Circumstances of how his car ended up in the River Mersey were unclear
+- The cluster was raised in British Parliament and investigated by MI5
+
+## Sources
+
+- [GEC-Marconi scientist deaths - Wikipedia](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory)
+- [Dead Scientists: The Marconi Murders - The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)
+- Tony Collins, *Open Verdict* (1990)
+
+*This information was built by Grok and Claude AI research.*

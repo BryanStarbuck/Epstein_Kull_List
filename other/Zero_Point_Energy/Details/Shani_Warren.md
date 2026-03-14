@@ -1,0 +1,70 @@
+[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+
+# Shani Warren
+Personal assistant at Micro Scope (later acquired by GEC-Marconi), found drowned, gagged, and bound in a lake. Originally ruled suicide; a man was convicted of her murder 35 years later.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Shani Warren |
+| **Born** | c. 1961 |
+| **Died** | April 1987 |
+| **Age at Death** | 26 |
+| **Location of Death** | Taplow Lake, Buckinghamshire, England |
+| **Cause of Death** | Drowning |
+| **Official Ruling** | Initially suicide; reclassified as murder in 2021. Donald Robertson convicted 2022. |
+| **Category** | Defense Industry Worker |
+
+## Assessment: HIGHLY SUSPICIOUS
+
+Shani Warren was a 26-year-old personal assistant at Micro Scope, a company that was taken over by GEC-Marconi less than four weeks after her death. She was found drowned in approximately 18 inches of water at Taplow Lake in Buckinghamshire. Her body was gagged, she had a noose (jump lead) around her neck, her feet were tied with her own tow-rope, and her hands were bound with another jump lead. Despite these circumstances, police initially ruled her death a suicide, citing a single set of footprints from her high heels at the scene. The case was reopened in 2021 using DNA technology, and in 2022, Donald Robertson was convicted of her murder. While the murder was ultimately attributed to a sex attacker rather than a defense industry conspiracy, the original ruling of "suicide" for a woman found bound and gagged remains one of the most egregious examples of investigative failure in the GEC-Marconi cluster.
+
+## Circumstances of Death
+
+On April 18, 1987, a woman walking her dog discovered Shani Warren's body in Taplow Lake in Buckinghamshire. Warren had drowned in approximately 18 inches of water. The condition of her body was deeply disturbing:
+
+- She was **gagged**
+- A **jump lead was tied around her neck** as a noose (a second jump lead was later found in the lake)
+- Her **feet were tied** with her own tow-rope
+- Her **hands were bound** with another jump lead
+- There was **fresh bruising on her neck** consistent with strangulation
+
+Despite these findings, a police officer initially stated publicly that the death may have been suicide. The reasoning cited was that only one set of footprints — from Shani's high heels — could be identified at the scene. However, a post-mortem examination concluded she had died from drowning, and the neck bruising pointed to strangulation before she entered the water.
+
+## The 2021-2022 Resolution
+
+In June 2021, police reopened the case using breakthroughs in DNA technology. Donald Robertson, 66, of Slough, was arrested and charged with Warren's murder. In 2022, Robertson was found guilty of murder and sentenced to life imprisonment. Robertson was a serial sex attacker.
+
+The conviction established that Warren was murdered by a stranger in a sexual assault, rather than as part of the defense industry conspiracy. However, the case remains significant to the GEC-Marconi cluster because the initial ruling of suicide — for a woman found bound, gagged, and with evidence of strangulation — demonstrated either extraordinary police incompetence or a willingness to close cases involving defense industry connections without proper investigation.
+
+## Background
+
+Shani Warren worked as a personal assistant at Micro Scope, a technology company. Less than four weeks after her death, Micro Scope was taken over by GEC-Marconi. This connection placed her death within the broader context of the GEC-Marconi scientist deaths cluster, though her role was administrative rather than scientific.
+
+Her death occurred in April 1987, during the peak period of the GEC-Marconi deaths cluster, just weeks after David Sands' fiery car crash and months after the deaths of [Vimal Dajibhai](Vimal_Dajibhai.md) and [Arshad Sharif](Arshad_Sharif.md).
+
+## GEC-Marconi Deaths Context
+
+Shani Warren's death has been listed among a cluster of approximately 25 British defense scientists and engineers who died under mysterious circumstances between 1982 and 1990. The majority of victims worked for GEC-Marconi or its subsidiary and sister companies on highly classified projects, including the Sting Ray torpedo guidance system and projects related to the U.S. Strategic Defense Initiative (SDI / "Star Wars").
+
+The deaths were investigated by journalist Tony Collins of *Computer News* (later *Computer Weekly*), who documented 25 suspicious deaths among defense industry workers. The UK Defence Ministry reviewed the cluster and declared it a coincidence.
+
+While Warren's murder was ultimately solved and attributed to a sex attacker unrelated to the defense industry, her case illustrates how the initial police response to deaths in and around the defense sector during this period was to close cases quickly — even when the evidence (bound, gagged, strangled) was blatantly inconsistent with suicide.
+
+## Why This Death Possibly Raises Questions
+
+- She was found gagged, with a noose around her neck, feet tied, and hands bound — yet police initially ruled it suicide
+- Fresh bruising on her neck was consistent with strangulation
+- Her employer, Micro Scope, was taken over by GEC-Marconi less than four weeks after her death
+- The death occurred during the peak period of the GEC-Marconi deaths cluster (1986-1988)
+- The initial "suicide" ruling was maintained for over 30 years before DNA evidence led to a murder conviction
+- While the murder was ultimately attributed to a sex attacker, the willingness of police to rule such an obviously suspicious death as suicide raises questions about how other deaths in the cluster were investigated
+
+## Sources
+
+- [The Killer of Shani Warren, Caught 35 Years Later — Vocal Media](https://vocal.media/criminal/the-killer-of-shani-warren-caught-35-years-later)
+- [Monster OAP Guilty of Murder of Shani Warren — The Sun](https://www.the-sun.com/news/5358547/oap-guilty-murder-shani-warren-lake-taplow/)
+- [Shani Warren Murder: Donald Robertson Jailed for Life — ITV News](https://www.itv.com/news/meridian/2022-05-19/shani-warren-murder-sex-attacker-donald-robertson-jailed-for-life)
+- [Woman Was Bound and Gagged Before Being Dumped in Lake — ITV News](https://www.itv.com/news/meridian/2022-04-29/woman-was-bound-and-gagged-before-dumped-in-lake-court-hears)
+- [GEC-Marconi Scientist Deaths Conspiracy Theory — Wikipedia](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory)
+
+*This information was built by Grok and Claude AI research.*

@@ -1,0 +1,54 @@
+[< Back to Main List](../README.md)
+
+# Eugene Mallove
+Cold fusion advocate, science writer, and editor of Infinite Energy magazine who was beaten to death in 2004 while cleaning a rental property; his murder was eventually linked to a robbery rather than his research.
+
+| Field | Details |
+|-------|---------|
+| **Full Name** | Eugene Franklin Mallove |
+| **Born** | June 9, 1947 (Norwich, Connecticut, USA) |
+| **Died** | May 14, 2004 |
+| **Age at Death** | 56 |
+| **Location of Death** | Norwich, Connecticut, USA |
+| **Cause of Death** | Beaten and stabbed to death (32 lacerations) |
+| **Official Ruling** | Homicide |
+| **Category** | Science Writer / Alternative Energy Advocate |
+
+## Assessment: MODERATE SUSPICION
+
+Eugene Mallove was brutally murdered on May 14, 2004, beaten and stabbed while cleaning a recently vacated rental property owned by his parents in Norwich, Connecticut. He suffered 32 lacerations across his face and was beaten with a piece of pipe. The murder was eventually solved: Chad Schaffer pleaded guilty to first-degree manslaughter and was sentenced to 16 years, while Mozelle Brown was convicted of murder in 2014 and sentenced to 58 years. Police believed robbery was the motive. While the arrests and convictions point to a criminal act unrelated to Mallove's research, the nature and timing of his work -- he was a prominent advocate for cold fusion and had accused MIT of suppressing evidence -- led to conspiracy theories within the alternative energy community that his murder was connected to his research advocacy.
+
+## Circumstances of Death
+
+On May 14, 2004, Eugene Mallove was cleaning a recently vacated rental property owned by his parents -- the house he had grown up in -- in Norwich, Connecticut. Two men, Chad Schaffer and Mozelle Brown, beat Mallove until he was unconscious, and later continued to beat him, at times with a piece of pipe. He was left with 32 lacerations across his face. Police suspected robbery as the motive.
+
+The case took years to solve. Chad Schaffer eventually pleaded guilty to the lesser charge of first-degree manslaughter and was sentenced to 16 years in prison. Mozelle Brown was convicted of Mallove's murder in October 2014 and sentenced to 58 years in prison on January 6, 2015. Brown's conviction was later overturned, and a new trial was ordered.
+
+## Background
+
+Eugene Franklin Mallove was an American scientist, science writer, and energy research advocate. He earned degrees from MIT and Harvard and worked as the chief science writer at MIT's news office. In 1991, Mallove resigned from MIT after alleging that MIT researchers had manipulated data to discredit the 1989 cold fusion experiments by Stanley Pons and Martin Fleischmann at the University of Utah.
+
+Mallove authored *Fire from Ice: Searching for the Truth Behind the Cold Fusion Furor* (1991), which argued that Pons and Fleischmann had indeed produced greater-than-unity output energy but that the results were suppressed through an organized campaign of ridicule by mainstream physicists. He founded the nonprofit New Energy Foundation and served as editor-in-chief of *Infinite Energy* magazine, which he launched in 1995 to cover cold fusion and other alternative energy research.
+
+At the time of his death, Mallove was one of the most vocal and credentialed advocates for cold fusion research. He had been publicly critical of the mainstream scientific establishment's dismissal of the field and had alleged institutional suppression of evidence.
+
+## Why This Death Possibly Raises Questions
+
+- Was the most prominent public advocate for cold fusion research in the United States
+- Had accused MIT of data manipulation to suppress cold fusion evidence
+- The brutal nature of the killing (32 lacerations, beaten with a pipe) seemed excessive for a simple robbery
+- His death occurred at a time when he was actively working to advance cold fusion research
+- However: two men were arrested, charged, and convicted -- the case was solved
+- Police investigation pointed to robbery as the motive, not his research
+- The property where he was killed was in a neighborhood with a history of crime
+- The convictions significantly weaken the conspiracy theory, though some supporters still question whether the convicted men were hired
+
+## Sources
+
+- [Eugene Mallove - Wikipedia](https://en.wikipedia.org/wiki/Eugene_Mallove)
+- [Foreign Policy - The Coldest Case](https://foreignpolicy.com/2016/07/07/the-coldest-case-cold-fusion-eugene-mallove-mit-infinite-energy/)
+- [MIT Technology Review - Death of a Cold Fusion Proponent](https://www.technologyreview.com/2004/05/17/101669/death-of-a-cold-fusion-proponent/)
+- [Hartford Courant - Energy Scientist's Murder Leaves A Void In The Field](https://www.courant.com/2014/10/06/energy-scientists-murder-leaves-a-void-in-the-field-hes-missed-daily/)
+- [Bulletin of the Atomic Scientists - The life and brutal death of a cold fusion crusader](https://thebulletin.org/2016/07/the-life-and-brutal-death-of-a-cold-fusion-crusader/)
+
+*This information was built by Grok and Claude AI research.*

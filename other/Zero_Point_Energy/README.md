@@ -1,0 +1,179 @@
+# Suppressed Energy Breakthroughs: Suspicious Deaths of Inventors, Physicists, and Investors
+
+For over a century, inventors and researchers who have claimed breakthroughs in energy technology — zero-point energy, cold fusion, water fuel cells, radiant energy, and other systems that go beyond conventional combustion, batteries, and grid power — have died under circumstances that range from clearly natural to deeply suspicious. Labs have been raided. Patents have been seized under national security orders. Funding has been cut overnight. Careers have been destroyed.
+
+The pattern is consistent: an inventor or physicist announces or demonstrates a device that allegedly produces energy beyond what conventional physics says is possible. Then one or more of the following happens: government agencies issue gag orders or seize the technology, the inventor's lab is destroyed or ransacked, the inventor dies suddenly — often just before securing funding, publishing results, or going public — and the research disappears.
+
+Whether these technologies actually worked is a separate question from whether the people behind them were silenced. Some of these devices were almost certainly fraudulent. Others were backed by credentialed scientists with reproducible results. What is documented here is the pattern of what happened to the *people* — not whether their inventions violated thermodynamics.
+
+This project documents suspicious deaths, suppression events, and destroyed careers connected to breakthrough energy research. **35 profiles documented.**
+
+**For deaths connected to Jeffrey Epstein's sex-trafficking and blackmail operation, see the [Epstein Kill List](../../README.md).**
+
+**For intelligence service political assassinations, see the [Intel Murders list](../Intel_Murders/README.md).**
+
+---
+
+## Cold Fusion and Low-Energy Nuclear Reactions (LENR)
+
+| Name | Year | Cause of Death | Suspicion Level | Details |
+|------|------|----------------|-----------------|---------|
+| [Eugene Mallove](Details/Eugene_Mallove.md) | 2004 | Beaten to death | **SUSPICIOUS** | Chief cold fusion advocate. Former MIT science writer. Beaten with 32 lacerations, crushed trachea. Officially a robbery by former tenants — but killed days before a major appearance on Coast to Coast AM and while gaining political momentum for cold fusion funding. Two convicted. |
+| [Martin Fleischmann](Details/Martin_Fleischmann.md) | 2012 | Natural causes (Parkinson's) | **Career destroyed** | Co-discoverer of cold fusion (1989). Driven out of mainstream science. Fled to France, then UK. Died after years of illness. Epstein emailed "i killed pons years ago." |
+| [B. Stanley Pons](Details/B_Stanley_Pons.md) | Living | Career destroyed | **Career destroyed** | Co-discoverer of cold fusion. Fled to France, renounced U.S. citizenship, hasn't been heard from in ~30 years. Epstein claimed credit for destroying him. See [Epstein Kill List entry](../../Details/B_Stanley_Pons.md). |
+
+## Water Fuel Cell and Hydrogen Technology
+
+| Name | Year | Cause of Death | Suspicion Level | Details |
+|------|------|----------------|-----------------|---------|
+| [Stanley Meyer](Details/Stanley_Meyer.md) | 1998 | Cerebral aneurysm at restaurant | **SUSPICIOUS** | Inventor of "water fuel cell" — claimed car could run on water. Died suddenly at dinner with Belgian investors. His last words: "They poisoned me." Coroner ruled cerebral aneurysm. Ohio court had found his claims fraudulent in 1996, but supporters insist the technology worked. |
+| [Andrija Puharich](Details/Andrija_Puharich.md) | 1995 | Fall down stairs | **SUSPICIOUS** | Medical inventor with US patent for water-splitting method. Home destroyed by arson in 1979 — attributed to threats from CIA. Fled to Mexico. Died after falling down stairs, age 76. Associates suspected foul play. |
+| [John Kanzius](Details/John_Kanzius.md) | 2009 | Pneumonia (chemo complication) | **Not suspicious** | Radio engineer who discovered RF could dissociate salt water into burnable hydrogen. Died of leukemia complications at 64. Included because research stalled after his death — no foul play suspected. |
+
+## Zero-Point Energy and Radiant Energy
+
+| Name | Year | Cause of Death | Suspicion Level | Details |
+|------|------|----------------|-----------------|---------|
+| [Nikola Tesla](Details/Nikola_Tesla.md) | 1943 | Natural causes (age 86) | **Research seized** | Pioneered AC power, wireless energy, and claimed breakthroughs in directed energy. Died alone in New York hotel. FBI and Office of Alien Property immediately seized his papers. MIT's John G. Trump (Donald Trump's uncle) reviewed them and declared them not dangerous. Many papers remain unaccounted for. |
+| [Thomas Henry Moray](Details/Thomas_Henry_Moray.md) | 1974 | Natural causes | **Attacked and suppressed** | Inventor of "radiant energy" device in the 1930s. Shot at multiple times, bullet wound to leg. Lab ransacked. In 1941, his assistant Felix Frazer allegedly destroyed the Moray Valve with an ax. Device never reproduced. |
+| [Lester Hendershot](Details/Lester_Hendershot.md) | 1961 | Disputed (suicide or train wreck) | **SUSPICIOUS** | Created "fuelless motor" demonstrated to Lindbergh in 1928. Hospitalized after 2,000-volt shock from device. Conflicting death reports — some say suicide, others say only passenger killed in B&O train wreck. |
+| [Wilhelm Reich](Details/Wilhelm_Reich.md) | 1957 | Heart attack in federal prison | **Imprisoned/Died in custody** | Inventor of orgone energy accumulator. FDA obtained injunction; 6+ tons of books burned by court order — only federal book burning in US history. Died in Lewisburg Federal Penitentiary one day before parole eligibility. Age 60. |
+| [Viktor Schauberger](Details/Viktor_Schauberger.md) | 1958 | Natural causes | **Suppressed — died days after** | Austrian inventor of "implosion" vortex energy. Forced to work on flying discs at Mauthausen during WWII. In 1958, coerced into signing away all rights in US. All documents/models confiscated. Died 5 days after returning to Austria. |
+| [Thomas Townsend Brown](Details/Thomas_Townsend_Brown.md) | 1985 | Natural causes (age 80) | **Research classified** | Discovered Biefeld-Brown effect (electrogravitics). Submitted Project Winterhaven to military in 1952. Electrogravitics allegedly classified by 1957. Research suppressed but not killed for it. |
+| Adam Trombly | Living | N/A | **Suppressed** | Co-invented Closed Path Homopolar Generator (1981). Claims U.S. government issued gag order in 1983. Says he has been poisoned multiple times. All his devices allegedly confiscated. Featured in *Thrive* documentary. Claims disputed by some. |
+
+## Breakthrough Energy Devices
+
+| Name | Year | Cause of Death | Suspicion Level | Details |
+|------|------|----------------|-----------------|---------|
+| [Arie DeGeus](Details/Arie_DeGeus.md) | 2007 | Heart failure in airport parking lot | **SUSPICIOUS** | Inventor of clean energy technology reportedly capable of replacing oil. Found slumped in car at Charlotte airport. Was en route to Europe to secure major funding. Autopsy ruled heart failure. Associates say he was in good health. |
+| [Tom Ogle](Details/Tom_Ogle.md) | 1981 | Darvon and alcohol overdose | **SUSPICIOUS** | El Paso inventor who drove 200 miles on 2 gallons using vapor fuel system (1977). Shot and wounded outside bar. Told attorney people were drugging his drinks. Died of overdose ruled suicide, age ~24-28. |
+| [John Bedini](Details/John_Bedini.md) | 2016 | Sudden death | **UNCERTAIN** | Free energy researcher, invented electromagnetic energy recovery devices. Died suddenly — only 4 hours after his brother Gary also died. Collaborated with Tom Bearden for 20+ years on pulsed motor technology. |
+| [Mark Tomion](Details/Mark_Tomion.md) | 2009 | Unexpected cardiac event | **UNCERTAIN** | Physicist who patented "Star Drive" technology using zero-point energy. Developed working prototype. Died suddenly of cardiac event. Research reportedly missing. |
+| [Dimitri Petronov](Details/Dimitri_Petronov.md) | ~2010 | Disappeared | **MISSING** | Russian inventor of plasma battery that powered entire house for a year. Vanished from Moscow coffee shop weeks after demonstrating to Russian generals. $500,000 reward offered. |
+| [Paul Pantone](Details/Paul_Pantone.md) | 2015 | Long illness | **Imprisoned/Suppressed** | GEET plasma reactor inventor (US patent). Committed to Utah State Mental Hospital 2005–2009 after securities fraud plea. Supporters allege persecution. Died after years of declining health. |
+| [Paul Brown](Details/Paul_Brown.md) | 2002 | Automobile accident | **SUSPICIOUS** | Nuclear scientist, inventor of Nucell resonant nuclear battery (25-year lifespan). Home robbed 3 times, vandalized 4 times, mother's car pipe-bombed. Killed in car crash in Boise, Idaho. |
+| [Rory Johnson](Details/Rory_Johnson.md) | ~1979 | Unknown (died mysteriously) | **SUSPICIOUS** | Inventor of Magnatron magnetic motor (525 HP). Had deal with Greyhound Bus Lines. DOE issued gag order then "grab order." Moved lab in middle of night. Died mysteriously after relocating to California. |
+| [Floyd Sweet](Details/Floyd_Sweet.md) | 1995 | Heart attack | **SUSPICIOUS** | Inventor of Vacuum Triode Amplifier (claimed 500W from 33 microwatts). Received death threats. Wife reported unidentified men visited home before death. All research materials allegedly confiscated next day. Age ~83. |
+| [Bruce DePalma](Details/Bruce_DePalma.md) | 1997 | Internal bleeding | **UNCERTAIN** | Inventor of N-Machine homopolar generator. MIT-educated, brother of Brian De Palma. Fled to New Zealand. Died weeks before official testing of his device. Attributed to substance abuse. |
+| [Joseph Westley Newman](Details/Joseph_Westley_Newman.md) | 2015 | Natural causes (age 78) | **Patent suppressed** | Inventor of "Energy Machine." Fought US Patent Office 7+ years. Patent denied as perpetual motion. Publicly destroyed prototype in protest. Documented in 2015 film *Newman*. |
+
+## Defense-Related Energy Scientists (GEC-Marconi Deaths)
+
+Between 1982 and 1990, approximately 25 British-based scientists and engineers who worked for GEC-Marconi on the Sting Ray torpedo project and U.S. Strategic Defense Initiative (SDI / "Star Wars") related projects died under mysterious circumstances. Many of these scientists were working on directed energy weapons, particle beam technology, and advanced electronic warfare systems.
+
+| Name | Year | Cause of Death | Suspicion Level | Details |
+|------|------|----------------|-----------------|---------|
+| [Keith Bowden](Details/Keith_Bowden.md) | 1982 | Car crash off bridge | **HIGHLY SUSPICIOUS** | GEC-Marconi contractor, age 46. Expert on supercomputers. Car plunged off bridge into rail yard. Police said drunk driving, but friends denied he'd been drinking. Tires on his Rover had been swapped with worn ones. |
+| [Vimal Dajibhai](Details/Vimal_Dajibhai.md) | 1986 | Fall from Clifton Suspension Bridge | **HIGHLY SUSPICIOUS** | Marconi computer scientist, age 24. Working on Sting Ray torpedo guidance. Body found with pants around ankles and unexplained needle-sized puncture wound on buttock. Open verdict. |
+| [Arshad Sharif](Details/Arshad_Sharif.md) | 1986 | Decapitated by rope tied to tree | **HIGHLY SUSPICIOUS** | Marconi satellite detection scientist, age 26. Tied rope to neck and tree, drove off at speed. Died in Bristol near where Dajibhai died. Worked in Dajibhai's section. Ruled suicide. |
+| [Richard Pugh](Details/Richard_Pugh.md) | 1987 | Asphyxiation — plastic bag, rope | **HIGHLY SUSPICIOUS** | MOD computer consultant. Found with feet bound, plastic bag on head, thick rope coiled around body tied four times around neck. Ruled accident (sexual misadventure). |
+| [David Sands](Details/David_Sands.md) | 1987 | Car crash and fire | **HIGHLY SUSPICIOUS** | Easams (Marconi sister company) scientist, age 37. Made sudden U-turn, crashed into wall with two extra petrol cans. Body burned beyond recognition. Still wearing seatbelt. Open verdict. |
+| [Shani Warren](Details/Shani_Warren.md) | 1987 | Drowning — bound and gagged | **HIGHLY SUSPICIOUS** | PA at Micro Scope (acquired by GEC-Marconi weeks later), age 26. Found gagged, noose around neck, hands and feet bound, in 18 inches of water. Initially ruled suicide. Convicted as murder in 2022 (sex attacker). |
+| [David Greenhalgh](Details/David_Greenhalgh.md) | 1987 | Fall from railway bridge | **SUSPICIOUS** | ICL defence division contracts manager, age 46. Fell from 40 ft railway bridge on way to work. Survived briefly but could not explain what happened. Same day as Stuart Gooding's fatal car crash. |
+| [Trevor Knight](Details/Trevor_Knight.md) | 1988 | Carbon monoxide poisoning | **SUSPICIOUS** | Marconi Space and Defence computer engineer, age 52. Found dead in car with hose from exhaust. Ruled suicide. Eighth defense scientist to die unnaturally in 18 months. |
+| [Alistair Beckham](Details/Alistair_Beckham.md) | 1988 | Electrocution in garden shed | **HIGHLY SUSPICIOUS** | SDI computer engineer, age 50. Found with wires attached to chest, plugged into socket, handkerchief in mouth. Wife denied depression. Same month as Peter Ferry's electrocution. Open verdict. |
+| [Peter Ferry](Details/Peter_Ferry.md) | 1988 | Electrocution — leads in mouth | **HIGHLY SUSPICIOUS** | Retired Brigadier and Marconi marketing director, age 60. Found with stripped electrical leads jammed into tooth fillings. Same month as Alistair Beckham's electrocution. Open verdict. |
+
+## Physics and Engineering Suppression Cases
+
+| Name | Year | Cause of Death | Suspicion Level | Details |
+|------|------|----------------|-----------------|---------|
+| [Stefan Marinov](Details/Stefan_Marinov.md) | 1997 | Fell from library staircase, Graz | **SUSPICIOUS** | Bulgarian physicist working on perpetual motion and unconventional electromagnetic theories. Left suicide notes. But Russian physicist Lev Sapongin claimed Marinov "was thrown out of the window by unknown people." Son not notified for two weeks. Police ignored his requests for notifications. |
+| [Rudolf Diesel](Details/Rudolf_Diesel.md) | 1913 | Vanished from ship, body found in North Sea | **SUSPICIOUS** | Inventor of the diesel engine. Disappeared during a voyage on the SS Dresden. Body recovered days later, never conclusively identified. Multiple theories: suicide, murder by coal or petroleum interests, or German military assassination to prevent him selling engine technology to Britain. |
+
+## Fusion Scientists
+
+| Name | Year | Cause of Death | Suspicion Level | Details |
+|------|------|----------------|-----------------|---------|
+| [Nuno Loureiro](Details/Nuno_Loureiro.md) | 2025 | Shot in apartment foyer | **SUSPICIOUS** | MIT Plasma Science and Fusion Center director, age 47. Shot in Brookline, MA. Suspect Cláudio Valente (former classmate) also shot up Brown University 2 days prior, then killed himself. Loureiro was leading breakthrough fusion research with Commonwealth Fusion Systems. Presidential Early Career Award winner. |
+| [Martin Fleischmann](Details/Martin_Fleischmann.md) | 2012 | Natural causes (Parkinson's) | **Career destroyed** | Co-discoverer of cold fusion. See Cold Fusion section above. |
+| [Philo Farnsworth](Details/Philo_Farnsworth.md) | 1971 | Pneumonia (age 64) | **Research defunded** | Invented television at 21, then developed the Farnsworth fusor — first device to demonstrably produce fusion. ITT cut funding in 1967 under board pressure. Died before completing fusion work. Fusor concept still used today but never developed for energy. |
+
+---
+
+## Patterns Worth Noting
+
+**Sudden cardiac events in healthy people:** [Stanley Meyer](Details/Stanley_Meyer.md) (age 57, 1998), [Floyd Sweet](Details/Floyd_Sweet.md) (age ~83, 1995), [Arie DeGeus](Details/Arie_DeGeus.md) (2007), [Mark Tomion](Details/Mark_Tomion.md) (2009), [John Bedini](Details/John_Bedini.md) (age 67, 2016), [Wilhelm Reich](Details/Wilhelm_Reich.md) (heart attack in prison, 1957). Multiple inventors of unconventional energy devices died of sudden cardiac events. Heart attacks and cerebral aneurysms are difficult to distinguish from poisoning in autopsies unless specific toxicology is performed.
+
+**Deaths before funding or publication:** [Arie DeGeus](Details/Arie_DeGeus.md) died while en route to secure European funding. [Eugene Mallove](Details/Eugene_Mallove.md) was killed days before a major media appearance. [Stanley Meyer](Details/Stanley_Meyer.md) died during a meeting with investors. [Tom Ogle](Details/Tom_Ogle.md) died after selling marketing rights and gaining national attention. [Dimitri Petronov](Details/Dimitri_Petronov.md) vanished weeks after demonstrating to Russian military. The pattern: inventors die or disappear at the precise moment they are about to scale up.
+
+**Government seizure of research:** [Nikola Tesla](Details/Nikola_Tesla.md)'s papers were seized by the FBI and Office of Alien Property within hours of his death. [Thomas Henry Moray](Details/Thomas_Henry_Moray.md)'s device was destroyed by his own assistant. [Viktor Schauberger](Details/Viktor_Schauberger.md) was coerced into signing away all rights and all documents were confiscated in the US. [Floyd Sweet](Details/Floyd_Sweet.md)'s research materials were allegedly confiscated the day after his death. [Rory Johnson](Details/Rory_Johnson.md)'s Magnatron was targeted by DOE gag and grab orders. Adam Trombly claims all his devices were confiscated under national security orders. [B. Stanley Pons](../../Details/B_Stanley_Pons.md)' cold fusion research was defunded by Congress. [Thomas Townsend Brown](Details/Thomas_Townsend_Brown.md)'s electrogravitics research was allegedly classified. [Paul Pantone](Details/Paul_Pantone.md) was committed to a state mental hospital after patenting his GEET reactor. The technology disappears even when the inventor survives.
+
+**Imprisonment as suppression:** [Wilhelm Reich](Details/Wilhelm_Reich.md) was imprisoned for selling orgone accumulators — 6 tons of his books were burned by federal court order, the only government-sanctioned book burning in US history. He died in Lewisburg Federal Penitentiary one day before parole eligibility. [Paul Pantone](Details/Paul_Pantone.md) was committed to Utah State Mental Hospital for nearly 4 years after a securities fraud plea related to his GEET reactor. [Joseph Westley Newman](Details/Joseph_Westley_Newman.md) spent 7+ years battling the US Patent Office, which refused his energy machine patent on perpetual motion grounds. When murder is too conspicuous, the state uses courts, prisons, and mental institutions.
+
+**Inventors drugged, poisoned, or physically attacked:** [Stanley Meyer](Details/Stanley_Meyer.md) cried "They poisoned me" before collapsing. [Tom Ogle](Details/Tom_Ogle.md) told his attorney people were drugging his drinks — then died of an overdose ruled suicide. [Thomas Henry Moray](Details/Thomas_Henry_Moray.md) was shot at multiple times and took a bullet to the leg. [Paul Brown](Details/Paul_Brown.md)'s home was robbed 3 times, vandalized 4 times, and his mother's car was pipe-bombed. [Lester Hendershot](Details/Lester_Hendershot.md) was hospitalized after a 2,000-volt shock from his own device. [Andrija Puharich](Details/Andrija_Puharich.md)'s home was destroyed by arson. [Floyd Sweet](Details/Floyd_Sweet.md) received death threats. Adam Trombly claims multiple poisoning attempts. The methods vary but the pattern is direct physical violence or chemical attack against the inventor.
+
+**Disappearances and missing research:** [Dimitri Petronov](Details/Dimitri_Petronov.md) vanished from Moscow after demonstrating plasma battery to Russian generals. [Mark Tomion](Details/Mark_Tomion.md)'s research reportedly disappeared after his death. [Nikola Tesla](Details/Nikola_Tesla.md)'s papers remain partially unaccounted for decades later. [Lester Hendershot](Details/Lester_Hendershot.md)'s device was never reproduced after his death. When inventors die or vanish, their research vanishes with them.
+
+**Career destruction as alternative to murder:** [Martin Fleischmann](Details/Martin_Fleischmann.md) and [B. Stanley Pons](../../Details/B_Stanley_Pons.md) weren't killed — their careers were. Jeffrey Epstein emailed "i killed pons years ago," claiming credit for destroying Pons' cold fusion work. Congressional funding was cut. Pons fled to France and renounced his citizenship. Fleischmann was shunned until his death. Sometimes you don't need to kill the person — you just need to kill the research.
+
+**The cold fusion suppression network:** The 1989 Pons-Fleischmann cold fusion announcement triggered an organized campaign to discredit the results. [Eugene Mallove](Details/Eugene_Mallove.md) resigned from MIT after alleging that MIT scientists had manipulated their replication data to show null results. Mallove spent the rest of his life fighting for cold fusion recognition — and was beaten to death in 2004. Jeffrey Epstein claimed to have "killed" Pons' career. The DOE rejected cold fusion twice (1989, 2004). Despite this, the U.S. Navy, DARPA, and multiple international labs have continued LENR research quietly.
+
+**GEC-Marconi cluster (1982–1990):** [Keith Bowden](Details/Keith_Bowden.md) (car crash, tires swapped, 1982), [Vimal Dajibhai](Details/Vimal_Dajibhai.md) (bridge fall, needle wound, 1986), [Arshad Sharif](Details/Arshad_Sharif.md) (decapitation-by-car, 1986), [Richard Pugh](Details/Richard_Pugh.md) (bound with bag, 1987), [David Sands](Details/David_Sands.md) (car with extra petrol, 1987), [Shani Warren](Details/Shani_Warren.md) (drowned bound and gagged, 1987), [David Greenhalgh](Details/David_Greenhalgh.md) (bridge fall, 1987), [Trevor Knight](Details/Trevor_Knight.md) (car exhaust, 1988), [Alistair Beckham](Details/Alistair_Beckham.md) (electrocuted with wires, 1988), [Peter Ferry](Details/Peter_Ferry.md) (electrocuted via tooth fillings, 1988). Ten of approximately 25 scientists working on Star Wars/SDI directed-energy weapons who died in 8 years. The UK Defence Ministry called it coincidence. The cluster has never been explained.
+
+**Fusion scientists targeted:** [Nuno Loureiro](Details/Nuno_Loureiro.md) — MIT Plasma Science and Fusion Center director — was shot dead in December 2025, the highest-profile fusion scientist murder in modern history. [Martin Fleischmann](Details/Martin_Fleischmann.md) and [B. Stanley Pons](../../Details/B_Stanley_Pons.md) had their careers destroyed after the cold fusion announcement. [Eugene Mallove](Details/Eugene_Mallove.md) — the chief advocate for their work — was beaten to death. The fusion research community has suffered an unusual pattern of violence and suppression.
+
+**Diesel and Tesla — the original pattern:** [Rudolf Diesel](Details/Rudolf_Diesel.md) vanished from a ship in 1913 — his engine threatened coal and petroleum monopolies. [Nikola Tesla](Details/Nikola_Tesla.md) died alone in 1943 and his papers were immediately seized — his wireless energy transmission threatened the entire utility industry. The pattern of eliminating or suppressing inventors whose work threatens incumbent energy industries predates the modern era by over a century.
+
+---
+
+## The Epstein Connection
+
+Jeffrey Epstein's email to Al Seckel (October 1, 2009) — *"regarding cold fusion. i killed pons years ago"* — directly links the Epstein network to cold fusion suppression. See the [full Epstein Kill List entry on B. Stanley Pons](../../Details/B_Stanley_Pons.md) for details. Epstein funded scientific research through his foundation and had connections to MIT, Harvard, and other institutions involved in the cold fusion debate. The question of whether Epstein's intelligence connections were used to suppress energy research — not just to compromise politicians — remains unexplored.
+
+---
+
+## Cross-References
+
+**Epstein Kill List (sex-trafficking blackmail deaths):** [../../README.md](../../README.md)
+* [B. Stanley Pons](../../Details/B_Stanley_Pons.md) — Epstein claimed to have "killed" his cold fusion career
+
+**Intelligence Service Murders:** [../Intel_Murders/README.md](../Intel_Murders/README.md)
+* [GEC-Marconi Deaths](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory) — 25 defense scientists dead in 8 years
+
+**Groups directory:** [../groups/](../groups/)
+
+---
+
+## Sources
+
+Primary references include:
+- [Eugene Mallove — Wikipedia](https://en.wikipedia.org/wiki/Eugene_Mallove)
+- [Death of a Cold Fusion Proponent — MIT Technology Review](https://www.technologyreview.com/2004/05/17/101669/death-of-a-cold-fusion-proponent/)
+- [The Coldest Case — Foreign Policy](https://foreignpolicy.com/2016/07/07/the-coldest-case-cold-fusion-eugene-mallove-mit-infinite-energy/)
+- [The Life and Brutal Death of a Cold Fusion Crusader — Bulletin of the Atomic Scientists](https://thebulletin.org/2016/07/the-life-and-brutal-death-of-a-cold-fusion-crusader/)
+- [Free Energy Suppression Conspiracy Theory — Wikipedia](https://en.wikipedia.org/wiki/Free_energy_suppression_conspiracy_theory)
+- [Stanley Meyer's Murder and the Water-Powered Car — Historic Mysteries](https://www.historicmysteries.com/science/stanley-meyer/31661/)
+- [The Mysterious Death of Stanley Meyer — The Classic Car Trust](https://tcct.com/news/2020/11/the-mysterious-death-of-stanley-meyer-and-his-water-powered-car/)
+- [GEC-Marconi Scientist Deaths — Wikipedia](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory)
+- [The Many Real Life Deaths Surrounding the Star Wars Defense Initiative — CrimeReads](https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/)
+- [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)
+- [Nikola Tesla FBI Vault](https://vault.fbi.gov/nikola-tesla)
+- [The Mystery of Nikola Tesla's Missing Files — History.com](https://www.history.com/articles/nikola-tesla-files-declassified-fbi)
+- [Stefan Marinov — Wikipedia](https://en.wikipedia.org/wiki/Stefan_Marinov)
+- [10 Genius Inventors with Highly Suspicious Deaths — Listverse](https://listverse.com/2025/01/14/10-genius-inventors-with-highly-suspicious-deaths/)
+- [Tom Ogle, Inventor — El Paso Community College Library Guide](https://epcc.libguides.com/c.php?g=754275&p=5406552)
+- [The Mysterious Case of Rudolf Diesel — Simon & Schuster](https://www.simonandschuster.com/books/The-Mysterious-Case-of-Rudolf-Diesel/Douglas-Brunt/9781982169909)
+- [Nuno Loureiro — MIT News](https://news.mit.edu/2025/nuno-loureiro-professor-director-plasma-science-and-fusion-center-dies-1216)
+- [MIT Fusion-Lab Head Shot Dead — Nature](https://www.nature.com/articles/d41586-025-04135-9)
+- [Andrija Puharich — Wikipedia](https://en.wikipedia.org/wiki/Andrija_Puharich)
+- [Wilhelm Reich — Wikipedia](https://en.wikipedia.org/wiki/Wilhelm_Reich)
+- [American Inquisition: The FDA's Persecution of Wilhelm Reich — Reason](https://reason.com/1980/01/01/american-inquisition-the-fdas/)
+- [Viktor Schauberger — Wikipedia](https://en.wikipedia.org/wiki/Viktor_Schauberger)
+- [Philo Farnsworth — Wikipedia](https://en.wikipedia.org/wiki/Philo_Farnsworth)
+- [Thomas Townsend Brown — Wikipedia](https://en.wikipedia.org/wiki/Thomas_Townsend_Brown)
+- [Energy Invention Suppression Cases — Gary Vesperman](https://supremelaw.org/authors/wine/Energy_Invention_Suppression_Cases_September_3_2007.htm)
+- Douglas Brunt, *The Mysterious Case of Rudolf Diesel: Genius, Power, and Deception on the Eve of World War I* (2023)
+- Jeane Manning & Joel Garbon, *Breakthrough Power: How Quantum-Leap New Energy Inventions Can Transform Our World* (2009)
+- Jeane Manning & Susan Manewich, *Hidden Energy: Tesla-Inspired Inventors and a Mindful Path to Energy Abundance* (2019)
+- Nick Cook, *The Hunt for Zero Point: Inside the Classified World of Antigravity Technology* (2001)
+- Jonathan Eisen (ed.), *Suppressed Inventions and Other Discoveries* (2001)
+- Eugene Mallove, *Fire from Ice: Searching for the Truth Behind the Cold Fusion Furor* (1991)
+- Tony Collins, *Open Verdict: An Account of 25 Mysterious Deaths in the Defence Industry* (1990)
+- Moray B. King, *The Energy Machine of T. Henry Moray* (2005)
+- Moray B. King, *Quest for Zero Point Energy: Engineering Principles for Free Energy Inventions* (2001)
+
+---
+
+*Last Updated: March 13, 2026*

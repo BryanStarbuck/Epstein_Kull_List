@@ -67,6 +67,7 @@ Andrew was released on bail at 2 AM on February 24, 2026. He has not been charge
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Convicted co-conspirator who facilitated meetings
 - [Peter Mandelson](Peter_Mandelson.md) — Also arrested in UK over Epstein ties
 - [Thorbjorn Jagland](Thorbjorn_Jagland.md) — Norwegian PM, part of European fallout
+- [Diana Spencer](Diana_Spencer.md) — Former sister-in-law; died in Paris car crash 1997 under disputed circumstances
 
 ## Sources
 

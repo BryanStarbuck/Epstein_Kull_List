@@ -31,6 +31,7 @@ The BBC, the National Health Service (NHS), and other British institutions were 
 ## Key Figures
 
 * **Jimmy Savile** — BBC presenter; knighted in 1990; over 450 identified victims; died 2011
+* [Jill Dando](../../Details/Jill_Dando.md) — BBC Crimewatch presenter who reportedly compiled a dossier on a BBC pedophile ring in the mid-1990s and submitted it to management; shot dead execution-style on her doorstep in 1999; case remains unsolved
 * **Mark Thompson** — BBC Director-General who was in charge when the *Newsnight* investigation was killed; later became CEO of the New York Times
 * **George Entwistle** — BBC Director-General who resigned over the Savile scandal
 * **Peter Rippon** — *Newsnight* editor who killed the Savile investigation

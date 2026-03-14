@@ -7,7 +7,7 @@ Home to the Maxwell family dynasty, Prince Andrew's royal protection, the Jimmy 
 | Field | Details |
 |-------|---------|
 | **Region** | London (Kensington, Battersea), Cambridge, Canterbury |
-| **Deaths** | 3+ |
+| **Deaths** | 4+ |
 | **Key Figures** | Maxwell family, Prince Andrew, Jimmy Savile |
 | **Key Organizations** | [Mossad](../groups/mossad.md) (via Maxwell), [Jimmy Savile network](../groups/jimmy_savile.md) |
 
@@ -21,6 +21,7 @@ The UK also has its own parallel elite pedophile scandal: [Jimmy Savile](../grou
 
 ### London
 
+- **[Jill Dando](../../Details/Jill_Dando.md)** (1999, age 37) — **SUSPICIOUS.** BBC Crimewatch presenter shot execution-style on her doorstep in Fulham. Reportedly compiled a dossier on a pedophile ring within the BBC and submitted it to management, which took no action. Professional "hard contact" assassination. Only suspect acquitted after 8 years. Case remains unsolved. The [Jimmy Savile](../groups/jimmy_savile.md) scandal later proved such a ring existed.
 - **[William Broeksmit](../../Details/William_Broeksmit.md)** (2014, age 58) — **UNCERTAIN.** Senior [Deutsche Bank](../groups/deutsche_bank.md) executive found hanged at his Kensington home. The bank managed Epstein's accounts. His son [Val Broeksmit](../../Details/Val_Broeksmit.md) became an FBI informant using his father's Deutsche Bank documents — and was also found dead (LA, 2022).
 - **[Wendy Leigh](../../Details/Wendy_Leigh.md)** (2016, age 65) — **UNCERTAIN.** Journalist and biographer found beneath a balcony at her riverside apartment near Battersea Power Station. Claimed to be investigating Epstein. Ex-husband emphatically rejects suicide. Official manner of death undetermined.
 
