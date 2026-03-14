@@ -68,7 +68,7 @@ Olson's story was the subject of Errol Morris's 2017 Netflix documentary series 
 - [James Forrestal](James_Forrestal.md) — First Secretary of Defense who fell from a hospital window in 1949
 - [Phil Schneider](Phil_Schneider.md) — Government insider found dead with catheter around neck after lecturing about classified programs
 - [William Cooper](William_Cooper.md) — Naval intelligence veteran shot by sheriff's deputies in 2001
-- [Frank Olson](../../../other/Intel_Murders/Details/Frank_Olson.md) — This case also appears in the Intelligence Service Murders project
+- [Frank Olson (Intel Murders)](../../Intel_Murders/Details/Frank_Olson.md) — This case also appears in the Intelligence Service Murders project
 
 ## Sources
 
