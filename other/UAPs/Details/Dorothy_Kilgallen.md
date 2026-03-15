@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Dorothy Kilgallen
 Journalist who broke the British military UFO investigation story and was investigating the JFK assassination, found dead under circumstances the medical examiner called "undetermined."
@@ -55,6 +55,7 @@ In 1964, Kilgallen became the only journalist to secure a private interview with
 
 ## See Also
 
+- [Dorothy Kilgallen (Intel Murders)](../../Intel_Murders/Details/Dorothy_Kilgallen.md) — This case also appears in the Intelligence Service Murders project
 - [James Forrestal](James_Forrestal.md) — Government insider who allegedly knew about recovered craft, died under suspicious circumstances (1949)
 - [Frank Edwards](Frank_Edwards.md) — UFO journalist who died under suspicious circumstances (1967)
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # J. Allen Hynek
 Astronomer who served as scientific consultant to Project Blue Book, evolved from UFO skeptic to the field's most credible scientific advocate, died of brain tumor at 75.

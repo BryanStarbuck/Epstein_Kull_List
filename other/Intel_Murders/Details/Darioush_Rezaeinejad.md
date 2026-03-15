@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Darioush Rezaeinejad
 Iranian electronics engineer shot five times by motorcycle-riding gunmen in front of his wife and daughter in Tehran.
@@ -55,6 +55,8 @@ Rezaeinejad's exact identity and role were subjects of confusion in the immediat
 - [Majid Shahriari](Majid_Shahriari.md) — Iranian nuclear scientist killed by magnetic bomb, 2010
 - [Mostafa Ahmadi Roshan](Mostafa_Ahmadi_Roshan.md) — Iranian nuclear scientist killed by magnetic bomb, 2012
 - [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md) — Head of Iran's nuclear weapons program, assassinated 2020
+
+- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # David Greenhalgh
 Contracts manager at ICL's defence division, suffered multiple injuries after a mysterious fall from a railway bridge on his way to work.

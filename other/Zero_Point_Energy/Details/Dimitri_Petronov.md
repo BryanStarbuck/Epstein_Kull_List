@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Dimitri Petronov
 Russian inventor of a plasma battery who disappeared after demonstrating his technology to military officials.

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Georgi Markov
 Bulgarian dissident writer assassinated on Waterloo Bridge in London with a ricin-tipped pellet fired from a modified umbrella.

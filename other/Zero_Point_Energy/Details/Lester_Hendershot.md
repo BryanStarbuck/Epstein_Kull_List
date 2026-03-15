@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Lester Hendershot
 Inventor of a "fuelless motor" that reportedly drew power from the Earth's magnetic field. Made front-page headlines in 1928, was hospitalized after being shocked by his own device, and died under disputed circumstances in 1961.

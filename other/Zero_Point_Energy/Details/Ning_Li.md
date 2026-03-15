@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Dr. Ning Li
 Chinese-American physicist who published groundbreaking anti-gravity research, received DOD funding, obtained top secret clearance, then vanished from public life for 17 years before dying of Alzheimer's disease.
@@ -69,7 +69,7 @@ From approximately 2004 to 2021, the physics and UAP communities widely believed
 - **Classified results:** The DOD funded Li's anti-gravity research with nearly half a million dollars, then classified the results. The public has no idea what she found
 - **"Successful new experiments":** Li's final communication to colleagues claimed successful results — and then she went permanently silent. If her experiments worked, the implications for energy and propulsion would be world-changing
 - **Top secret clearance:** The fact that a physicist working on anti-gravity was given top secret clearance suggests the DOD took her work seriously and considered the results sensitive
-- **Career destruction pattern:** Like [B. Stanley Pons](../../../Details/B_Stanley_Pons.md) and [Martin Fleischmann](Martin_Fleischmann.md), Li's departure from academia effectively removed her voice from the public scientific debate
+- **Career destruction pattern:** Like [B. Stanley Pons](../../../Details/B_Stanley_Pons.md) and Martin Fleischmann, Li's departure from academia effectively removed her voice from the public scientific debate
 - **2014 accident:** While the traffic accident that caused her brain damage appears to have been a genuine accident, it permanently eliminated any possibility of her discussing her classified work
 - **No public accounting:** The DOD has never released any information about the results of the AC Gravity grant or Li's subsequent classified work
 

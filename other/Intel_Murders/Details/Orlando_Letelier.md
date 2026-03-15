@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Orlando Letelier
 Chilean diplomat and former ambassador to the United States, assassinated by a car bomb in Washington, DC, by agents of Chile's DINA secret police.
@@ -66,6 +66,8 @@ Letelier was particularly effective at lobbying European governments and interna
 - [Salvador Allende](Salvador_Allende.md) — Chilean president overthrown in CIA-backed coup, 1973
 - [Ronni Moffitt](Ronni_Moffitt.md) — American citizen killed alongside Letelier
 - [Rene Schneider](Rene_Schneider.md) — Chilean general assassinated by CIA-backed plotters, 1970
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

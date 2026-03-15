@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Peter Ferry
 Retired Army Brigadier and Assistant Marketing Director at Marconi, found electrocuted with electrical leads in his mouth.

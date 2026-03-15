@@ -14,7 +14,7 @@ Ghislaine's father, media mogul and alleged Mossad agent, found dead floating ne
 - **Suspicion Level:** SUSPICIOUS
 
 ## Connection to Epstein Network
-Robert Maxwell was the father of [Ghislaine Maxwell](Ghislaine_Maxwell.md), Jeffrey Epstein's primary co-conspirator and recruiter. He was a Czech-born British media mogul who owned the *Daily Mirror*, Macmillan Publishers, and numerous other media properties. Multiple intelligence sources and investigative books allege he was an agent for Mossad (Israel's intelligence service), MI6, and possibly the KGB — making him a "triple agent."
+Robert Maxwell was the father of [Ghislaine Maxwell](Ghislaine_Maxwell.md), [Jeffrey Epstein](Jeffrey_Epstein.md)'s primary co-conspirator and recruiter. He was a Czech-born British media mogul who owned the *Daily Mirror*, Macmillan Publishers, and numerous other media properties. Multiple intelligence sources and investigative books allege he was an agent for Mossad (Israel's intelligence service), MI6, and possibly the KGB — making him a "triple agent."
 
 The connection to the Epstein network is foundational: investigators and journalists have argued that Ghislaine inherited her father's intelligence connections and methodology, applying them to the Epstein blackmail operation. Authors Martin Dillon and Gordon Thomas documented these claims in *Robert Maxwell, Israel's Superspy*. Former Mossad operative Ari Ben-Menashe publicly alleged Maxwell was a long-time Mossad agent.
 
@@ -30,14 +30,14 @@ The connection to the Epstein network is foundational: investigators and journal
 ## Context
 Robert Maxwell built one of Britain's largest media empires while allegedly serving as an intelligence asset for multiple countries. After his death, it was discovered he had stolen approximately £440 million from his companies' pension funds, leaving thousands of employees destitute.
 
-The significance of Robert Maxwell to the Epstein case is that he represents the alleged intelligence origin of the operation. Researchers argue that Ghislaine Maxwell's role in Epstein's trafficking and blackmail network was a continuation of her father's intelligence work — using sexual compromise (a classic intelligence technique known as a "honey trap") to gather blackmail material on powerful figures for the benefit of intelligence services.
+The significance of Robert Maxwell to the Epstein case is that he represents the alleged intelligence origin of the operation. Researchers argue that [Ghislaine Maxwell](Ghislaine_Maxwell.md)'s role in Epstein's trafficking and blackmail network was a continuation of her father's intelligence work — using sexual compromise (a classic intelligence technique known as a "honey trap") to gather blackmail material on powerful figures for the benefit of intelligence services.
 
 Former Israeli intelligence operative Ari Ben-Menashe has publicly stated that Epstein and Ghislaine Maxwell were running a sexual blackmail operation on behalf of Israeli intelligence, and that this was a continuation of Robert Maxwell's work.
 
 ## Key Relationships
 - Father of [Ghislaine Maxwell](Ghislaine_Maxwell.md) — convicted Epstein co-conspirator
 - Alleged intelligence connection to [Jeffrey Epstein](Jeffrey_Epstein.md)'s blackmail operation
-- Business and intelligence connections to Leslie Wexner (Epstein's primary financial backer)
+- Business and intelligence connections to Leslie [Wexner](../other/groups/wexner_l_brands.md) (Epstein's primary financial backer)
 - [Danny Casolaro](Danny_Casolaro.md) — Died three months before Maxwell; was investigating the PROMIS software scandal that Maxwell allegedly distributed for Mossad
 
 ## Key Quotes from Media Coverage

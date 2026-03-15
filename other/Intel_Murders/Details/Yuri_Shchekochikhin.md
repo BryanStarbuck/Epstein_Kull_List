@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Yuri Shchekochikhin
 Russian investigative journalist who died of a mysterious illness consistent with thallium poisoning, days before flying to the US to meet FBI investigators.
@@ -71,6 +71,8 @@ At the time of his death, he was investigating the Tri Kita case and was prepari
 - [Anna Politkovskaya](Anna_Politkovskaya.md) — Fellow *Novaya Gazeta* journalist, murdered 2006
 - [Paul Klebnikov](Paul_Klebnikov.md) — Forbes Russia editor, murdered 2004
 - [Sergei Yushenkov](Sergei_Yushenkov.md) — Politician investigating apartment bombings, murdered 2003
+
+- [Vladimir Kara-Murza](Vladimir_Kara_Murza.md) — opposition figure also suspected of poisoning
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Arkady Babchenko
 Russian war correspondent and Kremlin critic who faked his own assassination in Kyiv in 2018, in cooperation with Ukrainian security services, to expose and disrupt a genuine Russian plot to kill him.

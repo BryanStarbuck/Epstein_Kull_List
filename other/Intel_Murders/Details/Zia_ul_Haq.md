@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Zia ul-Haq
 President of Pakistan killed when his C-130 military aircraft crashed minutes after takeoff near Bahawalpur on August 17, 1988. The crash also killed U.S. Ambassador Arnold Raphel, U.S. Brigadier General Herbert Wassom, and Pakistan's top military leadership. Sabotage is widely suspected, and multiple intelligence services had motive.
@@ -67,6 +67,8 @@ Zia's regime funneled billions of dollars in CIA and Saudi money to the Afghan m
 - [Dag Hammarskjold](Dag_Hammarskjold.md) — UN Secretary-General killed in suspicious plane crash
 - [Benazir Bhutto](Benazir_Bhutto.md) — Pakistani leader assassinated in 2007
 - [Yevgeny Prigozhin](Yevgeny_Prigozhin.md) — Killed in suspicious plane crash
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Jonathan Walsh
 GEC/British Telecom digital communications expert who fell from a hotel window in Abidjan, Ivory Coast, after reportedly expressing fears for his life.

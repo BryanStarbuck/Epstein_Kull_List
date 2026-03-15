@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Tony Dodd
 British police sergeant turned full-time UFO investigator who died of an inoperable brain tumor in 2009, after 21 years of investigating UFO sightings, abductions, and animal mutilations across the United Kingdom.

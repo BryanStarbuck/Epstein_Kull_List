@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # David Greenhalgh
 ICL defense division scientist who fell from a railway bridge in Maidenhead with slashed wrists — survived briefly and said he had "no idea how or why" he was there.
@@ -44,6 +44,7 @@ His death occurred near the same location where, one week later, [Shani Warren](
 
 ## See Also
 
+- [David Greenhalgh (Zero Point Energy)](../../Zero_Point_Energy/Details/David_Greenhalgh.md) — This case also appears in the Zero Point Energy project
 - [Stuart Gooding](Stuart_Gooding.md) — RCMS postgraduate, died same day (April 10, 1987) in Cyprus
 - [Shani Warren](Shani_Warren.md) — GEC employee, found murdered one week later near same location
 - [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi engineer, fell from bridge August 1986

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Philip Marshall
 Former CIA-connected pilot who flew for Barry Seal, author of books exposing CIA drug smuggling and Saudi-9/11 connections, found shot dead alongside his two teenage children and family dog in 2013.
@@ -62,6 +62,8 @@ He authored three books: *Lakefront Airport* (2003), a novel based on his experi
 - [Barry Seal](Barry_Seal.md) — CIA drug pilot whom Marshall flew with
 - [Danny Casolaro](Danny_Casolaro.md) — investigator killed while exposing intelligence operations
 - [Gary Webb](Gary_Webb.md) — journalist who died investigating CIA drug operations
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

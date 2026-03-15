@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Frank Scully
 American journalist and author of *Behind the Flying Saucers*, the first major book claiming a UFO crash recovery, died of a heart attack on June 23, 1964.

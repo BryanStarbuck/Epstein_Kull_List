@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # John Lennon
 Former Beatle, peace activist, and cultural icon shot dead outside his Manhattan apartment by Mark David Chapman — a killing that multiple researchers have alleged involved CIA manipulation or outright orchestration.
@@ -127,6 +127,8 @@ The CIA's MKULTRA program (1953-1973) was a documented effort to develop mind co
 - [Mark Clark](Mark_Clark.md) — Killed alongside Fred Hampton in coordinated FBI-police raid
 - [Frank Olson](Frank_Olson.md) — CIA scientist killed after being dosed with LSD under MKULTRA
 - [Judi Bari](Judi_Bari.md) — Earth First! activist targeted by FBI
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

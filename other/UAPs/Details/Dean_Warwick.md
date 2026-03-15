@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Dean Warwick
 Alternative energy researcher and whistleblower who collapsed and died on stage at a UFO conference in 2006, moments before allegedly revealing classified information.

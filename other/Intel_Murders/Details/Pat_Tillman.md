@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Pat Tillman
 NFL star turned Army Ranger killed by "friendly fire" in Afghanistan. Pentagon covered up the true circumstances for weeks and used his death as pro-war propaganda.

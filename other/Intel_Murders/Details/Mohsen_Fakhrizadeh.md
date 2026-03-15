@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Mohsen Fakhrizadeh
 Iran's chief nuclear scientist, assassinated in a road ambush near Tehran in 2020 using a remote-controlled, AI-assisted machine gun operated by satellite. The operation is widely attributed to Israel's Mossad and represented a new frontier in autonomous targeted killing technology.
@@ -64,6 +64,8 @@ In 2018, Israeli Prime Minister Benjamin Netanyahu publicly identified Fakhrizad
 - [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md) — Hamas commander killed by Mossad in Dubai hotel, 2010
 - [Ahmed Yassin](Ahmed_Yassin.md) — Hamas founder killed by Israeli airstrike, 2004
 - [Gerald Bull](Gerald_Bull.md) — weapons designer killed in Brussels, Mossad widely blamed
+
+- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Fernando Pereira
 Portuguese-Dutch freelance photographer drowned when French intelligence agents bombed and sank the Greenpeace ship Rainbow Warrior in Auckland harbour, New Zealand, in 1985.

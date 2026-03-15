@@ -2,7 +2,7 @@
 
 # Ted Gunderson
 
-Former FBI Special Agent in Charge who spent decades investigating elite child trafficking networks, the Franklin scandal, and intelligence-run blackmail operations — the same structural model later exposed in the Epstein case. Died of bladder cancer in 2011; associates claim he was poisoned with arsenic.
+Former FBI Special Agent in Charge who spent decades investigating elite child trafficking networks, the [Franklin](../other/groups/franklin_scandal.md) scandal, and intelligence-run blackmail operations — the same structural model later exposed in the Epstein case. Died of bladder cancer in 2011; associates claim he was poisoned with arsenic.
 
 ## Key Facts
 
@@ -23,13 +23,13 @@ Gunderson's connection to the Epstein case is structural and prescient — he de
 
 - **The famous quote:** In a widely circulated speech (transcribed from a May 12, 2005 address), Gunderson stated: *"The reason the Congressmen and the Senators vote for these stupid bills is because many of them have been set up and framed through sex and drugs."* This claim — that elected officials are controlled through sexual blackmail — is the core allegation of the Epstein case.
 
-- **Alex Jones testimony:** During his October 2020 appearance on *The Joe Rogan Experience*, Alex Jones stated that Gunderson had told him about Jeffrey Epstein's island and child sex trafficking activities nearly 20 years earlier — well before Epstein's first arrest in 2006.
+- **Alex Jones testimony:** During his October 2020 appearance on *The Joe Rogan Experience*, Alex Jones stated that Gunderson had told him about [Jeffrey Epstein](Jeffrey_Epstein.md)'s island and child sex trafficking activities nearly 20 years earlier — well before Epstein's first arrest in 2006.
 
 - **Franklin scandal:** Gunderson was a lead investigator in the Franklin scandal (1988–1991) — widely considered the direct structural predecessor to Epstein's network. Both involved: trafficking of minors to powerful men, intelligence agency involvement, systematic cover-up, and deaths of investigators. [Gary Caradori](Gary_Caradori.md), the Nebraska Legislature's investigator on the same case, died when his plane disintegrated mid-air in 1990 while carrying breakthrough evidence.
 
-- **The Finders cult:** Gunderson investigated The Finders, a group he alleged was a CIA-run child trafficking operation. In February 1987, six children were found in a Tallahassee park in the custody of two well-dressed men; subsequent investigation uncovered photographs of naked children in disturbing ceremonies. A U.S. Customs report described the case as "a CIA internal matter" and the investigation was classified. The FBI eventually declassified its files on The Finders decades later.
+- **The Finders cult:** Gunderson investigated The Finders, a group he alleged was a [CIA](../other/groups/cia.md)-run child trafficking operation. In February 1987, six children were found in a Tallahassee park in the custody of two well-dressed men; subsequent investigation uncovered photographs of naked children in disturbing ceremonies. A U.S. Customs report described the case as "a CIA internal matter" and the investigation was classified. The FBI eventually declassified its files on The Finders decades later.
 
-- **Pattern recognition:** Gunderson described a nationwide network of child trafficking connected to intelligence agencies, elite blackmail, and political control — decades before the Epstein files confirmed that such a network existed with connections to the CIA, Mossad, and political figures across multiple countries.
+- **Pattern recognition:** Gunderson described a nationwide network of child trafficking connected to intelligence agencies, elite blackmail, and political control — decades before the Epstein files confirmed that such a network existed with connections to the CIA, [Mossad](../other/groups/mossad.md), and political figures across multiple countries.
 
 ## FBI Career
 
@@ -78,7 +78,7 @@ The tension in evaluating Gunderson is that some of his most extraordinary claim
 ## Related Deaths and Persons
 
 - [Gary Caradori](Gary_Caradori.md) — Franklin scandal investigator whose plane disintegrated mid-air in 1990 while carrying evidence
-- [Danny Casolaro](Danny_Casolaro.md) — Investigating PROMIS/Maxwell intelligence blackmail operations; found with wrists slashed in 1991
+- [Danny Casolaro](Danny_Casolaro.md) — Investigating [PROMIS](../other/groups/promis_octopus.md)/Maxwell intelligence blackmail operations; found with wrists slashed in 1991
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Ran the sexual blackmail operation Gunderson had described for decades
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Epstein's co-conspirator; her father [Robert Maxwell](Robert_Maxwell.md) was the alleged PROMIS distributor for Mossad
 - [Philip Haney](Philip_Haney.md) — DHS whistleblower on trafficking, shot 2020

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Alexander Tyulakov
 Gazprom executive found dead in his garage the morning after Russia invaded Ukraine in February 2022. Reportedly seen "severely beaten" before his death, which was ruled a suicide.
@@ -60,7 +60,7 @@ A later investigation by Novaya Gazeta Europe linked Gazprom to a money-launderi
 - [Leonid Shulman](Leonid_Shulman.md) — Gazprom transport chief, found dead January 2022
 - [Ravil Maganov](Ravil_Maganov.md) — Lukoil chairman, fell from hospital window September 2022
 - [Sergei Protosenya](Sergei_Protosenya.md) — Former Novatek head, found dead in Spain April 2022
-- [Alexander Subbotin](Alexander_Subbotin.md) — Former Lukoil board member, found dead May 2022
+- Alexander Subbotin — Former Lukoil board member, found dead May 2022
 
 ## Sources
 

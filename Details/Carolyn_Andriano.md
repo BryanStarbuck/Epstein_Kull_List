@@ -32,7 +32,7 @@ She testified against [Ghislaine Maxwell](Ghislaine_Maxwell.md) in the 2021 tria
 
 ## Why This Death Possibly Raises Questions
 
-- Andriano had provided critical testimony against Ghislaine Maxwell just two years before her death.
+- Andriano had provided critical testimony against [Ghislaine Maxwell](Ghislaine_Maxwell.md) just two years before her death.
 - Her mother, Dorothy Groenert, publicly questioned the circumstances of her daughter's death.
 - She was the second Epstein survivor to die of an overdose in a Palm Beach hotel room, following [Leigh Skye Patrick](Leigh_Skye_Patrick.md) in 2017.
 - Her death was not publicly announced for months, which added to public unease.
@@ -49,7 +49,7 @@ She testified against [Ghislaine Maxwell](Ghislaine_Maxwell.md) in the 2021 tria
 > "Carolyn, her testimony was the most gripping and I felt the most compassion for her... She told the truth every step of the way."
 > — **Scotty David**, juror in the Ghislaine Maxwell trial ([The Daily Beast](https://www.thedailybeast.com/carolyn-andriano-epstein-victim-who-testified-against-ghislaine-maxwell-has-died/))
 
-> "Even though Epstein is dead, and Maxwell is behind bars, victims of Jeffrey Epstein will forever live with the abuse that occurred to them."
+> "Even though Epstein is dead, and Maxwell is behind bars, victims of [Jeffrey Epstein](Jeffrey_Epstein.md) will forever live with the abuse that occurred to them."
 > — **Spencer Kuvin**, Palm Beach County attorney representing Epstein victims ([CBS12](https://cbs12.com/news/local/jeffrey-epstein-victims-trauma-drug-usage-experts-on-the-lingering-trauma-of-sexual-abuse-victims-october-30-2023))
 
 ## Related Groups

@@ -16,7 +16,7 @@ Founding saxophonist of Dave Matthews Band, died at 46 from complications of an 
 
 ## Assessment: UNCERTAIN
 
-LeRoi Moore's death appears to be a well-documented case of accidental injury followed by medical complications. There is no direct connection to Jeffrey Epstein or the broader trafficking network. The sole tangential link is that Dave Matthews Band was later represented by Wasserman Music, whose CEO Casey Wasserman was revealed in 2026 to have had personal connections to Epstein and Ghislaine Maxwell. Moore died in 2008, over a decade before the Wasserman-Epstein connection became public. This is one of the weakest connections on the list, and his inclusion is primarily for completeness within the pattern of musicians dying under unusual circumstances.
+LeRoi Moore's death appears to be a well-documented case of accidental injury followed by medical complications. There is no direct connection to [Jeffrey Epstein](Jeffrey_Epstein.md) or the broader trafficking network. The sole tangential link is that Dave Matthews Band was later represented by Wasserman Music, whose CEO Casey Wasserman was revealed in 2026 to have had personal connections to Epstein and [Ghislaine Maxwell](Ghislaine_Maxwell.md). Moore died in 2008, over a decade before the Wasserman-Epstein connection became public. This is one of the weakest connections on the list, and his inclusion is primarily for completeness within the pattern of musicians dying under unusual circumstances.
 
 ## Circumstances of Death
 

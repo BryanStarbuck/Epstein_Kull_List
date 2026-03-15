@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Wadie Haddad
 PFLP hijacking mastermind allegedly poisoned by Mossad through contaminated personal items in a slow-acting covert assassination, dying in an East German hospital in 1978.
@@ -59,6 +59,8 @@ Wadie Haddad was a Palestinian Christian from Safed who co-founded the Popular F
 - [Fathi Shaqaqi](Fathi_Shaqaqi.md) — Palestinian Islamic Jihad leader shot by Mossad in Malta (1995)
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — Another case of slow-acting poison assassination by intelligence service (2006)
 - [Georgi Markov](Georgi_Markov.md) — Bulgarian dissident killed by poison pellet from intelligence service (1978)
+
+- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
 
 ## Sources
 

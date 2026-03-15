@@ -42,9 +42,9 @@ The UK also has its own parallel elite pedophile scandal: [Jimmy Savile](../grou
 ## The Maxwell Dynasty
 
 The Maxwell family was based in the UK:
-- **Robert Maxwell** built his media empire (Mirror Group) in London
+- **[Robert Maxwell](../../Details/Robert_Maxwell.md)** built his media empire (Mirror Group) in London
 - The family home was Headington Hill Hall in Oxford
-- After Robert's death, Ghislaine moved to New York and became Epstein's primary associate
+- After Robert's death, [Ghislaine Maxwell](../../Details/Ghislaine_Maxwell.md) moved to New York and became Epstein's primary associate
 - The Maxwell connection creates a direct line from UK establishment intelligence to the Epstein operation
 
 ## The Savile Parallel

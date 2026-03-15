@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Dulcie September
 ANC representative in Paris assassinated outside her office in 1988. South African intelligence widely suspected but her murder remains officially unsolved.

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # John Ford
 Retired court security officer and founder of the Long Island UFO Network who has been institutionalized in psychiatric facilities since 1996 after being arrested on conspiracy charges that supporters allege were fabricated to silence his UFO investigations near Brookhaven National Laboratory.

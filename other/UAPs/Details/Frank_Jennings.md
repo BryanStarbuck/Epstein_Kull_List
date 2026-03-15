@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Frank Jennings
 60-year-old Plessey electronic weapons engineer who died of a heart attack — no inquest was held.

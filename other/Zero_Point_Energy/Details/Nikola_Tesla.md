@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Nikola Tesla
 Pioneer of alternating current, wireless energy transmission, and directed energy weapons, whose papers were seized by the FBI and Office of Alien Property immediately after his death.

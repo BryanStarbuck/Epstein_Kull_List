@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Bob Lazar
 Physicist who claims he reverse-engineered alien spacecraft at the S-4 facility near Area 51, and has faced ongoing government harassment, raids, and credibility attacks since going public in 1989.

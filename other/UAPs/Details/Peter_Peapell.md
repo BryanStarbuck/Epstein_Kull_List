@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Peter Peapell
 RCMS scientist found dead from carbon monoxide poisoning jammed underneath his car in his garage — police were baffled by the body's position.

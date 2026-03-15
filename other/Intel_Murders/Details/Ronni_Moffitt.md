@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Ronni Moffitt
 25-year-old American woman killed by a Chilean intelligence (DINA) car bomb on Embassy Row in Washington, DC, in an attack targeting former Chilean diplomat Orlando Letelier.
@@ -60,6 +60,8 @@ The primary target was Orlando Letelier, who had served as Chile's ambassador to
 - [Orlando Letelier](Orlando_Letelier.md) -- the primary target of the same car bomb
 - [Salvador Allende](Salvador_Allende.md) -- Chilean president overthrown in CIA-backed coup
 - [Aldo Moro](Aldo_Moro.md) -- political figure killed during era of intelligence-linked terrorism
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

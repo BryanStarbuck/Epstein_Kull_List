@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Abdel Aziz al-Rantisi
 Hamas co-founder and political leader of Hamas in Gaza, assassinated by an Israeli missile strike on his car in Gaza City in 2004 — just 26 days after succeeding Ahmed Yassin, who was killed in a near-identical Israeli strike.
@@ -63,6 +63,8 @@ Israel had previously attempted to kill al-Rantisi on 10 June 2003, when an Apac
 - [Ahmed Yassin](Ahmed_Yassin.md) — Hamas founder, killed by Israel 26 days earlier
 - [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md) — Hamas commander killed by Mossad in Dubai, 2010
 - [Imad Mughniyeh](Imad_Mughniyeh.md) — Hezbollah commander killed by CIA-Mossad, 2008
+
+- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
 
 ## Sources
 

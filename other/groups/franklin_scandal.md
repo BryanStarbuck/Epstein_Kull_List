@@ -24,6 +24,7 @@ A state grand jury dismissed the allegations as a "carefully crafted hoax" and i
 * Lawrence King allegedly operated a pedophile ring supplying children to powerful men
 * Victims alleged they were flown to Washington DC for parties where they were sexually abused
 * Alleged midnight tours of the White House with male prostitutes, facilitated by DC lobbyist [Craig Spence](craig_spence.md) using escorts from [Henry Vinson's service](henry_vinson_escort_service.md)
+* Alleged [CIA](cia.md) cover-up of the investigation
 * Children from Boys Town (a Catholic home for troubled youth) were allegedly among the victims
 * King was allegedly connected to the Republican Party establishment and sang the national anthem at the 1984 Republican National Convention
 * The FBI allegedly failed to properly investigate the allegations
@@ -41,9 +42,10 @@ A state grand jury dismissed the allegations as a "carefully crafted hoax" and i
 * **Troy Boner** — Victim who recanted under pressure; walked into a New Mexico hospital screaming "they're after me because of this book" (*The Franklin Cover-Up*); was sedated, placed in a room, and **found dead the next morning** bleeding from the mouth (late 2003)
 * **Aaron Owen** — 17-year-old brother of Alisha Owen; **found hanged in his cell** at Lincoln Correctional Center shortly before her perjury trial (November 1990); ruled suicide despite reported indications of beating
 * **Shawn Boner** — Brother of Troy Boner; **died of gunshot wound** allegedly playing Russian Roulette at Capehart military housing near Offutt Air Force Base (January 1991)
-* **Kathleen Sorenson** — Original complainant and foster parent who took testimony from abused children; **killed in head-on car collision** on Highway 30 (October 1989); retired FBI agent Ted Gunderson stated she was murdered
+* **Kathleen Sorenson** — Original complainant and foster parent who took testimony from abused children; **killed in head-on car collision** on Highway 30 (October 1989); retired FBI agent [Ted Gunderson](../../Details/Ted_Gunderson.md) stated she was murdered
 * **Charlie Rogers** — Employee and purported lover of Larry King; expressed fear for his life; **alleged suicide** (1986)
 * [Craig Spence](craig_spence.md) — DC lobbyist who organized midnight White House tours; **found dead in hotel room November 1989**
+* [Ted Gunderson](../../Details/Ted_Gunderson.md) — Former FBI Special Agent in Charge who investigated the Franklin case and described "brownstone operations"; died 2011
 
 ## Connection to Epstein Network
 

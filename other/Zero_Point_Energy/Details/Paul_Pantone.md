@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Paul Pantone
 Inventor of the GEET plasma reactor who was involuntarily committed to a state mental hospital and died after years of health deterioration.

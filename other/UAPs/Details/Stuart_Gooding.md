@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Stuart Gooding
 RCMS postgraduate student killed in a head-on car collision in Cyprus — died on the same day as fellow defense scientist [David Greenhalgh](David_Greenhalgh.md).

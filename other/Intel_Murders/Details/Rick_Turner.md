@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Rick Turner
 South African political scientist and anti-apartheid intellectual, shot dead through the front door of his Durban home in 1978 while under a government banning order. He died in the arms of his 13-year-old daughter.

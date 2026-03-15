@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Sakine Cansiz
 PKK co-founder, shot execution-style in Paris in January 2013 along with two other Kurdish women activists. Turkish intelligence (MIT) allegedly ordered the operation.

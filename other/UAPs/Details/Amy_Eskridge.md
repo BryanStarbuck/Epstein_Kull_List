@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Amy Eskridge
 Multidisciplinary scientist and co-founder of the Institute for Exotic Science in Huntsville, Alabama, who was found dead from a gunshot wound at age 34 in June 2022; officially ruled a suicide, but retired UK intelligence officer Franc Milburn alleged to Congress that she was murdered because of her antigravity and advanced propulsion research.
@@ -53,6 +53,7 @@ Eskridge was based in Huntsville, Alabama -- a city with deep connections to the
 
 ## See Also
 
+- [Amy Eskridge (Zero Point Energy)](../../Zero_Point_Energy/Details/Amy_Eskridge.md) — This case also appears in the Zero Point Energy project
 - [Ning Li](Ning_Li.md) — Another antigravity researcher based at UAH who was struck by a vehicle, causing permanent brain damage
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004

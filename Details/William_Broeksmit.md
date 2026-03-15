@@ -26,9 +26,9 @@ William Broeksmit was found hanged in his home in the South Kensington area of L
 
 Broeksmit was hired by Edson Mitchell in the 1990s to spearhead Deutsche Bank's expansion into derivatives trading and risk management. He grew close to bank co-CEO Anshu Jain and became one of the most senior executives at the bank. He was involved in the bank's international operations, including its risk oversight functions.
 
-Deutsche Bank later paid $150 million in fines for compliance failures related to its relationship with Jeffrey Epstein. The bank maintained Epstein's accounts for years, even after his 2008 sex offender conviction, and processed hundreds of millions of dollars in transactions for him. [Thomas Bowers](Thomas_Bowers.md), who headed the American wealth management division that directly handled Epstein's accounts, was also found hanged in 2019.
+Deutsche Bank later paid $150 million in fines for compliance failures related to its relationship with [Jeffrey Epstein](Jeffrey_Epstein.md). The bank maintained Epstein's accounts for years, even after his 2008 sex offender conviction, and processed hundreds of millions of dollars in transactions for him. [Thomas Bowers](Thomas_Bowers.md), who headed the American wealth management division that directly handled Epstein's accounts, was also found hanged in 2019.
 
-After Broeksmit's death, his son [Val Broeksmit](Val_Broeksmit.md) discovered thousands of confidential Deutsche Bank documents in his father's email account and eventually became an FBI informant, providing these documents to federal investigators and journalists. Val Broeksmit himself was found dead on the campus of a Los Angeles high school in April 2022.
+After Broeksmit's death, his son [Val Broeksmit](Val_Broeksmit.md) discovered thousands of confidential Deutsche Bank documents in his father's email account and eventually became an FBI informant, providing these documents to federal investigators and journalists. [Val Broeksmit](Val_Broeksmit.md) himself was found dead on the campus of a Los Angeles high school in April 2022.
 
 ## Why This Death Possibly Raises Questions
 

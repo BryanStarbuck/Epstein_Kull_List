@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Alistair Beckham
 Computer engineer believed to be working on top secret SDI programs, found electrocuted in his garden shed with wires attached to his body.

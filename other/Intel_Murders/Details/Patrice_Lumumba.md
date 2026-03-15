@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Patrice Lumumba
 First democratically elected Prime Minister of the Congo, overthrown and executed with the direct involvement of CIA and Belgian intelligence in one of the Cold War's most consequential assassinations.
@@ -64,6 +64,8 @@ Within days of independence, the Congolese army mutinied, and the mineral-rich K
 - [Dag Hammarskjold](Dag_Hammarskjold.md) -- UN Secretary-General killed during the same Congo Crisis
 - [Salvador Allende](Salvador_Allende.md) -- another democratically elected leader overthrown with CIA support
 - [Thomas Sankara](Thomas_Sankara.md) -- African leader assassinated with alleged foreign intelligence backing
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

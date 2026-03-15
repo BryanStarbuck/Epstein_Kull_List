@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Stanislav Markelov
 Russian human rights lawyer shot dead in broad daylight in central Moscow in 2009 alongside journalist Anastasia Baburova, minutes after leaving a press conference denouncing the early release of a convicted war criminal.
@@ -59,6 +59,8 @@ He had previously represented journalist Anna Politkovskaya and had taken on cas
 - [Anna Politkovskaya](Anna_Politkovskaya.md) — journalist Markelov had represented
 - [Natalya Estemirova](Natalya_Estemirova.md) — Chechen human rights activist murdered later in 2009
 - [Boris Nemtsov](Boris_Nemtsov.md) — Russian opposition leader shot near Kremlin
+
+- [Alexander Litvinenko](Alexander_Litvinenko.md) — Russian dissident poisoned in London
 
 ## Sources
 

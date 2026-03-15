@@ -16,7 +16,7 @@ Model linked to Korshunova through cult psych sessions, died identically by fall
 
 ## Assessment: SUSPICIOUS — LINKED TO KORSHUNOVA PATTERN
 
-Drozdova's death is significant primarily because of its striking parallel to Ruslana Korshunova's death. Both were young models, both attended the same "Rose of the World" psychological sessions in Moscow, both experienced documented personality changes afterward, and both died by jumping from buildings within approximately one year of each other. The circumstances are disputed.
+Drozdova's death is significant primarily because of its striking parallel to [Ruslana Korshunova](Ruslana_Korshunova.md)'s death. Both were young models, both attended the same "Rose of the World" psychological sessions in Moscow, both experienced documented personality changes afterward, and both died by jumping from buildings within approximately one year of each other. The circumstances are disputed.
 
 ## Circumstances of Death
 
@@ -37,7 +37,7 @@ The Rose of the World describes itself as "training for personality development"
 
 Drozdova's direct connection to Epstein is not documented in flight logs or court filings. Her inclusion in this database is based on her close friendship with Korshunova (who is documented on Epstein's jet) and the parallel manner of their deaths.
 
-The broader modeling industry pipeline to Epstein is well-documented through [Jean-Luc Brunel](Jean_Luc_Brunel.md)'s MC2 Model Management, which Epstein funded. Whether Drozdova had any contact with this pipeline is unknown.
+The broader modeling industry pipeline to Epstein is well-documented through [Jean-Luc Brunel](Jean_Luc_Brunel.md)'s [MC2 Model Management](../other/groups/mc2_model_management.md), which Epstein funded. Whether Drozdova had any contact with this pipeline is unknown.
 
 ## Why This Death Possibly Raises Questions
 

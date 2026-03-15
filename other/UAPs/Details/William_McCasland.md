@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # William McCasland
 Retired USAF Major General and former commander of the Air Force Research Laboratory at Wright-Patterson AFB. Missing since February 27, 2026 after leaving his Albuquerque home on foot without his phone or watch. FBI is assisting the search. Was reportedly a primary source for Tom DeLonge's To The Stars Academy and held some of the most sensitive positions in the U.S. military related to advanced aerospace technology.

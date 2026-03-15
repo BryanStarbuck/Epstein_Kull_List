@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Viktor Schauberger
 Austrian forester and inventor who developed "implosion" vortex energy technology, was forced to work on flying disc designs during WWII, then was brought to the United States in 1958 where he was coerced into signing over all rights to his work — and died five days after returning to Austria.

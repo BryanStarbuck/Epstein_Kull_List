@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Dag Hammarskjold
 UN Secretary-General killed in a plane crash in Africa while on a peace mission. Decades of investigation have produced evidence suggesting the plane was shot down, with CIA, MI6, and South African intelligence implicated.
@@ -63,6 +63,8 @@ His aggressive pursuit of Congolese independence and opposition to Western minin
 
 - [Patrice Lumumba](Patrice_Lumumba.md) -- Congolese PM whose assassination was intertwined with the same crisis
 - [Roberto Calvi](Roberto_Calvi.md) -- another death involving multiple intelligence agencies
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

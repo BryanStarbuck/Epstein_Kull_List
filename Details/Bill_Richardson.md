@@ -24,7 +24,7 @@ Bill Richardson died in his sleep on September 1, 2023, at his home in New Mexic
 
 ## Background
 
-Richardson served as Governor of New Mexico (2003–2011) and as the U.S. Ambassador to the United Nations (1997–1998). He was named in court documents from the civil suit between Virginia Giuffre and Ghislaine Maxwell, unsealed on August 9, 2019. Giuffre alleged she was sexually trafficked by Epstein and Maxwell to Richardson while she was underage in the early 2000s. Richardson denied the allegations.
+Richardson served as Governor of New Mexico (2003–2011) and as the U.S. Ambassador to the United Nations (1997–1998). He was named in court documents from the civil suit between [Virginia Giuffre](Virginia_Giuffre.md) and [Ghislaine Maxwell](Ghislaine_Maxwell.md), unsealed on August 9, 2019. Giuffre alleged she was sexually trafficked by Epstein and Maxwell to Richardson while she was underage in the early 2000s. Richardson denied the allegations.
 
 ## New Mexico Connection
 
@@ -49,7 +49,7 @@ Epstein's [Zorro Ranch](Zorro_Ranch_Unnamed_Victims.md) — the 7,560-acre prope
 >
 > — [NBC News: Jeffrey Epstein ordered teen girl to have sex with powerful men, accuser says](https://www.nbcnews.com/news/us-news/jeffrey-epstein-ordered-teen-girl-have-sex-powerful-men-accuser-n1040996)
 
-> "Former New Mexico Gov. Bill Richardson arranged to meet with Jeffrey Epstein at least nine times after the financier's Florida conviction on sex crimes, including a visit to Epstein's private island. Richardson scheduled meetings with Epstein as late as 2018."
+> "Former New Mexico Gov. Bill Richardson arranged to meet with [Jeffrey Epstein](Jeffrey_Epstein.md) at least nine times after the financier's Florida conviction on sex crimes, including a visit to Epstein's private island. Richardson scheduled meetings with Epstein as late as 2018."
 >
 > — [Santa Fe New Mexican: Records show Gov. Richardson met with Epstein for years after conviction](https://www.santafenewmexican.com/news/local_news/records-show-gov-richardson-met-with-epstein-for-years-after-conviction/article_daf34b03-39af-4f6a-b016-5db73cc7f4b5.html)
 

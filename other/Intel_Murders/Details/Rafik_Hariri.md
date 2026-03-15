@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Rafik Hariri
 Former Prime Minister of Lebanon, assassinated along with 21 others by a massive car bomb in Beirut in 2005, triggering the Cedar Revolution and Syria's withdrawal from Lebanon.

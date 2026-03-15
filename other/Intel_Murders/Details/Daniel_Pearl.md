@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Daniel Pearl
 Wall Street Journal journalist investigating links between Pakistani intelligence (ISI) and Al-Qaeda, kidnapped and beheaded in Karachi in 2002. His murder exposed deep connections between Pakistani intelligence assets and jihadist networks.

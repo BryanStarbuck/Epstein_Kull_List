@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Frank Teruggi
 American student and journalist, seized by Chilean military forces and executed at the National Stadium in Santiago during the 1973 Pinochet coup. A Chilean court confirmed that U.S. military intelligence provided information that led to his arrest and death.
@@ -56,6 +56,8 @@ Teruggi was a young American from Chicago, Illinois, studying in Chile. He was a
 - [Victor Jara](Victor_Jara.md) — Chilean folk singer tortured and killed during the same coup
 - [Salvador Allende](Salvador_Allende.md) — Chilean president who died during the coup
 - [Orlando Letelier](Orlando_Letelier.md) — Chilean diplomat assassinated by DINA in Washington, DC
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

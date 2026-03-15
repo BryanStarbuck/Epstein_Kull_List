@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Bruce DePalma
 MIT physicist and former Polaroid senior scientist who invented the N-Machine homopolar generator, a claimed over-unity free energy device; died in New Zealand in October 1997, just weeks before the scheduled official testing of his most ambitious device.
@@ -48,6 +48,7 @@ In the early 1990s, DePalma left the United States and eventually settled in New
 
 ## See Also
 
+- [Bruce DePalma (Zero Point Energy)](../../Zero_Point_Energy/Details/Bruce_DePalma.md) — This case also appears in the Zero Point Energy project
 - [Floyd Sweet](Floyd_Sweet.md) — Inventor of the Vacuum Triode Amplifier who received death threats and died under suspicious circumstances
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Antigravity researcher whose electrogravitics work was allegedly classified
 - [Nikola Tesla](Nikola_Tesla.md) — Pioneer of electromagnetic technology whose papers were seized after death

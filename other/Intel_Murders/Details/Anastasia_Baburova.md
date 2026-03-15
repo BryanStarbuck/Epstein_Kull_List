@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Anastasia Baburova
 Novaya Gazeta freelance journalist shot dead in Moscow in 2009 while trying to help human rights lawyer Stanislav Markelov, who had just been assassinated beside her.

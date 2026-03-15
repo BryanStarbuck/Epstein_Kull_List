@@ -45,7 +45,7 @@ France, particularly Paris, was the global center of the modeling industry that 
 
 ## Surprising Details
 
-- **12-year-old girls as a "birthday gift"**: Virginia Giuffre testified that Brunel sent 12-year-old girls from France to Epstein as a "surprise birthday gift" and that he acted as a recruiter, luring young girls from disadvantaged backgrounds to the United States with the prospect of modeling jobs.
+- **12-year-old girls as a "birthday gift"**: [Virginia Giuffre](../../Details/Virginia_Giuffre.md) testified that Brunel sent 12-year-old girls from France to Epstein as a "surprise birthday gift" and that he acted as a recruiter, luring young girls from disadvantaged backgrounds to the United States with the prospect of modeling jobs.
 - **Brunel's death mirrored Epstein's precisely**: Found hanged with bedsheets in his cell at La Sante Prison at approximately 1:30 a.m. on February 19, 2022, while awaiting trial for rape, sexual assault, criminal conspiracy, and human trafficking involving minors. Like Epstein, he was alone in his cell and cameras reportedly malfunctioned.
 - **Brunel went into hiding after Epstein's death**: Following Epstein's August 2019 death, Brunel disappeared. He was not captured until December 2020, when police intercepted him at Charles de Gaulle airport in Paris. He had been in hiding for over a year.
 - **Six models described systematic drugging and rape**: In 2022, six former models gave detailed accounts of Brunel drugging and raping them when they were teenagers in the 1980s and 1990s. A former Dutch model described being drugged and raped at a Paris apartment. Several women recounted parties where models were staying in an atmosphere of "prostitution and drugs...a climate of sexual violence."

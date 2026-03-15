@@ -2,7 +2,7 @@
 
 # Jonathan Nichols
 
-Former Oklahoma state senator and prosecutor who authored landmark child abuse and child predator legislation, found dead of a gunshot wound to the chest at his Norman home — one day after the body of former Arkansas state senator Linda Collins-Smith was discovered.
+Former Oklahoma state senator and prosecutor who authored landmark child abuse and child predator legislation, found dead of a gunshot wound to the chest at his Norman home — one day after the body of former Arkansas state senator [Linda Collins-Smith](Linda_Collins_Smith.md) was discovered.
 
 | Field | Details |
 |-------|---------|
@@ -85,7 +85,7 @@ Nichols married Talitha Joy Dyke on August 18, 1992, in Oklahoma City. They had 
   - [Linda Collins-Smith](Linda_Collins_Smith.md) — Arkansas state senator investigating DHS/CPS child trafficking, stabbed to death May 2019 (same week as Nichols)
   - [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator who published "The Corrupt Business of Child Protective Services" exposing CPS corruption, killed March 2010 in what was ruled a murder-suicide
   - [Philip Haney](Philip_Haney.md) — DHS whistleblower on trafficking networks, found shot dead February 2020, ruled suicide
-  - [Ted Gunderson](Ted_Gunderson.md) — Former FBI Special Agent in Charge who spent decades investigating the Franklin scandal and "brownstone operations" (intelligence-run sexual blackmail using minors), died 2011
+  - [Ted Gunderson](Ted_Gunderson.md) — Former FBI Special Agent in Charge who spent decades investigating the [Franklin](../other/groups/franklin_scandal.md) scandal and "brownstone operations" (intelligence-run sexual blackmail using minors), died 2011
 
 - **No known motive for suicide:** Colleagues and fellow legislators expressed shock at Nichols' death. State Sen. Rob Standridge issued a statement calling it "a tremendous loss." Speaker Charles McCall, Nichols' employer at the time, said Nichols "served the people of Oklahoma with absolute distinction." No public reports have indicated financial distress, legal trouble, or personal crisis that would explain the suicide.
 

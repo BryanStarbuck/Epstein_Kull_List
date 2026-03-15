@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Arshad Sharif
 Marconi satellite detection and guidance systems computer scientist, found decapitated after allegedly tying a rope between his neck and a tree and driving off at speed.

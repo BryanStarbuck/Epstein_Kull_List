@@ -16,7 +16,7 @@ Prime suspect in Shapiro murder with FBI-documented Epstein link, died in prison
 
 ## Assessment: LOW SUSPICION — LIKELY OLD AGE IN PRISON
 
-Kessler was 84 years old and died in federal prison. While he was the prime suspect in the Arthur Shapiro murder and FBI documents link him to Epstein, his advanced age makes a natural death in prison the most likely explanation. However, his death meant he could never be questioned about any Epstein connection to the Shapiro murder.
+Kessler was 84 years old and died in federal prison. While he was the prime suspect in the [Arthur Shapiro](Arthur_Shapiro.md) murder and FBI documents link him to Epstein, his advanced age makes a natural death in prison the most likely explanation. However, his death meant he could never be questioned about any Epstein connection to the Shapiro murder.
 
 ## Circumstances of Death
 

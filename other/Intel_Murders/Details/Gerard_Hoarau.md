@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Gerard Hoarau
 Seychellois opposition leader in exile, shot dead on his doorstep in London in 1985. The murder remains unsolved, with suspicion falling on the Seychelles government of France-Albert Rene and possible South African intelligence involvement.

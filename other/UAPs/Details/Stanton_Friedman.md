@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Stanton Friedman
 Nuclear physicist and pioneering UFO researcher who brought the Roswell Incident into mainstream awareness; died of a heart attack at Toronto airport in 2019 at age 84.

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Trevor Knight
 Computer engineer at Marconi Space and Defence Systems, found dead in his car from carbon monoxide poisoning.

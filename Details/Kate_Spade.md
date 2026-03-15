@@ -15,7 +15,7 @@ Fashion designer found hanged three days before Bourdain; no verified Epstein co
 Kate Spade is sometimes included in the 2017–2018 death cluster by X users, with posts claiming involvement or awareness tied to trafficking documentary and exposure efforts. Her death by hanging, occurring just three days before [Anthony Bourdain](Anthony_Bourdain.md)'s nearly identical death, drives much of the online speculation.
 
 ## Circumstances Raising Suspicion
-- Exact timing with Bourdain (3 days earlier) and within the same year as Avicii
+- Exact timing with Bourdain (3 days earlier) and within the same year as [Avicii](Avicii_Tim_Bergling.md)
 - Hanging method — matching [Epstein](Jeffrey_Epstein.md), [Brunel](Jean_Luc_Brunel.md), [Cornell](Chris_Cornell.md), [Bennington](Chester_Bennington.md), [Bourdain](Anthony_Bourdain.md), [Middleton](Mark_Middleton.md), and [Bowers](Thomas_Bowers.md)
 - Users lump her into the "silenced celebrities" narrative, claiming the coincidence with others allegedly working on child trafficking documentaries points to a coordinated cover-up
 - Her foundation's work with children in underserved communities is sometimes cited as a tangential connection to awareness of trafficking

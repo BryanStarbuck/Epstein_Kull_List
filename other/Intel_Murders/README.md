@@ -1,3 +1,5 @@
+[< Back to Epstein Kill List](../../README.md) | [UAP Deaths](../UAPs/README.md) | [Energy Suppression](../Zero_Point_Energy/README.md) | [Groups](../groups/README.md)
+
 # Intelligence Service Murders: Political Assassinations and Suspicious Deaths (1953–Present)
 
 Since the Church Commission exposed CIA assassination plots in 1975, the public has known that intelligence services murder people. What the Church Commission revealed — plots against Castro, Lumumba, Trujillo, Schneider, and Diem — was supposed to end the practice. President Ford signed Executive Order 11905 in 1976: *"No employee of the United States Government shall engage in, or conspire to engage in, political assassination."* Reagan's E.O. 12333 repeated it verbatim in 1981.
@@ -6,7 +8,7 @@ The killings never stopped. They evolved.
 
 This project documents intelligence service murders, political assassinations, and suspicious deaths of journalists, whistleblowers, scientists, dissidents, and political figures from the Cold War to the present. The focus is on killings carried out by or connected to intelligence agencies worldwide — CIA, MI6, Mossad, KGB/FSB/GRU, DINA, ISI, Saudi GIP, and others — with special attention to operations targeting Americans or conducted to control American politics.
 
-**105 profiles documented. 65 new entries added March 2026.**
+**138 profiles documented. 65 new entries added March 2026.**
 
 **For deaths connected to Jeffrey Epstein's sex-trafficking and blackmail operation, see the [Epstein Kill List](../../README.md).**
 
@@ -44,6 +46,12 @@ This project documents intelligence service murders, political assassinations, a
 | [Benazir Bhutto](Details/Benazir_Bhutto.md) | 2007 | Bomb and gunshot, Rawalpindi | **SUSPICIOUS** | Pakistani PM. UN investigation found Pakistani government failed to protect her. ISI involvement alleged. |
 | [Paul Wellstone](Details/Paul_Wellstone.md) | 2002 | Plane crash, Eveleth, Minnesota | **SUSPICIOUS** | U.S. Senator. Most vocal Iraq War opponent. Died 11 days before election. NTSB ruled pilot error. Alleged Cheney threats. 69% of Minnesotans suspected foul play. |
 | [Bernardo Leighton](Details/Bernardo_Leighton.md) | 1975 (survived; died 1995) | Shot in Rome (survived) | **CONFIRMED** | Chilean politician. DINA and Italian neofascist collaboration. Operation Condor. Convictions obtained. |
+| [Abu Jihad](Details/Abu_Jihad.md) | 1988 | Shot by Israeli commandos in his home | **CONFIRMED** | PLO co-founder and military commander assassinated by Israeli naval commandos at his home in Tunis. |
+| [Hassan Nasrallah](Details/Hassan_Nasrallah.md) | 2024 | Killed by Israeli airstrike | **CONFIRMED** | Secretary-General of Hezbollah for over three decades. Killed by massive Israeli airstrike on underground headquarters in Beirut. |
+| [Juan Jose Torres](Details/Juan_Jose_Torres.md) | 1976 | Kidnapped and shot | **CONFIRMED** | Former president of Bolivia, assassinated in Buenos Aires as part of Operation Condor. |
+| [Hector Gutierrez Ruiz](Details/Hector_Gutierrez_Ruiz.md) | 1976 | Tortured and shot | **CONFIRMED** | Former Speaker of the Uruguayan Chamber of Deputies, kidnapped and murdered in Buenos Aires alongside Senator Michelini. Operation Condor. |
+| [Zelmar Michelini](Details/Zelmar_Michelini.md) | 1976 | Tortured and shot | **CONFIRMED** | Uruguayan senator in exile, kidnapped, tortured, and murdered in Buenos Aires as part of Operation Condor. |
+| [Galina Starovoitova](Details/Galina_Starovoitova.md) | 1998 | Multiple gunshot wounds | **HIGHLY SUSPICIOUS** | Russian liberal lawmaker and human rights champion shot dead in her St. Petersburg apartment lobby. |
 
 ## Dissidents, Defectors, and Exiles Killed
 
@@ -66,6 +74,14 @@ This project documents intelligence service murders, political assassinations, a
 | [Alexander Zakharchenko](Details/Alexander_Zakharchenko.md) | 2018 | Bomb in Donetsk cafe | **SUSPICIOUS** | Donetsk People's Republic leader. Ukrainian intelligence suspected. Internal power struggle also possible. |
 | [Vitaly Churkin](Details/Vitaly_Churkin.md) | 2017 | Sudden death in New York | **SUSPICIOUS** | Russian UN Ambassador. NYC medical examiner initially refused to release cause of death. Part of cluster of Russian diplomat deaths. |
 | [Arkady Babchenko](Details/Arkady_Babchenko.md) | 2018 | **Survived** — faked death with Ukrainian SBU | **CONFIRMED** | Russian journalist. Ukraine staged his assassination to expose Russian plot to kill him. Russian intelligence confirmed as threat. |
+| [Alexander Perepilichnyy](Details/Alexander_Perepilichnyy.md) | 2012 | Sudden cardiac arrest (disputed: possible poisoning) | **HIGHLY SUSPICIOUS** | Russian whistleblower who helped expose the $230M Russian treasury fraud at the heart of the Magnitsky case. |
+| [Alexander Tyulakov](Details/Alexander_Tyulakov.md) | 2022 | Hanging (reported as suicide) | **SUSPICIOUS** | Gazprom executive found dead the morning after Russia invaded Ukraine in February 2022. |
+| [Leonid Shulman](Details/Leonid_Shulman.md) | 2022 | Stab wounds to wrists | **SUSPICIOUS** | Head of Gazprom's transport service, found dead in his country house bathroom in January 2022. |
+| [Ravil Maganov](Details/Ravil_Maganov.md) | 2022 | Fall from sixth-floor window | **HIGHLY SUSPICIOUS** | Chairman of Lukoil, fell from hospital window. Lukoil board had called for end to Ukraine war. |
+| [Sergei Protosenya](Details/Sergei_Protosenya.md) | 2022 | Hanging (family disputes ruling) | **SUSPICIOUS** | Former Novatek executive, found hanged in his Spanish villa. Part of wave of Russian executive deaths. |
+| [Roman Tsepov](Details/Roman_Tsepov.md) | 2004 | Radioactive poisoning | **HIGHLY SUSPICIOUS** | Putin's former personal security provider, died of radioactive poisoning in St. Petersburg — two years before Litvinenko. |
+| [Zelimkhan Yandarbiyev](Details/Zelimkhan_Yandarbiyev.md) | 2004 | Car bomb, Doha Qatar | **CONFIRMED** | Former Chechen Republic president. Car bomb by GRU agents. Two Russian agents convicted by Qatari court. |
+| [Vladimir Kara-Murza](Details/Vladimir_Kara_Murza.md) | Survived | Poisoned twice (2015, 2017); imprisoned | **CONFIRMED (Attempted)** | Russian-British opposition activist who survived two FSB poisoning attempts. Sentenced to 25 years, released in 2024 prisoner swap. |
 
 ## Intelligence Service Targeted Killings (Mossad and Others)
 
@@ -88,6 +104,12 @@ This project documents intelligence service murders, political assassinations, a
 | [Ismail Haniyeh](Details/Ismail_Haniyeh.md) | 2024 | Bomb in Tehran guesthouse | **CONFIRMED** | Hamas political bureau chief. Mossad widely blamed. Killed in Iranian capital during presidential inauguration. |
 | [Salah al-Arouri](Details/Salah_al_Arouri.md) | 2024 | Israeli drone strike, Beirut | **CONFIRMED** | Hamas deputy leader. Killed during Israel-Gaza war. |
 | [Fuad Shukr](Details/Fuad_Shukr.md) | 2024 | Israeli airstrike, Beirut | **CONFIRMED** | Hezbollah senior military commander. Killed during Israel-Lebanon escalation. |
+| [Atef Bseiso](Details/Atef_Bseiso.md) | 1992 | Shot by two gunmen with silenced pistols, Paris | **CONFIRMED** | PLO intelligence chief. Shot dead in Paris as part of Operation Wrath of God. Mossad operation. |
+| [Hussein al-Bashir](Details/Hussein_al_Bashir.md) | 1973 | Bomb detonated under hotel bed, Cyprus | **CONFIRMED** | Fatah representative killed when Mossad detonated explosives under his hotel bed. Operation Wrath of God. |
+| [Darioush Rezaeinejad](Details/Darioush_Rezaeinejad.md) | 2011 | Shot by motorcycle-riding gunmen, Tehran | **HIGHLY SUSPICIOUS** | Iranian electronics engineer shot five times in front of his wife and daughter. Part of campaign against Iranian nuclear program. |
+| [Majid Shahriari](Details/Majid_Shahriari.md) | 2010 | Magnetic bomb attached to car, Tehran | **HIGHLY SUSPICIOUS** | Iranian nuclear scientist killed by motorcycle-riding assassins. Mossad widely blamed. |
+| [Masoud Alimohammadi](Details/Masoud_Alimohammadi.md) | 2010 | Remote-controlled motorcycle bomb, Tehran | **HIGHLY SUSPICIOUS** | Iranian physics professor killed by bomb outside his home. Part of campaign against Iranian nuclear scientists. |
+| [Mostafa Ahmadi Roshan](Details/Mostafa_Ahmadi_Roshan.md) | 2012 | Magnetic bomb attached to car, Tehran | **HIGHLY SUSPICIOUS** | Iranian nuclear scientist and Natanz enrichment facility director. Fourth Iranian scientist killed in similar attacks. |
 
 ## Journalists and Investigators Killed
 
@@ -108,6 +130,11 @@ This project documents intelligence service murders, political assassinations, a
 | [Stanislav Markelov](Details/Stanislav_Markelov.md) | 2009 | Shot in Moscow | **HIGHLY SUSPICIOUS** | Human rights lawyer investigating Chechen war crimes. Shot alongside journalist Anastasia Baburova. Neo-Nazi nationalists convicted. |
 | [Anastasia Baburova](Details/Anastasia_Baburova.md) | 2009 | Shot in Moscow | **HIGHLY SUSPICIOUS** | Novaya Gazeta journalist. Killed alongside Stanislav Markelov when she tried to intervene. |
 | [Sergei Yushenkov](Details/Sergei_Yushenkov.md) | 2003 | Shot outside his Moscow home | **HIGHLY SUSPICIOUS** | Russian Duma member investigating FSB apartment bombings. Shot hours after registering his political party. |
+| [Dorothy Kilgallen](Details/Dorothy_Kilgallen.md) | 1965 | Combined overdose of alcohol and barbiturates | **HIGHLY SUSPICIOUS** | Prominent journalist found dead after privately interviewing Jack Ruby about JFK assassination. Notes vanished. |
+| [Daniel Pearl](Details/Daniel_Pearl.md) | 2002 | Beheaded | **HIGHLY SUSPICIOUS** | Wall Street Journal journalist investigating links between Pakistani ISI and Al-Qaeda. Kidnapped and beheaded in Karachi. |
+| [Artyom Borovik](Details/Artyom_Borovik.md) | 2000 | Plane crash | **SUSPICIOUS** | Russian investigative journalist killed three days after meeting with Boris Berezovsky. Was investigating FSB apartment bombings. |
+| [Pavel Sheremet](Details/Pavel_Sheremet.md) | 2016 | Car bomb, Kyiv | **HIGHLY SUSPICIOUS** | Belarusian-born investigative journalist killed by car bomb in Kyiv. One of the most prominent unsolved journalist killings in Europe. |
+| [Mark Lombardi](Details/Mark_Lombardi.md) | 2000 | Hanging | **SUSPICIOUS** | Artist whose diagrams mapped BCCI, Iran-Contra, and intelligence financial networks. Found hanged in his studio. FBI visited his studio after 9/11. |
 
 ## Whistleblowers and Insiders Killed
 
@@ -123,6 +150,8 @@ This project documents intelligence service murders, political assassinations, a
 | [Enrique Camarena](Details/Enrique_Camarena.md) | 1985 | Kidnapped, tortured, murdered in Mexico | **HIGHLY SUSPICIOUS** | DEA agent. CIA allegedly had assets involved in the kidnapping. CIA reportedly knew about the plot and failed to intervene. |
 | [Philip Agee](Details/Philip_Agee.md) | 2008 | Peritonitis after ulcer surgery, Cuba | **MODERATE SUSPICION** | CIA's most famous whistleblower. Published *Inside the Company* (1975), naming ~250 CIA agents. Passport revoked, expelled from 5 countries. Died in Havana at 72. |
 | [Bill Cooper](Details/Bill_Cooper.md) | 2001 | Shot by sheriff's deputies, Eagar AZ | **SUSPICIOUS** | Author of *Behold a Pale Horse*. Predicted 9/11-type attack on radio in June 2001. Killed in nighttime tactical operation less than two months after 9/11. |
+| [Philip Marshall](Details/Philip_Marshall.md) | 2013 | Gunshot wound to head | **HIGHLY SUSPICIOUS** | Former CIA-connected pilot who flew for Barry Seal. Author exposing CIA drug smuggling and Saudi-9/11 connections. Found dead with his two children. |
+| [John Paisley](Details/John_Paisley.md) | 1978 | Gunshot wound to head | **HIGHLY SUSPICIOUS** | Senior CIA officer found floating in Chesapeake Bay with gunshot wound and weighted dive belt. Body four inches shorter than official records. |
 
 ## Activists, Domestic Targets, and Civilian Casualties
 
@@ -144,6 +173,12 @@ This project documents intelligence service murders, political assassinations, a
 | [John Lennon](Details/John_Lennon.md) | 1980 | Shot four times outside The Dakota, NYC | **SUSPICIOUS** | Former Beatle and antiwar activist under FBI COINTELPRO surveillance. Killer Chapman had World Vision ties, Beirut travel, CIA-connected doorman at scene. Multiple authors allege MKULTRA-style programming. |
 | [Mary Pinchot Meyer](Details/Mary_Pinchot_Meyer.md) | 1964 | Shot twice on Georgetown towpath | **HIGHLY SUSPICIOUS** | JFK's alleged mistress, ex-wife of CIA's Cord Meyer. Execution-style killing weeks after Warren Commission report. CIA's Angleton seized and destroyed her diary. Suspect acquitted; case unsolved. |
 | [Judi Bari](Details/Judi_Bari.md) | 1990 | Car bomb (survived; died of cancer 1997) | **SUSPICIOUS** | Earth First! organizer. FBI blamed her for bombing her own car, then dropped charges. FBI had infiltrated Earth First! Jury awarded $4.4M to Bari's estate. |
+| [David Webster](Details/David_Webster.md) | 1989 | Shotgun blast | **CONFIRMED** | South African anti-apartheid academic shot dead outside his Johannesburg home by an agent of South African military intelligence. |
+| [Rick Turner](Details/Rick_Turner.md) | 1978 | Gunshot wound | **HIGHLY SUSPICIOUS** | South African political scientist shot dead through the front door of his Durban home. Security police suspected. |
+| [Fidan Dogan](Details/Fidan_Dogan.md) | 2013 | Multiple gunshot wounds to head and neck | **HIGHLY SUSPICIOUS** | Kurdish activist shot execution-style in Paris. Turkish intelligence (MIT) suspected. |
+| [Sakine Cansiz](Details/Sakine_Cansiz.md) | 2013 | Multiple gunshot wounds to head and neck | **HIGHLY SUSPICIOUS** | PKK co-founder shot execution-style in Paris along with Fidan Dogan and Leyla Saylemez. Turkish intelligence suspected. |
+| [Leyla Saylemez](Details/Leyla_Saylemez.md) | 2013 | Multiple gunshot wounds to head and neck | **HIGHLY SUSPICIOUS** | Kurdish youth activist, youngest of three Kurdish women shot execution-style in Paris. |
+| [Hilda Murrell](Details/Hilda_Murrell.md) | 1984 | Hypothermia (after being beaten and stabbed) | **SUSPICIOUS** | 78-year-old British anti-nuclear campaigner kidnapped from her home and left to die. MI5 surveillance alleged. |
 
 ## Scientists and Weapons Researchers Killed
 
@@ -248,4 +283,4 @@ Senator Frank Church, 1975: *"The United States must not adopt the tactics of th
 
 ---
 
-*Last Updated: March 12, 2026*
+*Last Updated: March 15, 2026*

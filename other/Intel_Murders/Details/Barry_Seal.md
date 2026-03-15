@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Barry Seal
 CIA-connected drug pilot and DEA informant machine-gunned in his car by Medellin Cartel hitmen, after his cover was allegedly blown by the CIA and Oliver North.
@@ -64,6 +64,8 @@ In 1984, Seal flew a specially equipped C-123K cargo plane with hidden CIA camer
 
 - [Gary Webb](Gary_Webb.md) — journalist who exposed CIA-Contra-crack connection, found dead in 2004
 - [Danny Casolaro](Danny_Casolaro.md) — journalist investigating the Octopus/intelligence connections
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

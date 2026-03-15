@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # George Adamski
 The most famous 1950s UFO contactee who claimed meetings with extraterrestrial "Space Brothers."

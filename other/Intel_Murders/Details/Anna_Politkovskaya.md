@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Anna Politkovskaya
 Investigative journalist and fierce critic of the Chechen war, shot dead in her Moscow apartment building on Vladimir Putin's birthday.

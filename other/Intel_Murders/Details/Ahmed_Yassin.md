@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Ahmed Yassin
 Founder and spiritual leader of Hamas, assassinated by an Israeli helicopter strike in Gaza City in 2004 as he was wheeled out of a mosque after predawn prayers. The strike also killed his two bodyguards and nine bystanders.
@@ -63,6 +63,8 @@ Israel had attempted to kill Yassin before: in September 2003, an Israeli airstr
 - [Abdel Aziz al-Rantisi](Abdel_Aziz_al_Rantisi.md) — Yassin's successor, assassinated by Israel 26 days later
 - [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md) — Hamas commander killed by Mossad in Dubai, 2010
 - [Imad Mughniyeh](Imad_Mughniyeh.md) — Hezbollah commander killed by CIA-Mossad, 2008
+
+- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
 
 ## Sources
 

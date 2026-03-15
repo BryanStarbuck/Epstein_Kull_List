@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Che Guevara
 Argentine-born Marxist revolutionary, executed by a U.S.-trained Bolivian military unit in 1967 with CIA operative Felix Rodriguez present and relaying orders.
@@ -57,6 +57,8 @@ Guevara was an Argentine physician turned revolutionary who played a central rol
 - [Patrice Lumumba](Patrice_Lumumba.md) — Another revolutionary leader killed with CIA involvement
 - [Salvador Allende](Salvador_Allende.md) — Chilean president overthrown in CIA-backed coup
 - [Omar Torrijos](Omar_Torrijos.md) — Panamanian leader allegedly killed by CIA
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

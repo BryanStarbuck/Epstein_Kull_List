@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Joseph Westley Newman
 Self-taught American inventor who spent over seven years battling the U.S. Patent Office for recognition of his "Energy Machine," an electromagnetic motor-generator he claimed produced more energy than it consumed.

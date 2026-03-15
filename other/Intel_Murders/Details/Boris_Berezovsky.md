@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Boris Berezovsky
 Russian oligarch and Kremlin critic found dead in his locked bathroom with a ligature around his neck. Coroner recorded an open verdict.

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Morris K. Jessup
 Astronomer and UFO author who investigated antigravity and the Philadelphia Experiment, found dead in his car under disputed circumstances.

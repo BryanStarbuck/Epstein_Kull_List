@@ -1,7 +1,7 @@
 [< Back to Main List](../README.md) | [Locations](../locations.md)
 
 # Ella Rich
-Fiancee of Frank Yassenoff, shot to death alongside him in unsolved double homicide connected to the Kessler-Wexner network.
+Fiancee of [Frank Yassenoff](Frank_Yassenoff.md), shot to death alongside him in unsolved double homicide connected to the Kessler-Wexner network.
 
 | Field | Details |
 |-------|---------|

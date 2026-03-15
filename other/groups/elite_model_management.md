@@ -19,7 +19,7 @@ Elite Model Management was one of the world's most prestigious modeling agencies
 
 * Systematic sexual exploitation of models by agency executives, according to multiple accusers
 * Alleged supplying of models to powerful men, including clients and business associates
-* Brunel allegedly used Elite's network to recruit girls for Epstein, per Virginia Giuffre's testimony
+* Brunel allegedly used Elite's network to recruit girls for Epstein, per [Virginia Giuffre](../../Details/Virginia_Giuffre.md)'s testimony
 * Gérald Marie allegedly raped multiple models during the 1980s and 1990s, including [Karen Mulder](../../Details/Karen_Mulder.md) and Carré Otis
 * When [Karen Mulder](../../Details/Karen_Mulder.md) named Brunel and Marie as rapists on French TV in 2001, the footage was destroyed and she was hospitalized — reportedly paid for by Marie
 * The agency's global reach provided access to vulnerable young women worldwide

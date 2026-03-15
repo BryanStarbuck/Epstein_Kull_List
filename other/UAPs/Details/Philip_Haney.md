@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Philip Haney
 Department of Homeland Security founding member and counterterrorism whistleblower who was found dead from a single gunshot wound in 2020, officially ruled a suicide two years later, under circumstances that many colleagues and supporters have disputed.
@@ -57,6 +57,8 @@ Haney was also reportedly engaged to be married at the time of his death, which 
 
 ## See Also
 
+- [Philip Haney (Epstein List)](../../../Details/Philip_Haney.md) — This case also appears in the main Epstein Kill List
+- [Philip Haney (Intel Murders)](../../Intel_Murders/Details/Philip_Haney.md) — This case also appears in the Intelligence Service Murders project
 - [James Forrestal](James_Forrestal.md) — Government insider who fell from a hospital window in 1949
 - [Frank Olson](Frank_Olson.md) — CIA scientist who fell from a hotel window in 1953
 - [William Cooper](William_Cooper.md) — Government whistleblower shot by sheriff's deputies in 2001

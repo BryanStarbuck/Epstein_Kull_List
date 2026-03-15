@@ -14,7 +14,7 @@ Zorro Ranch managers for two decades who vanished after Epstein's death and Maxw
 
 ## Assessment: MISSING PERSONS AT RISK
 
-Brice and Karen Gordon, a New Zealand couple, managed Jeffrey Epstein's 7,560-acre Zorro Ranch near Stanley, New Mexico for nearly two decades. After Epstein's death in August 2019 and Ghislaine Maxwell's arrest in July 2020, the Gordons disappeared from public view. They have no confirmed address in the United States and no social media presence. Their prolonged absence has been described as "alarming" by New Mexico state legislators investigating the ranch.
+Brice and Karen Gordon, a New Zealand couple, managed [Jeffrey Epstein](Jeffrey_Epstein.md)'s 7,560-acre Zorro Ranch near Stanley, New Mexico for nearly two decades. After Epstein's death in August 2019 and [Ghislaine Maxwell](Ghislaine_Maxwell.md)'s arrest in July 2020, the Gordons disappeared from public view. They have no confirmed address in the United States and no social media presence. Their prolonged absence has been described as "alarming" by New Mexico state legislators investigating the ranch.
 
 ## Background
 
@@ -40,7 +40,7 @@ In February 2026, New Mexico state legislators unanimously passed a measure crea
 ## Why This Disappearance Raises Questions
 
 - They managed the ranch for nearly two decades and would have been key witnesses to everything that occurred there.
-- Multiple victims (Annie Farmer, "Jane," Virginia Giuffre, Chauntae Davis) have testified that sexual abuse occurred at the ranch.
+- Multiple victims (Annie Farmer, "Jane," [Virginia Giuffre](Virginia_Giuffre.md), Chauntae Davis) have testified that sexual abuse occurred at the ranch.
 - An anonymous former employee alleged two foreign girls were buried near the ranch — the Gordons would likely know about any such events.
 - Zorro Ranch is the only Epstein property that was never raided by the FBI.
 - An FBI report from July 2019 noted concerns about a barn with a chimney and "sally port" that could conceal an incinerator — potentially for destroying evidence.

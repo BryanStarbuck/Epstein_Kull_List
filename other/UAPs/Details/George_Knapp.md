@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # George Knapp
 Award-winning investigative journalist who broke the Bob Lazar / Area 51 story in 1989, has spent over 35 years investigating UAP, testified before Congress in 2025, and has reported that his sources have been surveilled and burglarized.

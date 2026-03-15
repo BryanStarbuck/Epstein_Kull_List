@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Fuad Shukr
 Senior Hezbollah military commander and Nasrallah's right-hand man, killed by an Israeli airstrike on an apartment building in Beirut's southern suburbs in July 2024. He was also accused of helping plan the 1983 US Marine barracks bombing that killed 241 Americans.
@@ -58,6 +58,11 @@ Fuad Shukr was born in Al-Nabi Sheeth in the Bekaa Valley around 1961. He was a 
 - [Ismail Haniyeh](Ismail_Haniyeh.md) — Hamas leader assassinated in Tehran the night after Shukr's killing
 - [Salah al-Arouri](Salah_al_Arouri.md) — Hamas deputy leader killed by Israeli strike in Beirut, January 2024
 - [Qasem Soleimani](Qasem_Soleimani.md) — Iranian Quds Force commander killed by US drone strike
+
+- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+
+- [Hassan Nasrallah](Hassan_Nasrallah.md) — Hezbollah leader killed weeks later
+- [Imad Mughniyeh](Imad_Mughniyeh.md) — Hezbollah commander killed by CIA-Mossad
 
 ## Sources
 

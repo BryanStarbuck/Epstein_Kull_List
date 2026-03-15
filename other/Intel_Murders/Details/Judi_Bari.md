@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Judi Bari
 Earth First! organizer who survived a car bombing in Oakland in 1990, was falsely accused by the FBI of carrying her own bomb, and later died of cancer in 1997. A federal jury awarded $4.4 million after finding FBI and Oakland Police violated her civil rights.

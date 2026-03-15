@@ -158,7 +158,7 @@ X posts often mix real facts with speculation and frequently cite no primary doc
 > "Everything took a turn once Epstein's high-powered defense attorneys became involved."
 > — **Joe Recarey**, in sworn testimony, describing how the prosecution's approach shifted ([Vox](https://vox.com))
 
-> "He was a lead detective in many major investigations, including the high-profile solicitation-of-minors case against billionaire Jeffrey Epstein... He died Friday, May 25, 2018, surrounded by his family after a brief illness."
+> "He was a lead detective in many major investigations, including the high-profile solicitation-of-minors case against billionaire [Jeffrey Epstein](Jeffrey_Epstein.md)... He died Friday, May 25, 2018, surrounded by his family after a brief illness."
 > — **Palm Beach Daily News**, obituary for Joseph Recarey ([Legacy.com](https://www.legacy.com/us/obituaries/palmbeachdailynews/name/joseph-recarey-obituary?id=11914016))
 
 ## See Also

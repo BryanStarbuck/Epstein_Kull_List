@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Jamal Khashoggi
 Saudi dissident journalist murdered and dismembered inside the Saudi consulate in Istanbul by a 15-member Saudi hit squad.

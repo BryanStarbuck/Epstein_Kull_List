@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Paul Wellstone
 U.S. Senator from Minnesota, the most progressive member of the Senate and one of the most vocal opponents of the Iraq War, killed in a plane crash eleven days before his 2002 reelection — along with his wife, daughter, and five others.

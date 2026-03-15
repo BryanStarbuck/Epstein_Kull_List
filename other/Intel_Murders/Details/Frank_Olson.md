@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Frank Olson
 CIA biological weapons scientist secretly dosed with LSD under MKULTRA, who fell to his death from a New York hotel window nine days later. Forensic evidence from 1994 exhumation indicates homicide.
@@ -69,6 +69,8 @@ Olson had reportedly traveled to Europe in the summer of 1953, where he allegedl
 
 - [William Colby](William_Colby.md) — CIA Director who apologized to the Olson family; died under suspicious circumstances in 1996
 - [Danny Casolaro](Danny_Casolaro.md) — journalist investigating intelligence operations, found dead in 1991
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

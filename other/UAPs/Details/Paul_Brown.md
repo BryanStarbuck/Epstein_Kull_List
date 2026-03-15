@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Paul Brown
 Nuclear physicist who invented the Resonant Nuclear Battery (Nucell), a device that converts radioactive decay directly into electricity; killed in a car accident in Boise, Idaho in 2002 after years of reported harassment, groundless arrests, and persecution.
@@ -47,6 +47,7 @@ Brown founded Nuclear Solutions, Inc. to commercialize both the Nucell battery a
 
 ## See Also
 
+- [Paul Brown (Zero Point Energy)](../../Zero_Point_Energy/Details/Paul_Brown.md) — This case also appears in the Zero Point Energy project
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
 - [Arie DeGeus](Arie_DeGeus.md) — Free energy inventor found dead at airport

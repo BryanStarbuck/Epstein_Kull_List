@@ -44,8 +44,8 @@ PROMIS (Prosecutors Management Information System) was case management software 
 
 The PROMIS operation and the Epstein operation share a common thread: both were allegedly intelligence operations designed to gather compromising material on powerful people for leverage. The connection runs through the Maxwell family:
 
-1. **Robert Maxwell** distributed backdoored PROMIS software for Mossad
-2. Robert Maxwell's daughter **Ghislaine** became the operational leader of Epstein's sexual blackmail network
+1. **[Robert Maxwell](../../Details/Robert_Maxwell.md)** distributed backdoored PROMIS software for Mossad
+2. Robert Maxwell's daughter **[Ghislaine Maxwell](../../Details/Ghislaine_Maxwell.md)** became the operational leader of Epstein's sexual blackmail network
 3. Both operations allegedly served [Mossad](mossad.md) intelligence objectives
 4. Danny Casolaro and Robert Maxwell died within three months of each other in 1991
 5. The PROMIS operation gathered intelligence through technology; the Epstein operation gathered it through sexual compromise — both served the same alleged purpose

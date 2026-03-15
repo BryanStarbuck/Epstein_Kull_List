@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Max Spiers
 British UFO researcher and conspiracy theorist who died mysteriously in Warsaw, Poland in 2016 after sending his mother a text warning: "If anything happens to me, investigate."
@@ -45,6 +45,7 @@ Days before his death, Spiers texted his mother, Vanessa Bates, with the warning
 
 ## See Also
 
+- [Max Spiers (Epstein List)](../../../Details/Max_Spiers.md) — This case also appears in the main Epstein Kill List
 - [Dean Warwick](Dean_Warwick.md) — Researcher who collapsed and died at a conference in 2006
 - [Fred Bell](Fred_Bell.md) — Physicist who died within 48 hours of filming an interview about beam weapons
 - [Phil Schneider](Phil_Schneider.md) — Government insider found dead after lecturing about classified programs

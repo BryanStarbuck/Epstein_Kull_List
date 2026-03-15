@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Rene Schneider
 Chilean army commander-in-chief shot during a CIA-backed kidnapping attempt in 1970, targeted for defending Chile's constitutional transfer of power to elected president Salvador Allende.
@@ -58,6 +58,8 @@ Schneider was born to a German immigrant father and French immigrant mother in C
 - [Orlando Letelier](Orlando_Letelier.md) — Chilean diplomat assassinated by DINA in Washington, DC (1976)
 - [Ngo Dinh Diem](Ngo_Dinh_Diem.md) — Another leader targeted by CIA-backed forces (1963)
 - [Rafael Trujillo](Rafael_Trujillo.md) — Dominican dictator killed with CIA-supplied weapons (1961)
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # John F. Kennedy
 35th President of the United States, assassinated in Dallas on November 22, 1963. Some fringe theorists, including Steven Greer, claim UFO disclosure was among the motives for his killing, citing a disputed memo allegedly sent to the CIA ten days before his death. The UFO connection remains highly speculative; mainstream assassination theories center on Cold War politics, the CIA, organized crime, and Cuba.

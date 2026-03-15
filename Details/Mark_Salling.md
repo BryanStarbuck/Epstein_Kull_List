@@ -119,7 +119,7 @@ In August 2017 — approximately two months before his plea deal was announced �
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Died by hanging before trial on sex trafficking charges
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Modeling agent found hanged in prison awaiting trafficking trial
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "DC Madam" found hanged before sentencing after saying she would never kill herself
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "[DC Madam](../other/groups/dc_madam.md)" found hanged before sentencing after saying she would never kill herself
 - [Corey Haim](Corey_Haim.md) — Child actor allegedly abused in Hollywood, died at 38
 - [Isaac Kappy](Isaac_Kappy.md) — Actor who publicly named Hollywood pedophiles, fell from bridge
 - [Chester Bennington](Chester_Bennington.md) — Musician found hanged, allegedly connected to child trafficking documentary

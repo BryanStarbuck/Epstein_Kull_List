@@ -16,7 +16,7 @@ Deutsche Bank whistleblower and FBI informant found dead on LA school campus aft
 
 ## Assessment: UNCERTAIN
 
-Val Broeksmit became a key FBI informant after discovering thousands of confidential Deutsche Bank documents in his late father's email account. His father, [William Broeksmit](William_Broeksmit.md), was a senior Deutsche Bank executive found hanged in 2014. Deutsche Bank was the primary bank that maintained Jeffrey Epstein's accounts and processed hundreds of millions of dollars in transactions for him. Val provided these documents to federal investigators, journalists, and members of Congress investigating Deutsche Bank's relationships with clients including Epstein. His body was found on a school campus with broken ribs and a spinal fracture. Authorities ruled his death accidental, but the circumstances — a federal informant found dead with blunt-force trauma — have raised questions.
+Val Broeksmit became a key FBI informant after discovering thousands of confidential Deutsche Bank documents in his late father's email account. His father, [William Broeksmit](William_Broeksmit.md), was a senior Deutsche Bank executive found hanged in 2014. Deutsche Bank was the primary bank that maintained [Jeffrey Epstein](Jeffrey_Epstein.md)'s accounts and processed hundreds of millions of dollars in transactions for him. Val provided these documents to federal investigators, journalists, and members of Congress investigating Deutsche Bank's relationships with clients including Epstein. His body was found on a school campus with broken ribs and a spinal fracture. Authorities ruled his death accidental, but the circumstances — a federal informant found dead with blunt-force trauma — have raised questions.
 
 ## Circumstances of Death
 

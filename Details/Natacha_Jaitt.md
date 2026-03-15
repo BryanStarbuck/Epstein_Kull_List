@@ -87,10 +87,10 @@ Natacha Jaitt belongs to a disturbing pattern of individuals who publicly stated
 
 - **[Isaac Kappy](Isaac_Kappy.md)** — Hollywood actor who named pedophiles, recorded videos saying "if I die, it wasn't suicide," fell from a bridge in May 2019.
 - **[Virginia Giuffre](Virginia_Giuffre.md)** — Epstein's primary accuser, posted "I am not suicidal" on social media, died in 2024.
-- **[Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md)** — The "DC Madam," told multiple people she would never hang herself, found hanged 16 days after conviction.
+- **[Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md)** — The "[DC Madam](../other/groups/dc_madam.md)," told multiple people she would never hang herself, found hanged 16 days after conviction.
 - **[Tracy Twyman](Tracy_Twyman.md)** — Researcher who continued Kappy's work, left a "dead man's switch" video, found hanged in her garage in July 2019.
 - **[Sabrina Bittencourt](Sabrina_Bittencourt.md)** — Exposed John of God's baby trafficking ring, died in hiding in Barcelona in February 2019 — the same month as Jaitt. Her son said "they killed my mother."
-- **[Nikolai Mushegian](Nikolai_Mushegian.md)** — Tweeted about CIA/Mossad sex trafficking, drowned four hours later.
+- **[Nikolai Mushegian](Nikolai_Mushegian.md)** — Tweeted about [CIA](../other/groups/cia.md)/[Mossad](../other/groups/mossad.md) sex trafficking, drowned four hours later.
 
 Jaitt's death occurred during the 2019 pre-arrest cluster that also included Bittencourt (February 2019), Kappy (May 2019), Twyman (July 2019), and Epstein himself (August 2019).
 
@@ -101,7 +101,7 @@ While Natacha Jaitt's accusations were focused on Argentine figures rather than 
 - **The Independiente football club scandal** — a confirmed child abuse ring involving powerful figures in Argentine sports — parallels documented patterns of institutional child exploitation in the Epstein network, the [Franklin scandal](../other/groups/franklin_scandal.md), and the [Jimmy Savile/BBC scandal](../other/groups/jimmy_savile.md).
 - **The Vatican/Church connection** — Jaitt's accusations against Gustavo Vera and Pope Francis echo [Sabrina Bittencourt](Sabrina_Bittencourt.md)'s exposure of "John of God" (Joao Teixeira de Faria), a Brazilian faith healer with connections to powerful political figures.
 - **The intelligence dimension** — Some investigators have alleged connections between Argentine intelligence services (SIDE/AFI) and the networks Jaitt exposed.
-- **International trafficking networks** — Elite pedophile networks do not respect national borders. The same patterns — powerful men, institutional protection, whistleblowers silenced, evidence destroyed — appear across Epstein's operation, the Dutroux affair in Belgium, Savile in the UK, and the networks Jaitt exposed in Argentina.
+- **International trafficking networks** — Elite pedophile networks do not respect national borders. The same patterns — powerful men, institutional protection, whistleblowers silenced, evidence destroyed — appear across Epstein's operation, the [Dutroux](../other/groups/dutroux_affair.md) affair in Belgium, Savile in the UK, and the networks Jaitt exposed in Argentina.
 
 ## Key Quotes from Media Coverage
 

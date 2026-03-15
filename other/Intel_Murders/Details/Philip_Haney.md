@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Philip Haney
 DHS founding member and terrorism analyst turned whistleblower who was found dead of a single gunshot wound in 2020. His death was ruled a suicide two years later, but family members and colleagues have publicly disputed the finding.
@@ -59,7 +59,10 @@ At the time of his death, Haney was reportedly engaged to be married and had tol
 
 ## See Also
 
-- No directly related profiles in this project at this time
+- [Bill Cooper](Bill_Cooper.md) — government critic shot dead under suspicious circumstances
+- [William Colby](William_Colby.md) — former CIA Director who died under suspicious circumstances
+- [David Kelly](David_Kelly.md) — government whistleblower found dead, ruled suicide
+- [Philip Haney (Epstein Kill List)](../../../Details/Philip_Haney.md) — Epstein Kill List cross-reference
 
 ## Sources
 

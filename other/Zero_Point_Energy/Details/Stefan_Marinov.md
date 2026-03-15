@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Stefan Marinov
 Bulgarian physicist working on perpetual motion and unconventional electromagnetic theories, fell from the staircase of the University of Graz library in Austria under disputed circumstances.

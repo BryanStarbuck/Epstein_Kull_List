@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Keith Bowden
 Senior GEC-Marconi computer scientist killed when his car plunged off a bridge into a disused railway cutting in Essex — the first in a cluster of suspicious defense scientist deaths.
@@ -41,6 +41,7 @@ Bowden's death predated the main cluster of Marconi deaths by several years and 
 
 ## See Also
 
+- [Keith Bowden (Zero Point Energy)](../../Zero_Point_Energy/Details/Keith_Bowden.md) — This case also appears in the Zero Point Energy project
 - [Roger Hill](Roger_Hill.md) — Marconi radar designer, died March 1985
 - [Anthony Godley](Anthony_Godley.md) — RCMS defense expert, disappeared April 1983
 - [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi software engineer, died August 1986

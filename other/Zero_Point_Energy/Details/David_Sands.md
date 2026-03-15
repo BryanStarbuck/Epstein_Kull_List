@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # David Sands
 Senior scientist and satellite projects manager at Easams (Marconi sister company), died when his car loaded with petrol cans crashed into a brick wall at high speed.

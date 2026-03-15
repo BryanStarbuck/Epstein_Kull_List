@@ -2,7 +2,7 @@
 
 # Daniel Anderl
 
-Son of Judge Esther Salas, shot dead at home during his 20th birthday celebration — 4 days after his mother was assigned the Epstein-Deutsche Bank money laundering case.
+Son of Judge [Esther Salas](Esther_Salas.md), shot dead at home during his 20th birthday celebration — 4 days after his mother was assigned the Epstein-Deutsche Bank money laundering case.
 
 ## Basic Information
 
@@ -44,7 +44,7 @@ The shooter was identified as **[Roy Den Hollander](Roy_Den_Hollander.md)** (Sep
 - **Russia connections:** Married Russian model Angelina Shipilina in March 2000; separated nine months later. He accused her of ties to Russian organized crime and claimed she used him for a green card
 - **Media presence:** Appeared on The Colbert Report and Fox News for his anti-feminist lawsuits (challenging ladies' night discounts, women's studies courses at Columbia, VAWA, the male-only draft)
 - **Political connections:** Trump volunteer/donor; filed a RICO suit against media outlets for "negative coverage" of Trump
-- **Kicked out of NCFM:** Was expelled from the National Coalition for Men; feuded with rivals including Marc Angelucci (whom he would later murder)
+- **Kicked out of NCFM:** Was expelled from the National Coalition for Men; feuded with rivals including [Marc Angelucci](Marc_Angelucci.md) (whom he would later murder)
 - **Writings:** Produced 2,000+ pages of racist, sexist, and misogynistic screeds, including a 1,700-page autobiography titled "Stupid Frigging Fool." He explicitly attacked Salas as a "lazy and incompetent Latina judge appointed by Obama"
 - **Terminal illness:** Diagnosed with metastasized melanoma (~June 2019). Publicly stated he was "painfully dying from cancer" in January 2020. Had handed off cases to other lawyers
 - **Target list:** Investigators found in his car the names and photos of Judge Salas, New York State Chief Judge Janet DiFiore, Supreme Court Justice Sonia Sotomayor, a comedian, and his oncologist
@@ -59,11 +59,11 @@ The FBI concluded Den Hollander's motive was personal grievance against Judge Sa
 
 The timing raises questions that the official narrative does not adequately answer:
 
-1. **Four days earlier — the Epstein-Deutsche Bank case:** On July 15, 2020, Judge Salas was randomly assigned (via the court's case management system) to **Karimi v. Deutsche Bank Aktiengesellschaft**, a major class-action lawsuit alleging Deutsche Bank made false statements about its anti-money laundering policies — specifically its failure to monitor high-risk customers like **Jeffrey Epstein**. Deutsche Bank had already paid **$150 million in fines** for managing Epstein's accounts. Epstein had died in jail in August 2019 amid his own sex-trafficking case.
+1. **Four days earlier — the Epstein-Deutsche Bank case:** On July 15, 2020, Judge Salas was randomly assigned (via the court's case management system) to **Karimi v. Deutsche Bank Aktiengesellschaft**, a major class-action lawsuit alleging Deutsche Bank made false statements about its anti-money laundering policies — specifically its failure to monitor high-risk customers like **[Jeffrey Epstein](Jeffrey_Epstein.md)**. Deutsche Bank had already paid **$150 million in fines** for managing Epstein's accounts. Epstein had died in jail in August 2019 amid his own sex-trafficking case.
 
-2. **Broader Epstein timeline:** Ghislaine Maxwell was arrested on **July 2, 2020** — just 17 days before the Salas attack. The Epstein network was under maximum legal pressure at precisely this moment.
+2. **Broader Epstein timeline:** [Ghislaine Maxwell](Ghislaine_Maxwell.md) was arrested on **July 2, 2020** — just 17 days before the Salas attack. The Epstein network was under maximum legal pressure at precisely this moment.
 
-3. **Den Hollander's intelligence background:** He worked for **[Kroll Associates](../other/groups/kroll_associates.md)**, known as the "CIA of Wall Street." Kroll frequently hired former CIA, FBI, MI6, and Mossad officers. French intelligence agencies alleged Kroll was an actual CIA front. Critically, **Kroll had direct business ties to Deutsche Bank** — the very institution in the case Salas had just been assigned.
+3. **Den Hollander's intelligence background:** He worked for **[Kroll Associates](../other/groups/kroll_associates.md)**, known as the "[CIA](../other/groups/cia.md) of Wall Street." Kroll frequently hired former CIA, FBI, MI6, and [Mossad](../other/groups/mossad.md) officers. French intelligence agencies alleged Kroll was an actual CIA front. Critically, **Kroll had direct business ties to Deutsche Bank** — the very institution in the case Salas had just been assigned.
 
 4. **The Russia connection:** Kremlin speech in 1993. Years working intelligence in Russia. Marriage to a Russian model he accused of organized crime ties. This is not the profile of a simple "angry loner."
 
@@ -74,10 +74,10 @@ The timing raises questions that the official narrative does not adequately answ
 7. **Dead gunman tells no tales:** Den Hollander was found dead of an apparent self-inflicted gunshot wound just ~24 hours after the attack, in a remote area of the Catskills. Dead men cannot be interrogated about handlers, communications, or whether someone encouraged or directed the timing of his actions.
 
 8. **The Deutsche Bank death pattern:** Four people connected to Epstein's Deutsche Bank finances have died:
-   - **William Broeksmit** — Deutsche Bank senior exec, hanged at home in London, 2014
-   - **Thomas Bowers** — Deutsche Bank wealth management chief, hanged at home in Malibu, 2019
+   - **[William Broeksmit](William_Broeksmit.md)** — Deutsche Bank senior exec, hanged at home in London, 2014
+   - **[Thomas Bowers](Thomas_Bowers.md)** — Deutsche Bank wealth management chief, hanged at home in Malibu, 2019
    - **Daniel Anderl** — son of judge assigned to DB-Epstein case, shot in NJ, 2020
-   - **Val Broeksmit** — DB whistleblower and FBI informant, found dead in LA, 2022
+   - **[Val Broeksmit](Val_Broeksmit.md)** — DB whistleblower and FBI informant, found dead in LA, 2022
 
 9. **Speed and precision despite terminal cancer:** Despite claiming he was "painfully dying," Den Hollander traveled cross-country, executed two precise targeted attacks (Angelucci in California July 11, Salas family in NJ July 19), and killed himself — all within nine days. This level of operational planning and execution is notable.
 
@@ -85,7 +85,7 @@ The timing raises questions that the official narrative does not adequately answ
 
 ## The Core Question
 
-Was Roy Den Hollander really just a bitter "men's rights" lawyer with a personal grudge who happened to strike four days after the Epstein case assignment? Or was he a terminally ill former intelligence operative who was activated, encouraged, or allowed to eliminate the judge who could have exposed Deutsche Bank's full role in Epstein's money laundering network?
+Was [Roy Den Hollander](Roy_Den_Hollander.md) really just a bitter "men's rights" lawyer with a personal grudge who happened to strike four days after the Epstein case assignment? Or was he a terminally ill former intelligence operative who was activated, encouraged, or allowed to eliminate the judge who could have exposed Deutsche Bank's full role in Epstein's money laundering network?
 
 The official motive — that Den Hollander attacked Salas over a stalled draft case from 2015 — does not explain why he waited five years to act and then struck precisely four days after she received the most sensitive financial case connected to the Epstein network.
 
@@ -145,7 +145,7 @@ The Salas attack became one of the most viral Epstein-adjacent stories on social
 
 ### Daniel Anderl on "Epstein Death Lists"
 
-Daniel is regularly added to unofficial "Epstein-adjacent death lists" alongside Epstein, Mark Middleton, Jean-Luc Brunel, Thomas Bowers, and others. Example: November 2025 post by @Simply4Truth_ listing "Daniel Anderl" among names "tied to Epstein network." A February 2026 post still calls his death "linked to #Epstein money laundering." Photos of Daniel (smiling college student) and the family home are widely circulated with captions like *"He died protecting his parents."*
+Daniel is regularly added to unofficial "Epstein-adjacent death lists" alongside Epstein, [Mark Middleton](Mark_Middleton.md), [Jean-Luc Brunel](Jean_Luc_Brunel.md), Thomas Bowers, and others. Example: November 2025 post by @Simply4Truth_ listing "Daniel Anderl" among names "tied to Epstein network." A February 2026 post still calls his death "linked to #Epstein money laundering." Photos of Daniel (smiling college student) and the family home are widely circulated with captions like *"He died protecting his parents."*
 
 ### The Bottom Line from the X Ecosystem
 

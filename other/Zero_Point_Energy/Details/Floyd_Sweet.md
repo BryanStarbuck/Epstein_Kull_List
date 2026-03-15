@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Floyd Sweet
 American inventor and electronics researcher who developed the Vacuum Triode Amplifier (VTA) — a solid-state device using conditioned barium ferrite magnets that reportedly produced 500 watts of output from 33 microwatts of input. Received death threats, and his wife reported that men visited their home shortly before he was found dead.

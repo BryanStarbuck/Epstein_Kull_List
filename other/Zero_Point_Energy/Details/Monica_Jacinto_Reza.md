@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Monica Jacinto Reza
 Hiker who died after going missing in Angeles National Forest, cited in conspiracy circles as a suppressed energy researcher — but no credible evidence connects her to any scientific work.
@@ -34,6 +34,7 @@ After thorough web research, no evidence was found to support the claim that Rez
 
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor often cited alongside unverified claims
 - [Dimitri Petronov](Dimitri_Petronov.md) — Another case with limited verifiable documentation
+- [Monica Jacinto Reza (UAP Deaths project)](../../UAPs/Details/Monica_Jacinto_Reza.md) — Parallel profile in UAP Deaths project
 
 ## Sources
 

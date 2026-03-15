@@ -26,7 +26,7 @@ John Connolly died on January 17, 2022, after a brief illness. His longtime part
 
 Connolly was a former NYPD detective who became an investigative journalist. He was known as a hard-hitting reporter with an "unending Rolodex" and the ability to move among Hollywood, Wall Street, politicians, and police.
 
-He co-authored *Filthy Rich: A Powerful Billionaire, the Sex Scandal that Undid Him, and All the Justice that Money Can Buy* with James Patterson. The book was one of the first major exposés of Jeffrey Epstein's crimes, published before Epstein's 2019 arrest. Connolly also appeared in the documentary *Who Killed Jeffrey Epstein?*
+He co-authored *Filthy Rich: A Powerful Billionaire, the Sex Scandal that Undid Him, and All the Justice that Money Can Buy* with James Patterson. The book was one of the first major exposés of [Jeffrey Epstein](Jeffrey_Epstein.md)'s crimes, published before Epstein's 2019 arrest. Connolly also appeared in the documentary *Who Killed Jeffrey Epstein?*
 
 ## Why This Death Possibly Raises Questions
 

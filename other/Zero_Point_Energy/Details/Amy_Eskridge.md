@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Amy Catherine Eskridge
 Anti-gravity researcher and co-founder of the Institute for Exotic Science, found dead of a gunshot wound ruled suicide at age 34 in Huntsville, Alabama — the same city where [Ning Li](Ning_Li.md) conducted DOD-funded anti-gravity research.

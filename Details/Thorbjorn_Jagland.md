@@ -42,9 +42,9 @@ On approximately February 24, 2026, Jagland was hospitalized after a reported su
 ## European Epstein Fallout Context
 
 Jagland's case is part of a broader European reckoning triggered by the 2026 Epstein file releases:
-- **Prince Andrew** (UK) — arrested on suspicion of misconduct in public office
-- **Peter Mandelson** (UK) — arrested for leaking sensitive government information to Epstein
-- **Mona Juul** (Norway) — ambassador resigned after Epstein left $10M to her children in his will
+- **[Prince Andrew](Prince_Andrew.md)** (UK) — arrested on suspicion of misconduct in public office
+- **[Peter Mandelson](Peter_Mandelson.md)** (UK) — arrested for leaking sensitive government information to Epstein
+- **[Mona Juul](Mona_Juul.md)** (Norway) — ambassador resigned after Epstein left $10M to her children in his will
 - **Crown Princess Mette-Marit** (Norway) — named 1,000 times in Epstein files, publicly apologized
 - **Jack Lang** (France) — former Culture Minister, resigned
 - **Miroslav Lajcak** (Slovakia) — national security adviser, stepped down

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Yitzhak Rabin
 Israeli Prime Minister shot and killed by far-right extremist Yigal Amir at a peace rally in Tel Aviv on November 4, 1995. Allegations persist that the Shin Bet domestic intelligence service failed to prevent the assassination despite operating an agent provocateur, Avishai Raviv, within the extremist milieu surrounding the assassin.

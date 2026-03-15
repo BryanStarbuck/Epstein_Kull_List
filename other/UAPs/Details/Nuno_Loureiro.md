@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Nuno Loureiro
 MIT professor of nuclear science and engineering, physics, and director of the MIT Plasma Science and Fusion Center. Shot at his Brookline, Massachusetts residence on December 15, 2025; died December 16, 2025 at age 47. His killer, Claudio Manuel Neves Valente, was linked to the Brown University shooting two days earlier and was motivated by a personal grudge from their university years in Portugal. MIT has stated Loureiro did no classified work. X/social media theorists have alleged a fusion/UAP propulsion connection, but no evidence supports this.
@@ -53,6 +53,7 @@ However, MIT has explicitly stated that Loureiro did not perform classified work
 
 ## See Also
 
+- [Nuno Loureiro (Zero Point Energy)](../../Zero_Point_Energy/Details/Nuno_Loureiro.md) — This case also appears in the Zero Point Energy project
 - [William McCasland](William_McCasland.md) — Missing USAF general with plasma propulsion connections
 
 ## Sources

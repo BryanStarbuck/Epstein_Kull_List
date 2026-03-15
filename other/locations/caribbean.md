@@ -25,7 +25,7 @@ The most striking aspect of the Caribbean connection: **no confirmed suspicious 
 
 ### USVI — No Deaths, But Systematic Protection
 
-- **Governor Albert Bryan Jr.** texted Epstein "We got u" and pressured AG Denise George to grant sex offender waivers
+- **Governor Albert Bryan Jr.** texted Epstein "We got u" and pressured AG [Denise George](../../Details/Denise_George.md) to grant sex offender waivers
 - **[Denise George](../../Details/Denise_George.md)** (AG, fired December 2022) — Fired four days after suing JPMorgan for facilitating Epstein's crimes. Told the FBI she felt threatened.
 - **Cecile de Jongh** (Former First Lady) — On Epstein's payroll at $200,000/year. JPMorgan called her Epstein's "primary conduit for spreading money and influence throughout the USVI government."
 - The USVI settled with Epstein's estate for over $105 million; approximately 150 survivors received compensation through a fund totaling nearly $125 million.

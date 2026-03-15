@@ -20,7 +20,7 @@ Bowers oversaw the banking division that handled Epstein's financial transaction
 
 ## Circumstances of Death
 
-Thomas Bowers was found hanged inside his home in Malibu, California on November 19, 2019 — just three months after Jeffrey Epstein's death in August 2019.
+Thomas Bowers was found hanged inside his home in Malibu, California on November 19, 2019 — just three months after [Jeffrey Epstein](Jeffrey_Epstein.md)'s death in August 2019.
 
 ## Background
 
@@ -29,7 +29,7 @@ Bowers was the former head of Deutsche Bank's American wealth management divisio
 ## Why This Death Possibly Raises Questions
 
 - Bowers directly oversaw the banking division that handled Epstein's financial transactions.
-- He was found hanged — the same method of death as Epstein and later Jean-Luc Brunel.
+- He was found hanged — the same method of death as Epstein and later [Jean-Luc Brunel](Jean_Luc_Brunel.md).
 - His death occurred just three months after Epstein's own death, during a period of intensified federal investigation into Epstein's finances and network.
 - As the head of wealth management at Deutsche Bank, he would have had direct knowledge of the financial flows that supported Epstein's operation.
 

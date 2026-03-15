@@ -1,7 +1,7 @@
 [< Back to Main List](../README.md) | [Locations](../locations.md)
 
 # Nikolai Mushegian
-MakerDAO co-founder and crypto pioneer who tweeted about a CIA/Mossad sex trafficking ring in Puerto Rico hours before drowning at age 29.
+MakerDAO co-founder and crypto pioneer who tweeted about a [CIA](../other/groups/cia.md)/[Mossad](../other/groups/mossad.md) sex trafficking ring in Puerto Rico hours before drowning at age 29.
 
 ## Basic Information
 - **Full Name:** Nikolai Arcadie Mushegian (also spelled Muchgian in official records)

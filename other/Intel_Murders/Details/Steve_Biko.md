@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Steve Biko
 South African anti-apartheid activist and founder of the Black Consciousness Movement, beaten to death in police custody in 1977. Five officers later confessed to killing him but were denied amnesty.

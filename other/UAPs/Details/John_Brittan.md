@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # John Brittan
 Royal College of Military Science IT specialist found dead from carbon monoxide poisoning in his garage — had recently returned from the United States.

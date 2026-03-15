@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Galina Starovoitova
 Russian liberal lawmaker and human rights champion shot dead in her St. Petersburg apartment lobby in 1998 — one of the most prominent political assassinations in post-Soviet Russia.

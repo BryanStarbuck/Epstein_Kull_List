@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Anwar al-Awlaki
 US-born radical Islamic cleric killed by a CIA drone strike in Yemen in 2011 — the first known deliberate extrajudicial killing of an American citizen by the US government without trial.
@@ -58,6 +58,8 @@ Anwar al-Awlaki was born in Las Cruces, New Mexico, to Yemeni parents. He grew u
 - [Abdulrahman al-Awlaki](Abdulrahman_al_Awlaki.md) — His 16-year-old son, killed by a US drone strike two weeks later
 - [Pat Tillman](Pat_Tillman.md) — US soldier killed by friendly fire in circumstances involving intelligence cover-up
 - [Qasem Soleimani](Qasem_Soleimani.md) — Iranian commander killed by US drone strike in 2020
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

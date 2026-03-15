@@ -37,7 +37,7 @@ Esther Salas is the **first Hispanic woman** to serve as both a U.S. Magistrate 
 On **July 15, 2020**, Judge Salas was randomly assigned (via the court's case management system) to **Karimi v. Deutsche Bank Aktiengesellschaft et al.**, a class-action lawsuit brought by Deutsche Bank investors alleging:
 
 - Deutsche Bank made **false and misleading statements** about its anti-money laundering (AML) policies
-- The bank **failed to properly monitor "high-risk" customers** including **Jeffrey Epstein**
+- The bank **failed to properly monitor "high-risk" customers** including **[Jeffrey Epstein](Jeffrey_Epstein.md)**
 - Deutsche Bank's desire to obscure AML deficiencies led to misleading disclosures
 - The bank **failed to remediate known compliance deficiencies**
 
@@ -45,7 +45,7 @@ Deutsche Bank had already paid **$150 million in fines** to New York regulators 
 
 ### Critical Context: The Timing
 
-- **July 2, 2020:** Ghislaine Maxwell arrested by FBI — Epstein's network under maximum legal pressure
+- **July 2, 2020:** [Ghislaine Maxwell](Ghislaine_Maxwell.md) arrested by FBI — Epstein's network under maximum legal pressure
 - **July 15, 2020:** Judge Salas assigned to Epstein-Deutsche Bank case
 - **July 19, 2020:** Gunman attacks her family — 4 days later
 
@@ -53,7 +53,7 @@ Deutsche Bank had already paid **$150 million in fines** to New York regulators 
 
 On **July 19, 2020** — just four days after receiving the Epstein-Deutsche Bank case, and during the family's celebration of Daniel's 20th birthday — a gunman disguised as a FedEx delivery driver rang the doorbell at the Salas family home in North Brunswick, New Jersey:
 
-- Her son **Daniel Anderl**, age 20, answered the door and was shot multiple times including a fatal wound to the chest/heart. He died trying to shield his parents
+- Her son **[Daniel Anderl](Daniel_Anderl.md)**, age 20, answered the door and was shot multiple times including a fatal wound to the chest/heart. He died trying to shield his parents
 - Her husband **Mark Anderl** (age 63), a criminal defense attorney, was shot three times and critically wounded (survived after multiple surgeries)
 - Judge Salas was in the basement at the time and was not struck. She witnessed the immediate aftermath and held her dying son
 
@@ -76,7 +76,7 @@ The FBI concluded Den Hollander harbored a personal grudge against Salas over a 
 
 ### Suspicious Background — Why Theories Persist
 
-- **[Kroll Associates](../other/groups/kroll_associates.md)** was known as the **"CIA of Wall Street"** and employed former CIA, FBI, MI6, and Mossad officers. French intelligence agencies alleged Kroll was an actual CIA front. **Kroll had direct business ties to Deutsche Bank** — the very institution at the center of the case Salas had just been assigned
+- **[Kroll Associates](../other/groups/kroll_associates.md)** was known as the **"[CIA](../other/groups/cia.md) of Wall Street"** and employed former CIA, FBI, MI6, and [Mossad](../other/groups/mossad.md) officers. French intelligence agencies alleged Kroll was an actual CIA front. **Kroll had direct business ties to Deutsche Bank** — the very institution at the center of the case Salas had just been assigned
 - Den Hollander's intelligence background (Kremlin speech, Kroll Moscow, Russian wife with alleged mob ties) contradicts the narrative of a simple "angry loner"
 - A terminally ill man with an intelligence background and a documented personal grudge provides the ideal **"patsy" profile** — someone with nothing to lose, a plausible personal motive already on the public record, and no future to protect
 - His death ~24 hours later in a remote area ensured he could never be interrogated about possible handlers, communications, or whether someone encouraged the timing
@@ -90,17 +90,17 @@ Judge Salas is part of a broader pattern of individuals connected to Epstein's D
 
 | Person | Role | Death |
 |--------|------|-------|
-| William Broeksmit | Deutsche Bank senior exec | Hanged at home, London, 2014 |
-| Thomas Bowers | Deutsche Bank wealth mgmt chief | Hanged at home, Malibu, 2019 |
+| [William Broeksmit](William_Broeksmit.md) | Deutsche Bank senior exec | Hanged at home, London, 2014 |
+| [Thomas Bowers](Thomas_Bowers.md) | Deutsche Bank wealth mgmt chief | Hanged at home, Malibu, 2019 |
 | **Daniel Anderl** | Son of judge on DB-Epstein case | Shot dead, NJ, 2020 |
-| Val Broeksmit | DB whistleblower/FBI informant | Found dead, LA, 2022 |
+| [Val Broeksmit](Val_Broeksmit.md) | DB whistleblower/FBI informant | Found dead, LA, 2022 |
 
 ## Pattern: Attacks on Those Threatening Epstein's Financial Infrastructure
 
 | Person | Role | What Happened | Timing |
 |--------|------|---------------|--------|
 | **Esther Salas** | Judge assigned to DB-Epstein case | Son murdered, husband shot | 4 days after assignment |
-| **Denise George** | USVI AG who sued JPMorgan over Epstein | Fired by governor, told FBI she felt threatened | 4 days after filing suit |
+| **[Denise George](Denise_George.md)** | [USVI](../other/groups/usvi_government.md) AG who sued [JPMorgan](../other/groups/jpmorgan_chase.md) over Epstein | Fired by governor, told FBI she felt threatened | 4 days after filing suit |
 | **Thomas Bowers** | DB exec who signed off on Epstein accounts | Found hanged | Before he could be questioned |
 | **William Broeksmit** | DB senior exec with knowledge of Epstein finances | Found hanged | Before he could be questioned |
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # James E. McDonald
 Senior atmospheric physicist whose career and marriage were systematically destroyed before he was found dead in the Arizona desert.

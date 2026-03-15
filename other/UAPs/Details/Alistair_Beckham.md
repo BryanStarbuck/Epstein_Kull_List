@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Alistair Beckham
 50-year-old Plessey Defence Systems software engineer working on SDI pilot programs, found electrocuted in his garden shed with wires attached to his chest and a handkerchief stuffed in his mouth — MOD officials arrived hours after his death and removed documents.
@@ -46,6 +46,7 @@ Plessey had been purchased by GEC-Marconi in 1987. Within a year of the acquisit
 
 ## See Also
 
+- [Alistair Beckham (Zero Point Energy)](../../Zero_Point_Energy/Details/Alistair_Beckham.md) — This case also appears in the Zero Point Energy project
 - [Peter Ferry](Peter_Ferry.md) — Marconi assistant marketing director, electrocuted August 1988
 - [Trevor Knight](Trevor_Knight.md) — Marconi computer engineer, CO poisoning March 1988
 - [Russell Smith](Russell_Smith.md) — AERE lab technician, fell from cliff January 1988

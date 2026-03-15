@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # David Webster
 South African anti-apartheid academic and anthropologist, shot dead outside his Johannesburg home in 1989 by an agent of the apartheid government's covert Civil Cooperation Bureau (CCB).

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Mark Tomion
 Physicist who patented "Star Drive" zero-point energy technology and died shortly after developing a working prototype.

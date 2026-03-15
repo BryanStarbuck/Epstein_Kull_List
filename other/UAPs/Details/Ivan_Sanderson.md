@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Ivan T. Sanderson
 British-born biologist and founder of the Society for the Investigation of the Unexplained (SITU), died of fast-acting brain cancer at 62.

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Roger Hill
 Marconi radar designer found dead from a self-inflicted shotgun wound at his home in Surrey.

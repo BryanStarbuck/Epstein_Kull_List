@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Eugene Mallove
 Cold fusion advocate and former MIT science writer, beaten to death while cleaning a rental property in Norwich, Connecticut.
@@ -100,7 +100,7 @@ The official explanation — that Mallove was killed by angry former tenants in 
 ## See Also
 
 - [B. Stanley Pons](../../../Details/B_Stanley_Pons.md) — Co-discoverer of cold fusion; Epstein claimed to have "killed" his career
-- [Martin Fleischmann](Martin_Fleischmann.md) — Co-discoverer of cold fusion; career destroyed
+- Martin Fleischmann — Co-discoverer of cold fusion; career destroyed
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly at a restaurant
 - [Eugene Mallove (UAP Deaths project)](../../UAPs/Details/Eugene_Mallove.md) — Parallel profile in UAP Deaths project
 

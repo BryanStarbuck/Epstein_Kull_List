@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Manuel Buendia
 Mexico's most influential political columnist, assassinated for investigating the nexus between the CIA, Mexico's Federal Security Directorate (DFS), and drug trafficking cartels.
@@ -94,6 +94,8 @@ The Camarena affair ultimately forced the Mexican government to dissolve the DFS
 - [Barry Seal](Barry_Seal.md) — CIA-connected drug pilot turned DEA informant, killed after his cover was exposed; part of the same era of CIA-drug trafficking connections
 - [Gary Webb](Gary_Webb.md) — Journalist who exposed CIA-Contra-crack cocaine connection; career destroyed and died under suspicious circumstances
 - [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating PROMIS/intelligence connections who died before publication
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

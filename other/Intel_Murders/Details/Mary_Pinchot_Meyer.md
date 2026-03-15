@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Mary Pinchot Meyer
 Washington socialite, artist, and alleged mistress of President John F. Kennedy, shot execution-style while walking along the C&O Canal towpath in Georgetown — less than a year after JFK's assassination and weeks after the Warren Commission report was released.
@@ -124,6 +124,8 @@ The web of CIA connections surrounding Mary Pinchot Meyer is extraordinary:
 - [Frank Olson](Frank_Olson.md) — CIA scientist killed under suspicious circumstances; MKULTRA connection
 - [William Colby](William_Colby.md) — Former CIA Director who died under suspicious circumstances
 - [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating intelligence operations, found dead in hotel room
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Frederick Valentich
 Australian pilot who disappeared over Bass Strait in 1978 after radioing Melbourne air traffic control to report an unidentified craft hovering above his Cessna 182; neither he nor his aircraft were ever found.

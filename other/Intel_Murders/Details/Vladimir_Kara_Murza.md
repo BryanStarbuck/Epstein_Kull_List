@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Vladimir Kara-Murza
 Russian-British opposition activist who survived two FSB poisoning attempts in 2015 and 2017, was sentenced to 25 years in a Russian prison, and was released in a prisoner exchange in August 2024.
@@ -68,6 +68,8 @@ On August 1, 2024, Kara-Murza was released as part of a historic prisoner exchan
 - [Boris Nemtsov](Boris_Nemtsov.md) — Kara-Murza's mentor, assassinated near the Kremlin in 2015
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — FSB defector poisoned in London
 - [Sergei Skripal](Sergei_Skripal.md) — GRU double agent poisoned with Novichok in 2018
+
+- [Sergei Magnitsky](Sergei_Magnitsky.md) — Russian whistleblower who died in prison
 
 ## Sources
 

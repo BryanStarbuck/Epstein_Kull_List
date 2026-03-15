@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Thomas Henry Moray
 Inventor of the "Moray Valve" radiant energy device who was shot at multiple times, wounded in the leg, and whose device was destroyed by his own assistant with an ax.

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # John Paisley
 Senior CIA officer found floating in Chesapeake Bay with a gunshot wound and weighted dive belt. The body was four inches shorter and thirty pounds lighter than Paisley. CIA arranged cremation before positive identification.
@@ -62,6 +62,8 @@ By 1978, Paisley had officially retired from the CIA but remained active as a co
 
 - [William Colby](William_Colby.md) — former CIA Director who also died in mysterious water-related circumstances
 - [Frank Olson](Frank_Olson.md) — CIA scientist whose death was staged
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

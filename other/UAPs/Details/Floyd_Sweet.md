@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Floyd Sweet
 Former General Electric magnetics specialist and MIT-educated engineer who developed the Vacuum Triode Amplifier, a claimed zero-point energy device; died of a heart attack in 1995 after years of reported death threats, and his research materials were allegedly confiscated immediately after his death.
@@ -46,6 +46,7 @@ Sweet's claims were never validated by mainstream scientific peer review and rem
 
 ## See Also
 
+- [Floyd Sweet (Zero Point Energy)](../../Zero_Point_Energy/Details/Floyd_Sweet.md) — This case also appears in the Zero Point Energy project
 - [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died weeks before scheduled testing
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher whose work was allegedly classified
 - [Nikola Tesla](Nikola_Tesla.md) — Inventor whose research materials were seized by the government after death

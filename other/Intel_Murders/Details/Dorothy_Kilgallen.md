@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Dorothy Kilgallen
 Prominent journalist and television personality found dead of barbiturate overdose in 1965 after privately interviewing Jack Ruby and aggressively investigating the JFK assassination.
@@ -59,6 +59,8 @@ After the JFK assassination in November 1963, Kilgallen became one of the few ma
 
 - [Danny Casolaro](Danny_Casolaro.md) — another investigator whose files vanished after death
 - [Gary Webb](Gary_Webb.md) — journalist who died while investigating intelligence connections
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

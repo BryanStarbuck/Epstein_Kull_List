@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Paul Klebnikov
 American journalist and founding editor of Forbes Russia, shot dead outside his Moscow office in a contract killing.
@@ -65,6 +65,8 @@ His work systematically documented the merger of Russian business, organized cri
 - [Anna Politkovskaya](Anna_Politkovskaya.md) — Journalist murdered in Moscow, 2006
 - [Natalya Estemirova](Natalya_Estemirova.md) — Human rights activist murdered, 2009
 - [Yuri Shchekochikhin](Yuri_Shchekochikhin.md) — Journalist likely poisoned, 2003
+
+- [Boris Berezovsky](Boris_Berezovsky.md) — Russian oligarch whom Klebnikov investigated
 
 ## Sources
 

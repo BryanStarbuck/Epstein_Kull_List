@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Paul Brown
 Nuclear scientist and inventor of the resonant nuclear battery (Nucell) — a radioisotope power system that converted nuclear decay directly into AC electricity without nuclear reaction or radioactive waste — killed in an automobile accident after years of documented harassment including robberies, vandalism, false drug accusations, and a pipe bombing.

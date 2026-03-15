@@ -28,7 +28,7 @@ Jean-Luc Brunel was found hanged with bed sheets in his cell at La Santé prison
 
 ## Background
 
-Brunel was a French modeling agent and scout. He co-founded Karin Models in 1977 and later founded MC2 Model Management in the United States with funding from Jeffrey Epstein. He was a frequent companion of Epstein and was considered key to the French investigation into Epstein's network.
+Brunel was a French modeling agent and scout. He co-founded Karin Models in 1977 and later founded MC2 Model Management in the United States with funding from [Jeffrey Epstein](Jeffrey_Epstein.md). He was a frequent companion of Epstein and was considered key to the French investigation into Epstein's network.
 
 Brunel was detained in December 2020 at Paris Charles de Gaulle airport while attempting to board a flight to Senegal. He faced charges of rape of minors over age 15, sexual harassment, and trafficking minors for sexual exploitation. US court documents alleged he procured girls for Epstein.
 
@@ -54,7 +54,7 @@ Brunel was detained in December 2020 at Paris Charles de Gaulle airport while at
 > — **Brunel's defense attorneys**, in a statement following his death ([NBC News](https://www.nbcnews.com/news/world/modeling-agent-linked-jeffrey-epstein-found-dead-prison-cell-rcna16945))
 
 > "I am disappointed that I was not able to face him in a final trial and hold him accountable for his actions, but gratified that I was able to face him in person last year in Paris, to keep him in prison."
-> — **Virginia Giuffre**, key Epstein accuser who testified against Brunel ([ABC News](https://abcnews.com/International/jeffrey-epstein-associate-jean-luc-brunel-found-dead/story?id=83001807))
+> — **[Virginia Giuffre](Virginia_Giuffre.md)**, key Epstein accuser who testified against Brunel ([ABC News](https://abcnews.com/International/jeffrey-epstein-associate-jean-luc-brunel-found-dead/story?id=83001807))
 
 ## Related Groups
 

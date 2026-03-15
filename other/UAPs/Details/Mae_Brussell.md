@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Mae Brussell
 Pioneering conspiracy researcher and radio host who died of fast-acting cancer in 1988, seven months after receiving death threats while investigating the Presidio military base child abuse scandal.

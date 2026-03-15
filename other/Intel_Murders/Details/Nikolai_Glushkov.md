@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Nikolai Glushkov
 Russian exile and Kremlin critic found strangled in his London home, one week after the Skripal poisoning.

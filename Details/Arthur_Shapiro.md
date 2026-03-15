@@ -16,7 +16,7 @@ Lawyer gunned down in unsolved murder; Epstein took his position weeks later.
 
 ## Assessment: HIGHLY SUSPICIOUS — CONFIRMED HOMICIDE
 
-This is the only confirmed murder on the list. Shapiro was gunned down weeks before IRS questioning, and Epstein directly took over his position managing Les Wexner's fortune afterward. The prime suspect (Berry Kessler) was a documented murder-for-hire organizer with a possible FBI-documented link to Epstein. The murder remains unsolved.
+This is the only confirmed murder on the list. Shapiro was gunned down weeks before IRS questioning, and Epstein directly took over his position managing Les Wexner's fortune afterward. The prime suspect ([Berry Kessler](Berry_Kessler.md)) was a documented murder-for-hire organizer with a possible FBI-documented link to Epstein. The murder remains unsolved.
 
 ## Circumstances of Death
 
@@ -24,7 +24,7 @@ Arthur Shapiro was shot and killed in March 1985. His murder has never been solv
 
 ## Background
 
-Shapiro was a lawyer who served as [Epstein](Jeffrey_Epstein.md)'s predecessor at L Brands, managing the finances of billionaire Les Wexner. After Shapiro's death, Jeffrey Epstein took over managing Wexner's finances — a position that gave Epstein access to enormous wealth and became the foundation of his power.
+Shapiro was a lawyer who served as [Epstein](Jeffrey_Epstein.md)'s predecessor at L Brands, managing the finances of billionaire Les Wexner. After Shapiro's death, [Jeffrey Epstein](Jeffrey_Epstein.md) took over managing Wexner's finances — a position that gave Epstein access to enormous wealth and became the foundation of his power.
 
 At the time of his murder, Shapiro was expected to be questioned by the IRS about illegal tax shelters within weeks.
 
@@ -46,7 +46,7 @@ The prime suspect in the Shapiro murder was [Berry L. Kessler](Berry_Kessler.md)
 > — **The Daily Beast**, describing the murder scene ([The Daily Beast](https://www.thedailybeast.com/who-murdered-arthur-shapiro-the-lawyer-of-victorias-secret-billionaire-les-wexner/))
 
 > "The reality is that you, in a most cold and calculated fashion, plotted and carried out a contract-style murder. You are, in fact, a clever, cunning and merciless killer."
-> — **Judge William Webb**, sentencing Berry Kessler to death for the murder of John Deroo — the same suspect in Shapiro's unsolved murder ([Tampa Bay Times](https://www.tampabay.com/archive/1997/02/20/75-year-old-is-sentenced-to-death-for-murder-plot/))
+> — **Judge William Webb**, sentencing Berry Kessler to death for the murder of [John Deroo](John_Deroo.md) — the same suspect in Shapiro's unsolved murder ([Tampa Bay Times](https://www.tampabay.com/archive/1997/02/20/75-year-old-is-sentenced-to-death-for-murder-plot/))
 
 > "Shapiro's name appeared decades later in an FBI file involving the activities of another man important to Wexner's business: the pedophile financier Jeffrey Epstein."
 > — **The Daily Beast**, on the Epstein connection ([The Daily Beast](https://www.thedailybeast.com/who-murdered-arthur-shapiro-the-lawyer-of-victorias-secret-billionaire-les-wexner/))

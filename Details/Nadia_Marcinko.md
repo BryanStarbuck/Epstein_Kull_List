@@ -17,7 +17,7 @@ Nadia Marcinko (formerly known as Nada Marcinkova) was reportedly trafficked by 
 
 ## Background
 
-Marcinko was born in Slovakia and was allegedly brought to the United States by Epstein as a teenager. Virginia Giuffre and other accusers identified her as both a victim and a participant in Epstein's abuse network. She was named in multiple court filings and depositions.
+Marcinko was born in Slovakia and was allegedly brought to the United States by Epstein as a teenager. [Virginia Giuffre](Virginia_Giuffre.md) and other accusers identified her as both a victim and a participant in Epstein's abuse network. She was named in multiple court filings and depositions.
 
 After Epstein's 2008 plea deal, she reinvented herself as an aviation entrepreneur, founding Aviloop, an aviation website, and working as a certified flight instructor. She became a licensed pilot in 2012 and flew Epstein's aircraft as part of his pilot team, alongside chief pilot Larry Visoski and David Rodgers.
 

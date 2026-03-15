@@ -28,7 +28,7 @@ On July 19, 2020, a gunman dressed as a FedEx driver arrived at the home of U.S.
 - [Deutsche Bank](../groups/deutsche_bank.md) — Judge Salas was assigned a Deutsche Bank/Epstein case
 - [Kroll Associates](../groups/kroll_associates.md) — Den Hollander worked at Kroll's Moscow office; Kroll had Deutsche Bank ties
 - [Jeffrey Epstein Network](../groups/jeffrey_epstein_network.md)
-- [CIA](../groups/cia.md) — Kroll Associates ("the CIA of Wall Street")
+- [CIA](../groups/cia.md) — [Kroll Associates](../groups/kroll_associates.md) ("the CIA of Wall Street")
 
 ## Sources
 

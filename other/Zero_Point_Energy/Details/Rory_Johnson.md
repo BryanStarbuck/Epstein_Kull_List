@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Rory Johnson
 Inventor of the Magnatron permanent magnet motor — a cold-fusion laser-activated magnetic motor reportedly producing 525 horsepower while weighing only 475 pounds — who had a contract with Greyhound Bus Lines before the U.S. Department of Energy issued gag and seizure orders on his work. Died mysteriously after relocating from Illinois to California.

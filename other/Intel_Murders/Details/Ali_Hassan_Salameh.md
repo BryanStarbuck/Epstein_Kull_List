@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Ali Hassan Salameh
 PLO intelligence chief and Black September operations commander killed by a Mossad car bomb in Beirut in 1979, as the final target of Operation Wrath of God. He was simultaneously serving as a CIA asset and back-channel to the PLO.
@@ -57,6 +57,9 @@ Salameh was the son of Sheikh Hassan Salameh, a Palestinian nationalist leader k
 - [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md) — Hamas commander killed by Mossad in Dubai (2010)
 - [Fathi Shaqaqi](Fathi_Shaqaqi.md) — Palestinian Islamic Jihad leader assassinated by Mossad in Malta (1995)
 - [Gerald Bull](Gerald_Bull.md) — Weapons designer killed in operation widely attributed to Mossad (1990)
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
 
 ## Sources
 

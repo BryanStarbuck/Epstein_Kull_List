@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Boyd Bushman
 Lockheed Martin senior scientist with a 40-year career in defense aerospace, holder of 26 patents, who recorded a deathbed video in 2014 claiming he had direct contact with aliens and reverse-engineered technology at Area 51.

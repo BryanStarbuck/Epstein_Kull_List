@@ -40,9 +40,9 @@ At the DNC, Rich served as the Voter Expansion Data Director, a position focused
 
 ### Epstein Connection — Tangential at Best
 
-Seth Rich has no known direct connection to Jeffrey Epstein, his trafficking operation, or any of the individuals in Epstein's network. The connection to this project is tangential, running through several broad threads:
+Seth Rich has no known direct connection to [Jeffrey Epstein](Jeffrey_Epstein.md), his trafficking operation, or any of the individuals in Epstein's network. The connection to this project is tangential, running through several broad threads:
 
-- **DNC/political circles:** Rich worked for the DNC, and several individuals with Epstein connections operated in Democratic political circles (Bill Clinton, Bill Richardson, etc.). However, Rich was a mid-level data staffer with no known contact with any Epstein-linked figures.
+- **DNC/political circles:** Rich worked for the DNC, and several individuals with Epstein connections operated in Democratic political circles (Bill Clinton, [Bill Richardson](Bill_Richardson.md), etc.). However, Rich was a mid-level data staffer with no known contact with any Epstein-linked figures.
 - **Washington, DC pattern:** Rich's death fits the broader pattern documented in this project of political operatives, whistleblowers, and investigators dying in the Washington, DC area. The DC area has been the site of multiple overlapping blackmail and trafficking operations spanning decades — [Craig Spence's operation](../other/groups/craig_spence.md), the [Henry Vinson Escort Service](../other/groups/henry_vinson_escort_service.md), the [DC Madam](../other/groups/dc_madam.md), and others.
 - **"Clinton body count" overlap:** Rich's death became part of the so-called "Clinton body count" conspiracy theory, which overlaps with some Epstein-connected deaths like [Vince Foster](Vince_Foster.md) and [Mark Middleton](Mark_Middleton.md). However, there is no verified evidence connecting Rich's death to any Clinton-related cover-up.
 - **WikiLeaks/political information:** The conspiracy theory that Rich leaked DNC emails to WikiLeaks places him in a narrative about political information and cover-ups, but this theory has been contradicted by the Mueller investigation and intelligence community findings.

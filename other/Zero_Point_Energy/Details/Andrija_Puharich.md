@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Andrija Puharich
 Medical inventor, physician, and parapsychological researcher who patented a method for splitting water molecules. His home was destroyed by arson in 1979, and he died in 1995 after falling down a flight of stairs.

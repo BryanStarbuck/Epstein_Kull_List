@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Olavo T. Fontes
 Brazilian UFO researcher and physician who investigated some of the most significant South American UFO cases, dead of aggressive cancer at 32.

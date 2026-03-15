@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Rafael Trujillo
 Dominican Republic dictator assassinated in 1961 by conspirators using CIA-supplied weapons, ambushed in his car on the highway to San Cristobal.
@@ -57,6 +57,8 @@ Trujillo ruled the Dominican Republic from 1930 until his death, establishing on
 - [Ngo Dinh Diem](Ngo_Dinh_Diem.md) — South Vietnamese president killed in CIA-backed coup (1963)
 - [Rene Schneider](Rene_Schneider.md) — Chilean general killed in CIA-backed operation (1970)
 - [Salvador Allende](Salvador_Allende.md) — Chilean president overthrown in CIA-backed coup (1973)
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

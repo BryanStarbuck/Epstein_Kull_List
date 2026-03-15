@@ -13,7 +13,7 @@ USVI Attorney General fired days after suing JPMorgan over Epstein; told FBI she
 
 ## Assessment: LIVING PERSON AT RISK
 
-Denise George was the Attorney General of the U.S. Virgin Islands who aggressively pursued legal action against Jeffrey Epstein's estate and JPMorgan Chase. She was fired by Governor Albert Bryan Jr. just four days after filing a landmark lawsuit against JPMorgan Chase accusing the bank of facilitating Epstein's sex trafficking operation. She has told the FBI she felt threatened after pursuing civil action against Epstein's estate.
+Denise George was the Attorney General of the U.S. Virgin Islands who aggressively pursued legal action against [Jeffrey Epstein](Jeffrey_Epstein.md)'s estate and JPMorgan Chase. She was fired by Governor Albert Bryan Jr. just four days after filing a landmark lawsuit against JPMorgan Chase accusing the bank of facilitating Epstein's sex trafficking operation. She has told the FBI she felt threatened after pursuing civil action against Epstein's estate.
 
 ## Background
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Victor Jara
 Chilean folk singer, poet, theater director, and political activist, tortured and murdered by Chilean military forces during the 1973 Pinochet coup. His hands were crushed and he was shot 44 times in Chile Stadium — a killing that became one of the most infamous atrocities of the Chilean dictatorship.
@@ -56,6 +56,8 @@ Jara was one of Chile's most beloved folk musicians and a leading figure in the 
 - [Frank Teruggi](Frank_Teruggi.md) — American student executed during the Chilean coup
 - [Carlos Prats](Carlos_Prats.md) — Chilean general assassinated by DINA after the coup
 - [Orlando Letelier](Orlando_Letelier.md) — Chilean diplomat assassinated by DINA
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

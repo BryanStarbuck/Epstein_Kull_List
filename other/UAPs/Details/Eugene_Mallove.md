@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Eugene Mallove
 Cold fusion advocate, science writer, and editor of Infinite Energy magazine who was beaten to death in 2004 while cleaning a rental property; his murder was eventually linked to a robbery rather than his research.
@@ -45,6 +45,7 @@ At the time of his death, Mallove was one of the most vocal and credentialed adv
 
 ## See Also
 
+- [Eugene Mallove (Zero Point Energy)](../../Zero_Point_Energy/Details/Eugene_Mallove.md) — This case also appears in the Zero Point Energy project
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Arie DeGeus](Arie_DeGeus.md) — Free energy inventor found dead at airport
 - [Amy Eskridge](Amy_Eskridge.md) — Antigravity researcher found dead from gunshot wound

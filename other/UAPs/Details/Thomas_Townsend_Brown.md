@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Thomas Townsend Brown
 American inventor and physicist who pioneered electrogravitics research and the Biefeld-Brown effect; died of natural causes in 1985 after decades of semi-retirement.
@@ -44,6 +44,7 @@ For most of his later life, Brown lived in semi-retirement in California, contin
 
 ## See Also
 
+- [Thomas Townsend Brown (Zero Point Energy)](../../Zero_Point_Energy/Details/Thomas_Townsend_Brown.md) — This case also appears in the Zero Point Energy project
 - [Nikola Tesla](Nikola_Tesla.md) — Pioneer of electromagnetic technology whose papers were seized after death
 - [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died before scheduled testing
 - [Floyd Sweet](Floyd_Sweet.md) — Free energy inventor whose research materials were confiscated after death

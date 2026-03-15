@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Jaime Roldos
 President of Ecuador killed in a plane crash in 1981, just hours after delivering a speech asserting Latin American independence from U.S. policy. His death came two months before Panamanian leader Omar Torrijos died in a nearly identical plane crash. John Perkins alleged CIA involvement in both deaths.
@@ -59,6 +59,10 @@ Jaime Roldos was elected president of Ecuador in 1979, becoming the country's fi
 - [Patrice Lumumba](Patrice_Lumumba.md) — Congolese leader assassinated with CIA and Belgian involvement
 - [Oscar Romero](Oscar_Romero.md) — Archbishop killed by US-backed death squads in El Salvador in 1980
 - [Dag Hammarskjold](Dag_Hammarskjold.md) — UN Secretary-General killed in suspicious 1961 plane crash
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+
+- [Omar Torrijos](Omar_Torrijos.md) — Panamanian leader who died the same way two months later
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Fidan Doğan
 Kurdish activist and representative of the Kurdistan National Congress in France, shot execution-style in Paris in January 2013 alongside two other Kurdish women. French investigators concluded Turkish intelligence (MIT) was involved.

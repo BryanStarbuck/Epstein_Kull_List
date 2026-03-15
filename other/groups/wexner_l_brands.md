@@ -54,6 +54,14 @@ The Wexner connection is foundational to the Epstein operation:
 - Epstein's takeover of Shapiro's role — after Shapiro's murder — raises questions about whether the killing was connected to Epstein's rise
 - FBI documents reference a possible link between Kessler (Shapiro murder suspect) and Epstein
 
+## Connection to Other Groups
+
+* [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Wexner was the financial foundation of Epstein's power
+* [CIA](cia.md) — Southern Air Transport (CIA-owned 1960–1973) relocated to Columbus, Ohio and shipped Wexner's L Brands products
+* [Mossad](mossad.md) — Mega Group (co-founded by Wexner) alleged to have Mossad connections
+* [Deutsche Bank](deutsche_bank.md) — Epstein's bank after JPMorgan; financial nexus
+* [JPMorgan Chase](jpmorgan_chase.md) — Epstein's bank before Deutsche Bank
+
 ## Notable Books and Investigations
 
 * *Filthy Rich* — James Patterson (2016) — Covers the Wexner-Epstein financial relationship

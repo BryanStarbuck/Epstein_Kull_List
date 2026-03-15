@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Peter Ferry
 60-year-old retired Army Brigadier and Marconi assistant marketing director found electrocuted with stripped electrical leads jammed into his tooth fillings — a method virtually impossible as suicide. Died the same month as [Alistair Beckham](Alistair_Beckham.md)'s electrocution.
@@ -42,6 +42,7 @@ As a marketing director, Ferry would have had detailed knowledge of Marconi's de
 
 ## See Also
 
+- [Peter Ferry (Zero Point Energy)](../../Zero_Point_Energy/Details/Peter_Ferry.md) — This case also appears in the Zero Point Energy project
 - [Alistair Beckham](Alistair_Beckham.md) — Plessey SDI engineer, electrocuted with wires to chest, August 1988
 - [Trevor Knight](Trevor_Knight.md) — Marconi computer engineer, CO poisoning March 1988
 - [Andrew Hall](Andrew_Hall.md) — British Aerospace engineer, CO poisoning September 1988

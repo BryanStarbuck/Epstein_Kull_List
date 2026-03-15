@@ -27,7 +27,7 @@ Judge Alice Gray's decision to seal Mark Middleton's death records is one of the
 - Bill Clinton served as Arkansas Governor (1979–1981, 1983–1992)
 - Clinton's presidential campaign and political network were rooted in Arkansas
 - Mark Middleton served as a Clinton aide and authorized Epstein's White House visits
-- [Vince Foster](../../Details/Vince_Foster.md) — another Clinton associate who died suspiciously — was from Hope, Arkansas (Clinton's hometown)
+- [Vince Foster](../../Details/Vince_Foster.md) — another Clinton associate who died suspiciously — was from Hope, Arkansas (Clinton's hometown). See also [Washington DC](washington_dc.md) where he was found dead.
 
 ## Related Groups
 

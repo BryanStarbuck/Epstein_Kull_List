@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Stanley Meyer
 Inventor of a "water fuel cell" who claimed his car could run on water, died suddenly at a restaurant in Grove City, Ohio after telling companions "They poisoned me."

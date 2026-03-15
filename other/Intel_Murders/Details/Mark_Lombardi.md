@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Mark Lombardi
 Neo-conceptual artist whose intricate diagrams mapped BCCI, Iran-Contra, and intelligence financial networks, found hanged in his New York apartment in 2000. FBI visited the Whitney Museum after 9/11 to study his work.
@@ -58,6 +58,8 @@ His drawings documented the Bank of Credit and Commerce International (BCCI), th
 
 - [Danny Casolaro](Danny_Casolaro.md) — investigated overlapping intelligence financial networks (BCCI, PROMIS)
 - [Roberto Calvi](Roberto_Calvi.md) — banker connected to intelligence-linked financial networks
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

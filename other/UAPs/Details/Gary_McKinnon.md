@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Gary McKinnon
 Scottish systems administrator who hacked into 97 U.S. military and NASA computers searching for evidence of UFO cover-ups, found references to "non-terrestrial officers," and faced 70 years in prison before the UK blocked his extradition on human rights grounds.

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Karen Silkwood
 Nuclear industry whistleblower killed in a car crash while driving to meet a New York Times reporter with documents proving safety violations at a plutonium processing plant.

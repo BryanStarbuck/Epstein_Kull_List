@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Omar Torrijos
 Panamanian military leader and de facto head of state, killed in a plane crash in 1981 under circumstances that former CIA operatives and whistleblowers have alleged involved CIA sabotage.
@@ -58,6 +58,10 @@ Torrijos was the sixth of twelve children born to two schoolteachers. He joined 
 - [Patrice Lumumba](Patrice_Lumumba.md) — Another foreign leader allegedly killed with CIA involvement
 - [Salvador Allende](Salvador_Allende.md) — Chilean president overthrown with CIA support
 - [Dag Hammarskjold](Dag_Hammarskjold.md) — UN Secretary-General killed in a suspicious plane crash
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+
+- [Jaime Roldos](Jaime_Roldos.md) — Ecuadorian president who died the same way two months earlier
 
 ## Sources
 

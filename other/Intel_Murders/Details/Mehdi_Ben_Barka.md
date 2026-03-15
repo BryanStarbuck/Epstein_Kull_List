@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Mehdi Ben Barka
 Moroccan opposition leader kidnapped in Paris in 1965 by French police in collaboration with Moroccan and Israeli intelligence, then murdered. His body has never been found.
@@ -58,6 +58,8 @@ Ben Barka was a Moroccan mathematician, politician, and revolutionary who became
 - [Ali Hassan Salameh](Ali_Hassan_Salameh.md) — Another case involving Mossad operations with allied intelligence services
 - [Jamal Khashoggi](Jamal_Khashoggi.md) — Journalist killed in a foreign consulate, body reportedly dismembered and dissolved (2018)
 - [Patrice Lumumba](Patrice_Lumumba.md) — African political leader assassinated with multiple intelligence services involved (1961)
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Bruce DePalma
 American inventor of the N-Machine homopolar generator — which he claimed demonstrated over-unity energy output — who moved to New Zealand after "a lifetime of resistance" in the US and died weeks before official testing of his device was to take place.

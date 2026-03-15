@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Zelimkhan Yandarbiyev
 Former president of the Chechen Republic of Ichkeria, assassinated by a car bomb in Doha, Qatar in 2004 — one of the few confirmed cases where Russian military intelligence (GRU) agents were caught, tried, and convicted of an extraterritorial assassination.

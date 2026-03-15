@@ -47,7 +47,7 @@ The "dead man's switch" video she left behind is frequently cited as evidence th
 >
 > — S.B. Alger (RX Only Picture Show co-host), [on learning of Twyman's death](https://burners.me/2019/07/10/another-pedogate-researcher-suddenly-dies-rip-tracy-twyman/) (July 2019)
 
-> "She sent a 'Dead Man's Switch' video with information about people who had been sending her death threats... She had been in communication with Isaac Kappy about threats she had received related to a campground near Williams, Arizona."
+> "She sent a 'Dead Man's Switch' video with information about people who had been sending her death threats... She had been in communication with [Isaac Kappy](Isaac_Kappy.md) about threats she had received related to a campground near Williams, Arizona."
 >
 > — [Burners.me: Another #PedoGate Researcher Suddenly Dies: RIP Tracy Twyman](https://burners.me/2019/07/10/another-pedogate-researcher-suddenly-dies-rip-tracy-twyman/) (July 10, 2019)
 

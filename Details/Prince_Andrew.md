@@ -24,9 +24,9 @@ Andrew is the younger brother of King Charles III. He served as the UK's Special
 
 Andrew's relationship with Epstein spanned years. Key points:
 
-- Virginia Giuffre alleged she was trafficked to the UK to have sex with Andrew in 2001 when she was 17
+- [Virginia Giuffre](Virginia_Giuffre.md) alleged she was trafficked to the UK to have sex with Andrew in 2001 when she was 17
 - Andrew settled Giuffre's civil lawsuit in February 2022 for a reported $12 million
-- Photographed with Giuffre at Ghislaine Maxwell's London residence
+- Photographed with Giuffre at [Ghislaine Maxwell](Ghislaine_Maxwell.md)'s London residence
 - Visited Epstein's Manhattan mansion, Palm Beach estate, and Little St. James island
 - Continued association with Epstein after his 2008 conviction, including a 2010 visit to Epstein's New York home
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Frank Edwards
 News commentator and UFO author who died on the 20th anniversary of the Kenneth Arnold sighting, after threats predicted his death at a UFO congress.

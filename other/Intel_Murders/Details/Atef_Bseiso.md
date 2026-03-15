@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Atef Bseiso
 PLO intelligence chief and liaison with Western intelligence agencies, shot dead in Paris in 1992 as part of Operation Wrath of God.
@@ -54,7 +54,9 @@ Atef Bseiso was a rising star within the PLO hierarchy by the early 1990s. He se
 - [Ali Hassan Salameh](Ali_Hassan_Salameh.md) — PLO security chief killed by Mossad car bomb, Beirut 1979
 - [Hussein al-Bashir](Hussein_al_Bashir.md) — Fatah representative killed by Mossad bomb, Cyprus 1973
 - [Abu Jihad](Abu_Jihad.md) — PLO co-founder killed by Israeli commandos, Tunis 1988
-- [Zuheir Mohsen](Zuheir_Mohsen.md) — PLO/as-Sa'iqa leader shot in Cannes, 1979
+- Zuheir Mohsen — PLO/as-Sa'iqa leader shot in Cannes, 1979
+
+- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
 
 ## Sources
 

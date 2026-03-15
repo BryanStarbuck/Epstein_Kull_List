@@ -87,6 +87,15 @@ While there is no direct link to Epstein, the Bosnia trafficking scandal demonst
 * The **DynCorp-Afghanistan repeat** proves the system learned nothing and had no accountability mechanism
 * Bolkovac's case is one of the most documented examples of **institutional protection of trafficking** by Western governments and international organizations
 
+## Related Groups
+
+- [CIA](cia.md) — DynCorp was a major CIA/military contractor; the contractor/UN immunity structure parallels intelligence community protection
+- [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Structural parallels: elite perpetrators, institutional cover-up, whistleblower retaliation, minors as victims
+
+## Related Locations
+
+- [Other International](../locations/other_international.md) — Bosnia-Herzegovina operations
+
 ## Sources
 
 - [Wikipedia: Kathryn Bolkovac](https://en.wikipedia.org/wiki/Kathryn_Bolkovac)

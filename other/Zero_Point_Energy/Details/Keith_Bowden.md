@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Keith Bowden
 Senior computer scientist and GEC-Marconi contractor, killed when his car crossed a dual carriageway and plunged off a bridge into an abandoned rail yard.

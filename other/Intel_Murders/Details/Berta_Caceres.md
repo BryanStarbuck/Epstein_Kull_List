@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Berta Caceres
 Honduran indigenous Lenca leader and environmental activist assassinated in her home in 2016. A US-trained military intelligence officer was convicted of orchestrating her murder. She had been a prominent critic of the US-backed 2009 Honduran coup.
@@ -58,6 +58,8 @@ Berta Caceres was a co-founder and coordinator of the Civic Council of Popular a
 - [Oscar Romero](Oscar_Romero.md) — Archbishop assassinated by US-backed death squads in El Salvador
 - [Enrique Camarena](Enrique_Camarena.md) — DEA agent murdered with alleged CIA complicity in Latin America
 - [Jaime Roldos](Jaime_Roldos.md) — Ecuadorian president killed in suspicious plane crash
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

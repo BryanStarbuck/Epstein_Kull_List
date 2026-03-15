@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Leonid Shulman
 Head of Gazprom's transport service, found dead with stab wounds to his wrists in his country house bathroom in January 2022 — the first in a wave of suspicious Russian energy executive deaths that year.
@@ -60,7 +60,7 @@ Shulman's death occurred less than a month before Russia's full-scale invasion o
 - [Alexander Tyulakov](Alexander_Tyulakov.md) — Gazprom director, found dead February 2022
 - [Ravil Maganov](Ravil_Maganov.md) — Lukoil chairman, fell from hospital window September 2022
 - [Sergei Protosenya](Sergei_Protosenya.md) — Former Novatek head, found dead in Spain April 2022
-- [Alexander Subbotin](Alexander_Subbotin.md) — Former Lukoil board member, found dead May 2022
+- Alexander Subbotin — Former Lukoil board member, found dead May 2022
 
 ## Sources
 

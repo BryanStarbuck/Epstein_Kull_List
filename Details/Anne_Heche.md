@@ -51,7 +51,7 @@ Anne Heche's death in August 2022 occurred during a year with multiple Epstein-c
 > "He raped me, he stuck his dick in my mouth, he fondled me, he put me on all fours, and had sex with me."
 > — Anne Heche describing her father's abuse, interview with Barbara Walters (2001), via [ABC News](https://abcnews.go.com/2020/story?id=124037&page=1)
 
-> "We found no evidence to support the claim that she was murdered, much less because she was working on a movie about sex offender Jeffrey Epstein's crimes."
+> "We found no evidence to support the claim that she was murdered, much less because she was working on a movie about sex offender [Jeffrey Epstein](Jeffrey_Epstein.md)'s crimes."
 > — [PolitiFact fact-check](https://www.politifact.com/factchecks/2022/aug/16/instagram-posts/no-anne-heche-wasnt-murdered-because-she-was-worki/) on viral claims linking her death to the trafficking film
 
 > "She knew too much!!!"

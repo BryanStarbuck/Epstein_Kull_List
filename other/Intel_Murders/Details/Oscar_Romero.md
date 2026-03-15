@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Oscar Romero
 Archbishop of San Salvador assassinated while celebrating Mass in 1980, one day after publicly ordering Salvadoran soldiers to stop killing civilians. The UN Truth Commission confirmed the killing was ordered by death squad leader Roberto D'Aubuisson, who was trained at the U.S. School of the Americas.
@@ -58,6 +58,8 @@ Oscar Romero was ordained as a priest in 1942 and appointed Archbishop of San Sa
 - [Berta Caceres](Berta_Caceres.md) — Honduran activist murdered with involvement of US-trained military intelligence
 - [Enrique Camarena](Enrique_Camarena.md) — DEA agent murdered with alleged CIA complicity in Latin America
 - [Jaime Roldos](Jaime_Roldos.md) — Ecuadorian president killed in suspicious plane crash in 1981
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

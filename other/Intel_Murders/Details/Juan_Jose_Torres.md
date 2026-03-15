@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Juan José Torres
 Former president of Bolivia, assassinated in Buenos Aires in 1976 as part of the US-backed Operation Condor campaign of cross-border political killings.
@@ -53,6 +53,8 @@ Torres served as the 50th president of Bolivia from October 1970 to August 1971.
 - [Héctor Gutiérrez Ruiz](Hector_Gutierrez_Ruiz.md) — Uruguayan legislator murdered alongside Michelini
 - [Carlos Prats](Carlos_Prats.md) — Chilean general assassinated by DINA in Buenos Aires, 1974
 - [Orlando Letelier](Orlando_Letelier.md) — Chilean diplomat killed by DINA car bomb in Washington DC, 1976
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

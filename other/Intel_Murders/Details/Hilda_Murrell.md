@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Hilda Murrell
 78-year-old British anti-nuclear campaigner, rose grower, and former SOE-connected figure, kidnapped from her Shrewsbury home in 1984, beaten, stabbed, and left to die of hypothermia in a field — days before her scheduled testimony at the Sizewell B nuclear inquiry.

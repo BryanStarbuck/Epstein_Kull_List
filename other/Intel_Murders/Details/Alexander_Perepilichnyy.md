@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Alexander Perepilichnyy
 Russian whistleblower who helped expose the $230 million Russian treasury fraud at the heart of the Magnitsky case, collapsed and died while jogging in Surrey, England in 2012. Traces of the rare poison Gelsemium were initially found in his stomach, though a bungled police investigation left the case unresolved.

@@ -34,7 +34,7 @@ However, Kappy had no known history of suicidal ideation prior to the final note
 ## Related Deaths
 - [Tracy Twyman](Tracy_Twyman.md) — continued Kappy's research, found hanged July 2019
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — arrested July 2019, found dead August 2019
-- [Nikolai Mushegian](Nikolai_Mushegian.md) — tweeted about CIA/Mossad trafficking ring, drowned hours later (2022)
+- [Nikolai Mushegian](Nikolai_Mushegian.md) — tweeted about [CIA](../other/groups/cia.md)/[Mossad](../other/groups/mossad.md) trafficking ring, drowned hours later (2022)
 
 ## Key Quotes from Media Coverage
 

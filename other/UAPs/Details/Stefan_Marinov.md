@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Stefan Marinov
 Bulgarian physicist who fell to his death from a university library staircase in Graz, Austria in 1997 while researching antigravity and free energy devices, officially ruled a suicide.
@@ -62,6 +62,7 @@ Marinov was survived by his son, Marin Marinov, who at the time of his father's 
 
 ## See Also
 
+- [Stefan Marinov (Zero Point Energy)](../../Zero_Point_Energy/Details/Stefan_Marinov.md) — This case also appears in the Zero Point Energy project
 - [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died before scheduled testing in New Zealand
 - [Floyd Sweet](Floyd_Sweet.md) — Free energy inventor who received death threats and died under suspicious circumstances
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004

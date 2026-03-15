@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Jim Keith
 Conspiracy author known for *Black Helicopters Over America* and *The Octopus* who died from a blood clot following knee surgery after a fall at the Burning Man festival in 1999.

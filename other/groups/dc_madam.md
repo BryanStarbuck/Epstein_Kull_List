@@ -63,7 +63,8 @@ Washington DC has been the site of multiple elite sex operations with potential 
 - **[Craig Spence](craig_spence.md)** — DC lobbyist who organized midnight White House tours with male prostitutes (1989)
 - **[Henry Vinson Escort Service](henry_vinson_escort_service.md)** — Largest gay escort service in DC; supplied escorts to Spence; clients allegedly included CIA Director Casey (1986–1989)
 - **[Franklin scandal](franklin_scandal.md)** — Alleged trafficking of minors to DC parties (1980s)
-- **The Epstein network** — Multiple DC-area victims and contacts
+- **[2023 DC Brothel Network](2023_dc_brothel_network.md)** — Modern operation near Boston and DC suburbs; Palfrey's former lawyer publicly compared the two cases
+- **The [Epstein network](jeffrey_epstein_network.md)** — Multiple DC-area victims and contacts
 
 ## Notable Books, Documentaries, and Investigations
 

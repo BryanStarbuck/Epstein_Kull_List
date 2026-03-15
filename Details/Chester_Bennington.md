@@ -38,7 +38,7 @@ The connection to the documentary has been debunked by fact-checkers and the doc
 ## Key Quotes from Media Coverage
 
 > "I can't imagine a world without you in it. I pray you find peace in the next life."
-> -- Chester Bennington, in his open letter to Chris Cornell after Cornell's death, [Entertainment Tonight: Read Chester Bennington's Heartbreaking Letter to Chris Cornell](https://www.etonline.com/music/222104_read_chester_bennington_heartbreaking_letter_to_chris_cornell)
+> -- Chester Bennington, in his open letter to [Chris Cornell](Chris_Cornell.md) after Cornell's death, [Entertainment Tonight: Read Chester Bennington's Heartbreaking Letter to Chris Cornell](https://www.etonline.com/music/222104_read_chester_bennington_heartbreaking_letter_to_chris_cornell)
 
 > "One week ago, I lost my soulmate and my children lost their hero -- their Daddy. We had a fairytale life and now it has turned into some sick Shakespearean tragedy."
 > -- Talinda Bennington, [TMZ: Chester Bennington's Wife Releases Heartfelt Tribute](https://www.tmz.com/2017/07/28/linkin-park-chester-bennington-wife-statement-after-death/)

@@ -35,13 +35,13 @@ Black was a high-powered defense attorney who, along with [Kenneth Starr](Kennet
 
 ## Key Quotes from Media Coverage
 
-> "Jeffrey Epstein Lawyer Roy Black Who Knew Secrets of His Sweetheart Deal Dies"
+> "[Jeffrey Epstein](Jeffrey_Epstein.md) Lawyer Roy Black Who Knew Secrets of His Sweetheart Deal Dies"
 > — Headline from [The Daily Beast](https://www.thedailybeast.com/jeffrey-epstein-lawyer-roy-black-who-knew-secrets-of-his-sweetheart-deal-dies/)
 
 > "Under the deal, federal prosecutors agreed not to pursue sex-trafficking charges in exchange for his pleading guilty to two prostitution charges in state court. Epstein was sentenced to serve just 13 months in the county jail with a work-release stipulation, allowing him to spend 12 hours a day in his Palm Beach, Florida, office."
 > — [WLRN / New York Times obituary](https://www.wlrn.org/south-florida/2025-07-25/roy-black-defense-lawyer-for-william-kennedy-smith-and-epstein-dies-at-80)
 
-> "Black was part of a so-called Dream Team of lawyers representing Epstein; others included Alan Dershowitz and Kenneth Starr."
+> "Black was part of a so-called Dream Team of lawyers representing Epstein; others included Alan Dershowitz and [Kenneth Starr](Kenneth_Starr.md)."
 > — [WLRN / New York Times obituary](https://www.wlrn.org/south-florida/2025-07-25/roy-black-defense-lawyer-for-william-kennedy-smith-and-epstein-dies-at-80)
 
 ## See Also

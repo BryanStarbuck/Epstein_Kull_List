@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Edward J. Ruppelt
 First director of Project Blue Book and the man who coined the term "unidentified flying object," dead of a heart attack at 37.

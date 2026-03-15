@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Artyom Borovik
 Russian investigative journalist and media magnate killed in a plane crash at Sheremetyevo airport in 2000, three days before he was reportedly set to publish damaging materials about Vladimir Putin and the FSB apartment bombings.

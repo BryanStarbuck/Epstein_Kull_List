@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Zelmar Michelini
 Uruguayan senator in exile, kidnapped from his Buenos Aires hotel, tortured, and murdered in May 1976 as part of Operation Condor.
@@ -53,6 +53,8 @@ Michelini served in the Uruguayan Chamber of Deputies from 1954 to 1958 and the 
 - [Juan José Torres](Juan_Jose_Torres.md) — Former Bolivian president killed in Buenos Aires the same month
 - [Orlando Letelier](Orlando_Letelier.md) — Chilean diplomat killed by DINA in Washington DC, 1976
 - [Carlos Prats](Carlos_Prats.md) — Chilean general assassinated by DINA in Buenos Aires, 1974
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

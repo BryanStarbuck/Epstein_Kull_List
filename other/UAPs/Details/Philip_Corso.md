@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Philip J. Corso
 Lt. Colonel, U.S. Army, who served on Eisenhower's National Security Council and headed Foreign Technology at Army R&D, author of *The Day After Roswell* (1997), in which he claimed he oversaw the seeding of recovered alien technology to American defense contractors.

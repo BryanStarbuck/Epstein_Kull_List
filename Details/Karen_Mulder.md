@@ -19,7 +19,7 @@ Karen Mulder was one of the biggest supermodels in the world when she went on Fr
 On October 31, 2001, Mulder appeared on France 2's *Tout le monde en parle* ("Everyone Is Talking About It"), hosted by Thierry Ardisson, in front of a live studio audience. During the taping, she stated that she had been repeatedly raped by:
 
 - **Gérald Marie** — President of Elite Model Management Europe, her employer
-- **Jean-Luc Brunel** — Modeling agent she called a "child hunter" (later charged with trafficking for Epstein; found hanged in prison in 2022)
+- **[Jean-Luc Brunel](Jean_Luc_Brunel.md)** — Modeling agent she called a "child hunter" (later charged with trafficking for Epstein; found hanged in prison in 2022)
 - **Prince Albert II of Monaco**
 - Police officers and politicians she did not fully name
 
@@ -55,9 +55,9 @@ Her career ended after 2001. She has lived in near-total privacy in France since
 
 Mulder named **[Jean-Luc Brunel](Jean_Luc_Brunel.md)** as one of her abusers and called him a "child hunter." Brunel was deeply embedded in the Epstein trafficking operation:
 
-- Brunel founded **MC2 Model Management** with financing from Jeffrey Epstein
-- Ghislaine Maxwell introduced Brunel to Epstein
-- Virginia Giuffre testified that Epstein bragged he had "slept with over 1,000 of Brunel's girls"
+- Brunel founded **MC2 Model Management** with financing from [Jeffrey Epstein](Jeffrey_Epstein.md)
+- [Ghislaine Maxwell](Ghislaine_Maxwell.md) introduced Brunel to Epstein
+- [Virginia Giuffre](Virginia_Giuffre.md) testified that Epstein bragged he had "slept with over 1,000 of Brunel's girls"
 - Giuffre testified that Brunel sent **12-year-old girls from France** to Epstein as a "surprise birthday gift"
 - Brunel was arrested at Charles de Gaulle airport in December 2020, charged with rape, sexual assault, and human trafficking of minors
 - **Brunel was found hanged in his cell at La Santé Prison on February 19, 2022** — mirroring Epstein's death

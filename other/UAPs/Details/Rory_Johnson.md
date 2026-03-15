@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Rory Johnson
 Inventor of the Magnatron cold-fusion laser-activated magnetic motor who died unexpectedly around 1979 after the U.S. Department of Energy placed a gag order on his company and seized his technology; Greyhound Bus Lines had contracted to use his motors.
@@ -47,6 +47,7 @@ The U.S. Department of Energy placed a restraining order -- commonly referred to
 
 ## See Also
 
+- [Rory Johnson (Zero Point Energy)](../../Zero_Point_Energy/Details/Rory_Johnson.md) — This case also appears in the Zero Point Energy project
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Arie DeGeus](Arie_DeGeus.md) — Free energy inventor found dead at airport en route to investors
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004

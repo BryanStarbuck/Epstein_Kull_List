@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Maxim Kuzminov
 Russian military helicopter pilot who defected to Ukraine, found shot dead in Spain six months later.

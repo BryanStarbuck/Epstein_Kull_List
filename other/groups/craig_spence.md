@@ -43,10 +43,10 @@ He reportedly told friends before his death that he was being watched and that h
 The Spence operation is a direct predecessor to the pattern seen in the Epstein case:
 - Both used sex as a tool for political blackmail
 - Both involved wired properties with hidden cameras
-- Both had alleged intelligence connections
+- Both had alleged intelligence connections ([CIA](cia.md), [Mossad](mossad.md))
 - Both operators died under circumstances their associates found suspicious
 - Both involved access to the highest levels of government (White House)
-- Together with the [DC Madam](dc_madam.md), [Henry Vinson Escort Service](henry_vinson_escort_service.md), and [Franklin scandal](franklin_scandal.md), the Spence case shows decades of politically compromising sex operations in Washington DC
+- Together with the [DC Madam](dc_madam.md) ([Deborah Jeane Palfrey](../../Details/Deborah_Jeane_Palfrey.md)), [Henry Vinson Escort Service](henry_vinson_escort_service.md), and [Franklin scandal](franklin_scandal.md), the Spence case shows decades of politically compromising sex operations in Washington DC
 
 ## Notable Books, Documentaries, and Investigations
 

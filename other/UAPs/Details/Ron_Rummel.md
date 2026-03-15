@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Ron Rummel
 Ex-Air Force intelligence agent and publisher of *Alien Digest*, found dead of a gunshot wound in a Portland park in 1993 with significant forensic anomalies pointing away from suicide.

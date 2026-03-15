@@ -35,7 +35,7 @@ On August 13, 2018:
 
 - Moore was a former California police officer who became an independent YouTube journalist under the name "Task Force"
 - In the months before her death, she was actively investigating trafficking claims in the D.C. area
-- She attended events related to the Seth Rich case and filmed at Comet Ping Pong
+- She attended events related to the [Seth Rich](Seth_Rich.md) case and filmed at Comet Ping Pong
 - Her work existed in the overlap between legitimate trafficking investigation and conspiracy theory communities
 
 ## Controversy
@@ -71,7 +71,7 @@ Police found nothing suspicious and the apparent cause was a seizure. However, t
 - [Isaac Kappy](Isaac_Kappy.md)
 - [Tracy Twyman](Tracy_Twyman.md)
 - [Max Spiers](Max_Spiers.md)
-- [Nikolai Mushegian](Nikolai_Mushegian.md) — tweeted about CIA/Mossad trafficking ring, drowned hours later (2022)
+- [Nikolai Mushegian](Nikolai_Mushegian.md) — tweeted about [CIA](../other/groups/cia.md)/[Mossad](../other/groups/mossad.md) trafficking ring, drowned hours later (2022)
 
 ## Sources
 

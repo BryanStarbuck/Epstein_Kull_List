@@ -24,7 +24,7 @@ The investigation was systematically shut down: the lead investigator's plane di
 - **Aaron Owen** — 17-year-old brother of accuser Alisha Owen. Found hanged in his cell at Lincoln Correctional Center shortly before her perjury trial (November 1990). Ruled suicide despite reported indications of beating.
 - **Troy Boner** — Victim who recanted under pressure. Walked into a New Mexico hospital screaming "they're after me because of this book" (*The Franklin Cover-Up*). Was sedated, placed in a room, and found dead the next morning bleeding from the mouth (late 2003).
 - **Shawn Boner** — Brother of Troy Boner. Died of gunshot wound allegedly playing Russian Roulette at Capehart military housing near Offutt Air Force Base (January 1991).
-- **Kathleen Sorenson** — Original complainant and foster parent. Killed in head-on car collision on Highway 30 (October 1989). Retired FBI agent Ted Gunderson stated she was murdered.
+- **Kathleen Sorenson** — Original complainant and foster parent. Killed in head-on car collision on Highway 30 (October 1989). Retired FBI agent [Ted Gunderson](../../Details/Ted_Gunderson.md) stated she was murdered.
 - **Charlie Rogers** — Employee and purported lover of Larry King. Alleged suicide (1986).
 
 ## Boys Town

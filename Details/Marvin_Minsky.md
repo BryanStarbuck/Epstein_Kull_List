@@ -44,7 +44,7 @@ Minsky's widow, Gloria Rudisch, strongly denied the allegations, saying Minsky w
 > "The most plausible scenario is that [the victim] presented herself to [Minsky] as entirely willing."
 > — Richard Stallman, MIT computer scientist who resigned after making this controversial defense of Minsky, via [The Daily Beast](https://www.thedailybeast.com/richard-stallman-defends-marvin-minsky-epstein-victim-likely-presented-herself-as-willing/)
 
-> "Virginia Giuffre named MIT scientist Marvin Minsky among several others she claimed Epstein and Maxwell instructed her to have sex with."
+> "[Virginia Giuffre](Virginia_Giuffre.md) named MIT scientist Marvin Minsky among several others she claimed Epstein and Maxwell instructed her to have sex with."
 > — [NBC News: Jeffrey Epstein accuser names powerful men in alleged sex trafficking ring](https://www.nbcnews.com/news/us-news/jeffrey-epstein-ordered-teen-girl-have-sex-powerful-men-accuser-n1040996)
 
 ## See Also

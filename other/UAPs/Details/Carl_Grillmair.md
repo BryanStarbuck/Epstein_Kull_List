@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Carl Grillmair
 Caltech/IPAC astrophysicist who studied galaxy collisions and the search for water on exoplanets. Shot and killed on the porch of his home in Llano, California on February 16, 2026, at age 67. Suspect Freddy Snyder, 29, was arrested and charged with murder; he did not know the victim. The killing appears to be a burglary-related homicide. X/social media theorists have alleged a UAP connection, but no evidence supports this.
@@ -51,6 +51,7 @@ However, Grillmair's work was in observational astrophysics — studying galaxy 
 
 ## See Also
 
+- [Carl Grillmair (Zero Point Energy)](../../Zero_Point_Energy/Details/Carl_Grillmair.md) — This case also appears in the Zero Point Energy project
 - [Nuno Loureiro](Nuno_Loureiro.md) — MIT plasma physicist murdered two months earlier, also subject of UAP speculation
 
 ## Sources

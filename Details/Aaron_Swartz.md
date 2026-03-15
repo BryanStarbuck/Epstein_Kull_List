@@ -78,7 +78,7 @@ Between 2002 and 2017, Epstein made 10 separate gifts to MIT totaling $850,000. 
 
 Joi Ito, the Media Lab's director, met Epstein around 2013, invited him to the Lab, visited several of his residences, and actively solicited funding from him. In a September 2019 internal meeting, Ito admitted to having taken $525,000 from Epstein for the Media Lab and an additional $1.2 million for his private ventures. He systematically concealed the connection, labeling Epstein as an anonymous donor in internal records.
 
-According to an email from Media Lab co-founder Nicholas Negroponte, Epstein's closest friend at MIT was [Marvin Minsky](Marvin_Minsky.md), the AI pioneer — who "even visited him in jail." In a deposition unsealed in August 2019, Epstein accuser Virginia Giuffre testified under oath that Epstein directed her to have sex with Minsky.
+According to an email from Media Lab co-founder Nicholas Negroponte, Epstein's closest friend at MIT was [Marvin Minsky](Marvin_Minsky.md), the AI pioneer — who "even visited him in jail." In a deposition unsealed in August 2019, Epstein accuser [Virginia Giuffre](Virginia_Giuffre.md) testified under oath that Epstein directed her to have sex with Minsky.
 
 The scandal broke publicly in August 2019. Two Media Lab researchers resigned in protest. Investigative journalist Ronan Farrow's reporting in The New Yorker revealed the full scope of Ito's concealment. Ito resigned as Media Lab director in September 2019.
 
@@ -125,9 +125,9 @@ Ethan Zuckerman, who resigned from the Media Lab over the Epstein scandal, was a
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — MIT accepted his donations while facilitating the prosecution of Swartz
 - [Marvin Minsky](Marvin_Minsky.md) — MIT AI pioneer, Epstein's closest friend at MIT, named in Epstein filings, received Epstein's earliest MIT donation
-- [Nikolai Mushegian](Nikolai_Mushegian.md) — MakerDAO co-founder who tweeted about CIA/Mossad sex trafficking ring and drowned hours later; another technologist who challenged powerful systems and died young
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "DC Madam" who said she would never hang herself and was found hanged; pattern of individuals facing federal prosecution dying before trial
-- [Danny Casolaro](Danny_Casolaro.md) — Investigative journalist killed while investigating PROMIS software and intelligence operations; another individual who threatened to expose powerful networks
+- [Nikolai Mushegian](Nikolai_Mushegian.md) — MakerDAO co-founder who tweeted about [CIA](../other/groups/cia.md)/[Mossad](../other/groups/mossad.md) sex trafficking ring and drowned hours later; another technologist who challenged powerful systems and died young
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "[DC Madam](../other/groups/dc_madam.md)" who said she would never hang herself and was found hanged; pattern of individuals facing federal prosecution dying before trial
+- [Danny Casolaro](Danny_Casolaro.md) — Investigative journalist killed while investigating [PROMIS](../other/groups/promis_octopus.md) software and intelligence operations; another individual who threatened to expose powerful networks
 
 ## Sources
 

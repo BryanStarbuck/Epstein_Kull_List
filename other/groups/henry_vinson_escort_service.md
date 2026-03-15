@@ -157,7 +157,7 @@ Vinson's operation and [Palfrey's operation](dc_madam.md) were **separate** — 
 While there is no direct operational link between Vinson's escort service and Jeffrey Epstein, the **structural parallels** are significant:
 
 * **Sexual blackmail of politicians**: Both operations involved collecting compromising sexual material on powerful government figures
-* **Intelligence connections**: Both involved alleged CIA/Mossad asset involvement (Spence for Vinson's operation; Ghislaine Maxwell/Robert Maxwell for Epstein's)
+* **Intelligence connections**: Both involved alleged [CIA](cia.md)/[Mossad](mossad.md) asset involvement (Spence for Vinson's operation; [Ghislaine Maxwell](../../Details/Ghislaine_Maxwell.md)/[Robert Maxwell](../../Details/Robert_Maxwell.md) for Epstein's)
 * **Surveillance-wired properties**: Spence's Kalorama mansion with hidden cameras mirrors Epstein's properties allegedly wired for recording
 * **Sealed client lists**: In both cases, the full client lists were suppressed by the government
 * **Operator deaths**: Both Spence and Epstein died under disputed circumstances in what were officially ruled suicides
@@ -166,7 +166,7 @@ While there is no direct operational link between Vinson's escort service and Je
 * **Same era of DC blackmail**: Vinson's operation (1986–1989) was active during the same period as the [Franklin scandal](franklin_scandal.md) and preceded Epstein's rise in the 1990s
 * **Pattern of elite protection**: In both cases, powerful clients were shielded while operators were prosecuted or eliminated
 
-Together with the [Craig Spence operation](craig_spence.md), the [Franklin scandal](franklin_scandal.md), and the [DC Madam operation](dc_madam.md), Vinson's escort service forms part of a decades-long pattern of sexually compromising operations targeting Washington, DC power brokers — a pattern that Jeffrey Epstein's operation continued and expanded to an international scale.
+Together with the [Craig Spence operation](craig_spence.md), the [Franklin scandal](franklin_scandal.md), the [DC Madam operation](dc_madam.md), and the [2023 DC Brothel Network](2023_dc_brothel_network.md), Vinson's escort service forms part of a decades-long pattern of sexually compromising operations targeting Washington, DC power brokers — a pattern that Jeffrey Epstein's operation continued and expanded to an international scale.
 
 ## Key Figures
 

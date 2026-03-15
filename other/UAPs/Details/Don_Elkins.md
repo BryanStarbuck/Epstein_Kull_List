@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Don Elkins
 Physics professor, Boeing 727 captain, and co-author of the Ra Material (Law of One), who died of a self-inflicted gunshot wound in Louisville, Kentucky in 1984 after a year of severe mental deterioration.

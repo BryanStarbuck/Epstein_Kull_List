@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Eduardo Mondlane
 Mozambican independence leader and FRELIMO president killed by a book bomb in 1969, allegedly planted by Portuguese secret police (PIDE) and the Aginter Press network.
@@ -57,6 +57,8 @@ Mondlane was born in southern Mozambique under Portuguese colonial rule. He stud
 - [Humberto Delgado](Humberto_Delgado.md) — Portuguese opposition leader murdered by the same PIDE agent (1965)
 - [Patrice Lumumba](Patrice_Lumumba.md) — Congolese independence leader assassinated with Western intelligence involvement (1961)
 - [Thomas Sankara](Thomas_Sankara.md) — African leader assassinated with alleged foreign intelligence backing (1987)
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

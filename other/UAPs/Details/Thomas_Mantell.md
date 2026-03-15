@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Thomas F. Mantell
 Kentucky Air National Guard pilot who became the first person to die while pursuing an unidentified flying object.

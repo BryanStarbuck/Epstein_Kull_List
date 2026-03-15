@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Mahmoud Al-Mabhouh
 Hamas military commander assassinated in a Dubai hotel room by Mossad agents using forged passports, in an operation captured on hotel CCTV that caused an international diplomatic crisis.
@@ -61,6 +61,8 @@ He had survived at least one previous assassination attempt in 2009 when he was 
 - [Gerald Bull](Gerald_Bull.md) -- another suspected Mossad assassination
 - [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md) -- Iranian scientist killed by Mossad
 - [Wael Zwaiter](Wael_Zwaiter.md) -- PLO representative killed by Mossad in Operation Wrath of God
+
+- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # William Cooper
 Former Naval intelligence serviceman and author of *Behold a Pale Horse*, who made early UFO disclosure claims and predicted a 9/11-type event. Shot and killed by sheriff's deputies during a nighttime tactical operation at his home two months after 9/11.

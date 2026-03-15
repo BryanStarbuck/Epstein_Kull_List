@@ -9,13 +9,13 @@ Comedian who satirized Epstein's "kill switch" bioweapon theory in 2020, fell fr
 - **Date of Death:** August 7, 2021
 - **Age at Death:** 41
 - **Cause of Death:** Blunt force head trauma from fall off second-story balcony
-- **Location:** Franklin Hills, Los Angeles, California
+- **Location:** [Franklin](../other/groups/franklin_scandal.md) Hills, Los Angeles, California
 - **Official Ruling:** Accident
 - **Suspicion Level:** UNCERTAIN
 - **Blood Alcohol Content:** 0.21–0.27 (more than 3x the legal driving limit)
 
 ## Connection to Epstein Network
-Trevor Moore was a comedian, writer, and co-founder of the sketch comedy group The Whitest Kids U' Know (WKUK). In October 2020, during a WKUK podcast segment sometimes called "Newsboyz - Conspiracy Weirdness," Moore performed a satirical bit in which he proposed a fictional conspiracy theory that Jeffrey Epstein had funded scientists to engineer a novel coronavirus as a "kill switch" — a dead man's switch bio-weapon that would be released if Epstein were ever arrested or killed, causing global chaos to protect him and his network.
+Trevor Moore was a comedian, writer, and co-founder of the sketch comedy group The Whitest Kids U' Know (WKUK). In October 2020, during a WKUK podcast segment sometimes called "Newsboyz - Conspiracy Weirdness," Moore performed a satirical bit in which he proposed a fictional conspiracy theory that [Jeffrey Epstein](Jeffrey_Epstein.md) had funded scientists to engineer a novel coronavirus as a "kill switch" — a dead man's switch bio-weapon that would be released if Epstein were ever arrested or killed, causing global chaos to protect him and his network.
 
 Moore explicitly framed the bit as dark humor, stating on air: *"This is completely unsubstantiated... but that's a goddamn great conspiracy theory. I love it and I'm gonna spread it as much as I can."*
 
@@ -42,7 +42,7 @@ In the October 2020 WKUK podcast segment, Moore laid out a satirical conspiracy 
 - Conspiracists reframed Moore's satirical bit as "hiding truth in comedy" or "he knew too much / was too close to exposing Epstein's role in COVID"
 - The narrative: "He spoke on Epstein in 2020, then suspiciously fell from a balcony the next year"
 - Some posts inflated the fall height to "28 feet" to make the death seem more implausible (actual height: ~10–20 feet, second-story)
-- Moore had performed other comedy bits touching on CIA conspiracies and elite corruption, which fed the narrative that he was "red-pilling" his audience
+- Moore had performed other comedy bits touching on [CIA](../other/groups/cia.md) conspiracies and elite corruption, which fed the narrative that he was "red-pilling" his audience
 - Common X posts (as of Feb 2026): *"Epstein's corona kill switch? ... fell from balcony days later. Files dropping now… coincidence?"* and *"Realizing all of Trevor Moore's political conspiracy skits were like 100% accurate... convinced that they had him killed"*
 - The pattern echoes the "Epstein didn't kill himself" meme — another balcony/suspicious death tied to someone who discussed Epstein publicly
 - His death echoed other "balcony fall" deaths on this list ([Ruslana Korshunova](Ruslana_Korshunova.md), [Anastasia Drozdova](Anastasia_Drozdova.md), [Wendy Leigh](Wendy_Leigh.md), [Steve Bing](Steve_Bing.md))

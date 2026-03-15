@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Vimal Dajibhai
 Marconi computer scientist working on Sting Ray torpedo guidance systems, found dead at the base of Clifton Suspension Bridge with unexplained injuries.

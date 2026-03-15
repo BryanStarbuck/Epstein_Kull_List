@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Dr. Carl Johann Grillmair
 Caltech astrophysicist murdered at his home in the Antelope Valley — cited in conspiracy circles as linked to UAP programs, but his actual research was in observational astronomy (stellar streams, exoplanets, dark matter).
@@ -78,6 +78,7 @@ Some posts on X and conspiracy forums have listed Grillmair alongside genuine su
 ## See Also
 
 - [Nuno Loureiro](Nuno_Loureiro.md) — MIT fusion scientist shot dead in 2025
+- [Carl Grillmair (UAP Deaths project)](../../UAPs/Details/Carl_Grillmair.md) — Parallel profile in UAP Deaths project
 
 ## Sources
 

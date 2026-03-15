@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Thomas Sankara
 Revolutionary president of Burkina Faso assassinated in a coup led by his former ally Blaise Compaore, with alleged backing from French intelligence (DGSE).
@@ -61,6 +61,8 @@ Sankara's pan-African rhetoric, his challenges to French neo-colonial influence 
 
 - [Patrice Lumumba](Patrice_Lumumba.md) -- African leader assassinated with Western intelligence backing
 - [Olof Palme](Olof_Palme.md) -- leader who supported African liberation, assassinated
+
+- [Che Guevara](Che_Guevara.md) — revolutionary leader Sankara admired
 
 ## Sources
 

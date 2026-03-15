@@ -14,7 +14,7 @@
 - **Suspicion Level:** UNCERTAIN
 
 ## Connection to Epstein Network
-Deborah Jeane Palfrey is not directly connected to Jeffrey Epstein. However, she operated a parallel elite sex operation — Pamela Martin and Associates — that serviced Washington D.C. power brokers including senators, Pentagon officials, State Department officials, FBI employees, IRS employees, and lobbyists. Her case is relevant to the Epstein investigation because:
+Deborah Jeane Palfrey is not directly connected to [Jeffrey Epstein](Jeffrey_Epstein.md). However, she operated a parallel elite sex operation — Pamela Martin and Associates — that serviced Washington D.C. power brokers including senators, Pentagon officials, State Department officials, FBI employees, IRS employees, and lobbyists. Her case is relevant to the Epstein investigation because:
 
 1. **Parallel blackmail potential:** Like Epstein's operation, her escort service had records (10,000–15,000 phone numbers) that could expose powerful government figures
 2. **Same pattern:** Found hanged, like [Jeffrey Epstein](Jeffrey_Epstein.md), [Jean-Luc Brunel](Jean_Luc_Brunel.md), [Mark Middleton](Mark_Middleton.md), [Thomas Bowers](Thomas_Bowers.md), and [Tracy Twyman](Tracy_Twyman.md)

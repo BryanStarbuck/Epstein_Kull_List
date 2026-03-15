@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Olof Palme
 Swedish Prime Minister shot dead on a Stockholm street while walking home from a cinema without bodyguards, in one of the 20th century's most notorious unsolved assassinations.
@@ -65,6 +65,8 @@ Palme was a strong supporter of the African National Congress (ANC) and provided
 - [Aldo Moro](Aldo_Moro.md) -- European leader killed with alleged Gladio connections
 - [Dag Hammarskjold](Dag_Hammarskjold.md) -- Scandinavian leader killed in Africa with intelligence connections
 - [Thomas Sankara](Thomas_Sankara.md) -- African-connected leader assassinated
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

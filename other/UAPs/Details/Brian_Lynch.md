@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Brian Lynch
 Young psychic and contactee who died of a reported drug overdose in 1985 after alleged involvement with a Pentagon-funded psychic warfare program (Project Scanate).

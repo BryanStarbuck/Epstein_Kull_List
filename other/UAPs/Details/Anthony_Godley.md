@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Anthony Godley
 49-year-old Head of Work Study Unit at the Royal College of Military Science who vanished without a trace in April 1983 — never found, and never claimed a $60,000 inheritance with a 1987 deadline.

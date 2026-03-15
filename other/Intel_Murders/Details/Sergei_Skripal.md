@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Sergei Skripal and Dawn Sturgess
 Former GRU double agent poisoned with Novichok nerve agent in Salisbury; survived. Bystander Dawn Sturgess killed by discarded nerve agent.
@@ -72,7 +72,7 @@ Dawn Sturgess was a completely innocent bystander with no connection to intellig
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — Former FSB officer poisoned with polonium-210 in London, 2006
 - [Alexei Navalny](Alexei_Navalny.md) — Poisoned with Novichok in 2020, died in prison 2024
 - [Zelimkhan Khangoshvili](Zelimkhan_Khangoshvili.md) — Shot by FSB operative in Berlin, 2019
-- [Emilian Gebrev](Emilian_Gebrev.md) — Bulgarian arms dealer poisoned by the same GRU unit in 2015
+- Emilian Gebrev — Bulgarian arms dealer poisoned by the same GRU unit in 2015
 
 ## Sources
 

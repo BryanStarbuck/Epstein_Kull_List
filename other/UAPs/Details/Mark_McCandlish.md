@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Mark McCandlish
 Aerospace illustrator and UFO disclosure advocate who died of a gunshot wound ruled as suicide in 2021, reportedly after offering to testify before the Senate Intelligence Committee about the Alien Reproduction Vehicle (ARV) / Flux Liner.

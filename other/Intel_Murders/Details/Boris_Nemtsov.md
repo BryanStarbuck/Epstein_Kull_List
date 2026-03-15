@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Boris Nemtsov
 Russian opposition leader and former Deputy Prime Minister shot dead on a bridge within sight of the Kremlin.

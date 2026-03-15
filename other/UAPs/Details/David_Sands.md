@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # David Sands
 Easams/Marconi senior scientist working on SDI satellite radar who drove a car loaded with petrol cans into an empty building at high speed, dying in the resulting fireball.
@@ -46,6 +46,7 @@ At the time of his death, Sands had just returned from a family holiday in Venic
 
 ## See Also
 
+- [David Sands (Zero Point Energy)](../../Zero_Point_Energy/Details/David_Sands.md) — This case also appears in the Zero Point Energy project
 - [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi software engineer, died August 1986
 - [Ashad Sharif](Ashad_Sharif.md) — Marconi computer analyst, died October 1986
 - [Keith Bowden](Keith_Bowden.md) — GEC computer scientist, car crash March 1982

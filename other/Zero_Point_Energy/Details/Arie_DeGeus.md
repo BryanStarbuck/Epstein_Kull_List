@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Arie DeGeus
 Inventor of revolutionary clean energy technology reportedly capable of replacing oil, found dead in his car at Charlotte Douglas International Airport.

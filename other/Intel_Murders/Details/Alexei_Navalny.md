@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Alexei Navalny
 Russian opposition leader and anti-corruption activist who survived a Novichok poisoning in 2020, then died in an Arctic penal colony in 2024 — confirmed poisoned with epibatidine.

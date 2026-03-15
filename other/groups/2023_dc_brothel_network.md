@@ -82,6 +82,7 @@ While there is no direct operational link to Epstein, the case fits several patt
 * **Disproportionate consequences:** Operators face prison while powerful clients face minimal accountability
 * **Relatively light sentences:** Han Lee received 4 years for a $5.6 million operation with national security implications; Junmyung Lee received only 1 year
 * Together with the [DC Madam](dc_madam.md), [Craig Spence](craig_spence.md), [Henry Vinson](henry_vinson_escort_service.md), and [Franklin scandal](franklin_scandal.md), this case demonstrates that DC-area operations targeting powerful officials continue into the present day
+* The [CIA](cia.md) and [Mossad](mossad.md) connections alleged in earlier operations raise questions about whether this modern operation also has intelligence dimensions
 
 ## How the Operation Was Discovered
 
@@ -108,6 +109,11 @@ While there is no direct operational link to Epstein, the case fits several patt
 * The **shielding of powerful clients** from public identification continues the pattern seen across decades of DC sex scandals
 * The **foreign national operators** and **overseas money trail** add an espionage dimension not present in earlier DC operations
 * Montgomery Blair Sibley's comparison to the DC Madam highlights the **unchanging pattern**: operators face consequences, powerful clients are protected, and the full truth is suppressed
+
+## Related Locations
+
+- [Washington DC Area](../locations/washington_dc.md) — Virginia brothels near CIA/Pentagon corridor
+- [Other U.S. Locations](../locations/other_us.md) — Boston-area locations in Cambridge and Watertown, MA
 
 ## Sources
 

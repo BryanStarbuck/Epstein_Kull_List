@@ -35,6 +35,7 @@ Multiple former intelligence operatives, investigative journalists, and authors 
 * **Rafi Eitan** — Former Mossad operative; ran the Jonathan Pollard spy ring; reportedly had connections to Robert Maxwell's intelligence activities
 * **Ehud Barak** — Former Israeli PM; visited Epstein's Manhattan apartment multiple times 2013–2019; visited Epstein's island; co-founded **Carbyne** (emergency surveillance tech firm staffed by ex-Israeli intelligence) with Epstein. Israeli government installed security equipment at Epstein's 301 East 66th Street apartment for Barak's visits.
 * **Mega Group** — Informal group of up to 50 influential Jewish entrepreneurs (including Les Wexner and Steven Spielberg), co-founded 1991 by Wexner and Charles Bronfman; alleged to have connections to Mossad
+* [Nikolai Mushegian](../../Details/Nikolai_Mushegian.md) — MakerDAO co-founder who tweeted about "CIA and Mossad sex trafficking blackmail ring" four hours before being found drowned in Puerto Rico (2022)
 
 ## Robert Maxwell's State Funeral
 
@@ -53,6 +54,16 @@ The alleged Mossad connection is considered by many researchers to be the key to
 - Epstein provided the social access and financial cover
 - The sexual blackmail material allegedly gave Israel leverage over American and European politicians
 - The [PROMIS software](promis_octopus.md) operation was an earlier version of the same concept — using technology backdoors instead of sexual compromise to gather intelligence
+
+## Connection to Other Groups
+
+* [CIA](cia.md) — Joint involvement in PROMIS software distribution; alleged shared awareness of Epstein operation
+* [PROMIS / The Octopus](promis_octopus.md) — Robert Maxwell distributed backdoored PROMIS for Mossad
+* [Jeffrey Epstein Network](jeffrey_epstein_network.md) — Alleged intelligence backing of the operation
+* [Kroll Associates](kroll_associates.md) — Private intelligence firm that hired former Mossad operatives; Jules Kroll met with Robert Maxwell weeks before his death
+* [Deutsche Bank](deutsche_bank.md) — Financial institution with intelligence community personnel overlap via Kroll
+* [Wexner / L Brands](wexner_l_brands.md) — Mega Group (co-founded by Wexner) alleged to have Mossad connections
+* [Tom Alexandrovich Case](tom_alexandrovich_case.md) — Israeli cyber official (reporting to PM) caught in FBI child sex sting; fled to Israel
 
 ## Notable Books, Documentaries, and Investigations
 

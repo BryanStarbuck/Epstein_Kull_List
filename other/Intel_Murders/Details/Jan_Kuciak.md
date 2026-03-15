@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Jan Kuciak
 Slovak investigative journalist shot dead alongside his fiancee in their home in a contract killing linked to his reporting on Italian mafia connections to Slovak politicians.

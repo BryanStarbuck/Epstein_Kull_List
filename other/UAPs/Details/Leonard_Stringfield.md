@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Leonard H. Stringfield
 Pioneer of UFO crash-retrieval research, author of seven *Status Reports* documenting alleged government recovery of downed alien craft, former military intelligence officer, and founder of CRIFO -- one of the world's largest civilian UFO research organizations in the 1950s.

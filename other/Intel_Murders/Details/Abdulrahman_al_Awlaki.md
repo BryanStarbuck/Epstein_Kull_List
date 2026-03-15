@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Abdulrahman al-Awlaki
 16-year-old American citizen killed by a US drone strike in Yemen in 2011, two weeks after his father Anwar al-Awlaki was killed in a separate strike. The Obama administration said he was not the intended target.
@@ -58,6 +58,8 @@ Abdulrahman was born in Denver, Colorado, on 26 August 1995, making him a natura
 
 - [Anwar al-Awlaki](Anwar_al_Awlaki.md) — His father, killed by a US drone strike two weeks earlier
 - [Pat Tillman](Pat_Tillman.md) — American killed by friendly fire with subsequent government cover-up
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

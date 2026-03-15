@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Jacob Prichard
 Civilian employee at the Air Force Research Laboratory, Wright-Patterson Air Force Base. Perpetrator of an October 25, 2025 double murder-suicide in which he killed his colleague 1st Lt. Jaime Gustitus and his wife Jaymee Prichard before taking his own life. Some X/social media theorists have alleged a UAP or mind-control connection due to the Wright-Patterson location; no evidence supports this.

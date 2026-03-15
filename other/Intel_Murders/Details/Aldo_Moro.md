@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Aldo Moro
 Former Italian Prime Minister kidnapped and murdered by the Red Brigades after 55 days in captivity, with persistent allegations of CIA and Operation Gladio involvement in allowing or facilitating the killing.
@@ -63,6 +63,8 @@ Moro was kidnapped on the very morning the Historic Compromise was to be formali
 - [Roberto Calvi](Roberto_Calvi.md) -- another death connected to Italian intelligence and P2
 - [Olof Palme](Olof_Palme.md) -- European leader allegedly killed with intelligence connections
 - [Dag Hammarskjold](Dag_Hammarskjold.md) -- leader whose death involved multiple intelligence agencies
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

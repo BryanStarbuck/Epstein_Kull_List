@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # William Colby
 Former CIA Director who cooperated with the Church Commission and exposed CIA abuses. Found drowned after a solo canoe trip under unusual circumstances.
@@ -75,6 +75,8 @@ After leaving the CIA, Colby practiced law in Washington and remained engaged in
 - [Frank Olson](Frank_Olson.md) — CIA scientist Colby apologized to the family of; died under suspicious circumstances in 1953
 - [Danny Casolaro](Danny_Casolaro.md) — journalist investigating intelligence operations, found dead in 1991
 - [../../Details/William_Colby.md](../../Details/William_Colby.md) — Epstein Kill List profile (cross-reference)
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

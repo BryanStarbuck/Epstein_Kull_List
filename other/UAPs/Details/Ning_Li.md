@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Ning Li
 Chinese-American physicist who published groundbreaking antigravity research, received a $448,970 DOD grant through her company AC Gravity, published no results, was struck by a vehicle in 2014 causing permanent brain damage, and died in 2021 after years of decline from Alzheimer's disease.
@@ -52,6 +52,7 @@ The mystery deepened when Li was struck by a vehicle in 2014 on the UAH campus, 
 
 ## See Also
 
+- [Ning Li (Zero Point Energy)](../../Zero_Point_Energy/Details/Ning_Li.md) — This case also appears in the Zero Point Energy project
 - [Amy Eskridge](Amy_Eskridge.md) — Another antigravity researcher based in Huntsville, Alabama, found dead from a gunshot wound
 - [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died weeks before scheduled testing
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher whose work was allegedly classified

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Rudolf Diesel
 Inventor of the diesel engine, disappeared from the SS Dresden while crossing the English Channel en route to meet the British Royal Navy about powering submarines with his engine.

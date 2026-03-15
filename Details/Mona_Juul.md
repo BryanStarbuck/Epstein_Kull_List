@@ -50,7 +50,7 @@ Juul's case is part of a broader crisis in Norway:
 
 ## Key Quotes from Media Coverage
 
-> "Juul's contact with convicted sex offender Jeffrey Epstein revealed a serious lapse in judgment, and the situation makes it difficult to restore the trust that the role requires."
+> "Juul's contact with convicted sex offender [Jeffrey Epstein](Jeffrey_Epstein.md) revealed a serious lapse in judgment, and the situation makes it difficult to restore the trust that the role requires."
 > — Norwegian Foreign Minister Espen Barth Eide, [PBS (February 2026)](https://www.pbs.org/newshour/world/norwegian-ambassador-resigns-amid-scrutiny-over-her-contacts-with-epstein)
 
 > "Palestinian leaders are now questioning whether Oslo's foundational agreements of the two-state solution were brokered by a mediator vulnerable to elite blackmail and foreign intelligence pressure."

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Richard Pugh
 MOD computer consultant found dead with a plastic bag over his head and rope coiled four times around his neck and body — ruled "sexual misadventure."
@@ -39,6 +39,7 @@ Richard Pugh was a 37-year-old computer expert who worked as a consultant for th
 
 ## See Also
 
+- [Richard Pugh (Zero Point Energy)](../../Zero_Point_Energy/Details/Richard_Pugh.md) — This case also appears in the Zero Point Energy project
 - [Mark Wisner](Mark_Wisner.md) — MOD software engineer, died April 1987 in nearly identical circumstances
 - [John Brittan](John_Brittan.md) — RCMS scientist, died January 1987 (same month)
 - [Ashad Sharif](Ashad_Sharif.md) — Marconi computer analyst, died October 1986

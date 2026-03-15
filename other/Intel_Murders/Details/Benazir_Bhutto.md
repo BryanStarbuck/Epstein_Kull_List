@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Benazir Bhutto
 Former Pakistani Prime Minister assassinated by gunshot and suicide bomb after a political rally in Rawalpindi, with UN investigators finding Pakistani authorities "failed profoundly" and ISI involvement in the cover-up.

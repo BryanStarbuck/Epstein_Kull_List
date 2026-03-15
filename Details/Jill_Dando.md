@@ -110,7 +110,7 @@ The Metropolitan Police confirmed it is re-examining 1999 CCTV evidence in the o
 
 - [Jimmy Savile / BBC](../other/groups/jimmy_savile.md) — The institutional pedophile ring Dando reportedly tried to expose
 - [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator who exposed CPS child trafficking; shot dead
-- [Gary Caradori](Gary_Caradori.md) — Franklin scandal investigator whose plane disintegrated
+- [Gary Caradori](Gary_Caradori.md) — [Franklin](../other/groups/franklin_scandal.md) scandal investigator whose plane disintegrated
 - [Diana Spencer](Diana_Spencer.md) — Another high-profile British woman killed in circumstances many dispute
 - [Sabrina Bittencourt](Sabrina_Bittencourt.md) — Exposed John of God's trafficking; died in hiding
 - [Tracy Twyman](Tracy_Twyman.md) — Investigated elite pedophilia; hanged in garage

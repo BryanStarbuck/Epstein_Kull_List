@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Richard Pugh
 Computer expert and MOD consultant, found dead with feet bound, plastic bag on head, and thick rope coiled around body.

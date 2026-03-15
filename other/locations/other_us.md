@@ -18,7 +18,7 @@ Individual deaths and connections in states with one or two connected cases.
 
 ## Bellemont, Arizona
 
-- **[Isaac Kappy](../../Details/Isaac_Kappy.md)** (2019, age 42) — **SUSPICIOUS.** Actor who publicly accused Hollywood elites of pedophilia. Fell from Transwestern Road bridge onto Interstate 40. Recorded videos saying "if I die, it wasn't suicide." Died two months before Epstein's arrest.
+- **[Isaac Kappy](../../Details/Isaac_Kappy.md)** (2019, age 42) — **SUSPICIOUS.** Actor who publicly accused Hollywood elites of pedophilia. Fell from Transwestern Road bridge onto Interstate 40. Recorded videos saying "if I die, it wasn't suicide." Died two months before Epstein's arrest. See also: [Arizona group file](../groups/arizona.md) for the broader Arizona trafficking context.
 
 ## Boston, Massachusetts
 

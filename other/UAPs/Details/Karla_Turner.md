@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Karla Turner
 Abduction researcher with a Ph.D. who authored three books on the alien abduction phenomenon, died of fast-acting breast cancer at 48 with no family history of the disease, after reportedly receiving threats for her work.

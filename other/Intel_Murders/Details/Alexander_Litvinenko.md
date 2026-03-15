@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Alexander Litvinenko
 Former FSB officer poisoned with polonium-210 in London after publicly accusing the FSB of corruption and state terrorism.
@@ -70,6 +70,8 @@ Litvinenko co-authored the book *Blowing Up Russia: Terror from Within*, which a
 - [Alexei Navalny](Alexei_Navalny.md) — Russian opposition leader poisoned with Novichok in 2020, died in prison 2024
 - [Sergei Skripal](Sergei_Skripal.md) — Former GRU officer poisoned with Novichok in 2018
 - [Georgi Markov](Georgi_Markov.md) — Bulgarian dissident killed with ricin in 1978, another Cold War-era state poisoning
+
+- [Boris Berezovsky](Boris_Berezovsky.md) — Russian oligarch, Litvinenko's patron
 
 ## Sources
 

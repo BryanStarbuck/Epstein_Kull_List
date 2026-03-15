@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Pierre Gemayel
 Lebanese Christian politician and cabinet minister, assassinated in a drive-by shooting in Beirut in 2006 — the fifth anti-Syrian figure killed in Lebanon in two years.

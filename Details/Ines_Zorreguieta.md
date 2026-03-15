@@ -16,7 +16,7 @@ Younger sister of Queen Maxima of the Netherlands, found dead by hanging in her 
 
 ## Assessment: UNCERTAIN
 
-Ines Zorreguieta had a documented history of depression, eating disorders, and mental health treatment, and her family has publicly accepted the suicide ruling. There is no direct connection to Jeffrey Epstein. However, her death by hanging at age 33, occurring the day after [Kate Spade](Kate_Spade.md) and two days before [Anthony Bourdain](Anthony_Bourdain.md) in the same June 2018 cluster, her royal family connections, her father's controversial role in Argentina's military junta, and her work with youth programs and the UN have drawn attention from researchers examining patterns of elite-connected deaths.
+Ines Zorreguieta had a documented history of depression, eating disorders, and mental health treatment, and her family has publicly accepted the suicide ruling. There is no direct connection to [Jeffrey Epstein](Jeffrey_Epstein.md). However, her death by hanging at age 33, occurring the day after [Kate Spade](Kate_Spade.md) and two days before [Anthony Bourdain](Anthony_Bourdain.md) in the same June 2018 cluster, her royal family connections, her father's controversial role in Argentina's military junta, and her work with youth programs and the UN have drawn attention from researchers examining patterns of elite-connected deaths.
 
 ## Circumstances of Death
 
@@ -65,7 +65,7 @@ Ines reportedly suffered from depression and eating disorders. In 2012, she spen
 - **The family has publicly accepted the suicide ruling** and Queen Maxima has spoken openly about her sister's mental illness and depression
 - **Ines had a well-documented history of mental health struggles** including depression, eating disorders, and clinical treatment
 - **Her academic thesis on gender and suicide** suggests she was deeply familiar with and affected by the subject of suicide long before her death
-- **The June 2018 timing** is more plausibly explained by the documented copycat effect following Kate Spade's highly publicized death on June 5 than by any coordinated silencing
+- **The June 2018 timing** is more plausibly explained by the documented copycat effect following [Kate Spade](Kate_Spade.md)'s highly publicized death on June 5 than by any coordinated silencing
 
 ## Key Quotes from Media Coverage
 
@@ -82,7 +82,7 @@ Ines reportedly suffered from depression and eating disorders. In 2012, she spen
 
 - [Kate Spade](Kate_Spade.md) — Died by hanging one day before Ines, June 5, 2018
 - [Anthony Bourdain](Anthony_Bourdain.md) — Died by hanging two days after Ines, June 8, 2018
-- [Diana Spencer](Diana_Spencer.md) — Princess of Wales, European royal connected to Epstein network through Prince Andrew
+- [Diana Spencer](Diana_Spencer.md) — Princess of Wales, European royal connected to Epstein network through [Prince Andrew](Prince_Andrew.md)
 - [Prince Andrew](Prince_Andrew.md) — British royal arrested in 2026 over Epstein ties; part of interconnected European monarchy network
 - [Chris Cornell](Chris_Cornell.md) — Part of the 2017-2018 hanging cluster
 - [Chester Bennington](Chester_Bennington.md) — Part of the 2017-2018 hanging cluster

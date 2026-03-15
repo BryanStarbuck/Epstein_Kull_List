@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Jonathan Lovette
 USAF airman allegedly found mutilated near Holloman Air Force Base in an incident that remains one of the most controversial and poorly sourced cases in UFO lore.

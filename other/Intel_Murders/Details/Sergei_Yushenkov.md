@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Sergei Yushenkov
 Russian liberal politician and State Duma member shot dead outside his Moscow apartment in 2003, hours after registering his opposition party — and while actively investigating FSB involvement in the 1999 apartment bombings.

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Bernardo Leighton
 Chilean Christian Democratic politician and former Vice President, shot and seriously wounded alongside his wife in Rome in 1975 in a DINA-commissioned assassination attempt carried out by Italian neofascists — a key Operation Condor attack demonstrating collaboration between Chilean intelligence and European far-right terrorist networks.
@@ -57,9 +57,11 @@ Leighton was one of Chile's most distinguished democratic politicians. He co-fou
 
 - [Carlos Prats](Carlos_Prats.md) — Chilean general assassinated by DINA car bomb in Buenos Aires (same operative: Townley)
 - [Orlando Letelier](Orlando_Letelier.md) — Chilean diplomat assassinated by DINA in Washington, DC (same operative: Townley)
-- [Ronni Moffitt](../../Details/Ronni_Moffitt.md) — American killed alongside Letelier
+- [Ronni Moffitt](Ronni_Moffitt.md) — American killed alongside Letelier
 - [Salvador Allende](Salvador_Allende.md) — Chilean president who died during the 1973 coup
 - [Victor Jara](Victor_Jara.md) — Chilean folk singer killed during the coup
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

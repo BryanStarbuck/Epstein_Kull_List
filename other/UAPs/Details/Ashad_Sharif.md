@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Ashad Sharif
 26-year-old Marconi computer analyst who died after tying a rope between his neck and a tree and then driving his car forward, nearly decapitating himself — ruled a suicide despite bizarre circumstances.

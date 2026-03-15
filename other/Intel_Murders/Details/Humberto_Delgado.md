@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Humberto Delgado
 Portuguese opposition leader and Air Force general murdered in 1965 by PIDE (Portuguese secret police) agents after being lured into an ambush near the Spanish border.

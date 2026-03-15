@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Ismail Haniyeh
 Chairman of Hamas's political bureau, assassinated by a remotely detonated bomb in an Iranian military guesthouse in Tehran in July 2024, in an operation widely attributed to and later confirmed by Israel's Mossad.
@@ -58,6 +58,10 @@ Ismail Haniyeh was born in the Al-Shati refugee camp in the Gaza Strip in 1962. 
 - [Salah al-Arouri](Salah_al_Arouri.md) — Hamas deputy leader killed by Israeli strike in Beirut, January 2024
 - [Fuad Shukr](Fuad_Shukr.md) — Hezbollah commander killed by Israeli airstrike in Beirut, July 2024
 - [Qasem Soleimani](Qasem_Soleimani.md) — Iranian Quds Force commander killed by US drone strike
+
+- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+
+- [Hassan Nasrallah](Hassan_Nasrallah.md) — Hezbollah leader killed weeks later
 
 ## Sources
 

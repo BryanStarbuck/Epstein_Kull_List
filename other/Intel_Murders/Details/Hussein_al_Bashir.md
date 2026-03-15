@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Hussein al-Bashir
 Fatah representative in Cyprus killed when Mossad detonated explosives planted under his hotel bed in Nicosia, as part of Operation Wrath of God.
@@ -51,7 +51,9 @@ Hussein al-Bashir was a Jordanian member of the Palestine Liberation Organizatio
 
 - [Ali Hassan Salameh](Ali_Hassan_Salameh.md) — PLO security chief killed by Mossad car bomb, Beirut 1979
 - [Atef Bseiso](Atef_Bseiso.md) — PLO intelligence chief killed in Paris, 1992
-- [Zuheir Mohsen](Zuheir_Mohsen.md) — PLO/as-Sa'iqa leader shot in Cannes, 1979
+- Zuheir Mohsen — PLO/as-Sa'iqa leader shot in Cannes, 1979
+
+- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
 
 ## Sources
 

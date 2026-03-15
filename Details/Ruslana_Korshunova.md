@@ -45,7 +45,7 @@ Korshunova was a rising star in the modeling world. She was discovered in 2003 a
 On **June 7, 2006**, Korshunova (then 18 years old) flew on [Jeffrey Epstein](Jeffrey_Epstein.md)'s Boeing 727 private jet (the "Lolita Express") from New York to Epstein's private island, Little St. James, in the U.S. Virgin Islands. This is confirmed in Epstein flight logs unsealed in January 2024.
 
 **Confirmed passengers on that flight:**
-1. Jeffrey Epstein
+1. [Jeffrey Epstein](Jeffrey_Epstein.md)
 2. Ruslana Korshunova
 3. **Sarah Kellen** — Epstein's longtime personal assistant, later identified as a key enabler in his trafficking operation (received immunity in the 2007 non-prosecution agreement)
 4. Igor Zinoviev — Epstein's bodyguard

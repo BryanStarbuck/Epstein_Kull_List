@@ -16,7 +16,7 @@ Epstein business partner who confessed about blackmail operation, found dead aft
 
 ## Assessment: SUSPICIOUS
 
-Hoffenberg had made explosive public statements about the Epstein-Maxwell blackmail operation, cooperated with the FBI, and spoken about Epstein's alleged Mossad connections. He was found dead in his apartment, having been dead for at least seven days before discovery. While he was in declining health and living in reduced circumstances, the timing — shortly after his FBI cooperation and public claims about the blackmail operation — is concerning. He possessed direct insider knowledge of Epstein's early financial operations dating back to the 1980s.
+Hoffenberg had made explosive public statements about the Epstein-Maxwell blackmail operation, cooperated with the FBI, and spoken about Epstein's alleged [Mossad](../other/groups/mossad.md) connections. He was found dead in his apartment, having been dead for at least seven days before discovery. While he was in declining health and living in reduced circumstances, the timing — shortly after his FBI cooperation and public claims about the blackmail operation — is concerning. He possessed direct insider knowledge of Epstein's early financial operations dating back to the 1980s.
 
 ## Circumstances of Death
 
@@ -59,7 +59,7 @@ Hoffenberg once tried to buy the New York Post. He briefly took over the paper i
 - [Mark Middleton](Mark_Middleton.md) — May 2022 (hanging + shotgun)
 - [Anne Heche](Anne_Heche.md) — August 2022 (car crash)
 - [Kenneth Starr](Kenneth_Starr.md) — September 2022 (surgical complications)
-- [Nikolai Mushegian](Nikolai_Mushegian.md) — October 2022 (drowning, hours after tweeting about CIA/Mossad trafficking)
+- [Nikolai Mushegian](Nikolai_Mushegian.md) — October 2022 (drowning, hours after tweeting about [CIA](../other/groups/cia.md)/Mossad trafficking)
 - [John Connolly](John_Connolly.md) — January 2022 (natural causes)
 
 See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_Maxwell.md)

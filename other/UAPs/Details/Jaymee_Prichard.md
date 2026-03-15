@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Jaymee Prichard
 Civilian employee at the USAF Life Cycle Management Center, Wright-Patterson Air Force Base. Victim of murder-suicide by her husband Jacob Prichard on October 25, 2025. Killed by strangulation; her body was placed in the trunk of her husband's vehicle. Some X/social media posts have alleged a UAP connection due to the Wright-Patterson location; no evidence supports this.

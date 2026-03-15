@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Danny Casolaro
 Freelance journalist investigating "The Octopus" — a network linking PROMIS software theft, CIA/DOJ corruption, and intelligence operations — found dead in a hotel bathtub with his wrists slashed 10-12 times. His briefcase of documents was missing.
@@ -82,7 +82,9 @@ In 1990, Casolaro met Bill Hamilton, founder of INSLAW, who gave him a 12-page m
 - [Michael Hastings](Michael_Hastings.md) — journalist investigating CIA director, killed in car crash, 2013
 - [Karen Silkwood](Karen_Silkwood.md) — whistleblower killed en route to deliver documents to reporter
 - [William Colby](William_Colby.md) — former CIA Director who died under suspicious circumstances
-- [../../Details/Danny_Casolaro.md](../../Details/Danny_Casolaro.md) — Epstein Kill List profile (cross-reference)
+- [Danny Casolaro (Epstein Kill List)](../../../Details/Danny_Casolaro.md) — Epstein Kill List cross-reference
+- [PROMIS / The Octopus](../../groups/promis_octopus.md) — the intelligence network Casolaro was investigating
+- [CIA](../../groups/cia.md) — intelligence service implicated in PROMIS theft
 
 ## Sources
 

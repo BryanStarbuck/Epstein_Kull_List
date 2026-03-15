@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # John S. Kanzius
 American inventor and radio engineer who discovered that radio frequency waves could dissociate hydrogen from salt water, and whose research stalled after his death.

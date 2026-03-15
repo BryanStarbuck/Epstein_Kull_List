@@ -34,7 +34,7 @@ Hawking was one of the most famous physicists in the world. He was known to have
 ## Key Quotes from Media Coverage
 
 > "You can issue a reward to any of Virginia's friends, acquaints, family that come forward and help prove her allegations are false. The strongest is the Clinton dinner, and the new version in the Virgin Islands that Stephen Hawking participated in an underage orgy."
-> — Jeffrey Epstein in a January 12, 2015 email to Ghislaine Maxwell, via [NewsNation](https://www.newsnationnow.com/us-news/epstein-files-stephen-hawking/)
+> — [Jeffrey Epstein](Jeffrey_Epstein.md) in a January 12, 2015 email to [Ghislaine Maxwell](Ghislaine_Maxwell.md), via [NewsNation](https://www.newsnationnow.com/us-news/epstein-files-stephen-hawking/)
 
 > "Any insinuation of inappropriate conduct on his part is wrong and far-fetched in the extreme."
 > — Hawking family spokesperson, via [Gulf News](https://gulfnews.com/world/americas/photos-of-stephen-hawking-in-epstein-files-spark-clarification-from-family-1.500455988)

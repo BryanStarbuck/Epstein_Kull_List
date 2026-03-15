@@ -19,7 +19,7 @@ On March 23, 1989, Stanley Pons and his collaborator Martin Fleischmann announce
 The announcement sparked massive excitement but was quickly met with skepticism, failed replications by other scientists, and accusations of flawed methodology. The mainstream physics community largely dismissed it as pseudoscience. Congressional funding for cold fusion research was defunded in the early 1990s.
 
 ## Epstein Connection - "I Killed Pons"
-Three federal documents released as part of the Epstein files by the Department of Justice on January 30, 2026 - **EFTA02437662**, **EFTA00740161**, and **EFTA00740600** - contain email exchanges between Jeffrey Epstein and Al Seckel dated October 1-14, 2009.
+Three federal documents released as part of the Epstein files by the Department of Justice on January 30, 2026 - **EFTA02437662**, **EFTA00740161**, and **EFTA00740600** - contain email exchanges between [Jeffrey Epstein](Jeffrey_Epstein.md) and Al Seckel dated October 1-14, 2009.
 
 In these emails, on the morning of October 1, 2009, Epstein wrote to Seckel:
 
@@ -34,7 +34,7 @@ Epstein, who had ties to influential scientists, politicians, and funders, alleg
 ## Al Seckel - The Email Recipient
 - **Name:** Al Seckel
 - **Role:** Founder and Executive Director of the Southern California Skeptics; illusionist; optical illusion expert
-- **Epstein Relationship:** Seckel was married to Isabel Maxwell (sister of Ghislaine Maxwell) in 2007. He performed reputation management for Epstein in 2010, charging tens of thousands of dollars for SEO work to downrank stories about Epstein's conviction and remove "toxic suggested search engine terms."
+- **Epstein Relationship:** Seckel was married to Isabel Maxwell (sister of [Ghislaine Maxwell](Ghislaine_Maxwell.md)) in 2007. He performed reputation management for Epstein in 2010, charging tens of thousands of dollars for SEO work to downrank stories about Epstein's conviction and remove "toxic suggested search engine terms."
 - **Death:** Body found July 1, 2015, at the base of a 100-foot cliff near Saint-Cirq-Lapopie in southern France. Death estimated to have occurred weeks prior. French authorities initially treated the case as suspicious.
 - **Death Questions:** Author Mark Oppenheimer stated: "I was never able to establish to my satisfaction that Seckel had died... I always had my suspicions that maybe he faked his own death; it would have been in character."
 - **Death Status:** Officially unconfirmed

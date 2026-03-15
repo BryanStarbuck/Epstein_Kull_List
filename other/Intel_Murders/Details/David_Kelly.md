@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # David Kelly
 British weapons inspector and biological warfare expert found dead in woods after being exposed as the source who said the Blair government "sexed up" intelligence on Iraqi WMDs.
@@ -63,9 +63,12 @@ After Gilligan broadcast the claim on the BBC Today programme, the government la
 
 ## See Also
 
-- [Danny Casolaro](../../Details/Danny_Casolaro.md) -- journalist investigating intelligence connections, found dead with wrists slashed
+- [Danny Casolaro](Danny_Casolaro.md) -- journalist investigating intelligence connections, found dead with wrists slashed
 - [Gary Webb](Gary_Webb.md) -- journalist who challenged government narratives, ruled suicide
 - [Frank Olson](Frank_Olson.md) -- government scientist killed under suspicious circumstances
+- [Danny Casolaro (Epstein List)](../../../Details/Danny_Casolaro.md) -- Epstein Kill List cross-reference
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

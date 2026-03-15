@@ -75,11 +75,13 @@ Every decade since the 1980s, a sex trafficking or blackmail operation targeting
 - [Craig Spence Operation](../groups/craig_spence.md)
 - [Henry Vinson Escort Service](../groups/henry_vinson_escort_service.md)
 - [DC Madam (Palfrey)](../groups/dc_madam.md)
+- [2023 DC Brothel Network](../groups/2023_dc_brothel_network.md) — Modern operation near DC suburbs servicing officials with security clearances
 - [PROMIS Software / The Octopus](../groups/promis_octopus.md)
 - [Franklin Scandal](../groups/franklin_scandal.md)
 - [CIA](../groups/cia.md)
 - [Mossad](../groups/mossad.md)
 - [Jeffrey Epstein Network](../groups/jeffrey_epstein_network.md)
+- [Kroll Associates](../groups/kroll_associates.md) — "CIA of Wall Street" connected to Deutsche Bank and Judge Salas attack
 
 ## Surprising Details
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Zelimkhan Khangoshvili
 Chechen-Georgian dissident and former military commander assassinated in broad daylight in a Berlin park by an FSB operative.

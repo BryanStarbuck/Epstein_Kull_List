@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # John Bedini
 American inventor and audio engineer who pioneered electromagnetic energy recovery devices, died suddenly on November 5, 2016 — only four hours after his brother Gary also died.

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Robert F. Kennedy
 U.S. Senator and presidential candidate, assassinated in Los Angeles on June 5, 1968. Some fringe theorists claim he was killed to prevent continuation of his brother JFK's alleged UFO disclosure efforts. No direct evidence links RFK's assassination to UAPs.

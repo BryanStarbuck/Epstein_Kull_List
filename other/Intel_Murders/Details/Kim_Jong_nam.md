@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Kim Jong-nam
 Half-brother of North Korean leader Kim Jong-un, assassinated with VX nerve agent at Kuala Lumpur International Airport in 2017 in a brazen North Korean intelligence operation.
@@ -58,6 +58,8 @@ Kim Jong-nam was the eldest son of North Korean dictator Kim Jong-il by his mist
 
 - [Georgi Markov](Georgi_Markov.md) — Bulgarian dissident assassinated with ricin pellet, another state-sponsored poisoning of a defector
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — Russian defector killed by polonium poisoning
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

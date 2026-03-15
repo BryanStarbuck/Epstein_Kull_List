@@ -1,7 +1,7 @@
 [< Back to Main List](../README.md) | [Locations](../locations.md)
 
 # Frank Yassenoff
-Business partner of Berry Kessler, shot to death alongside fiancee Ella Rich in unsolved double homicide.
+Business partner of [Berry Kessler](Berry_Kessler.md), shot to death alongside fiancee [Ella Rich](Ella_Rich.md) in unsolved double homicide.
 
 | Field | Details |
 |-------|---------|

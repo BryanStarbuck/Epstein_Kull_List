@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Victor Moore
 Marconi engineer working on infrared satellite systems who died of a drug overdose — MI5 reportedly investigated his death.

@@ -42,7 +42,7 @@ The Savile case is not directly connected to Epstein, but the parallels are exte
 
 - **Celebrity as cover:** Both used fame and social prestige to access victims and deflect suspicion
 - **Institutional protection:** BBC/NHS protected Savile; financial institutions and intelligence agencies allegedly protected Epstein
-- **Access to power:** Savile was close to the Royal Family (particularly Prince Charles); Epstein was close to [Prince Andrew](../../Details/Prince_Andrew.md), presidents, and prime ministers
+- **Access to power:** Savile was close to the Royal Family (particularly Prince Charles); Epstein was close to [Prince Andrew](../../Details/Prince_Andrew.md), presidents, and prime ministers. See [Jeffrey Epstein Network](jeffrey_epstein_network.md).
 - **Scale of abuse:** Both cases involved hundreds of victims over decades
 - **Exposure only after death/arrest:** Both operations continued for decades despite complaints and red flags
 - **Media suppression:** BBC killed the Savile investigation; multiple outlets spiked Epstein stories

@@ -16,7 +16,7 @@ Actor best known for *Friends*; died of ketamine overdose at 54. Five people cri
 
 ## Assessment: NOT SUSPICIOUS (Epstein connection) — MODERATE SUSPICION (broader elite drug network)
 
-There is **no verified connection** between Matthew Perry and Jeffrey Epstein. Perry's name does not appear on Epstein's flight logs, and fact-checkers have debunked viral claims placing him on those lists. However, the criminal investigation into his death revealed a disturbing drug supply network serving wealthy and celebrity clients in Los Angeles, and the callous exploitation of his addiction by medical professionals who viewed him as a profit opportunity. Five people were criminally charged, including two doctors and a dealer known as the "Ketamine Queen" who reportedly served a broader elite clientele that has never been fully disclosed. Whether that supply network connects to any larger pattern of elite exploitation remains an open question.
+There is **no verified connection** between Matthew Perry and [Jeffrey Epstein](Jeffrey_Epstein.md). Perry's name does not appear on Epstein's flight logs, and fact-checkers have debunked viral claims placing him on those lists. However, the criminal investigation into his death revealed a disturbing drug supply network serving wealthy and celebrity clients in Los Angeles, and the callous exploitation of his addiction by medical professionals who viewed him as a profit opportunity. Five people were criminally charged, including two doctors and a dealer known as the "Ketamine Queen" who reportedly served a broader elite clientele that has never been fully disclosed. Whether that supply network connects to any larger pattern of elite exploitation remains an open question.
 
 ## Circumstances of Death
 
@@ -74,7 +74,7 @@ Reports indicated that Sangha's full client list — which reportedly included o
 - **The "Ketamine Queen's" full client list has never been disclosed.** Jasveen Sangha reportedly served a wider network of wealthy and famous clients. Whether that network intersects with any broader patterns documented in this project is unknown.
 - **Perry's doctors viewed him as a revenue source, not a patient.** Dr. Plasencia called Perry a "moron" in text messages and charged a 16,000% markup on ketamine vials. This mirrors patterns of professionals exploiting vulnerable individuals.
 - **Perry was openly critical of Hollywood's culture.** His memoir detailed the dark side of fame, addiction, and the enabling behavior of those around celebrities. He was vocal about how the industry failed people struggling with substance abuse.
-- **The death parallels Michael Jackson's.** Both were high-profile Los Angeles deaths involving medical professionals criminally charged for supplying drugs that killed their famous clients. Jackson's doctor (Conrad Murray) was convicted of involuntary manslaughter in 2011.
+- **The death parallels [Michael Jackson](Michael_Jackson.md)'s.** Both were high-profile Los Angeles deaths involving medical professionals criminally charged for supplying drugs that killed their famous clients. Jackson's doctor (Conrad Murray) was convicted of involuntary manslaughter in 2011.
 - **Perry's assistant injected him six to eight times daily** with no medical training, suggesting either extreme negligence or willful disregard for his safety.
 
 ## Key Quotes from Media Coverage

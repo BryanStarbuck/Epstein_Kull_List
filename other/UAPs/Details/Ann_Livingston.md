@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Ann Livingston
 MUFON investigator and accountant who died of fast-acting ovarian cancer in 1994 after publishing research on electronic harassment and reporting encounters with Men in Black.

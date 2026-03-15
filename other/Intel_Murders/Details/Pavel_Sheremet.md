@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Pavel Sheremet
 Belarusian-born investigative journalist killed by a car bomb in Kyiv in 2016 — one of the most prominent unsolved journalist murders in Eastern Europe. A critic of authoritarian leaders in Belarus, Russia, and Ukraine.

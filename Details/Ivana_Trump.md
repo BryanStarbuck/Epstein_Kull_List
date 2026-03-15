@@ -16,7 +16,7 @@ Donald Trump's first wife, found dead at bottom of stairs in her Manhattan townh
 
 Ivana Trump's connection to the Epstein network is indirect but notable:
 
-- She was the ex-wife of Donald Trump, who had a documented social relationship with Jeffrey Epstein in the 1990s and early 2000s
+- She was the ex-wife of Donald Trump, who had a documented social relationship with [Jeffrey Epstein](Jeffrey_Epstein.md) in the 1990s and early 2000s
 - Trump and Epstein were photographed together and attended the same social events in Palm Beach and New York
 - Epstein was a member of Mar-a-Lago before being banned
 - The timing of Ivana's death — during the period of intensifying Epstein investigations — raised questions online
@@ -35,7 +35,7 @@ On July 14, 2022, Ivana Trump was found dead at the bottom of the steep spiral s
 - The hashtag **#Epsteined** trended on Twitter/X with over 8,000 tweets following her death
 - Her death came during a period when the NY Attorney General was pursuing a civil investigation against the Trump Organization, and her death delayed depositions
 - She was buried at Trump National Golf Club in Bedminster, New Jersey, in a plot that some noted could provide tax benefits for the property
-- The death occurred in the same year (2022) as a cluster of Epstein-connected deaths: Jean-Luc Brunel (February), Val Broeksmit (April), Mark Middleton (May), and Steven Hoffenberg (August)
+- The death occurred in the same year (2022) as a cluster of Epstein-connected deaths: [Jean-Luc Brunel](Jean_Luc_Brunel.md) (February), [Val Broeksmit](Val_Broeksmit.md) (April), [Mark Middleton](Mark_Middleton.md) (May), and [Steven Hoffenberg](Steven_Hoffenberg.md) (August)
 
 ## Assessment
 

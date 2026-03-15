@@ -14,7 +14,7 @@ Iconic case study in entertainment-industry grooming of minors; met Elvis Presle
 
 ## Assessment: CONTEXTUAL — PATTERN WITNESS
 
-Priscilla Presley is not connected to the Jeffrey Epstein network. Her name does not appear in Epstein's flight logs, contact books, or any released court documents. She is included in this project because her life story is one of the most well-documented cases of the entertainment industry's historical pattern of grooming underage girls — the same pattern that the Epstein network industrialized decades later. She was 14 years old when 24-year-old Elvis Presley began courting her in 1959, and biographers have documented that Elvis had a broader pattern of pursuing girls in their early-to-mid teens. Priscilla's decades-long involvement with the Church of Scientology, which faces its own trafficking and forced-labor allegations, adds another layer of connection to institutional abuse patterns.
+Priscilla Presley is not connected to the [Jeffrey Epstein](Jeffrey_Epstein.md) network. Her name does not appear in Epstein's flight logs, contact books, or any released court documents. She is included in this project because her life story is one of the most well-documented cases of the entertainment industry's historical pattern of grooming underage girls — the same pattern that the Epstein network industrialized decades later. She was 14 years old when 24-year-old Elvis Presley began courting her in 1959, and biographers have documented that Elvis had a broader pattern of pursuing girls in their early-to-mid teens. Priscilla's decades-long involvement with the Church of Scientology, which faces its own trafficking and forced-labor allegations, adds another layer of connection to institutional abuse patterns.
 
 ## Current Situation
 
@@ -92,7 +92,7 @@ Priscilla Presley has pushed back against the characterization of her relationsh
 
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Modeling agent who supplied girls to Epstein; found hanged in prison 2022. Represents the industrialized version of the "girl-getting" entourage model.
 - [Karen Mulder](Karen_Mulder.md) — Supermodel who named fashion industry predators in 2001; silenced and institutionalized. Another case of a young woman exploited by the entertainment/fashion industry.
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — DC Madam who said she would never commit suicide; found hanged. Another case of a woman connected to powerful men's sexual misconduct dying under disputed circumstances.
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — [DC Madam](../other/groups/dc_madam.md) who said she would never commit suicide; found hanged. Another case of a woman connected to powerful men's sexual misconduct dying under disputed circumstances.
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Epstein's co-conspirator, serving 20 years. The Epstein network systematized the grooming patterns that were normalized in the entertainment industry for decades.
 
 ## Sources

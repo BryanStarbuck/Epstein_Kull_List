@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Stanley Meyer
 Inventor who claimed to have developed a water fuel cell capable of powering an automobile; died suddenly at a restaurant in 1998, reportedly exclaiming "They poisoned me" before collapsing.
@@ -47,6 +47,7 @@ Despite the court ruling, Meyer continued promoting his technology and seeking i
 
 ## See Also
 
+- [Stanley Meyer (Zero Point Energy)](../../Zero_Point_Energy/Details/Stanley_Meyer.md) — This case also appears in the Zero Point Energy project
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
 - [Arie DeGeus](Arie_DeGeus.md) — Free energy inventor found dead at airport
 - [Paul Brown](Paul_Brown.md) — Nuclear battery inventor killed in car accident

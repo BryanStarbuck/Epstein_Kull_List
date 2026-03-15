@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Yevgeny Prigozhin
 Wagner Group founder killed in a plane crash two months after leading a mutiny against the Russian military.

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Nikola Tesla
 Legendary inventor of AC electricity and wireless power transmission who died alone in a New York hotel room in 1943; the FBI and Office of Alien Property immediately seized approximately 80 trunks of his papers, many of which remain unaccounted for.
@@ -47,6 +47,7 @@ Tesla made direct appeals to multiple governments, including the United States, 
 
 ## See Also
 
+- [Nikola Tesla (Zero Point Energy)](../../Zero_Point_Energy/Details/Nikola_Tesla.md) — This case also appears in the Zero Point Energy project
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher whose work was allegedly classified
 - [Floyd Sweet](Floyd_Sweet.md) — Free energy inventor whose research materials were confiscated after death
 - [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died before scheduled testing

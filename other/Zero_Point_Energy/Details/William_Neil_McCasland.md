@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Major General William Neil McCasland (USAF, Ret.)
 Former commander of the Air Force Research Laboratory at Wright-Patterson AFB, linked to UAP programs through WikiLeaks emails, missing since February 27, 2026.
@@ -104,6 +104,7 @@ The base has been alleged by UFO researchers for decades to house recovered craf
 - [Ning Li](Ning_Li.md) — Anti-gravity physicist, DOD-funded, disappeared from public life
 - [Amy Eskridge](Amy_Eskridge.md) — Anti-gravity researcher, died 2022 in Huntsville
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher, work classified
+- [William McCasland (UAP Deaths project)](../../UAPs/Details/William_McCasland.md) — Parallel profile in UAP Deaths project
 
 ## Sources
 

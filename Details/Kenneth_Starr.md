@@ -24,7 +24,7 @@ Kenneth Starr died in September 2022 from complications following surgery. He wa
 
 ## Background
 
-Starr was a high-powered attorney best known for his role as Independent Counsel during the Clinton-Lewinsky investigation. In the context of the Epstein case, Starr was part of the legal team that helped Jeffrey Epstein secure the controversial 2008 plea deal in West Palm Beach, Florida. That deal, widely criticized as a "sweetheart" arrangement, allowed Epstein to plead guilty to a lesser state charge and serve only 13 months, with generous work-release privileges, despite evidence of extensive abuse of minors.
+Starr was a high-powered attorney best known for his role as Independent Counsel during the Clinton-Lewinsky investigation. In the context of the Epstein case, Starr was part of the legal team that helped [Jeffrey Epstein](Jeffrey_Epstein.md) secure the controversial 2008 plea deal in West Palm Beach, Florida. That deal, widely criticized as a "sweetheart" arrangement, allowed Epstein to plead guilty to a lesser state charge and serve only 13 months, with generous work-release privileges, despite evidence of extensive abuse of minors.
 
 ## Why This Death Possibly Raises Questions
 

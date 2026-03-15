@@ -1,7 +1,7 @@
 [< Back to Main List](../README.md) | [Locations](../locations.md)
 
 # Marjorie Dyer
-Witness who co-signed Frank Yassenoff's will with Berry Kessler, died in questionable car accident.
+Witness who co-signed [Frank Yassenoff](Frank_Yassenoff.md)'s will with [Berry Kessler](Berry_Kessler.md), died in questionable car accident.
 
 | Field | Details |
 |-------|---------|

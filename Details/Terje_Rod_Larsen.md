@@ -45,7 +45,7 @@ The Epstein files revealed derogatory remarks by Rød-Larsen, including the phra
 
 ## Key Quotes from Media Coverage
 
-> "Jeffrey Epstein left little doubt about the value he placed on a Norwegian diplomat and his ambassador wife to tap a network of officials with ties to the United Nations and the Nobel Peace Prize. In his will, the pedophile financier bequeathed the couple's two children $5 million each."
+> "[Jeffrey Epstein](Jeffrey_Epstein.md) left little doubt about the value he placed on a Norwegian diplomat and his ambassador wife to tap a network of officials with ties to the United Nations and the Nobel Peace Prize. In his will, the pedophile financier bequeathed the couple's two children $5 million each."
 > — [Bloomberg (February 2026)](https://www.bloomberg.com/news/articles/2026-02-18/how-a-low-key-norwegian-became-epstein-s-top-diplomatic-fixer)
 
 > "The newly released US Justice Department files expose a relationship involving illicit loans, visa fraud for sex-trafficked women, and a beneficiary clause in Epstein's will worth millions of dollars."

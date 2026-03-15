@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Thomas Townsend Brown
 American physicist who discovered the Biefeld-Brown effect (electrogravitics), proposed antigravity propulsion to the U.S. military, and reportedly had his research classified and suppressed.

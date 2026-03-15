@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Héctor Gutiérrez Ruiz
 Former Speaker of the Uruguayan Chamber of Deputies, kidnapped and murdered in Buenos Aires in May 1976 alongside Senator Zelmar Michelini as part of Operation Condor.
@@ -53,6 +53,8 @@ Gutiérrez Ruiz was a member of the National Party (Partido Nacional) and served
 - [Juan José Torres](Juan_Jose_Torres.md) — Former Bolivian president assassinated in Buenos Aires in June 1976
 - [Orlando Letelier](Orlando_Letelier.md) — Chilean diplomat killed by DINA car bomb, Washington DC, 1976
 - [Carlos Prats](Carlos_Prats.md) — Chilean general assassinated by DINA in Buenos Aires, 1974
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

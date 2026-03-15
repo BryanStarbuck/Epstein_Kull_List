@@ -200,6 +200,14 @@ The [Locations](locations.md) index maps every death and operation geographicall
 
 **International:** [France](other/locations/france.md) (Brunel, modeling industry), [United Kingdom](other/locations/united_kingdom.md) (Maxwell family, Savile), [Other International](other/locations/other_international.md) (Belgium, Ukraine, Oman, Australia, Mexico)
 
+## Related Projects
+
+These companion projects document deaths and suppression connected to intelligence operations, UAP secrecy, and energy technology suppression:
+
+- **[Intelligence Service Murders](other/Intel_Murders/README.md)** — 105 profiles of political assassinations and suspicious deaths carried out by or connected to CIA, MI6, Mossad, KGB/FSB/GRU, and other intelligence services (1953–present)
+- **[UAP-Related Deaths](other/UAPs/README.md)** — Researchers, whistleblowers, and scientists who died under suspicious circumstances after investigating or disclosing UAP/UFO programs
+- **[Suppressed Energy Breakthroughs](other/Zero_Point_Energy/README.md)** — Suspicious deaths of inventors and physicists working on zero-point energy, cold fusion, water fuel cells, and other suppressed technologies (41 profiles)
+
 ## Detailed Research
 
 The [Details/](Details/) subdirectory contains:
@@ -210,6 +218,7 @@ The [Details/](Details/) subdirectory contains:
 - A detailed breakdown of the [NYPD Weiner laptop deaths](other/laptop.md)
 - [Groups & Organizations](other/groups/) — 15 profiles of intelligence services, trafficking operations, financial institutions, and other connected groups
 - [Locations](other/locations/) — 14 geographic profiles covering every region where deaths or operations occurred
+- [Books & Research Notes](other/Notes.md) — Comprehensive list of nonfiction books investigating Epstein and related intelligence/blackmail operations
 
 ## Data Files
 

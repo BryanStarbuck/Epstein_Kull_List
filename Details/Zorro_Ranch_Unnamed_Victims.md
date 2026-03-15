@@ -43,7 +43,7 @@ Multiple survivors have testified under oath that sexual abuse occurred at the r
 
 - **Annie Farmer** — Testified at Maxwell's 2021 trial that Maxwell gave her a nude massage at the ranch when she was 16, followed by an encounter with Epstein
 - **"Jane"** — Testified she was flown to New Mexico with Epstein and Maxwell, was sexually abused by Epstein at the ranch, and forced into "orgies"
-- **Virginia Giuffre** — Claimed she was trafficked to the ranch and "ordered to have sex with Epstein and other men there"; provided photographs of herself at the property
+- **[Virginia Giuffre](Virginia_Giuffre.md)** — Claimed she was trafficked to the ranch and "ordered to have sex with Epstein and other men there"; provided photographs of herself at the property
 - **Chauntae Davis** — Told CBS News in 2019 that she "was raped on Zorro Ranch at least twice"
 
 ## 2026 Investigation

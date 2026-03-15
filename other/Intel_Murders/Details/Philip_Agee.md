@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Philip Agee
 Former CIA case officer who became the agency's most famous whistleblower, exposing CIA operations across Latin America in his 1975 bestseller *Inside the Company: CIA Diary*. Died in Havana, Cuba, in 2008 from complications following surgery for perforated ulcers.
@@ -129,6 +129,8 @@ In his final years, Agee operated a travel agency website called CubaLinda.com, 
 - [Danny Casolaro](Danny_Casolaro.md) — Investigated PROMIS software and CIA connections; died before key meeting
 - [Karen Silkwood](Karen_Silkwood.md) — Whistleblower who died before delivering evidence
 - [David Kelly](David_Kelly.md) — UK weapons inspector who challenged official narrative; died under suspicious circumstances
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

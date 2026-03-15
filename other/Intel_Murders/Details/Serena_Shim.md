@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Serena Shim
 Lebanese-American journalist for Press TV who died in a suspicious car crash in Turkey in 2014, two days after reporting that Turkish intelligence (MIT) had accused her of espionage for her coverage of ISIS fighters using UN World Food Programme trucks to cross the Syria-Turkey border.

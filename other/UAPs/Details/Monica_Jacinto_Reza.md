@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Monica Jacinto Reza
 Aerospace materials scientist who worked as a Materials Science & Engineering Fellow at L3Harris and previously as a Fellow in Structural Alloys at Pratt & Whitney. Went missing while hiking near Mount Waterman in the Angeles National Forest on June 22, 2025, at age 60. Her body was not recovered during initial search operations. Listed in X posts alleging a connection to UAP materials research, but no public evidence supports suspicious circumstances beyond a hiking disappearance.
@@ -59,6 +59,7 @@ However, no public evidence indicates she worked on any UAP-related program, and
 
 ## See Also
 
+- [Monica Jacinto Reza (Zero Point Energy)](../../Zero_Point_Energy/Details/Monica_Jacinto_Reza.md) — This case also appears in the Zero Point Energy project
 - [William McCasland](William_McCasland.md) — Retired Air Force Major General missing since February 2026
 - [Ning Li](Ning_Li.md) — Antigravity researcher who disappeared from public life after receiving DOD grant
 

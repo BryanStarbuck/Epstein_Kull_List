@@ -59,7 +59,7 @@ By the time of his death, his liquid estate had reportedly dwindled from $600 mi
 
 ## Why This Death Possibly Raises Questions
 
-- Bing was deeply embedded in the Clinton donor network and his name appeared in 2026 Epstein file releases in communications between Doug Band and Ghislaine Maxwell.
+- Bing was deeply embedded in the Clinton donor network and his name appeared in 2026 Epstein file releases in communications between Doug Band and [Ghislaine Maxwell](Ghislaine_Maxwell.md).
 - His death occurred during the 2019-2020 period when multiple Epstein-connected individuals died.
 - His trust named the Clinton Foundation as sole beneficiary — he may have known details about Clinton-Epstein interactions.
 - However, he had well-documented depression, drug problems, financial collapse, and personal turmoil. Multiple friends confirmed his deteriorating mental state.

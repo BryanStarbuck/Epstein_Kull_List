@@ -91,13 +91,13 @@ After her role in exposing João de Deus became public, Bittencourt received dea
 
 ## Connection to Broader Elite Pedophile Networks
 
-While there is no direct evidence linking Sabrina Bittencourt or João de Deus to Jeffrey Epstein's specific operation, the structural parallels are striking:
+While there is no direct evidence linking Sabrina Bittencourt or João de Deus to [Jeffrey Epstein](Jeffrey_Epstein.md)'s specific operation, the structural parallels are striking:
 
 - **Celebrity protection:** Both Epstein and João de Deus maintained relationships with powerful political figures and celebrities (Bill Clinton visited both). This celebrity endorsement provided a shield against scrutiny.
 - **International trafficking:** Both operations allegedly involved international trafficking — Epstein across the Caribbean, New York, Florida, and New Mexico; João de Deus allegedly selling babies to couples on three continents.
 - **Institutional protection:** Both benefited from institutional protection. Epstein received a sweetheart plea deal in 2008; João de Deus operated openly for decades despite persistent rumors.
 - **Investigators dying:** Both cases involve investigators or activists who died under disputed circumstances after making public accusations.
-- **Intelligence connections:** While Epstein's ties to intelligence services (CIA, Mossad) are alleged, João de Deus's operation existed within a different sphere — but both exploited vulnerable populations at an industrial scale with apparent impunity.
+- **Intelligence connections:** While Epstein's ties to intelligence services ([CIA](../other/groups/cia.md), [Mossad](../other/groups/mossad.md)) are alleged, João de Deus's operation existed within a different sphere — but both exploited vulnerable populations at an industrial scale with apparent impunity.
 
 ## Key Quotes from Media Coverage
 
@@ -117,11 +117,11 @@ While there is no direct evidence linking Sabrina Bittencourt or João de Deus t
 - [Ted Gunderson](Ted_Gunderson.md) — Former FBI SAC who investigated elite trafficking networks for decades; died 2011
 - [Monica Petersen](Monica_Petersen.md) — Trafficking researcher who died in Haiti in 2016
 - [Jenny Moore](Jenny_Moore.md) — Journalist investigating trafficking; found dead in DC hotel in 2018
-- [Gary Caradori](Gary_Caradori.md) — Franklin scandal investigator whose plane disintegrated in 1990
-- [Danny Casolaro](Danny_Casolaro.md) — PROMIS investigator found with wrists slashed in 1991
+- [Gary Caradori](Gary_Caradori.md) — [Franklin](../other/groups/franklin_scandal.md) scandal investigator whose plane disintegrated in 1990
+- [Danny Casolaro](Danny_Casolaro.md) — [PROMIS](../other/groups/promis_octopus.md) investigator found with wrists slashed in 1991
 - [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.md) — Accused elites of murder on camera in Mexico; disappeared 2009
 - [Max Spiers](Max_Spiers.md) — Researcher investigating elite pedophilia; died in Poland in 2016
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — DC Madam who said she'd never hang herself; found hanged in 2008
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — [DC Madam](../other/groups/dc_madam.md) who said she'd never hang herself; found hanged in 2008
 
 ## Sources
 

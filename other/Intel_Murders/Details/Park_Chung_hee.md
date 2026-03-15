@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Park Chung-hee
 President of South Korea for 18 years, shot and killed by his own intelligence chief — KCIA Director Kim Jae-gyu — at a private dinner on October 26, 1979. U.S. intelligence had been in contact with the assassin in the weeks before the killing.
@@ -62,6 +62,8 @@ By 1979, Park faced mounting domestic unrest, including the Busan-Masan uprising
 
 - [Patrice Lumumba](Patrice_Lumumba.md) — Foreign leader assassinated with intelligence service involvement
 - [Thomas Sankara](Thomas_Sankara.md) — Foreign leader assassinated in a coup
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

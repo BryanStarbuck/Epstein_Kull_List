@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Ravil Maganov
 Chairman of Lukoil, Russia's largest private oil company, who fell from a sixth-floor hospital window in Moscow in September 2022 — months after Lukoil publicly called for an end to the Ukraine invasion.
@@ -62,7 +62,7 @@ In March 2022, Lukoil's board — under Maganov's chairmanship — issued a rare
 - [Leonid Shulman](Leonid_Shulman.md) — Gazprom transport chief, found dead January 2022
 - [Alexander Tyulakov](Alexander_Tyulakov.md) — Gazprom director, found dead February 2022
 - [Sergei Protosenya](Sergei_Protosenya.md) — Former Novatek head, found dead April 2022
-- [Alexander Subbotin](Alexander_Subbotin.md) — Former Lukoil board member, found dead May 2022
+- Alexander Subbotin — Former Lukoil board member, found dead May 2022
 
 ## Sources
 

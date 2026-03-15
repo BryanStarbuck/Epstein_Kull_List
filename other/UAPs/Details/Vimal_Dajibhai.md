@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Vimal Dajibhai
 24-year-old Marconi software engineer working on the Stingray torpedo system who plunged from the Clifton Suspension Bridge — found with trousers lowered and an unexplained needle puncture wound on his buttock.
@@ -47,6 +47,7 @@ Dajibhai's death, along with that of [Ashad Sharif](Ashad_Sharif.md) just two mo
 
 ## See Also
 
+- [Vimal Dajibhai (Zero Point Energy)](../../Zero_Point_Energy/Details/Vimal_Dajibhai.md) — This case also appears in the Zero Point Energy project
 - [Ashad Sharif](Ashad_Sharif.md) — Marconi computer analyst, died October 1986 in the same Bristol area
 - [Keith Bowden](Keith_Bowden.md) — GEC computer scientist, died March 1982
 - [David Sands](David_Sands.md) — Easams/Marconi SDI scientist, died March 1987

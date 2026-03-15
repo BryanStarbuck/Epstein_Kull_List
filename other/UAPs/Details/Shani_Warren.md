@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Shani Warren
 GEC/Micro Scope employee found gagged, bound, and drowned in 18 inches of water at Taplow Lake — originally listed among the Marconi deaths, her murder was solved in 2022 when serial sex attacker Donald Robertson was convicted via DNA evidence.
@@ -51,6 +51,7 @@ The 2022 DNA conviction of Donald Robertson conclusively established that Warren
 
 ## See Also
 
+- [Shani Warren (Zero Point Energy)](../../Zero_Point_Energy/Details/Shani_Warren.md) — This case also appears in the Zero Point Energy project
 - [David Greenhalgh](David_Greenhalgh.md) — ICL defense scientist, fell from bridge one week earlier, near same location
 - [Stuart Gooding](Stuart_Gooding.md) — RCMS postgraduate, died same month (April 1987)
 - [Mark Wisner](Mark_Wisner.md) — MOD software engineer, died same month (April 1987)

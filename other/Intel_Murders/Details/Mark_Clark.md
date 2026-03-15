@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Mark Clark
 Founder of the Peoria, Illinois Black Panther Party, killed alongside Fred Hampton during the FBI-coordinated pre-dawn police raid on December 4, 1969.

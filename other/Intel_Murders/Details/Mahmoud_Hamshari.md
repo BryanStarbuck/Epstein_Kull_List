@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Mahmoud Hamshari
 PLO representative in Paris killed by a Mossad phone bomb in 1972, one of the first targets of Operation Wrath of God following the Munich Olympics massacre.
@@ -58,6 +58,8 @@ Hamshari served as the official representative of the Palestine Liberation Organ
 - [Fathi Shaqaqi](Fathi_Shaqaqi.md) — Palestinian Islamic Jihad leader assassinated by Mossad in Malta (1995)
 - [Wadie Haddad](Wadie_Haddad.md) — PFLP leader allegedly poisoned by Mossad (1978)
 - [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md) — Hamas commander killed by Mossad in Dubai (2010)
+
+- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
 
 ## Sources
 

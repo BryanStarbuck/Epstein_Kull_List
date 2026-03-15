@@ -17,7 +17,7 @@ Epstein's Palm Beach mansion at 358 El Brillo Way was the site of most documente
 
 South Florida was also where [Jean-Luc Brunel](../../Details/Jean_Luc_Brunel.md)'s [MC2 Model Management](../groups/mc2_model_management.md) was headquartered — the modeling agency directly funded by Epstein that allegedly served as a trafficking pipeline.
 
-Mar-a-Lago, Donald Trump's Palm Beach club, was where Epstein was a member before being banned. Virginia Giuffre was recruited from Mar-a-Lago's spa by Ghislaine Maxwell.
+Mar-a-Lago, Donald Trump's Palm Beach club, was where Epstein was a member before being banned. [Virginia Giuffre](../../Details/Virginia_Giuffre.md) was recruited from Mar-a-Lago's spa by [Ghislaine Maxwell](../../Details/Ghislaine_Maxwell.md).
 
 ## Deaths in South Florida
 

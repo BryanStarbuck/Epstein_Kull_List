@@ -28,7 +28,7 @@ Rodriguez worked as a butler and house manager at [Jeffrey Epstein](Jeffrey_Epst
 
 ## The Black Book
 
-Rodriguez stole Epstein's "black book" — a 97-page journal that prosecutors called "The Holy Grail" in 2011. The book allegedly "detailed the full scope and extent of Epstein's involvement with underage girls." It contained contact details for Epstein's associates, including over 1,500 names, phone numbers, and addresses. Names in the book included Bill Clinton, Donald Trump, Prince Andrew, and many others.
+Rodriguez stole Epstein's "black book" — a 97-page journal that prosecutors called "The Holy Grail" in 2011. The book allegedly "detailed the full scope and extent of Epstein's involvement with underage girls." It contained contact details for Epstein's associates, including over 1,500 names, phone numbers, and addresses. Names in the book included Bill Clinton, Donald Trump, [Prince Andrew](Prince_Andrew.md), and many others.
 
 Rodriguez claimed he needed the book as insurance to protect his own life.
 

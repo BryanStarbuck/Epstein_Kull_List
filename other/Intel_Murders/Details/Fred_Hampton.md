@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Fred Hampton
 Chairman of the Illinois Black Panther Party, assassinated in his bed during a pre-dawn FBI-coordinated police raid. He was 21 years old.
@@ -76,6 +76,8 @@ Hampton organized free breakfast programs for children, free medical clinics, an
 
 - [Mark Clark](Mark_Clark.md) — Black Panther leader killed alongside Hampton in the same raid
 - [Pat Tillman](Pat_Tillman.md) — killed by own forces with subsequent cover-up
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

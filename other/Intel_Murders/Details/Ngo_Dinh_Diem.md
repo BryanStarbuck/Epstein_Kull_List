@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Ngo Dinh Diem
 South Vietnamese president assassinated during a CIA-backed military coup in 1963, shot in the back of an armored personnel carrier after surrendering.
@@ -56,6 +56,8 @@ Diem was born into one of Vietnam's noble Catholic families and served as Empero
 - [Salvador Allende](Salvador_Allende.md) — Chilean president overthrown in CIA-backed coup (1973)
 - [Rene Schneider](Rene_Schneider.md) — Chilean general killed in CIA-backed operation (1970)
 - [Rafael Trujillo](Rafael_Trujillo.md) — Dominican dictator killed with CIA-supplied weapons (1961)
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

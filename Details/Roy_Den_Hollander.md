@@ -1,7 +1,7 @@
 [< Back to Main List](../README.md) | [Locations](../locations.md)
 
 # Roy Den Hollander
-Self-described "anti-feminist" attorney and former Kroll Associates operative in Moscow who killed the son of Judge Esther Salas — the judge assigned to the Epstein-Deutsche Bank case — then was found dead from an apparent self-inflicted gunshot wound.
+Self-described "anti-feminist" attorney and former Kroll Associates operative in Moscow who killed the son of Judge [Esther Salas](Esther_Salas.md) — the judge assigned to the Epstein-Deutsche Bank case — then was found dead from an apparent self-inflicted gunshot wound.
 
 | Field | Details |
 |-------|---------|
@@ -20,11 +20,11 @@ Roy Den Hollander's death was ruled a suicide, and the surface-level narrative �
 
 ## Circumstances of Death
 
-On July 20, 2020 — the day after he allegedly shot and killed 20-year-old Daniel Anderl and critically wounded attorney Mark Anderl at the home of U.S. District Judge Esther Salas in North Brunswick, New Jersey — Roy Den Hollander was found dead along Ragin Road near Liberty in Sullivan County, New York. His body was discovered lying in the grass near a rental car. He had died from a single gunshot wound to the head, ruled self-inflicted.
+On July 20, 2020 — the day after he allegedly shot and killed 20-year-old [Daniel Anderl](Daniel_Anderl.md) and critically wounded attorney Mark Anderl at the home of U.S. District Judge Esther Salas in North Brunswick, New Jersey — Roy Den Hollander was found dead along Ragin Road near Liberty in Sullivan County, New York. His body was discovered lying in the grass near a rental car. He had died from a single gunshot wound to the head, ruled self-inflicted.
 
 Inside the rental car, investigators found:
 - A FedEx envelope addressed to Judge Esther Salas
-- An address linked to a residence in San Bernardino County, California (connecting him to the Marc Angelucci murder)
+- An address linked to a residence in San Bernardino County, California (connecting him to the [Marc Angelucci](Marc_Angelucci.md) murder)
 - A photo of New York Chief Judge Janet M. DiFiore
 - A manila folder containing information on U.S. Supreme Court Justice Sonia Sotomayor
 - A list of additional targets including other judges and doctors
@@ -51,7 +51,7 @@ Kroll Associates, founded by Jules Kroll in 1972, was widely known as the "CIA o
 
 The Kroll connection is particularly notable in the context of this case because:
 - **Kroll and Deutsche Bank:** Kroll had significant business relationships with Deutsche Bank, the same institution at the center of the Epstein-related case Judge Salas had just been assigned.
-- **Kroll and Robert Maxwell:** Jules Kroll reportedly met with Robert Maxwell — father of Ghislaine Maxwell — approximately two weeks before Maxwell's death in 1991, at New York's Helmsley Palace Hotel, where Maxwell allegedly sought to hire Kroll, according to investigative journalist Whitney Webb.
+- **Kroll and [Robert Maxwell](Robert_Maxwell.md):** Jules Kroll reportedly met with Robert Maxwell — father of [Ghislaine Maxwell](Ghislaine_Maxwell.md) — approximately two weeks before Maxwell's death in 1991, at New York's Helmsley Palace Hotel, where Maxwell allegedly sought to hire Kroll, according to investigative journalist Whitney Webb.
 - **Intelligence overlap:** Kroll's staffing of former intelligence agents from multiple countries placed it at the nexus of private intelligence, corporate espionage, and government interests.
 
 ### Russia Connections
@@ -77,7 +77,7 @@ In January 2020, Den Hollander informed reporters that he was "painfully dying f
 
 **July 11, 2020:** Marc Angelucci, 52, a men's rights attorney, was shot dead at his front door in Cedarpines Park, California. The gunman reportedly posed as a delivery person. According to men's rights activist Paul Elam, Den Hollander had harbored a grudge against Angelucci for years because both represented cases contesting selective service registration, and Den Hollander viewed Angelucci's work as an intrusion into his territory.
 
-**July 15, 2020:** Judge Esther Salas was assigned the Deutsche Bank investors' class action lawsuit — a case involving allegations that Deutsche Bank made false and misleading statements about its anti-money laundering policies and failed to flag suspicious transactions from Jeffrey Epstein's accounts.
+**July 15, 2020:** Judge Esther Salas was assigned the Deutsche Bank investors' class action lawsuit — a case involving allegations that Deutsche Bank made false and misleading statements about its anti-money laundering policies and failed to flag suspicious transactions from [Jeffrey Epstein](Jeffrey_Epstein.md)'s accounts.
 
 **July 19, 2020:** A person dressed as a FedEx delivery driver appeared at Judge Salas's home in North Brunswick, New Jersey. When her son Daniel Anderl, 20, opened the door, he was shot and killed. Her husband, attorney Mark Anderl, was shot multiple times and critically wounded. Judge Salas was in the basement and was not physically harmed.
 

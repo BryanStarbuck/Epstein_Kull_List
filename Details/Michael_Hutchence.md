@@ -16,7 +16,7 @@ INXS frontman found hanged in Sydney hotel room at age 37; ruled suicide but fam
 
 ## Assessment: UNCERTAIN
 
-Michael Hutchence's death has no direct connection to Jeffrey Epstein or the broader trafficking network documented in this project. However, his case is included in the broader pattern of high-profile music industry deaths ruled as suicide where family members and associates have publicly disputed the official findings. The circumstances contain several troubling elements: unexplained injuries on his body (laceration above his eye, marks on his hands), competing narratives from the coroner, family members, and his partner Paula Yates, a fortune that vanished into offshore trusts controlled by his business manager, and a 1992 brain injury that was kept secret for over two decades. His death also sits within the tragic chain of events that subsequently claimed the lives of Paula Yates (heroin overdose, 2000) and her daughter Peaches Geldof (heroin overdose, 2014) — the latter of whom had been publicly naming suspected pedophiles shortly before her death.
+Michael Hutchence's death has no direct connection to [Jeffrey Epstein](Jeffrey_Epstein.md) or the broader trafficking network documented in this project. However, his case is included in the broader pattern of high-profile music industry deaths ruled as suicide where family members and associates have publicly disputed the official findings. The circumstances contain several troubling elements: unexplained injuries on his body (laceration above his eye, marks on his hands), competing narratives from the coroner, family members, and his partner Paula Yates, a fortune that vanished into offshore trusts controlled by his business manager, and a 1992 brain injury that was kept secret for over two decades. His death also sits within the tragic chain of events that subsequently claimed the lives of Paula Yates (heroin overdose, 2000) and her daughter [Peaches Geldof](Peaches_Geldof.md) (heroin overdose, 2014) — the latter of whom had been publicly naming suspected pedophiles shortly before her death.
 
 ## Circumstances of Death
 
@@ -141,7 +141,7 @@ Peaches died approximately five months after the Ian Watkins naming incident. Th
 - [Anthony Bourdain](Anthony_Bourdain.md) — Found hanged in France, 2018; vocal against abusers
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Found hanged in jail cell, 2019
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Found hanged in prison cell awaiting trial, 2022
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "DC Madam," found hanged; said she'd never hang herself
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "[DC Madam](../other/groups/dc_madam.md)," found hanged; said she'd never hang herself
 
 ## Sources
 

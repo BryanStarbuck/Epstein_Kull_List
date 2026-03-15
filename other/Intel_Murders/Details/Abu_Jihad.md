@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Abu Jihad (Khalil al-Wazir)
 PLO co-founder and military commander assassinated by Israeli naval commandos at his home in Tunis.
@@ -54,6 +54,8 @@ Khalil Ibrahim al-Wazir, universally known by his nom de guerre Abu Jihad, was b
 - [Ali Hassan Salameh](Ali_Hassan_Salameh.md) — PLO security chief killed by Mossad car bomb, 1979
 - [Atef Bseiso](Atef_Bseiso.md) — PLO intelligence chief killed in Paris, 1992
 - [Hassan Nasrallah](Hassan_Nasrallah.md) — Hezbollah leader killed by Israeli airstrike, 2024
+
+- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
 
 ## Sources
 

@@ -24,14 +24,17 @@ The CIA's alleged connection to Jeffrey Epstein is less direct than the [Mossad]
 * Alleged cover-up of the [Franklin scandal](franklin_scandal.md) child trafficking ring, which allegedly reached the White House
 * Alleged protection of Epstein through the justice system via influence over prosecutors
 * Use of "honey trap" operations as a standard intelligence technique — Epstein's operation allegedly fit this model
+* CIA Director William Casey was allegedly a client of the [Henry Vinson Escort Service](henry_vinson_escort_service.md), according to Vinson's account
+* DynCorp, a major CIA/military contractor, was implicated in [trafficking women and girls in Bosnia](bosnia_dyncorp_trafficking.md) — contractors faced no criminal prosecution
 
 ## Key Figures
 
 * **Alexander Acosta** — U.S. Attorney who gave Epstein the 2008 plea deal; allegedly told to "leave it alone" because Epstein "belonged to intelligence"; later became Trump's Secretary of Labor
 * **Donald Barr** — Father of AG William Barr; hired Epstein to teach at the elite Dalton School in 1974 despite Epstein having no college degree; wrote a sci-fi novel about aliens enslaving humans for sex
 * **William Barr** — Attorney General under Trump during Epstein's 2019 death; oversaw the investigation; recused himself then un-recused
-* **Roy Den Hollander** — The gunman who killed Judge Salas's son [Daniel Anderl](../../Details/Daniel_Anderl.md); had previously worked for **Kroll Associates**, known as "the CIA of Wall Street"
+* [Roy Den Hollander](../../Details/Roy_Den_Hollander.md) — The gunman who killed Judge [Esther Salas](../../Details/Esther_Salas.md)'s son [Daniel Anderl](../../Details/Daniel_Anderl.md); had previously worked for **[Kroll Associates](kroll_associates.md)**, known as "the CIA of Wall Street"
 * [Danny Casolaro](../../Details/Danny_Casolaro.md) — Journalist investigating CIA involvement in the PROMIS/Octopus affair; **wrists slashed 1991**
+* [Ted Gunderson](../../Details/Ted_Gunderson.md) — Former FBI Special Agent in Charge who described CIA "brownstone operations" (intelligence-run sexual blackmail using minors); died 2011
 
 ## The Acosta Statement
 
@@ -55,7 +58,9 @@ The CIA's alleged connection to Epstein operates through several channels:
 - The "belonged to intelligence" statement by Acosta, if accurate, suggests official U.S. intelligence awareness of and involvement in Epstein's activities
 - The Donald Barr–Dalton School connection places Epstein in CIA-adjacent circles from the very beginning of his career
 - The [PROMIS software](promis_octopus.md) operation — which involved both CIA and [Mossad](mossad.md) — represents an earlier intelligence blackmail operation connected to the Maxwell family
-- Kroll Associates ("the CIA of Wall Street") connects to both [Deutsche Bank](deutsche_bank.md) and the attack on Judge Salas's family
+- [Kroll Associates](kroll_associates.md) ("the CIA of Wall Street") connects to both [Deutsche Bank](deutsche_bank.md) and the attack on Judge [Esther Salas](../../Details/Esther_Salas.md)'s family
+- The [Franklin scandal](franklin_scandal.md) allegedly involved CIA cover-up of child trafficking reaching the White House
+- [Henry Vinson Escort Service](henry_vinson_escort_service.md) clients allegedly included CIA Director William Casey
 
 ## Notable Books and Investigations
 

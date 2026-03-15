@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Michael Hastings
 Award-winning Rolling Stone and BuzzFeed journalist who died in a fiery high-speed car crash in Los Angeles in 2013 while reportedly investigating CIA Director John Brennan. Former counterterrorism czar Richard Clarke stated the crash was "consistent with a car cyber attack."
@@ -63,6 +63,8 @@ At the time of his death, Hastings was a reporter for BuzzFeed and was reportedl
 
 - [Gary Webb](Gary_Webb.md) — Journalist who investigated CIA drug trafficking and died under suspicious circumstances
 - [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating intelligence operations found dead before publishing
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

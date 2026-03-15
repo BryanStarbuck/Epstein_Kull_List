@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Carlos Prats
 Chilean Army general and former Commander-in-Chief, assassinated alongside his wife by a DINA car bomb in Buenos Aires in 1974 — the first known extraterritorial assassination by the Pinochet dictatorship and an early Operation Condor killing.
@@ -54,11 +54,13 @@ Prats was Pinochet's predecessor as Commander-in-Chief of the Chilean Army and h
 ## See Also
 
 - [Orlando Letelier](Orlando_Letelier.md) — Chilean diplomat assassinated by DINA in Washington, DC, using the same operative (Townley)
-- [Ronni Moffitt](../../Details/Ronni_Moffitt.md) — American killed alongside Letelier in the same DINA operation
+- [Ronni Moffitt](Ronni_Moffitt.md) — American killed alongside Letelier in the same DINA operation
 - [Salvador Allende](Salvador_Allende.md) — Chilean president who died during the 1973 coup
 - [Victor Jara](Victor_Jara.md) — Chilean folk singer killed during the coup
 - [Bernardo Leighton](Bernardo_Leighton.md) — Chilean politician targeted by DINA in Rome (survived)
 - [Charles Horman](Charles_Horman.md) — American journalist killed during the Chilean coup
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

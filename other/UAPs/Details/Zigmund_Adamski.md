@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Zigmund Adamski
 Polish-born British coal miner found dead atop a coal heap in Todmorden, West Yorkshire, covered in mysterious burns and an unidentifiable ointment-like substance, five days after disappearing from his home. The investigating officer later reported his own UFO encounter nearby.

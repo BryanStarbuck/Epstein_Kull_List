@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Natalya Estemirova
 Russian human rights activist who documented atrocities in Chechnya, kidnapped and shot dead.

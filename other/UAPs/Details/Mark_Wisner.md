@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Mark Wisner
 MOD software engineer found dead from asphyxiation with a plastic sack and cling film over his face — method almost identical to the death of [Richard Pugh](Richard_Pugh.md) three months earlier.

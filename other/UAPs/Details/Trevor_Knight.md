@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Trevor Knight
 Marconi computer engineer found dead from carbon monoxide poisoning with a hosepipe connected to his car exhaust — three suicide notes were found.
@@ -38,6 +38,7 @@ Trevor Knight was a 52-year-old senior computer engineer employed at Marconi Spa
 
 ## See Also
 
+- [Trevor Knight (Zero Point Energy)](../../Zero_Point_Energy/Details/Trevor_Knight.md) — This case also appears in the Zero Point Energy project
 - [John Brittan](John_Brittan.md) — RCMS scientist, CO poisoning January 1987
 - [David Skeels](David_Skeels.md) — Marconi engineer, CO poisoning February 1987
 - [Peter Peapell](Peter_Peapell.md) — RCMS scientist, CO poisoning February 1987

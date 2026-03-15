@@ -1,7 +1,7 @@
 [< Back to Main List](../README.md) | [Locations](../locations.md)
 
 # Danny Casolaro
-Investigative journalist found with wrists slashed while investigating the PROMIS/Octopus scandal linked to Robert Maxwell and intelligence blackmail operations.
+Investigative journalist found with wrists slashed while investigating the PROMIS/Octopus scandal linked to [Robert Maxwell](Robert_Maxwell.md) and intelligence blackmail operations.
 
 | Field | Details |
 |-------|---------|

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Enrique "Kiki" Camarena
 DEA special agent kidnapped, tortured for over 30 hours, and murdered in Guadalajara, Mexico, in 1985 after infiltrating the Guadalajara Cartel. CIA allegedly had foreknowledge and assets involved in the operation.
@@ -59,6 +59,8 @@ The murder of Camarena triggered a massive U.S. response known as Operation Leye
 - [Barry Seal](Barry_Seal.md) — CIA-connected drug smuggler murdered in 1986
 - [Gary Webb](Gary_Webb.md) — Journalist who exposed CIA-Contra-cocaine connections
 - [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating intelligence-criminal networks who died suspiciously in 1991
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

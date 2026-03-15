@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Sergei Protosenya
 Former chief accountant and board member of Russian gas giant Novatek, found hanged in the garden of his Spanish villa in April 2022 alongside his murdered wife and daughter. Ruled a murder-suicide, but forensic anomalies and his family dispute this.
@@ -61,7 +61,7 @@ After leaving Novatek in 2015–2016, Protosenya and his family resided primaril
 - [Ravil Maganov](Ravil_Maganov.md) — Lukoil chairman, fell from hospital window September 2022
 - [Leonid Shulman](Leonid_Shulman.md) — Gazprom transport chief, found dead January 2022
 - [Alexander Tyulakov](Alexander_Tyulakov.md) — Gazprom director, found dead February 2022
-- [Alexander Subbotin](Alexander_Subbotin.md) — Former Lukoil board member, found dead May 2022
+- Alexander Subbotin — Former Lukoil board member, found dead May 2022
 
 ## Sources
 

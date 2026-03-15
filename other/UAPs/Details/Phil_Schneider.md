@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Phil Schneider
 Ex-government geologist and structural engineer who claimed involvement in building deep underground military bases (DUMBs) and an alleged firefight with aliens at Dulce, New Mexico. Found dead in his apartment with a catheter tube wrapped around his neck.

@@ -1,3 +1,5 @@
+[< Back to Epstein Kill List](../../README.md) | [Intel Murders](../Intel_Murders/README.md) | [Energy Suppression](../Zero_Point_Energy/README.md) | [Groups](../groups/README.md)
+
 # UAP-Related Deaths: Researchers, Whistleblowers, and Scientists Silenced (1949–Present)
 
 In July 2023, former intelligence officer David Grusch told Congress under oath that he had "personal knowledge" of people being harmed or killed to conceal the U.S. government's possession of non-human technology. When asked directly whether assassinations had occurred, he said he could only answer in a classified setting. He confirmed he feared for his own life.

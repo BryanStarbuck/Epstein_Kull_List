@@ -1,7 +1,7 @@
 [< Back to Main List](../README.md) | [Locations](../locations.md)
 
 # John Deroo
-Business partner of Berry Kessler, shot six times in the face in a murder-for-hire arranged by Kessler.
+Business partner of [Berry Kessler](Berry_Kessler.md), shot six times in the face in a murder-for-hire arranged by Kessler.
 
 | Field | Details |
 |-------|---------|

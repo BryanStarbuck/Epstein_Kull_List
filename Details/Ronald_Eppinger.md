@@ -1,7 +1,7 @@
 [< Back to Main List](../README.md) | [Locations](../locations.md)
 
 # Ronald R. Eppinger Sr.
-Alleged first trafficker of Virginia Giuffre to Epstein, died in Miami with undocumented cause.
+Alleged first trafficker of [Virginia Giuffre](Virginia_Giuffre.md) to Epstein, died in Miami with undocumented cause.
 
 | Field | Details |
 |-------|---------|
@@ -40,7 +40,7 @@ Eppinger was described as a Miami pimp who allegedly was the first person to tra
 > At age 13, Virginia "was living on the streets of Miami Beach when she was approached by Ron Eppinger, a self-described modeling agent" which "was, in reality, a front for a sex trafficking operation."
 > — Crime Timelines ([Crime Timelines: Virginia Giuffre](https://crimetimelines.com/virginia-giuffre/))
 
-> "He was not part of the glamorous jet-set elite that orbited Jeffrey Epstein. He never flew to Little Saint James. He did not attend VIP dinners. Yet his operation in Miami became an early node in the trafficking web."
+> "He was not part of the glamorous jet-set elite that orbited [Jeffrey Epstein](Jeffrey_Epstein.md). He never flew to Little Saint James. He did not attend VIP dinners. Yet his operation in Miami became an early node in the trafficking web."
 > — Niels Groeneveld, researcher ([X/Twitter thread](https://x.com/nigroeneveld/status/1950229368757747913))
 
 ## See Also

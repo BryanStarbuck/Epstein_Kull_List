@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Maurice Bishop
 Prime Minister of Grenada and leader of the New Jewel Movement, deposed and executed by firing squad during an internal coup in October 1983. The United States invaded Grenada six days later. CIA involvement in destabilizing the revolution has been alleged.
@@ -58,6 +58,8 @@ Maurice Bishop was born on the island of Aruba to Grenadian parents and grew up 
 - [Jaime Roldos](Jaime_Roldos.md) — Ecuadorian president killed in suspicious 1981 plane crash
 - [Oscar Romero](Oscar_Romero.md) — Archbishop assassinated by US-backed forces in El Salvador in 1980
 - [Berta Caceres](Berta_Caceres.md) — Honduran activist killed by US-trained military intelligence operatives
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Uyrange Hollanda
 Captain in the Brazilian Air Force who commanded Operation Saucer (Operacao Prato), the military investigation of UFO attacks on Colares island, Para, Brazil in 1977-78. Gave a detailed public interview about his experiences in 1997, then was found hanged with a bathrobe belt three months later.

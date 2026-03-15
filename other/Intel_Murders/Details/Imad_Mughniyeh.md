@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Imad Mughniyeh
 Hezbollah's senior military commander and one of the most wanted terrorists in the world, killed by a car bomb in Damascus in 2008 in a confirmed joint CIA-Mossad operation. He had been linked to some of the deadliest attacks against American and Israeli targets over three decades.
@@ -61,6 +61,11 @@ Despite being one of the most wanted men in the world, Mughniyeh eluded capture 
 - [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md) — Hamas commander killed by Mossad in Dubai, 2010
 - [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md) — Iranian nuclear scientist killed by Mossad, 2020
 - [Ahmed Yassin](Ahmed_Yassin.md) — Hamas founder killed by Israeli airstrike, 2004
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+
+- [Hassan Nasrallah](Hassan_Nasrallah.md) — Hezbollah leader killed in 2024
 
 ## Sources
 

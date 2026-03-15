@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Tom Ogle
 El Paso inventor of a pressurized fuel vapor system who demonstrated 100 MPG efficiency, was shot and wounded, reported being drugged, and died of a Darvon and alcohol overdose ruled suicide.

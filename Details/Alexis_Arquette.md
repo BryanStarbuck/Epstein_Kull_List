@@ -91,7 +91,7 @@ While Arquette's death appears medically explained, the pattern of entertainment
 
 ## Connection to Epstein Network
 
-There is no documented direct connection between Alexis Arquette and Jeffrey Epstein or his network. Her accusations were directed at specific Hollywood figures regarding their private lives and alleged hypocrisy, not at trafficking or blackmail operations. However, the structural parallel is relevant: both Hollywood's abuse networks and Epstein's operation relied on institutional silence, the discrediting of accusers, and the suppression of evidence. Individuals who threatened to break that silence in either sphere have died at notable rates.
+There is no documented direct connection between Alexis Arquette and [Jeffrey Epstein](Jeffrey_Epstein.md) or his network. Her accusations were directed at specific Hollywood figures regarding their private lives and alleged hypocrisy, not at trafficking or blackmail operations. However, the structural parallel is relevant: both Hollywood's abuse networks and Epstein's operation relied on institutional silence, the discrediting of accusers, and the suppression of evidence. Individuals who threatened to break that silence in either sphere have died at notable rates.
 
 ## See Also
 

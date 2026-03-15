@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Chris Hani
 General Secretary of the South African Communist Party and chief of staff of Umkhonto we Sizwe, assassinated outside his home in 1993. While right-wing extremists were convicted, allegations of deeper intelligence service involvement persist.

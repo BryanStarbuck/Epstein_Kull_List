@@ -1,4 +1,4 @@
-[< Back to Main List](../../README.md)
+[< Back to Main List](../../README.md) | [Locations](../../locations.md) | [Intel Murders](../Intel_Murders/README.md) | [UAP Deaths](../UAPs/README.md) | [Energy Suppression](../Zero_Point_Energy/README.md)
 
 # Groups & Organizations
 
@@ -45,10 +45,23 @@ Organizations, intelligence services, financial institutions, and operations con
 |-------|-------------|
 | [Wexner / L Brands Network](wexner_l_brands.md) | Les Wexner's Columbus OH empire; source of Epstein's initial wealth and power |
 
-## Government Entities
+## Military Contractor Trafficking
 
 | Group | Description |
 |-------|-------------|
+| [Bosnia DynCorp Trafficking](bosnia_dyncorp_trafficking.md) | U.S. military contractors bought, sold, and raped trafficked women and girls as young as 12 in postwar Bosnia; whistleblowers fired; DynCorp continued receiving billions |
+
+## Modern DC-Area Operations
+
+| Group | Description |
+|-------|-------------|
+| [2023 DC Brothel Network](2023_dc_brothel_network.md) | Interstate prostitution network near Boston and DC suburbs servicing elected officials, military officers, and contractors with security clearances; compared to DC Madam case |
+
+## Political Machines & Government Entities
+
+| Group | Description |
+|-------|-------------|
+| [Arizona](arizona.md) | Hoffman-Biggs-Petersen-Farnsworth political machine; 1,063 missing children from group homes; DCS obstruction; Backpage HQ; The Blade trafficking corridor; Paul Petersen baby-selling; Turning Point dark money |
 | [USVI Government](usvi_government.md) | U.S. Virgin Islands territorial government that actively protected Epstein |
 
 ## Foreign Impunity Cases

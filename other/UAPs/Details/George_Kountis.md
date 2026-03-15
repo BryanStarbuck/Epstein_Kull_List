@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # George Kountis
 Systems analyst found dead in overturned car in the River Mersey, one of 25 British defense scientists to die under mysterious circumstances (1982-1990).

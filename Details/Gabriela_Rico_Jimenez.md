@@ -125,13 +125,13 @@ In her outburst, Jiménez claimed she had been held captive since 2001 — appro
 
 Jiménez fits a documented pattern of individuals who publicly accused powerful people or networks of crimes and were subsequently silenced or disappeared:
 
-- **[Karen Mulder](Karen_Mulder.md)** — Named Jean-Luc Brunel and modeling industry rapists on French TV in 2001. Footage destroyed. Hospitalized for five months. Career ended. (Brunel wasn't arrested for 19 more years.)
+- **[Karen Mulder](Karen_Mulder.md)** — Named [Jean-Luc Brunel](Jean_Luc_Brunel.md) and modeling industry rapists on French TV in 2001. Footage destroyed. Hospitalized for five months. Career ended. (Brunel wasn't arrested for 19 more years.)
 - **[Isaac Kappy](Isaac_Kappy.md)** — Named Hollywood pedophiles publicly. Said "if I die, it wasn't suicide." Fell from bridge (2019).
-- **[Nikolai Mushegian](Nikolai_Mushegian.md)** — Tweeted about CIA/Mossad sex trafficking ring in Puerto Rico. Drowned four hours later (2022).
+- **[Nikolai Mushegian](Nikolai_Mushegian.md)** — Tweeted about [CIA](../other/groups/cia.md)/[Mossad](../other/groups/mossad.md) sex trafficking ring in Puerto Rico. Drowned four hours later (2022).
 - **[Tracy Twyman](Tracy_Twyman.md)** — Researcher who warned about elite trafficking. Left dead man's switch. Found hanged (2019).
 - **[Max Spiers](Max_Spiers.md)** — Told mother "if anything happens to me, investigate." Found dead in Poland (2016).
 
-The silencing mechanism used on Jiménez — psychiatric institutionalization followed by complete disappearance — mirrors what happened to Karen Mulder, who was hospitalized for five months after naming her abusers on French television. In Mulder's case, the hospitalization was paid for by one of the men she accused.
+The silencing mechanism used on Jiménez — psychiatric institutionalization followed by complete disappearance — mirrors what happened to [Karen Mulder](Karen_Mulder.md), who was hospitalized for five months after naming her abusers on French television. In Mulder's case, the hospitalization was paid for by one of the men she accused.
 
 ### The Mexican Context
 
@@ -139,7 +139,7 @@ Mexico's environment of cartel violence, corruption, and impunity creates condit
 
 ### 2026 Epstein File Resurgence
 
-Jiménez's 2009 video went massively viral in January–February 2026 when the U.S. Department of Justice released over 3 million pages of Epstein-related documents. Some of those documents contained unverified allegations from sources about ritualistic abuse at private gatherings, which social media users found resonant with her 2009 claims. One email in the files reportedly stated "I loved the torture video," fueling further speculation. However, **no direct connection between Gabriela Rico Jiménez and Jeffrey Epstein exists in any released documents**. Fact-checkers from CBS News, Factually.co, and other outlets confirmed that no evidence links her case to the Epstein files.
+Jiménez's 2009 video went massively viral in January–February 2026 when the U.S. Department of Justice released over 3 million pages of Epstein-related documents. Some of those documents contained unverified allegations from sources about ritualistic abuse at private gatherings, which social media users found resonant with her 2009 claims. One email in the files reportedly stated "I loved the torture video," fueling further speculation. However, **no direct connection between Gabriela Rico Jiménez and [Jeffrey Epstein](Jeffrey_Epstein.md) exists in any released documents**. Fact-checkers from CBS News, Factually.co, and other outlets confirmed that no evidence links her case to the Epstein files.
 
 Her case resurfaced in public attention not because of a documented Epstein connection, but because of the broader pattern: a young woman who accused powerful elites of horrific crimes, was immediately silenced, and was never seen again. On X (formerly Twitter), her story trended with hashtags like "Justice for Gabriela," with users reposting the video and noting the parallels to other silenced witnesses documented in this research.
 

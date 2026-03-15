@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Frank Olson
 CIA biological warfare scientist who was covertly dosed with LSD by MKULTRA chief Sidney Gottlieb and fell to his death from a 13th-floor hotel window nine days later, in a case that has been variously classified as suicide, misadventure, and possible homicide.

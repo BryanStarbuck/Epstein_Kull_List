@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Epstein Kill List](../../../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Philo Taylor Farnsworth
 Inventor of electronic television at age 21, who later developed the first device to demonstrably produce nuclear fusion reactions, only to have his fusion research defunded by ITT and abandoned after his death.

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Milton William "Bill" Cooper
 Author, radio broadcaster, and self-described whistleblower who exposed alleged government conspiracies in his bestselling book *Behold a Pale Horse* (1991). Shot and killed by Apache County Sheriff's deputies during a late-night arrest operation at his home in Eagar, Arizona, on November 5, 2001 — less than two months after the September 11 attacks he had warned about.
@@ -113,6 +113,8 @@ Cooper's death — whether a justified shooting of a dangerous fugitive or the e
 - [Philip Haney](Philip_Haney.md) — DHS whistleblower; found dead, ruled suicide
 - [William Colby](William_Colby.md) — former CIA Director who cooperated with Church Commission; drowned under suspicious circumstances
 - [Barry Seal](Barry_Seal.md) — CIA-connected drug pilot turned informant; murdered after his cover was blown
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

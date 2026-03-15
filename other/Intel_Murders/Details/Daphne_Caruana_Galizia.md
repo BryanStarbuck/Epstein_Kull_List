@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Daphne Caruana Galizia
 Maltese investigative journalist assassinated by car bomb near her home after exposing high-level corruption linked to the Panama Papers. A public inquiry found the Maltese state bore responsibility.

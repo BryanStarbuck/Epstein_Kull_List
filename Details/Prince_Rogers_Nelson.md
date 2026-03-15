@@ -48,7 +48,7 @@ Prince told Rolling Stone in 1996: "People think I'm a crazy fool for writing 's
 
 **Reclaiming His Masters:** In 2014, Prince reached a deal with Warner Bros. that returned ownership of his master recordings. He had fought for this outcome for over two decades.
 
-**No Direct Epstein Connection:** There is no evidence that Prince was connected to Jeffrey Epstein, Ghislaine Maxwell, or their trafficking network. Prince does not appear in Epstein's flight logs, contact lists, or any court documents related to the case. His inclusion in this project is based on his status as a prominent figure who challenged elite power structures and died under circumstances that some find questionable — specifically the untraceable source of the counterfeit pills that killed him.
+**No Direct Epstein Connection:** There is no evidence that Prince was connected to [Jeffrey Epstein](Jeffrey_Epstein.md), [Ghislaine Maxwell](Ghislaine_Maxwell.md), or their trafficking network. Prince does not appear in Epstein's flight logs, contact lists, or any court documents related to the case. His inclusion in this project is based on his status as a prominent figure who challenged elite power structures and died under circumstances that some find questionable — specifically the untraceable source of the counterfeit pills that killed him.
 
 ## Why This Death Possibly Raises Questions
 

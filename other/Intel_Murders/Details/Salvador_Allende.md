@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Salvador Allende
 Chilean president overthrown and killed during the CIA-backed military coup of September 11, 1973.
@@ -63,6 +63,8 @@ As president, Allende nationalized Chile's copper mines (which were largely owne
 
 - [Rene Schneider](Rene_Schneider.md) — Chilean general assassinated by CIA-backed plotters in 1970 to enable the coup
 - [Orlando Letelier](Orlando_Letelier.md) — Chilean diplomat killed by DINA car bomb in Washington DC, 1976
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

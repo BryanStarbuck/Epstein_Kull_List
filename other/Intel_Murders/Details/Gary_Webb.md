@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Gary Webb
 Investigative journalist who exposed the CIA-Contra-crack cocaine connection, found dead with two gunshot wounds to the head, ruled suicide.
@@ -70,6 +70,8 @@ The series created a firestorm. Congresswoman Maxine Waters and other members of
 - [Barry Seal](Barry_Seal.md) — CIA-connected drug pilot murdered in 1986
 - [Danny Casolaro](Danny_Casolaro.md) — journalist investigating intelligence connections, found dead in 1991
 - [Michael Hastings](Michael_Hastings.md) — journalist investigating CIA Director, killed in car crash, 2013
+
+- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
 
 ## Sources
 

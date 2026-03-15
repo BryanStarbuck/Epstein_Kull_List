@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Arie DeGeus
 Inventor of a claimed zero-point energy battery who was found dead in his car in the long-term parking lot of Charlotte Douglas International Airport in November 2007, reportedly en route to Europe to secure major funding for commercialization of his technology.
@@ -49,6 +49,7 @@ At the time of his death, DeGeus was reportedly close to securing the funding ne
 
 ## See Also
 
+- [Arie DeGeus (Zero Point Energy)](../../Zero_Point_Energy/Details/Arie_DeGeus.md) — This case also appears in the Zero Point Energy project
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died under suspicious circumstances
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death
 - [Amy Eskridge](Amy_Eskridge.md) — NASA antigravity researcher found dead from gunshot wound in 2022

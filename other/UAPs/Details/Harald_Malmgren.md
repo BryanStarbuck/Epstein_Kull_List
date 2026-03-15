@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Harald Malmgren
 Economist and diplomatic advisor who served under Presidents Kennedy, Johnson, Nixon, and Ford. In the final months of his life, he made dramatic public claims about handling UFO debris and witnessing a craft shoot-down in 1962. However, FBI files declassified in May 2025 proved he fabricated key claims about his security clearances and role. Died of natural causes at age 89.

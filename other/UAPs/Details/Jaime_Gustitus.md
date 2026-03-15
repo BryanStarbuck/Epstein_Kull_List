@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to UAP Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Jaime Gustitus
 1st Lieutenant in the U.S. Air Force, serving as an Operations Research Analyst at the 711th Human Performance Wing, Air Force Research Laboratory, Wright-Patterson AFB. Shot and killed by colleague Jacob Prichard at her Sugarcreek Township condo on October 25, 2025, as part of a double murder-suicide.

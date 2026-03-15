@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Seth Rich
 DNC voter expansion data director shot and killed in Washington, DC in what police called a botched robbery — but nothing was stolen from his body.
@@ -114,6 +114,7 @@ Seth Rich's brother Aaron Rich also filed a separate defamation lawsuit against 
 - [Danny Casolaro](Danny_Casolaro.md) — journalist investigating intelligence connections who died under suspicious circumstances
 - [Michael Hastings](Michael_Hastings.md) — journalist who died in suspicious car crash while investigating intelligence operations
 - [Gary Webb](Gary_Webb.md) — journalist who died after exposing CIA operations
+- [Seth Rich (Epstein Kill List)](../../../Details/Seth_Rich.md) — Epstein Kill List cross-reference
 
 ## Sources
 

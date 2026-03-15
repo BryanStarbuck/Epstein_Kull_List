@@ -26,9 +26,9 @@ Virginia Giuffre was found dead on her farm in Neergabby, Western Australia. Wes
 
 Virginia Giuffre was raised primarily in Florida and had a troubled childhood. She was abused by a family friend and lived on the streets as a teenager. She met [Ghislaine Maxwell](Ghislaine_Maxwell.md) while attempting to rebuild her life. Maxwell groomed her to be sexually abused by Epstein from 1999 to 2002.
 
-Giuffre alleged that [Epstein](Jeffrey_Epstein.md) trafficked her to powerful associates including Prince Andrew, [Jean-Luc Brunel](Jean_Luc_Brunel.md), and others. She filed a federal lawsuit against Prince Andrew in 2021 alleging sexual abuse when she was 17. Andrew settled for an undisclosed amount in February 2022 while denying the allegations.
+Giuffre alleged that [Epstein](Jeffrey_Epstein.md) trafficked her to powerful associates including [Prince Andrew](Prince_Andrew.md), [Jean-Luc Brunel](Jean_Luc_Brunel.md), and others. She filed a federal lawsuit against Prince Andrew in 2021 alleging sexual abuse when she was 17. Andrew settled for an undisclosed amount in February 2022 while denying the allegations.
 
-Giuffre provided critical testimony and information to law enforcement that contributed to the investigation and conviction of Ghislaine Maxwell. She testified against Jean-Luc Brunel in a Paris courtroom in June 2021. She was one of the earliest and loudest voices calling for criminal charges, and other survivors credited her with giving them the courage to speak out.
+Giuffre provided critical testimony and information to law enforcement that contributed to the investigation and conviction of [Ghislaine Maxwell](Ghislaine_Maxwell.md). She testified against [Jean-Luc Brunel](Jean_Luc_Brunel.md) in a Paris courtroom in June 2021. She was one of the earliest and loudest voices calling for criminal charges, and other survivors credited her with giving them the courage to speak out.
 
 ## Why This Death Possibly Raises Questions
 

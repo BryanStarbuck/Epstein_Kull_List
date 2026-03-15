@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Sergei Magnitsky
 Russian tax advisor and whistleblower who exposed a $230 million government fraud and died in prison after being beaten and denied medical treatment.

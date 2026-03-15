@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Ruth First
 South African anti-apartheid activist, scholar, and journalist assassinated by a letter bomb sent by South African Military Intelligence while working at a university in Maputo, Mozambique, in 1982.
@@ -58,6 +58,8 @@ Ruth First was born in Johannesburg to Jewish Lithuanian immigrant parents who w
 - [Chris Hani](Chris_Hani.md) — SACP leader assassinated in South Africa in 1993
 - [Steve Biko](Steve_Biko.md) — Anti-apartheid activist killed in police custody in 1977
 - [Georgi Markov](Georgi_Markov.md) — Bulgarian dissident assassinated by intelligence service using a specialized weapon
+
+- [Eduardo Mondlane](Eduardo_Mondlane.md) — Mozambican independence leader killed by bomb
 
 ## Sources
 

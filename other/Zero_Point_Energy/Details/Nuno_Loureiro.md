@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Nuno Filipe Gomes Loureiro
 Portuguese plasma physicist and MIT professor, shot and killed outside his apartment in Brookline, MA, in December 2025.
@@ -59,7 +59,10 @@ MIT's Plasma Science and Fusion Center was closely collaborating with Commonweal
 
 ## See Also
 
-- [Main List](../README.md)
+- [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
+- [Philo Farnsworth](Philo_Farnsworth.md) — Fusion pioneer whose research was defunded by ITT
+- [Carl Grillmair](Carl_Grillmair.md) — Caltech astrophysicist shot dead in 2026
+- [Nuno Loureiro (UAP Deaths project)](../../UAPs/Details/Nuno_Loureiro.md) — Parallel profile in UAP Deaths project
 
 ## Sources
 
