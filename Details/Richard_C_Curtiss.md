@@ -6,7 +6,7 @@ Former MCC inmate who emailed media outlets and authorities in 2021 claiming Jef
 | Field | Details |
 |-------|---------|
 | **Full Name** | Richard C. Curtiss |
-| **Status** | Alive (as of late 2025) |
+| **Status** | Alive (as of March 2026) |
 | **Current Location** | Wayland, New York |
 | **Category** | Whistleblower |
 | **Connection** | Former inmate at Metropolitan Correctional Center (MCC), New York |
@@ -31,6 +31,7 @@ Curtiss's communications to media and authorities reportedly included the follow
 - **"Goon Squad" involvement:** He described a group he called the "GOON SQUAD" that allegedly carried camcorders to record killings inside the facility. According to Curtiss: "whenever the cameras are turned off by the 'GOON SQUAD' to kill someone they always carry camcorders to record everything."
 - **Direct threats received:** Curtiss included a quote from what he described as a warning he received while incarcerated: *"Richard, these people will kill you, you don't go into the warden's office, these people will kill you. They will come into your room at night when you're sleeping and beat you over the head with a fire extinguisher and kill you and then they will throw the fire extinguisher into one of our rooms and blame one of us for killing you. You don't go into the warden's office."*
 - **He was also inside MDC:** Curtiss stated he was incarcerated at both MCC and the Metropolitan Detention Center (MDC) in Brooklyn, where [Ghislaine Maxwell](Ghislaine_Maxwell.md) was later held.
+- **24+ fully redacted pages follow his email in DOJ files:** In the 2026 DOJ document release under the Epstein Files Transparency Act, the pages immediately following Curtiss's email to the NY Post are entirely redacted — 24 or more pages blacked out — sparking speculation about what threats, evidence, or further details they may contain.
 
 ## Background
 
@@ -42,10 +43,13 @@ Curtiss resides at 8393 Pardee Hollow Road, Wayland, NY 14572, where he maintain
 
 He was reportedly a Republican National Committee "Charter Member" Gold Card recipient in 2010. He allegedly declared a presidential candidacy in 2024, though no major news coverage or official filings have been found to substantiate this.
 
+A Secret Service file on Curtiss (file number 20200877) reportedly exists but is entirely redacted — blacked out in full — raising questions about why the Secret Service maintained a file on him and what it contains.
+
 ### Court Filings
 
 Federal court records reveal that Curtiss has been a prolific pro se litigant:
 
+- **2007 court appeal:** Curtiss reportedly filed an appeal in 2007 claiming unfair arrests and being framed. Courts subsequently blocked his email communications, but he allegedly persisted by creating new email addresses to continue filing.
 - **Curtiss v. N.Y. State Department of Parole et al** (6:2009cv06171) — Filed in the U.S. District Court for the Western District of New York, suggesting he was at some point under state parole supervision.
 - **Curtiss v. Federal, State, County, City Governments-USA, Their Employees, Their Unions, Others** (6:2011cv06006) — A sweeping civil complaint filed in the Western District of New York that was dismissed with prejudice by Judge Michael A. Telesca on March 2, 2011.
 - **Curtiss v. U.S. Department of Agriculture et al** (6:16-mc-06001) — Filed March 1, 2016 in the Western District of New York before Judge David G. Larimer. His motion for permission to file a new action was denied with prejudice on June 22, 2017. His subsequent appeal and request to proceed in forma pauperis were both denied.
@@ -54,7 +58,7 @@ The pattern of filings — including a case against the NY State Department of P
 
 ### Current Status
 
-As of early 2026, Curtiss appears to still be alive and residing in Wayland, New York. His website remains active, and his contact information is publicly listed. No reports of his death, disappearance, or further incarceration have been found.
+As of March 2026, Curtiss appears to still be alive and residing in Wayland, New York. His website remains active, and his contact information is publicly listed. No reports of his death, disappearance, or further incarceration have been found. Discussions on X treat him as alive or recently active through at least 2025, though some users have characterized him as an "attention-seeking" individual with a history of eccentric legal filings.
 
 ## Why This Person Matters
 
@@ -82,6 +86,7 @@ Several of Curtiss's claims are consistent with facts established by official in
 - His assertion that he was personally inside the SHU near Epstein's cell has not been verified through independent records.
 - His claim about being incarcerated "for reporting the murder of farmers" has no corroboration in public records.
 - The 40+ image attachments he sent to the NY Post have not been publicly analyzed or discussed by any news outlet.
+- The New York Times reportedly responded to his outreach but ultimately published no story.
 - No major media outlet has published a full story based on his claims.
 
 ### Official Conclusions vs. Emerging Evidence
