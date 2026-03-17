@@ -9,8 +9,8 @@ Inventor of a "fuelless motor" that reportedly drew power from the Earth's magne
 | **Born** | June 3, 1898 |
 | **Died** | April 1961 (reported dates vary: April 19 or April 21, 1961) |
 | **Age at Death** | 62 |
-| **Location of Death** | United States |
-| **Cause of Death** | Carbon monoxide poisoning (official); some sources claim train wreck |
+| **Location of Death** | Cypress, Orange County, California |
+| **Cause of Death** | Carbon monoxide poisoning from car exhaust (official ruling: suicide). Train wreck claim is a conflation with [Dr. Frederick Hochstetter](Frederick_Hochstetter.md)'s death. |
 | **Official Ruling** | Suicide |
 | **Category** | Inventor |
 
@@ -24,13 +24,17 @@ Lester Hendershot spent over three decades attempting to develop and commerciali
 
 According to media reports from April 1961, Lester Hendershot was found dead by his wife. The reported cause was suicide by carbon monoxide poisoning — he had allegedly inhaled exhaust fumes from his car. This is the most widely documented account of his death.
 
-### Alternative Account: Train Wreck
+### The Train Wreck Confusion — Solved
 
-Some sources in the free energy research community claim that Hendershot was killed in a Baltimore and Ohio Railroad train wreck and was the only passenger on the entire train who lost his life. However, this account is not well sourced, and some researchers believe it may confuse Hendershot with another individual (possibly a Dr. Hochstetter who was involved with similar technology). The train wreck claim has not been substantiated by mainstream historical records.
+Some free energy sources claim Hendershot died in a B&O train wreck. This is a conflation with the death of **[Dr. Frederick Hochstetter](Frederick_Hochstetter.md)**, the Pittsburgh researcher who publicly debunked Hendershot's motor in 1928. Hochstetter died as the sole passenger fatality in a Baltimore and Ohio Railroad train wreck in the late 1920s or early 1930s. See [Hochstetter's profile](Frederick_Hochstetter.md) for details.
 
-### The Discrepancy
+### Mark Hendershot's Account
 
-The existence of two fundamentally different accounts of the same person's death — suicide versus being the sole fatality in a train accident — is itself notable. The lack of clear, definitive documentation about the circumstances has fueled ongoing speculation.
+According to Mark Hendershot (Lester's son, age 13 at the time), he came home with his brothers and sister to find their father dead in a car in their back yard in Cypress, California. The official cause was suicide by carbon monoxide poisoning from car exhaust.
+
+### The Son's Death — Same Method, 10 Years Earlier
+
+Lester's eldest son **Lester Jay Hendershot Jr.** died on October 5, 1951, at age 27, also found in a gas-poisoned car. A piece of radiator hose had been run from the exhaust into a window. The motor was still running when police arrived. The Pittsburgh Press reported the death, noting the father's earlier fame. Both father and eldest son died the same way — carbon monoxide in a car — ten years apart.
 
 ## Background
 
@@ -42,9 +46,25 @@ On February 28, 1928, Lester Hendershot made front-page headlines across the Uni
 
 Hendershot's demonstrations attracted significant attention:
 
-- **Major Thomas Lanphier:** A U.S. Army Air Corps officer who witnessed Hendershot's demonstrations and reportedly confirmed that the device produced power. Lanphier initially supported Hendershot's claims publicly.
-- **Charles Lindbergh:** The famous aviator reportedly witnessed at least one demonstration of the Hendershot device.
-- **Selfridge Field demonstration:** Hendershot demonstrated his generator at Selfridge Field (a military installation near Detroit), where it reportedly powered a small motor and a radio.
+- **Major Thomas Lanphier:** Commandant at Selfridge Field (Detroit). Witnessed demonstrations and reportedly confirmed the device produced power.
+- **Charles Lindbergh:** On February 25, 1928, Lindbergh arrived at Selfridge Field with financial backers to potentially fund mass production. He witnessed at least two demonstrations. The inspection was "made in the interests of capitalists who were arranging to purchase the invention."
+- **William Mayo** (chief engineer of Ford Motor Company) and **William Stout** (developer of the three-motor airplane design) investigated and reportedly "pronounced it genuine."
+- **Selfridge Field demonstration:** The devices were demonstrated at Selfridge Field (a military installation near Detroit), where they reportedly powered a small motor and a radio. Crucially, the devices at Selfridge were constructed by military mechanics — not Hendershot — reducing the possibility of concealed power sources.
+- **Congress** proposed a bill allowing government scientists to review Hendershot's invention for patent protection.
+
+### The $25,000 Suppression Payment
+
+While hospitalized after the March 1928 shock, Hendershot was approached by representatives of a large unnamed corporation. The deal: $25,000 in exchange for not building another unit for 20 years. Until the day he died, Hendershot refused to name the company, saying only that his generator "would be a serious threat to their multimillion dollar industry."
+
+Mark Hendershot (his son) believed this corporation had first tried to discredit his father through [Dr. Frederick Hochstetter](Frederick_Hochstetter.md)'s public debunking campaign. When that failed, they bought him off directly.
+
+### The 1935 Backtrack
+
+In a 1935 Pittsburgh Press interview, Hendershot significantly downplayed his claims, stating his principle "worked only for small mechanisms like clock movements" and attributing the earlier controversy to "extravagant ideas of others."
+
+### The 1958 Revival
+
+In July 1958, Ed Skilling (a Columbia University-associated scientist) was brought in by an investor who had secured a 50% interest option. Testing continued from July to October 1958. On October 26, 1958, Skilling finally witnessed a real demonstration of electrical phenomena. Notably, Hendershot's children were able to operate the unit to power a floor lamp and television in the family living room without their father present or aware.
 
 ### The March 1928 Hospitalization
 
@@ -73,6 +93,8 @@ After the initial sensation of 1928, Hendershot spent the remaining 33 years of 
 - **33 years of suppression:** Hendershot spent over three decades trying to develop technology that threatened fossil fuel industries, enduring constant opposition
 - **Military interest:** The U.S. military's initial interest in his device — and its subsequent apparent withdrawal of support — suggests potential government involvement in suppression
 - **Pattern:** His death fits the broader pattern of energy inventors who died before bringing their technology to market
+- **Son died the same way:** Lester Jay Hendershot Jr. died of carbon monoxide in a car in 1951, age 27 — ten years before his father died identically. Two family members dying the same way is unusual
+- **[Dr. Hochstetter](Frederick_Hochstetter.md) also died:** The man who publicly debunked Hendershot's motor was the sole passenger fatality in a B&O train wreck
 - **"Suicide" as cover:** Carbon monoxide poisoning from car exhaust was a commonly reported method for deaths that some researchers believe were staged to look like suicides
 
 ## The Counterargument
@@ -86,10 +108,12 @@ After the initial sensation of 1928, Hendershot spent the remaining 33 years of 
 
 ## See Also
 
+- [Dr. Frederick Hochstetter](Frederick_Hochstetter.md) — The man who debunked Hendershot's motor; sole fatality in a B&O train wreck
 - [Andrija Puharich](Andrija_Puharich.md) — Inventor of water splitting technology whose home was destroyed by arson
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly at a restaurant
 - [Arie DeGeus](Arie_DeGeus.md) — Clean energy inventor who died of heart failure en route to secure funding
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death
+- [Thomas Bearden](Thomas_Bearden.md) — MEG inventor whose collaborator John Bedini also died suddenly
 
 ## Sources
 
@@ -101,5 +125,9 @@ After the initial sensation of 1928, Hendershot spent the remaining 33 years of 
 - [Lester Hendershot — Kook Science](https://hatch.kookscience.com/wiki/Lester_Hendershot)
 - [Hendershot Fuel Less Generator — Instructables (PDF)](https://content.instructables.com/FC2/3PPI/HSHDUKZ8/FC23PPIHSHDUKZ8.pdf)
 - [Lester J. Hendershot Invented a Free Energy Generator and Was Eliminated — IntoTheLight.news](https://intothelight.news/2025/11/04/lester-j-hendershot-invented-a-free-energy-generator-was-eliminated/)
+- [A Story of Free Energy (Part I) by Ed Skilling — Borderland Sciences](https://borderlandsciences.org/journal/vol/18/n05/A_Story_of_Free_Energy_(Part_I).html)
+- [A Story of Free Energy (Part II) by Ed Skilling — Borderland Sciences](https://borderlandsciences.org/journal/vol/18/n06/A_Story_of_Free_Energy_(Part_II).html)
+- [From the Archives of Lester J. Hendershot by Mark Hendershot — Scribd](https://www.scribd.com/document/19041370/From-the-Archives-of-Lester-J-Hendershot-by-Mark-Hendershot)
+- [Lester J. Hendershot — Natural Philosophy Wiki](https://www.wiki.naturalphilosophy.org/index.php?title=Lester_J_Hendershot)
 
 *This information was built by Grok and Claude AI research.*

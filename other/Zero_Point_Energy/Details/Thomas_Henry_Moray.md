@@ -16,7 +16,7 @@ Inventor of the "Moray Valve" radiant energy device who was shot at multiple tim
 
 ## Assessment: ATTACKED AND SUPPRESSED
 
-Thomas Henry Moray was not murdered — he died of natural causes at age 81. However, his case is one of the most dramatic examples of physical attacks and technology destruction directed at an energy inventor. Moray claimed to have developed a device that could extract usable electrical energy from "radiant energy" — what he described as energy permeating the cosmos. He gave public demonstrations of the device throughout the 1930s, reportedly powering lights and appliances without any conventional power source. He was shot at on multiple occasions, sustaining a bullet wound to his leg in one attack. His laboratory was ransacked. In 1941, his research assistant Felix Frazer allegedly destroyed the Moray Valve device with an ax during a laboratory confrontation. Soviet agents reportedly approached Moray seeking to acquire the technology. Despite decades of effort, the device was never successfully reproduced, and the core component — a proprietary semiconductor-like material Moray called the "Swedish Stone" — was apparently destroyed along with the device.
+Thomas Henry Moray was not murdered — he died of natural causes at age 81. However, his case is one of the most dramatic examples of heavy suppression and threats directed at an energy inventor, and is considered a pre-Vesperman era case that set the template for the pattern of suppression seen with later alternative energy inventors. Moray claimed to have developed a device that could extract usable electrical energy from "radiant energy" — what he described as energy permeating the cosmos. He gave public demonstrations of the device throughout the 1930s, reportedly powering lights and appliances without any conventional power source. He was shot at on multiple occasions, sustaining a bullet wound to his leg in one attack. His laboratory was ransacked. In 1941, his research assistant Felix Frazer allegedly destroyed the Moray Valve device with an ax during a laboratory confrontation. Soviet agents reportedly approached Moray seeking to acquire the technology. Despite decades of effort, the device was never successfully reproduced, and the core component — a proprietary semiconductor-like material Moray called the "Swedish Stone" — was apparently destroyed along with the device.
 
 ## Circumstances of the Attacks
 
@@ -72,6 +72,10 @@ Moray applied for patents on his radiant energy device but was reportedly denied
 After the destruction of the Moray Valve in 1941, Moray spent the remaining three decades of his life attempting to recreate the device. He was never successful, reportedly because he could not reproduce the Swedish Stone material. He continued to write and speak about radiant energy until his death in 1974.
 
 His son, John Moray, continued advocating for his father's work after his death and authored materials about the radiant energy device.
+
+### Historical Significance as a Suppression Template
+
+Moray's case is notable as a pre-Vesperman era example that established the template for how alternative energy inventors would be suppressed in subsequent decades. The pattern he experienced — successful public demonstrations, followed by heavy suppression and threats, shooting attacks, laboratory break-ins, insider sabotage, patent denial, and the eventual destruction of irreproducible technology — became the recurring playbook seen in later cases such as [Stanley Meyer](Stanley_Meyer.md), [Tom Ogle](Tom_Ogle.md), and [Rory Johnson](Rory_Johnson.md). Moray endured decades of sustained heavy suppression and threats throughout his career, making his case one of the longest-running documented examples of this pattern.
 
 ## Why This Death Possibly Raises Questions
 

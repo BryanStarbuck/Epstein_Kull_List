@@ -34,6 +34,8 @@ On August 19, 1981, Tom Ogle was found dead. The cause of death was determined t
 
 Ogle was approximately 24 to 28 years old at the time of his death. The exact birth year is uncertain — sources variously give 1953 and 1956.
 
+**Note on date discrepancy:** Some sources report Ogle's death as occurring in 1979 at age 26, rather than 1981. The most commonly cited date is August 19, 1981, but the 1979 date appears in multiple alternative energy compilations. This discrepancy has not been definitively resolved.
+
 ## Background
 
 ### The Ogle Fuel System
@@ -71,7 +73,9 @@ Ogle's work occurred during the 1970s energy crisis, when OPEC oil embargoes had
 - **SEC action:** The SEC injunction against Advanced Fuel Systems Inc. effectively killed the commercial pathway for Ogle's technology. Whether the SEC action was routine enforcement or was influenced by interests opposed to the technology is unknown
 - **Successful public demonstration:** Ogle had demonstrated his system publicly, with media witnesses, achieving results that would have threatened the petroleum industry. Inventors who merely *claim* breakthroughs are not threatening — inventors who *demonstrate* them are
 - **Pattern:** Ogle's trajectory — public demonstration, investor interest, regulatory interference, physical attacks, reported drugging, and death by overdose — follows the pattern seen with other energy inventors, including [Stanley Meyer](Stanley_Meyer.md) (died during investor meeting) and [Eugene Mallove](Eugene_Mallove.md) (killed while gaining political momentum)
-- **Technology disappeared:** After Ogle's death, his fuel vapor system was not developed further. The combination of the inventor's death, the SEC injunction on his business partners, and the lack of published technical specifications ensured the technology did not reach the market
+- **Connected deaths:** Two people connected to Ogle reportedly died mysteriously after his death — one in a mugging and another at a shooting range. These deaths have not been independently verified but are cited in alternative energy literature as part of the pattern of eliminating anyone with knowledge of the technology
+- **Documents and footage vanished:** After Ogle's death, documentation and footage related to his fuel vapor system reportedly disappeared, ensuring that the technical details could not be reconstructed
+- **Technology disappeared:** After Ogle's death, his fuel vapor system was not developed further. The combination of the inventor's death, the SEC injunction on his business partners, the deaths of connected individuals, and the vanishing of documentation ensured the technology did not reach the market
 
 ## The Counterargument
 

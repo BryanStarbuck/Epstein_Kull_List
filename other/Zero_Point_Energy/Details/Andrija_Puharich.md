@@ -57,9 +57,13 @@ In the early 1950s, Puharich founded the Round Table Foundation, a parapsycholog
 
 Puharich is perhaps best known publicly as the person who brought Israeli psychic Uri Geller to the United States in 1971 for scientific investigation. He also brought Dutch psychic Peter Hurkos to the U.S. for study. His work with Geller — which included claims of extraterrestrial communication under hypnosis — generated significant controversy.
 
+### CIA Assassination Threats and Rockefeller Capitulation
+
+According to accounts in alternative energy circles, Puharich allegedly received direct CIA assassination threats if he continued his water-splitting research. He reportedly capitulated after a meeting with Rockefeller interests — specifically, sources cite a connection to David Rockefeller — effectively agreeing to abandon or suppress further development of his water decomposition technology. This alleged capitulation is cited as an example of how intelligence agencies and financial elites worked together to suppress energy technologies that threatened petroleum-based industries.
+
 ### The 1979 Arson
 
-In 1978 or 1979, Puharich's home and laboratory at his estate in Ossining, New York (known as "The Turkey Farm") was destroyed by arson. Puharich attributed the fire to threats connected to his research work and implicated the CIA. Following the fire, he fled to Mexico for a period before eventually returning to the United States.
+In 1978 or 1979, Puharich's home and laboratory at his estate in Ossining, New York (known as "The Turkey Farm") was destroyed by arson. Puharich attributed the fire to threats connected to his research work and implicated the CIA. The arson may have been connected to the assassination threats he reportedly received over his water-splitting research. Following the fire, he fled to Mexico for a period before eventually returning to the United States.
 
 The arson destroyed much of his research materials, equipment, and records.
 

@@ -8,9 +8,9 @@ Inventor of the Magnatron permanent magnet motor — a cold-fusion laser-activat
 | **Full Name** | Howard Rory Johnson |
 | **Born** | Unknown |
 | **Died** | Approximately 1979 |
-| **Age at Death** | Unknown |
+| **Age at Death** | Early 50s (estimated) |
 | **Location of Death** | California (exact location unverified) |
-| **Cause of Death** | Unknown / unverified |
+| **Cause of Death** | Unknown / unverified (spray-induced causes speculated) |
 | **Official Ruling** | Unknown |
 | **Category** | Inventor |
 
@@ -26,6 +26,10 @@ After the Department of Energy allegedly issued orders to seize his equipment an
 
 Johnson then went silent. According to the account most commonly cited, Greyhound Bus Lines — which had been in active negotiations with Johnson for fleet motor contracts — attempted to contact him after approximately a year of silence. They reportedly learned that Johnson had died. The details of his death — date, location, cause, and whether any investigation was conducted — remain unverified in publicly available records.
 
+Johnson was reportedly in his early 50s at the time of death. Some accounts speculate his death involved spray-induced causes, though this has not been verified. His house was also broken into and documents related to his work were stolen — a detail consistent with the pattern of evidence disappearing after the deaths of alternative energy inventors.
+
+Johnson was allegedly "#1 on an alleged OPEC hit list" according to rumors circulating in alternative energy communities, reportedly because of the threat his Magnatron motor posed to petroleum-based energy.
+
 ## Background
 
 ### The Magnatron Motor
@@ -36,7 +40,8 @@ Howard Rory Johnson operated Magnatron Inc. out of Elgin, Illinois, where he dev
 - The motor reportedly produced 525 horsepower
 - It weighed only 475 pounds — a remarkable power-to-weight ratio if accurate
 - The motor allegedly required no conventional fuel input
-- It was described as using precisely arranged permanent magnets with laser activation to produce continuous rotary motion
+- It was described as a light-activated cold fusion magnetic motor using deuterium and gallium, with precisely arranged permanent magnets and laser activation to produce continuous rotary motion
+- Johnson also held a U.S. patent for a permanent magnet motor
 
 These claims, if accurate, would represent a violation of known thermodynamic principles. No independent scientific testing of the Magnatron motor has been documented.
 
@@ -71,6 +76,8 @@ When Johnson learned of the seizure order, he reportedly moved all motors, proto
 - **Major corporate interest:** The alleged Greyhound Bus Lines contract suggests the technology was taken seriously by at least one major corporation, distinguishing this from purely speculative claims
 - **Disappearance and death:** Johnson went from being an active inventor with corporate contracts to completely silent to dead — a trajectory consistent with suppression
 - **Information vacuum:** The near-total absence of mainstream documentation about Johnson's death is itself suspicious. An inventor with a contract with Greyhound should have left a more substantial public record
+- **Break-in and document theft:** Johnson's house was broken into and documents related to his work were stolen, suggesting organized efforts to eliminate records of his technology
+- **Alleged OPEC hit list:** Rumors in alternative energy communities placed Johnson as "#1 on an alleged OPEC hit list," indicating he was perceived as a serious threat to petroleum interests
 - **Pattern consistency:** Johnson's experience — breakthrough, corporate interest, government intervention, relocation, death — follows the pattern seen with numerous other energy inventors
 
 ## The Counterargument

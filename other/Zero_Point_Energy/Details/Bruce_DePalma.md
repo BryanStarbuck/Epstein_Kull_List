@@ -60,9 +60,13 @@ Throughout his career, DePalma encountered significant resistance from the scien
 - The U.S. government showed no interest in evaluating his claims
 - He described the resistance as systematic and deliberate
 
+### Death Threats
+
+DePalma reportedly received direct death threats connected to his work. According to accounts from associates, astronaut Edgar Mitchell allegedly told DePalma: "CIA... you might get your head blown off." This threat from a figure with intelligence community connections is cited as a key factor that drove DePalma to leave the United States.
+
 ### Move to New Zealand
 
-In 1994, DePalma left the United States for New Zealand, describing it as an escape from "a lifetime of resistance" to his ideas. He hoped to find a more receptive environment for his work. In New Zealand, he connected with local engineers and enthusiasts who helped him set up a workshop to build and test a new N-Machine.
+In 1994, DePalma left the United States for New Zealand, describing it as an escape from "a lifetime of resistance" to his ideas. The death threats he reportedly received — including the warning attributed to Edgar Mitchell about CIA retaliation — were allegedly a significant factor in his decision to flee. He hoped to find a more receptive and safer environment for his work. In New Zealand, he connected with local engineers and enthusiasts who helped him set up a workshop to build and test a new N-Machine.
 
 ### Substance Abuse
 

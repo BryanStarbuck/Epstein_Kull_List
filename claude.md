@@ -1,41 +1,83 @@
 # Epstein Kull List — Project Instructions
 
+## Scope
+
+This project tracks **two interconnected areas** of suppression:
+
+### 1. Elite Crimes & Cover-Ups (Epstein Network and Beyond)
+People who died suspiciously, were likely murdered, or were silenced in connection with elite-level crimes — primarily Jeffrey Epstein's blackmail and trafficking operation, but also other Compromat operations, pedophile rings, and intelligence service cover-ups.
+
+### 2. Advanced Energy Suppression
+People involved in **advanced energy breakthroughs and non-traditional energy** — including but not limited to zero-point energy, cold fusion, over-unity devices, advanced propulsion, unconventional fuel systems, electromagnetic energy harvesting, and any energy technology that goes beyond what is currently available on the market.
+
+**We track ALL forms of interference against these people and their work**, not only murders. This includes:
+* **Killed** — Murdered, died under suspicious circumstances, suspicious suicides
+* **Threatened** — Death threats, intimidation, harassment campaigns
+* **Physically attacked** — Beaten, assaulted, poisoned, injured
+* **Work blocked** — Patents denied, funding cut off, projects shut down, labs raided
+* **Work confiscated** — Devices seized, prototypes taken, research confiscated by government or unknown parties
+* **Work classified** — Research classified by government agencies, placed under secrecy orders, national security letters
+* **Legal suppression** — Lawsuits, injunctions, regulatory actions used to stop research
+* **Discredited** — Smear campaigns, professional blacklisting, forced retractions
+* **Disappeared** — Went missing, dropped off the radar under suspicious circumstances
+* **Imprisoned** — Jailed on questionable charges related to their energy work
+
+**We care about anyone where some level of power is involved or possibly involved** in the suppression — governments, military, intelligence services, universities, corporations, patent offices, regulatory bodies, or unknown actors willing to use threats or force.
+
+### What Ties These Together
+
+Both areas involve powerful interests suppressing inconvenient people. The same patterns appear: suspicious deaths, seized evidence, classified records, compliant media, and institutions that look the other way. A person can fall into one or both areas.
+
+**Inclusion rule:** If someone falls within either scope area, they belong in this project. Existing entries that predate this expanded scope remain — they are still within scope.
+
+## Shared Work Directories
+
+Agents working on this project have access to these shared directories:
+* **Read-only:** `~/BGit/work/into_Work/` — Incoming work and management files
+* **Read-only:** `~/BGit/act3/Our_Movies/` — Movie project files
+* **Read-write:** `~/BGit/work/inout_work/` — Shared working directory for collaboration
+
 ## Web Search
 
-Use web search when running prompts to find up-to-date information about individuals, events, court filings, and news articles related to the Epstein case. This is a research-heavy project where current sources matter.
+Use web search when running prompts to find up-to-date information about individuals, events, court filings, and news articles. This is a research-heavy project where current sources matter. Search for both Epstein-related and advanced energy suppression topics.
 
 ## Links Between Markdown Files
 
 All markdown files should be interconnected:
 - Every Details page should link back to the main [README.md](README.md).
-- Details pages should cross-link to related individuals (e.g., co-conspirators, same cluster of deaths, shared connections).
+- Details pages should cross-link to related individuals (e.g., co-conspirators, same cluster of deaths, shared connections, same field of energy research).
 - The main README.md table must link to each person's Details page.
 - Pattern sections in README.md should use inline links to the relevant Details pages.
 - If a person is mentioned in another person's Details page, that mention should be a link to their Details page (e.g., `[Ghislaine Maxwell](Ghislaine_Maxwell.md)`).
 
 ## Overview
 
-A list of people who died suspiciously, likely murdered in connection with elite-level crimes — primarily Jeffrey Epstein's blackmail and trafficking operation, but also other Compromat operations, pedophile rings, and intelligence service cover-ups.
+A comprehensive list of people who were killed, threatened, attacked, suppressed, or had their work blocked or confiscated — in connection with either (1) elite-level crimes such as Jeffrey Epstein's blackmail and trafficking operation, Compromat operations, pedophile rings, and intelligence service cover-ups, or (2) advanced energy breakthroughs and non-traditional energy technologies that challenge established energy markets.
 
 ## Focus Areas
 
-* Jeffrey Epstein-related deaths (highest priority)
-* Intelligence service-level murders and blackmail
+* Jeffrey Epstein-related deaths and suppression (highest priority)
+* Intelligence service-level murders, blackmail, and cover-ups
 * Elite pedophile rings
 * Deep state cover-ups
+* Advanced energy inventors who were killed, threatened, or had their work suppressed
+* Non-traditional energy breakthroughs blocked by governments, corporations, or unknown actors
+* Zero-point energy, cold fusion, over-unity, advanced propulsion, and related technologies
+* Patent suppression, secrecy orders, and classified energy research
 
 ## Suspicion Ratings
 
 * Each entry should show a level of suspicion — it doesn't have to be provable in court
-* Include anyone with credible reports of foul play, then assess the likelihood
+* Include anyone with credible reports of foul play or suppression, then assess the likelihood
 * Levels used (from highest to lowest):
-  * **HIGHLY SUSPICIOUS** — Strong evidence of foul play (missing evidence, impossible logistics, key witness silenced)
+  * **HIGHLY SUSPICIOUS** — Strong evidence of foul play (missing evidence, impossible logistics, key witness silenced, work seized)
   * **SUSPICIOUS** — Multiple red flags, timing coincidences, or contested official rulings
   * **MODERATE SUSPICION** — Some concerning details but partial explanations exist
   * **UNCERTAIN** — Possible connection but largely speculative or weak link
-  * **Likely natural / Likely old age** — Person was connected to Epstein but death appears natural
-  * **Not suspicious** — Named in Epstein context but death clearly unrelated
+  * **Likely natural / Likely old age** — Person was connected but death appears natural
+  * **Not suspicious** — Named in context but death clearly unrelated
 * For living persons: **AT RISK**, **Missing**, **Under investigation**, **Arrested**, etc.
+* For suppression (especially energy cases): **CONFIRMED SUPPRESSION**, **WORK SEIZED**, **THREATENED**, **BLOCKED**, **DISCREDITED**, **CLASSIFIED**
 
 ## Site Structure
 
@@ -117,13 +159,18 @@ Who this person was. Their connection to Epstein or the broader network. Career,
 *This information was built by Grok and Claude AI research.*
 ```
 
-### Step 3: Profile Structure (Living / Missing / At-Risk Persons)
+### Step 3: Profile Structure (Living / Missing / At-Risk / Suppressed Persons)
 
 * Same structure but replace death fields with:
-  * `**Status**` — ALIVE, Missing, Under investigation, Arrested, etc.
+  * `**Status**` — ALIVE, Missing, Under investigation, Arrested, Threatened, Work Seized, Suppressed, etc.
   * `**Current Location**` — Where they are now
-* Replace "Circumstances of Death" with "Current Situation"
-* Replace "Why This Death Raises Questions" with "Why This Person Matters" or "Safety Concerns"
+* Replace "Circumstances of Death" with "Current Situation" or "Suppression Timeline"
+* Replace "Why This Death Raises Questions" with "Why This Person Matters" or "Safety Concerns" or "Evidence of Suppression"
+* For energy inventors/researchers, include:
+  * What technology they were working on
+  * What stage it was at (concept, prototype, demonstrated, commercializing)
+  * Who allegedly suppressed them (government agency, corporation, unknown actors)
+  * What happened to their work/devices after suppression
 
 ### Step 4: Add a Row to README.md
 
@@ -139,6 +186,7 @@ Who this person was. Their connection to Epstein or the broader network. Career,
 
 ## Person Categories
 
+### Epstein / Elite Crime Categories
 * Co-conspirator — Directly involved in Epstein's operation
 * Witness / Primary Accuser — Testified or provided evidence
 * Victim — Trafficked or abused person
@@ -153,6 +201,13 @@ Who this person was. Their connection to Epstein or the broader network. Career,
 * Whistleblower — Provided inside information to authorities or media
 * Silenced Witness / Disappeared — Spoke out and vanished
 * Staff / Employee — Worked for Epstein directly
+
+### Advanced Energy Categories
+* Energy Inventor — Developed a non-traditional energy device or technology
+* Energy Researcher — Conducted research into advanced energy (academic or independent)
+* Energy Whistleblower — Exposed suppression of energy technology
+* Energy Business — Attempted to commercialize or patent advanced energy technology
+* Energy Supporter / Funder — Financially backed or publicly supported advanced energy work
 
 ## Writing Style and Defamation Prevention
 
@@ -177,6 +232,7 @@ Who this person was. Their connection to Epstein or the broader network. Career,
 
 ## Key Patterns to Watch For
 
+### Epstein / Elite Crime Patterns
 * Hangings in custody (Epstein, Brunel, Middleton, etc.)
 * Deaths before testimony or trial
 * Banking executives who handled Epstein's money
@@ -188,6 +244,19 @@ Who this person was. Their connection to Epstein or the broader network. Career,
 * Intelligence service connections (Mossad, CIA, PROMIS software)
 * Modeling industry pipeline victims
 * Sealed records or destroyed evidence after death
+
+### Advanced Energy Suppression Patterns
+* Inventors who died shortly after demonstrating a working device
+* Patents placed under secrecy orders by government agencies
+* Labs raided or devices confiscated by government or unknown parties
+* Inventors threatened then died in "accidents" or "suicides"
+* Working prototypes that disappeared after the inventor's death
+* University researchers whose funding was suddenly cut
+* Inventors offered buyouts, then killed or suppressed when they refused
+* Government classification of energy research under national security
+* Smear campaigns labeling inventors as frauds before investigation
+* Multiple inventors in the same field dying in a short time period
+* Cars or engines achieving extreme efficiency, then inventor dies or device vanishes
 
 ## Groups Directory (`other/groups/`)
 
