@@ -10,6 +10,8 @@ Whether these technologies actually worked is a separate question from whether t
 
 This project documents suspicious deaths, suppression events, and destroyed careers connected to breakthrough energy research. **41 profiles documented.**
 
+**[The Physics Behind Zero-Point Energy](Details/pte_physics.md)** — How gravity research and field propulsion were deliberately sealed behind classification walls after 1969.
+
 **For deaths connected to Jeffrey Epstein's sex-trafficking and blackmail operation, see the [Epstein Kill List](../../README.md).**
 
 **For intelligence service political assassinations, see the [Intel Murders list](../Intel_Murders/README.md).**
