@@ -174,9 +174,10 @@ His command history extends beyond Ohio. Before AFRL headquarters, he ran the Ph
 - [WikiLeaks Podesta Email #3099](https://wikileaks.org/podesta-emails/emailid/3099)
 - [WikiLeaks Podesta Email #51979 — McCasland to Podesta](https://wikileaks.org/podesta-emails/emailid/51979)
 - [WikiLeaks Podesta Email #2635 — Susan McCasland accepts meeting](https://wikileaks.org/podesta-emails/emailid/2635)
-- [The Sentinel Briefing: THE GHOST GENERAL](https://thesentinelnetwork.substack.com/p/the-ghost-general-every-news-outlet)
-- [The Sentinel Briefing: THE DEAD DROP](https://thesentinelnetwork.substack.com/p/the-dead-drop-an-anonymous-x-account)
-- [The Sentinel Briefing: THE LONG COUNT](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two)
+- [The Sentinel Briefing: THE GHOST GENERAL — Every News Outlet Ran the Same Story. We Ran the Public Records. (Mar 9, 2026)](https://thesentinelnetwork.substack.com/p/the-ghost-general-every-news-outlet)
+- [The Sentinel Briefing: THE DEAD DROP — An Anonymous X Account Went Silent the Day the General Vanished (Mar 11, 2026)](https://thesentinelnetwork.substack.com/p/the-dead-drop-an-anonymous-x-account)
+- [The Sentinel Briefing: THE GREEN BURIAL — She Was Declared Dead Four Days After She Vanished (Mar 16, 2026)](https://thesentinelnetwork.substack.com/p/the-green-burial-she-was-declared)
+- [The Sentinel Briefing: THE LONG COUNT — We Started With Two Names. The List Didn't Stop. (Mar 18, 2026)](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two)
 - [NM House Bill 197 — Silver Alert revision](https://www.nmlegis.gov/Legislation/Legislation?Chamber=H&LegType=B&LegNo=197&year=25)
 
 *This information was built by Grok and Claude AI research.*

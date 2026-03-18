@@ -19,17 +19,33 @@ Dallis Hardwick's death from cancer appears natural and is confirmed by her Ohio
 
 ## Background
 
-### The Invention of Mondaloy
+### Early Life and Education (Australia)
 
-In the mid-1990s, at the Rockwell Science Center in California, Hardwick and her research assistant Monica Jacinto (later [Monica Jacinto Reza](Monica_Jacinto_Reza.md)) solved a problem that had blocked American rocketry for decades: they found a nickel-based alloy composition that could withstand the extreme environment inside a rocket preburner — high-pressure gaseous oxygen at extreme temperatures — without igniting and without cracking. No coatings. No liners. Bare metal touching gas oxygen.
+- **Dux of Matraville Public School** (1961)
+- Attended **Sydney Girls High School**; won the Level 1 Physics Prize in fifth form
+- For HSC Physics in 1967, had to attend classes at a neighbouring boys' school and largely teach herself — the subject was unavailable at her school
+- **Honours degree in Metallurgy** — University of New South Wales (UNSW), 1972, on a Commonwealth Scholarship
+- **PhD** — UNSW School of Metallurgy, 1977; dissertation on oxidation and corrosion properties of iron-aluminium-carbon alloys. One of the first women to earn a PhD from that school
+
+### Early U.S. Career
+
+- **Postdoctoral fellowship** — McGill University (archaeometallurgy)
+- **Carnegie Mellon University** — hydrogen interactions in aluminium alloys for aerospace
+- **Martin Marietta Research Laboratories** — materials for Space Shuttle external tank
+- In 1982, married **Pat Martin**; they both joined **Los Alamos National Laboratory** (LANL), working on degradation of nuclear weapons in storage
+- Became a U.S. citizen in 1985
+
+### Rockwell Science Center and the Invention of Mondaloy
+
+As the Cold War wound down, Hardwick transitioned to the Rockwell Science Center in Canoga Park, California, where she advanced understanding of metal combustion in high-pressure oxygen environments. She and her research assistant Monica Jacinto (later [Monica Jacinto Reza](Monica_Jacinto_Reza.md)) solved a problem that had blocked American rocketry for decades: they found a nickel-based alloy composition that could withstand the extreme environment inside a rocket preburner — high-pressure gaseous oxygen at extreme temperatures — without igniting and without cracking. No coatings. No liners. Bare metal touching gas oxygen.
 
 They called it **Mondaloy** — a portmanteau where the "Mon" belongs to Monica.
 
 The patent is public record: **US 2010/0266442 A1** — "Burn-Resistant and High Tensile Strength Metal Alloys." Jacinto et al.
 
-### Career at AFRL
+### Boeing and AFRL
 
-After Rockwell, Hardwick moved to the Air Force Research Laboratory's Materials Directorate at Wright-Patterson Air Force Base in Ohio. By 2005, she was leading all materials research for advanced gas turbine engines. Her group was the government half of the Mondaloy partnership:
+After Rockwell, Hardwick's career included roles at **Boeing in Seattle** before moving to the Air Force Research Laboratory's Materials Directorate at Wright-Patterson Air Force Base in Ohio. By 2005, she was leading all materials research for advanced gas turbine engines. Her group was the government half of the Mondaloy partnership:
 
 - **Reza's team at Aerojet Rocketdyne** produced the alloy (contractor side)
 - **Hardwick's team at AFRL Materials Directorate** qualified it (government side)
@@ -54,7 +70,14 @@ According to a Reddit post and UNSW alumni records, Hardwick was one half of the
 
 ### Retirement and Death
 
-Hardwick retired from AFRL in 2012 after a stage four breast cancer diagnosis. She continued mentoring through the AFRL Emeritus Program. She received the **Meritorious Civilian Service Medal**.
+Hardwick retired from AFRL in 2012 after a stage four breast cancer diagnosis. She continued mentoring through the AFRL Emeritus Program.
+
+### Awards and Recognition
+
+- **Meritorious Civilian Service Medal** (2010)
+- **First woman to receive the TMS Structural Materials Division Distinguished Service Award** (2010)
+- Served as **U.S. Air Force representative** on the five-country cooperative panel managing Materials Technology
+- Her influence extended across aerospace, defence, and academia
 
 She died on **January 5, 2014**, at Hospice of Dayton, Ohio. Her Ohio death certificate confirms the account: certifying physician, not a coroner. No investigation. No autopsy.
 
