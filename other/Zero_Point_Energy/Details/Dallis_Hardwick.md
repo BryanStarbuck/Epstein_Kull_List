@@ -104,7 +104,9 @@ After Hardwick's death, Reza said publicly: "I hope she understood that my accom
 
 ## Sources
 
-- [UNSW Alumni Memorial for Dallis Hardwick (2024)](https://www.unsw.edu.au/)
+- [UNSW Science Alumni Career Story: Dallis Hardwick](https://www.unsw.edu.au/science/engage-with-us/alumni/alumni-career-stories/dallis-hardwick)
+- [Dignity Memorial Obituary — Dallis Hardwick](https://www.dignitymemorial.com/obituaries/dayton-oh/dallis-hardwick-5803332)
+- [TMS Structural Materials Division Distinguished Service Award](https://www.tms.org/portal/portal/Professional_Development/Honors___Awards/SMD_Distinguished_Service_Award.aspx)
 - [Google Patents: US 2010/0266442 A1 — "Burn-Resistant and High Tensile Strength Metal Alloys"](https://patents.google.com/patent/US20100266442A1/)
 - [The Sentinel Briefing: THE GREEN BURIAL](https://thesentinelnetwork.substack.com/p/the-green-burial-she-was-declared)
 - [The Sentinel Briefing: THE LONG COUNT](https://thesentinelnetwork.substack.com/p/the-long-count-we-started-with-two)

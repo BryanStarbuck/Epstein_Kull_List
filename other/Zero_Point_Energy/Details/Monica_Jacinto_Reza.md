@@ -43,8 +43,10 @@ In March 2022, Russia cut off RD-180 servicing in retaliation for Ukraine sancti
 
 - **B.A. and B.S. in Metallurgical Engineering** — Columbia University
 - **M.S. in Materials Science** — UCLA
+- Joined **Rocketdyne** in 1988
 - **Technical Fellow for Materials and Processes Engineering** — Aerojet Rocketdyne (highest technical rank in the company)
 - **Associate Fellow** — American Institute of Aeronautics and Astronautics (AIAA)
+- **2004 HENAAC Luminary Award** — recognized for contributions to the Hispanic technical community and inspiring youth to pursue engineering careers (while at Boeing/Rocketdyne)
 - **30+ years leading R&D teams** in advanced materials and processes
 - Documented on Cal State LA LAunchPad 2021 page and Dean's Advisory Board (2024–2025)
 
@@ -192,5 +194,10 @@ Six separate jurisdictions. Zero cross-referencing mandate. Nobody is looking at
 - [EISPIRATEN hiking forum — independent timeline reconstruction](https://www.eispiraten.de/)
 - [Reddit r/socalhiking — discussion threads on Reza disappearance](https://www.reddit.com/)
 - [Websleuths: Monica Reza, 60, hiker, Mount Waterman](https://websleuths.com/threads/ca-monica-reza-60-hiker-mount-waterman-los-angeles-national-forest-22-jun-2025.747266/)
+- [Boeing: Two Boeing Employees Receive National Recognition (2004 HENAAC Luminary Award)](https://boeing.mediaroom.com/2004-10-11-Two-Boeing-Employees-Receive-National-Recognition)
+- [NewsNation: William McCasland search — ex-colleague Monica Reza went missing months before him](https://www.newsnationnow.com/missing/william-mccasland-search-monica-reza/)
+- [Solve the Case: MISSING — Monica Reza](https://www.solvethecase.org/case/2025-56/monica-reza)
+- [L3Harris completes Aerojet Rocketdyne acquisition (July 2023)](https://www.l3harris.com/newsroom/press-release/2023/07/l3harris-completes-aerojet-rocketdyne-acquisition)
+- [Cal State LA Dean's Advisory Board (current — lists "Monica Reza, JPL NASA")](https://www.calstatela.edu/ecst/deans-advisory-board)
 
 *This information was built by Grok and Claude AI research.*
