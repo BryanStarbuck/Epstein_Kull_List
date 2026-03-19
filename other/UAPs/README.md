@@ -1,4 +1,4 @@
-[< Back to Epstein Kill List](../../README.md) | [Intel Murders](../Intel_Murders/README.md) | [Energy Suppression](../Zero_Point_Energy/README.md) | [Groups](../groups/README.md)
+[< Back to Epstein Kill List](../../README.md) | [Intel Murders](../Intel_Murders/README.md) | [Energy Suppression](../Zero_Point_Energy/README.md) | [Groups](../groups/README.md) | [Books](books.md) | [Podcasts](podcasts.md) | [YouTube Channels](youtube_channels.md)
 
 # UAP-Related Deaths: Researchers, Whistleblowers, and Scientists Silenced (1949–Present)
 
