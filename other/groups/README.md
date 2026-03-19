@@ -1,4 +1,4 @@
-[< Back to Main List](../../README.md) | [Locations](../../locations.md) | [Intel Murders](../Intel_Murders/README.md) | [UAP Deaths](../UAPs/README.md) | [Energy Suppression](../Zero_Point_Energy/README.md)
+[< Back to Main List](../../README.md) | [Locations](../../locations.md) | [Books](../books.md) | [Podcasts](../podcasts.md) | [YouTube](../youtube_channels.md) | [Intel Murders](../Intel_Murders/README.md) | [UAP Deaths](../UAPs/README.md) | [Energy Suppression](../Zero_Point_Energy/README.md)
 
 # Groups & Organizations
 

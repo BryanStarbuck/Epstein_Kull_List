@@ -1,3 +1,5 @@
+[Locations](locations.md) | [Groups](other/groups/README.md) | [Books](other/books.md) | [Podcasts](other/podcasts.md) | [YouTube](other/youtube_channels.md)
+
 # Deaths Possibly Connected to the Jeffrey Epstein Cover-Up
 
 Jeffrey Epstein operated a sex trafficking network involving underage girls and powerful individuals over the course of decades. He was arrested in July 2019 on federal sex trafficking charges and was found dead in his jail cell on August 10, 2019. His death was ruled a suicide, though his brother and many members of the public dispute that finding.
@@ -220,7 +222,9 @@ The [Details/](Details/) subdirectory contains:
 - A detailed breakdown of the [NYPD Weiner laptop deaths](other/laptop.md)
 - [Groups & Organizations](other/groups/) — 15 profiles of intelligence services, trafficking operations, financial institutions, and other connected groups
 - [Locations](other/locations/) — 14 geographic profiles covering every region where deaths or operations occurred
-- [Books & Research Notes](other/Notes.md) — Comprehensive list of nonfiction books investigating Epstein and related intelligence/blackmail operations
+- [Books](other/books.md) — 35+ nonfiction books investigating Epstein, elite blackmail, intelligence operations, and suppressed energy technology
+- [Podcasts](other/podcasts.md) — 25+ podcasts covering Epstein investigations, suspicious deaths, and energy suppression
+- [YouTube Channels](other/youtube_channels.md) — 20+ YouTube channels and documentary series covering both project scope areas
 
 ## Data Files
 

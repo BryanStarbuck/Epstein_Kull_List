@@ -1,4 +1,4 @@
-[< Back to Epstein Kill List](../../README.md) | [Intel Murders](../Intel_Murders/README.md) | [UAP Deaths](../UAPs/README.md) | [Groups](../groups/README.md)
+[< Back to Epstein Kill List](../../README.md) | [Intel Murders](../Intel_Murders/README.md) | [UAP Deaths](../UAPs/README.md) | [Groups](../groups/README.md) | [Books](books.md) | [Podcasts](podcasts.md) | [YouTube](youtube_channels.md)
 
 # Suppressed Energy Breakthroughs: Suspicious Deaths of Inventors, Physicists, and Investors
 
@@ -199,6 +199,11 @@ Jeffrey Epstein's email to Al Seckel (October 1, 2009) — *"regarding cold fusi
 * [GEC-Marconi Deaths](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory) — 25 defense scientists dead in 8 years
 
 **Groups directory:** [../groups/](../groups/)
+
+**Media Resources:**
+* [Books on Suppressed Energy](books.md) — 40+ books covering cold fusion, zero-point energy, Tesla, antigravity, Marconi deaths, orgone energy, and energy suppression
+* [Podcasts](podcasts.md) — Dedicated shows and 40+ notable episodes covering these cases, from Crime Waves' 8-part series on Eugene Mallove to Joe Rogan interviews on zero-point energy
+* [YouTube Channels and Documentaries](youtube_channels.md) — 20+ channels and 30+ documentaries including *Free Energy: The Race to Zero Point*, *Energy from the Vacuum*, *The Lost Century*, and *GasHole*
 
 ---
 
