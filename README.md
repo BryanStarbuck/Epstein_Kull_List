@@ -68,7 +68,7 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Wendy Leigh](Details/Wendy_Leigh.md) | Found beneath balcony | **UNCERTAIN** | Investigating Epstein. Ex-husband rejects suicide. |
 | [Ines Zorreguieta](Details/Ines_Zorreguieta.md) | Hanging, ruled suicide | **UNCERTAIN** | Queen Maxima's sister. Hanged in Buenos Aires, same week as Spade and Bourdain. No Epstein link. |
 | [Kate Spade](Details/Kate_Spade.md) | Hanging, ruled suicide | **UNCERTAIN** | Hanged three days before Bourdain. No Epstein link. |
-| [Trevor Moore](Details/Trevor_Moore.md) | Fell from balcony | **UNCERTAIN** | Comedian satirized Epstein "kill switch" theory. BAC 0.27. |
+| [Trevor Moore](Details/Trevor_Moore.md) | Fell from second-story balcony | **SUSPICIOUS** | Comedy Central comedian delivered Epstein "kill switch"/COVID theory to millions. Fell from balcony at 2:30 a.m., BAC 0.27. Decade of anti-elite content on Hollywood trafficking, CIA, secret societies. |
 | [Anne Heche](Details/Anne_Heche.md) | Car crash | **UNCERTAIN** | Starred in trafficking film *Girl in Room 13*. Cocaine/marijuana impairment. |
 | [Paul Walker](Details/Paul_Walker.md) | Car crash | **UNCERTAIN** | Alleged trafficking discovery during Haiti relief. |
 | [Prince (Prince Rogers Nelson)](Details/Prince_Rogers_Nelson.md) | Fentanyl-laced counterfeit pills | **UNCERTAIN** | Most vocal critic of music industry exploitation. Source of fatal pills never identified. No direct Epstein link. |
