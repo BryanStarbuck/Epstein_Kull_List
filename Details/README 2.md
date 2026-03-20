@@ -70,6 +70,12 @@ Research conducted February 7, 2026 through:
 3. **Unverified Claims**: The Zorro Ranch claims are completely unverified. No bodies have been found and no official investigation has confirmed these allegations.
 
 4. **Conspiracy vs. Evidence**: This database documents what conspiracy theorists claim, not what evidence supports. Official investigations have not identified coordinated silencing.
+## Other Shocking Stories
+
+- [Terje Rød-Larsen](Terje_Rod_Larsen.md): Norwegian diplomat. Epstein paid him $250K and willed $10 million to his children. Under criminal investigation.
+- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md): Working on a human trafficking awareness film. Dead at 28 from self-inflicted wounds. No prior attempt.
+- [Kurt Cobain](Kurt_Cobain.md): Shotgun ruled suicide. Three times the lethal dose of heroin in his blood.
+- [Efrain "Stone" Reyes](Efrain_Stone_Reyes.md): Epstein's cellmate who knew what happened that night. Talked to investigators. Dead within months.
 
 ## Sources
 

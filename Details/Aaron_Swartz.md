@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Aaron Swartz
 Technology prodigy, internet freedom activist, and co-founder of Reddit who was found hanged in his Brooklyn apartment on January 11, 2013, while facing aggressive federal prosecution for downloading academic articles.
@@ -125,9 +125,15 @@ Ethan Zuckerman, who resigned from the Media Lab over the Epstein scandal, was a
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — MIT accepted his donations while facilitating the prosecution of Swartz
 - [Marvin Minsky](Marvin_Minsky.md) — MIT AI pioneer, Epstein's closest friend at MIT, named in Epstein filings, received Epstein's earliest MIT donation
-- [Nikolai Mushegian](Nikolai_Mushegian.md) — MakerDAO co-founder who tweeted about [CIA](../other/groups/cia.md)/[Mossad](../other/groups/mossad.md) sex trafficking ring and drowned hours later; another technologist who challenged powerful systems and died young
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "[DC Madam](../other/groups/dc_madam.md)" who said she would never hang herself and was found hanged; pattern of individuals facing federal prosecution dying before trial
-- [Danny Casolaro](Danny_Casolaro.md) — Investigative journalist killed while investigating [PROMIS](../other/groups/promis_octopus.md) software and intelligence operations; another individual who threatened to expose powerful networks
+- [Nikolai Mushegian](Nikolai_Mushegian.md) — MakerDAO co-founder who tweeted about [CIA](./other/groups/cia.md)/[Mossad](./other/groups/mossad.md) sex trafficking ring and drowned hours later; another technologist who challenged powerful systems and died young
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "[DC Madam](./other/groups/dc_madam.md)" who said she would never hang herself and was found hanged; pattern of individuals facing federal prosecution dying before trial
+- [Danny Casolaro](Danny_Casolaro.md) — Investigative journalist killed while investigating [PROMIS](./other/groups/promis_octopus.md) software and intelligence operations; another individual who threatened to expose powerful networks
+## Other Shocking Stories
+
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md): Found hanged in his cell awaiting trial. Same method as Epstein. Both cameras conveniently malfunctioned.
+- [Ella Rich](Ella_Rich.md): Killed alongside Yassenoff. Double murder, no robbery, no arrest. Columbus, Ohio — Wexner's backyard.
+- [Nadia Marcinko](Nadia_Marcinko.md): Epstein's personal pilot granted immunity in 2008. Files unsealed in 2024.
+- [Philip Haney](Philip_Haney.md): DHS whistleblower on trafficking networks. Shot dead. Family doubts the suicide ruling. Investigation stalled.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Anwar al-Awlaki
 US-born radical Islamic cleric killed by a CIA drone strike in Yemen in 2011 — the first known deliberate extrajudicial killing of an American citizen by the US government without trial.
@@ -49,7 +49,7 @@ Anwar al-Awlaki was born in Las Cruces, New Mexico, to Yemeni parents. He grew u
 
 ## Key Quotes
 
-> "The government's authority to use lethal force in a foreign country against a U.S. citizen who is a senior operational leader of al-Qa'ida or an associated force... would be lawful." — Department of Justice White Paper, partially declassified 2014, as reported by the Washington Post
+> "The government's authority to use lethal force in a foreign country against a U.S. citizen who is a senior operational leader of al-Qa'ida or an associated force.. would be lawful." — Department of Justice White Paper, partially declassified 2014, as reported by the Washington Post
 
 > "The drone strike that killed him did not silence him." — NPR, noting al-Awlaki's online sermons continued to radicalize people after his death
 
@@ -59,7 +59,13 @@ Anwar al-Awlaki was born in Las Cruces, New Mexico, to Yemeni parents. He grew u
 - [Pat Tillman](Pat_Tillman.md) — US soldier killed by friendly fire in circumstances involving intelligence cover-up
 - [Qasem Soleimani](Qasem_Soleimani.md) — Iranian commander killed by US drone strike in 2020
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Pat Tillman](Pat_Tillman.md): Three bullets to the forehead at close range. The Pentagon called it 'friendly fire' and burned his uniform.
+- [Thomas Sankara](Thomas_Sankara.md): Africa's revolutionary president shot dead in a coup. France allegedly backed it. His killer convicted in 2022.
+- [Frank Teruggi](Frank_Teruggi.md): American student executed during the Chilean coup. US intelligence knew. It took 42 years to get convictions.
+- [Fernando Pereira](Fernando_Pereira.md): Photographer drowned when French intelligence bombed the Rainbow Warrior in a New Zealand harbor. France admitted it.
 
 ## Sources
 

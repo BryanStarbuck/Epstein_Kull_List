@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Marvin Minsky
 MIT scientist named in Epstein court filings, died at 88 of cerebral hemorrhage; not suspicious.
@@ -52,6 +52,12 @@ Minsky's widow, Gloria Rudisch, strongly denied the allegations, saying Minsky w
 - [Jeffrey Epstein](Jeffrey_Epstein.md)
 - [Virginia Giuffre](Virginia_Giuffre.md)
 - [Zorro Ranch Unnamed Victims](Zorro_Ranch_Unnamed_Victims.md) — Zorro Ranch, same location of alleged abuse
+## Other Shocking Stories
+
+- [Trevor Moore](Trevor_Moore.md): Delivered Epstein theories to millions on Comedy Central. Fell from his balcony at 2:30 a.m. BAC 0.27.
+- [Max Spiers](Max_Spiers.md): Told his mother: 'If anything happens to me, investigate.' Died days later in Poland researching elite pedophilia.
+- [Chester Bennington](Chester_Bennington.md): Cornell's close friend. Same cause of death. Died on Cornell's birthday. Two months apart.
+- [Ines Zorreguieta](Ines_Zorreguieta.md): Queen Maxima's sister. Hanged in Buenos Aires the same week as Spade and Bourdain. Three hangings, one week.
 
 ## Sources
 

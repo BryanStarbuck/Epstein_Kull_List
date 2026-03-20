@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Terje Rød-Larsen
 Norwegian diplomat under criminal investigation; Epstein paid him $250K and willed $10M to his children.
@@ -63,6 +63,12 @@ The Epstein files revealed derogatory remarks by Rød-Larsen, including the phra
 - [Thorbjorn Jagland](Thorbjorn_Jagland.md) — Norwegian PM, also charged over Epstein ties
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Primary subject
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Convicted co-conspirator
+## Other Shocking Stories
+
+- [Steven Silks](Steven_Silks.md): NYPD deputy chief who allegedly viewed the Weiner laptop evidence. First of four officer suicides in 22 days.
+- [Prince (Prince Rogers Nelson)](Prince_Rogers_Nelson.md): Music industry's fiercest critic of exploitation. Killed by counterfeit fentanyl pills. Supplier never identified.
+- [Michael Jackson](Michael_Jackson.md): Visited Epstein's mansion. Died of drug intoxication administered by his own doctor. Convicted of manslaughter.
+- [Andrew Breitbart](Andrew_Breitbart.md): Tweeted about Podesta covering up a trafficking ring. Dropped dead of heart failure before releasing the evidence.
 
 ## Sources
 

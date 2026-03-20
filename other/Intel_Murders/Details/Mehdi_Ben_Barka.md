@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Mehdi Ben Barka
 Moroccan opposition leader kidnapped in Paris in 1965 by French police in collaboration with Moroccan and Israeli intelligence, then murdered. His body has never been found.
@@ -59,7 +59,13 @@ Ben Barka was a Moroccan mathematician, politician, and revolutionary who became
 - [Jamal Khashoggi](Jamal_Khashoggi.md) — Journalist killed in a foreign consulate, body reportedly dismembered and dissolved (2018)
 - [Patrice Lumumba](Patrice_Lumumba.md) — African political leader assassinated with multiple intelligence services involved (1961)
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Seth Rich](Seth_Rich.md): DNC staffer shot twice in the back in DC. Nothing stolen. Case still unsolved.
+- [Sergei Yushenkov](Sergei_Yushenkov.md): Russian lawmaker investigating FSB apartment bombings. Shot dead hours after registering his political party.
+- [David Webster](David_Webster.md): South African academic shot dead outside his home by military intelligence for documenting apartheid-era death squads.
+- [Sergei Protosenya](Sergei_Protosenya.md): Former Russian gas executive found hanged in his Spanish villa. His family disputes the ruling.
 
 ## Sources
 

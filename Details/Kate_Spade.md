@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Kate Spade
 Fashion designer found hanged three days before Bourdain; no verified Epstein connection.
@@ -44,6 +44,12 @@ No verified evidence connects Kate Spade to any anti-trafficking documentary, in
 
 > "She kept watching it and watching it over and over. I think the plan was already in motion even as far back as then."
 > -- Reta Saffo, Kate's sister, on Kate's fixation with Robin Williams' 2014 suicide, [Newsweek: Kate Spade Was Obsessed With Coverage of Robin Williams's Death, Sister Claims](https://www.newsweek.com/kate-spade-was-obsessed-coverage-robin-williams-death-sister-claims-963809)
+## Other Shocking Stories
+
+- [Roy Black](Roy_Black.md): Defended Epstein in court. One of many lawyers who shielded the operation. Died at home at 80.
+- [Brice and Karen Gordon](Brice_Karen_Gordon.md): Managed Epstein's New Mexico ranch for 20 years. Both vanished after Maxwell's arrest. Never found.
+- [Seth Rich](Seth_Rich.md): DNC staffer shot twice in the back. Nothing stolen. Walking home at night in DC. Case still unsolved.
+- [Danny Casolaro](Danny_Casolaro.md): Investigating the same intel op that created Epstein's blackmail machine. Found with slashed wrists. Briefcase gone.
 
 ## Sources
 - New York City Chief Medical Examiner's report

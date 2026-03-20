@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # John Lennon
 Former Beatle, peace activist, and cultural icon shot dead outside his Manhattan apartment by Mark David Chapman — a killing that multiple researchers have alleged involved CIA manipulation or outright orchestration.
@@ -45,7 +45,7 @@ Senator Strom Thurmond sent a memo to Nixon's Attorney General John Mitchell war
 
 ### FBI Surveillance (COINTELPRO)
 
-The FBI placed Lennon under surveillance beginning in 1971 as part of its broader COINTELPRO operations targeting antiwar and left-wing activists. FBI Director J. Edgar Hoover sent a memo to the New York FBI office stating that "Lennon should be arrested, if at all possible, on possession of narcotics charges... which would make him immediately deportable." The FBI monitored Lennon's phone calls, tracked his movements, and infiltrated his circle.
+The FBI placed Lennon under surveillance beginning in 1971 as part of its broader COINTELPRO operations targeting antiwar and left-wing activists. FBI Director J. Edgar Hoover sent a memo to the New York FBI office stating that "Lennon should be arrested, if at all possible, on possession of narcotics charges.. which would make him immediately deportable." The FBI monitored Lennon's phone calls, tracked his movements, and infiltrated his circle.
 
 In early 1981, historian Jon Wiener filed a FOIA request for the FBI's Lennon files. Of the 281 pages the FBI acknowledged, they withheld 199 — more than 70 percent — in their entirety. Wiener spent 25 years in litigation (Wiener v. FBI, represented by the ACLU of Southern California) before all pages were finally released in December 2006. Some had been withheld on grounds of "national security information provided by a foreign government." The CIA's own reading room contains a document referencing the FBI's efforts to "neutralize" Lennon.
 
@@ -101,7 +101,7 @@ The CIA's MKULTRA program (1953-1973) was a documented effort to develop mind co
 > "The courts will not condone selective deportation based upon secret political grounds."
 > — Judge Irving Kaufman, overturning Lennon's deportation order, 1975
 
-> "Lennon should be arrested, if at all possible, on possession of narcotics charges... which would make him immediately deportable."
+> "Lennon should be arrested, if at all possible, on possession of narcotics charges.. which would make him immediately deportable."
 > — FBI Director J. Edgar Hoover, memo to New York FBI office, 1972
 
 > "If Lennon were to be deported, it would be a strategic counter-measure."
@@ -128,7 +128,13 @@ The CIA's MKULTRA program (1953-1973) was a documented effort to develop mind co
 - [Frank Olson](Frank_Olson.md) — CIA scientist killed after being dosed with LSD under MKULTRA
 - [Judi Bari](Judi_Bari.md) — Earth First! activist targeted by FBI
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Héctor Gutiérrez Ruiz](Hector_Gutierrez_Ruiz.md): Former Speaker of Uruguay's parliament, kidnapped, tortured, and shot in Buenos Aires. Operation Condor.
+- [Ronni Moffitt](Ronni_Moffitt.md): A 25-year-old American killed on American soil by a Chilean intelligence car bomb meant for her colleague.
+- [Pavel Sheremet](Pavel_Sheremet.md): Started his car in Kyiv and it exploded. One of Europe's most prominent unsolved journalist killings.
+- [Ravil Maganov](Ravil_Maganov.md): Lukoil's chairman fell from a hospital window. His board had just called for ending the Ukraine war.
 
 ## Sources
 

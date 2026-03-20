@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Michael Hutchence
 INXS frontman found hanged in Sydney hotel room at age 37; ruled suicide but family disputed the finding, with competing theories of auto-erotic asphyxiation and murder.
@@ -127,7 +127,7 @@ Peaches died approximately five months after the Ian Watkins naming incident. Th
 > "Two days after Michael died, Colin Diamond went into the Rose Bay Police Station, acting as Michael's attorney, and took hold of all of Michael's possessions that he had with him in Australia."
 > — Rhett Hutchence, Michael's brother, regarding the handling of the estate
 
-> "[Hutchence's death was] a 'wake-up call for everyone'... about Princess Diana."
+> "[Hutchence's death was] a 'wake-up call for everyone'.. about Princess Diana."
 > — Michael Hutchence, speaking to an Australian magazine about Princess Diana's death just weeks before his own
 
 ## See Also
@@ -141,7 +141,13 @@ Peaches died approximately five months after the Ian Watkins naming incident. Th
 - [Anthony Bourdain](Anthony_Bourdain.md) — Found hanged in France, 2018; vocal against abusers
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Found hanged in jail cell, 2019
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Found hanged in prison cell awaiting trial, 2022
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "[DC Madam](../other/groups/dc_madam.md)," found hanged; said she'd never hang herself
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "[DC Madam](./other/groups/dc_madam.md)," found hanged; said she'd never hang herself
+## Other Shocking Stories
+
+- [Frank Yassenoff](Frank_Yassenoff.md): Shot to death alongside his fiancee. Both murders unsolved. Killer's partner later linked to Epstein's network.
+- [B. Stanley Pons - Cold Fusion Scientist](B_Stanley_Pons.md): Epstein emailed 'I killed Pons years ago.' The cold fusion pioneer hasn't been heard from in 30 years.
+- [Isaac Kappy](Isaac_Kappy.md): Said on camera: 'If I die, it wasn't suicide.' Two months later, fell from a bridge in Arizona.
+- [Trevor Moore](Trevor_Moore.md): Delivered Epstein theories to millions on Comedy Central. Fell from his balcony at 2:30 a.m. BAC 0.27.
 
 ## Sources
 

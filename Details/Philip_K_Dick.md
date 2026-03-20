@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Philip K. Dick
 Visionary science fiction author who claimed to have uncovered the hidden nature of reality and consciousness, subjected to documented FBI/CIA surveillance, suffered a mysterious home break-in, and died of sudden strokes at age 53 — weeks before *Blade Runner* made him famous.
@@ -170,8 +170,14 @@ At the time of his death, Dick was working on a novel called ***The Owl in Dayli
 
 ## Related Groups
 
-- [CIA](../other/groups/cia.md) — Confirmed opening Dick's mail; Operation CHAOS targeted American dissidents during the period of Dick's surveillance
-- [PROMIS / The Octopus](../other/groups/promis_octopus.md) — Intelligence surveillance operation; Dick's concept of the "Black Iron Prison" as a trans-temporal control system parallels the PROMIS operation's goal of universal surveillance
+- [CIA](./other/groups/cia.md) — Confirmed opening Dick's mail; Operation CHAOS targeted American dissidents during the period of Dick's surveillance
+- [PROMIS / The Octopus](./other/groups/promis_octopus.md) — Intelligence surveillance operation; Dick's concept of the "Black Iron Prison" as a trans-temporal control system parallels the PROMIS operation's goal of universal surveillance
+## Other Shocking Stories
+
+- [Vitaly Churkin](Vitaly_Churkin.md): Russian UN Ambassador. Sudden cardiac event. Cause of death withheld by State Department. Autopsy results sealed.
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md): The DC Madam said publicly she would never hang herself. Found hanged 16 days after conviction.
+- [Nancy Schaefer](Nancy_Schaefer.md): State senator exposing child trafficking through CPS. Shot in the back with an untraceable gun no family recognized.
+- [Arthur Shapiro](Arthur_Shapiro.md): Gunned down weeks before IRS questioning. His killer's partner had FBI links to Epstein's network.
 
 ## Sources
 

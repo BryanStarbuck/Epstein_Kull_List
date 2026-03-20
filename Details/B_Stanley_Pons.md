@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # B. Stanley Pons - Cold Fusion Scientist
 
@@ -36,7 +36,7 @@ Epstein, who had ties to influential scientists, politicians, and funders, alleg
 - **Role:** Founder and Executive Director of the Southern California Skeptics; illusionist; optical illusion expert
 - **Epstein Relationship:** Seckel was married to Isabel Maxwell (sister of [Ghislaine Maxwell](Ghislaine_Maxwell.md)) in 2007. He performed reputation management for Epstein in 2010, charging tens of thousands of dollars for SEO work to downrank stories about Epstein's conviction and remove "toxic suggested search engine terms."
 - **Death:** Body found July 1, 2015, at the base of a 100-foot cliff near Saint-Cirq-Lapopie in southern France. Death estimated to have occurred weeks prior. French authorities initially treated the case as suspicious.
-- **Death Questions:** Author Mark Oppenheimer stated: "I was never able to establish to my satisfaction that Seckel had died... I always had my suspicions that maybe he faked his own death; it would have been in character."
+- **Death Questions:** Author Mark Oppenheimer stated: "I was never able to establish to my satisfaction that Seckel had died.. I always had my suspicions that maybe he faked his own death; it would have been in character."
 - **Death Status:** Officially unconfirmed
 
 ## Martin Fleischmann - Pons's Collaborator
@@ -55,6 +55,12 @@ After the cold fusion controversy, Pons relocated to France in the early 1990s t
 3. Why has Pons been completely silent and unreachable for ~30 years?
 4. What is the connection between the cold fusion suppression and energy industry interests?
 5. Was Al Seckel's death related to his knowledge of Epstein's activities, including the Pons claim?
+## Other Shocking Stories
+
+- [Nadia Marcinko](Nadia_Marcinko.md): Epstein's personal pilot granted immunity in 2008. Files unsealed in 2024.
+- [John Ashe](John_Ashe.md): UN General Assembly president. A barbell crushed his throat days before his corruption trial involving Clinton donors.
+- [Kate Spade](Kate_Spade.md): Hanged three days before Bourdain. Same week as Zorreguieta. Three high-profile hangings in a single week.
+- [Richard C. Curtiss](Richard_C_Curtiss.md): Epstein's fellow inmate says he was murdered. Described disabled cameras and a goon squad. Received death threats.
 
 ## Sources
 - Epstein Files DOJ Release (Jan 30, 2026): EFTA02437662, EFTA00740161, EFTA00740600

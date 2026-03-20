@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Che Guevara
 Argentine-born Marxist revolutionary, executed by a U.S.-trained Bolivian military unit in 1967 with CIA operative Felix Rodriguez present and relaying orders.
@@ -50,7 +50,7 @@ Guevara was an Argentine physician turned revolutionary who played a central rol
 
 > "Shoot, coward, you are only going to kill a man." — Che Guevara's reported last words to his executioner
 
-> "It was not in our interest to have him killed... We wanted him alive." — Felix Rodriguez, though the Bolivian command overruled him
+> "It was not in our interest to have him killed.. We wanted him alive." — Felix Rodriguez, though the Bolivian command overruled him
 
 ## See Also
 
@@ -58,7 +58,13 @@ Guevara was an Argentine physician turned revolutionary who played a central rol
 - [Salvador Allende](Salvador_Allende.md) — Chilean president overthrown in CIA-backed coup
 - [Omar Torrijos](Omar_Torrijos.md) — Panamanian leader allegedly killed by CIA
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Judi Bari](Judi_Bari.md): FBI accused her of bombing her own car. A jury saw through it and awarded $4.4 million.
+- [Leyla Saylemez](Leyla_Saylemez.md): Youngest of three Kurdish women shot execution-style in Paris. Turkish intelligence suspected. She was 25.
+- [Ali Hassan Salameh](Ali_Hassan_Salameh.md): He was simultaneously a CIA asset and a Mossad target. Mossad killed him anyway with a car bomb.
+- [Alexander Perepilichnyy](Alexander_Perepilichnyy.md): Helped expose Russia's $230 million fraud. Dropped dead jogging outside his Surrey home. Insurers suspected poisoning.
 
 ## Sources
 

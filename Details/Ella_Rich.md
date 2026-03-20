@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Ella Rich
 Fiancee of [Frank Yassenoff](Frank_Yassenoff.md), shot to death alongside him in unsolved double homicide connected to the Kessler-Wexner network.
@@ -34,13 +34,13 @@ Rich was connected to the Epstein network through her fiance Yassenoff and his b
 >
 > — [Whitney Webb, Unlimited Hangout](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/) (August 2021)
 
-> "You have attempted to portray yourself as a kindly... senior citizen. The reality is that you, in a most cold and calculated fashion, plotted and carried out a contract-style murder of a man who thought you were his friend. You are, in fact, a clever, cunning and merciless killer."
+> "You have attempted to portray yourself as a kindly.. senior citizen. The reality is that you, in a most cold and calculated fashion, plotted and carried out a contract-style murder of a man who thought you were his friend. You are, in fact, a clever, cunning and merciless killer."
 >
 > — Judge William Webb, [sentencing Berry Kessler for the murder-for-hire of John Deroo](https://www.tampabay.com/archive/1997/02/20/75-year-old-is-sentenced-to-death-for-murder-plot/) (February 1997)
 
 ## Related Groups
 
-- [Wexner / L Brands](../other/groups/wexner_l_brands.md) — Columbus death pattern
+- [Wexner / L Brands](./other/groups/wexner_l_brands.md) — Columbus death pattern
 
 ## See Also
 
@@ -48,6 +48,12 @@ Rich was connected to the Epstein network through her fiance Yassenoff and his b
 - [Berry L. Kessler](Berry_Kessler.md) — Suspected in the double murder
 - [Arthur Shapiro](Arthur_Shapiro.md) — Another Kessler-connected murder victim
 - [Marjorie Dyer](Marjorie_Dyer.md) — Co-signed Yassenoff's will with Kessler
+## Other Shocking Stories
+
+- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Epstein left $5 million per child in his will. Resigned. Under criminal investigation.
+- [Terrence McAvoy](Terrence_McAvoy.md): NYPD sergeant. Allegedly viewed the Weiner laptop evidence. Suicide. Five officers now dead.
+- [Arthur Shapiro](Arthur_Shapiro.md): Gunned down weeks before IRS questioning. His killer's partner had FBI links to Epstein's network.
+- [Brice and Karen Gordon](Brice_Karen_Gordon.md): Managed Epstein's New Mexico ranch for 20 years. Both vanished after Maxwell's arrest. Never found.
 
 ## Sources
 

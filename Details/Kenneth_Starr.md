@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Kenneth Starr
 Attorney who helped Epstein get 2008 sweetheart plea deal, died at 76 of surgical complications.
@@ -35,7 +35,7 @@ Starr was a high-powered attorney best known for his role as Independent Counsel
 
 ## Key Quotes from Media Coverage
 
-> "Jeffrey, My friend, my brother..."
+> "Jeffrey, My friend, my brother.."
 > — Kenneth Starr in a March 2012 email to Jeffrey Epstein, via [Above the Law](https://abovethelaw.com/2026/02/ken-starr-writing-to-my-friend-my-brother-jeffrey-epstein/)
 
 > "He spent $40 million investigating a president for lying about sex. Then he helped a child sex trafficker avoid federal prison. Called him 'my friend, my brother' for a decade."
@@ -54,6 +54,12 @@ Starr was a high-powered attorney best known for his role as Independent Counsel
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md)
 - [Mark Middleton](Mark_Middleton.md)
 - [Steven Hoffenberg](Steven_Hoffenberg.md) — 2022 death cluster
+## Other Shocking Stories
+
+- [Steven Hoffenberg](Steven_Hoffenberg.md): FBI cooperator who exposed Epstein's blackmail operation. Found dead in his apartment, body decomposing for a week.
+- [Mark Middleton](Mark_Middleton.md): Hanged from a tree AND shot. Clinton aide who let Epstein into the White House.
+- [Austin Tucker Martin](Austin_Tucker_Martin.md): Armed 21-year-old breached Mar-a-Lago fixated on Epstein files. Shot dead by Secret Service on the property.
+- [Gary Caradori](Gary_Caradori.md): His plane disintegrated mid-air carrying evidence of elite child trafficking. Briefcase of photos never recovered.
 
 ## Sources
 

@@ -1,7 +1,7 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md) | [Weiner Laptop Overview](../other/laptop.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md) | [Weiner Laptop Overview](./other/laptop.md)
 
 # Michael Caddy
-NYPD officer, age 29, who allegedly viewed [Weiner laptop](../other/laptop.md) evidence. Third death in the June 2019 cluster.
+NYPD officer, age 29, who allegedly viewed [Weiner laptop](./other/laptop.md) evidence. Third death in the June 2019 cluster.
 
 | Field | Details |
 |-------|---------|
@@ -24,7 +24,7 @@ Officer Michael Caddy, 29, died on June 14, 2019, nine days after Deputy Chief [
 
 ## Connection to Weiner Laptop
 
-Caddy is named in online claims as one of 12 NYPD officers who allegedly viewed files on [Anthony Weiner's laptop](../other/laptop.md). At age 29 at the time of death, he would have been approximately 26 when the laptop was seized in 2016. These claims have not been independently verified. The FBI, not the NYPD, had formal custody of the laptop.
+Caddy is named in online claims as one of 12 NYPD officers who allegedly viewed files on [Anthony Weiner's laptop](./other/laptop.md). At age 29 at the time of death, he would have been approximately 26 when the laptop was seized in 2016. These claims have not been independently verified. The FBI, not the NYPD, had formal custody of the laptop.
 
 ## Why This Death Possibly Raises Questions
 
@@ -55,6 +55,12 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 
 > "There is no shame in seeking assistance from the many resources available, both inside and outside the department. Accepting help is never a sign of weakness — it's a sign of great strength."
 > — NYPD Commissioner James O'Neill, in a message to all 55,000 officers ([NBC News](https://www.nbcnews.com/news/us-news/mental-health-crisis-fifth-nypd-officer-dies-suicide-two-months-n1035471))
+## Other Shocking Stories
+
+- [Philip Haney](Philip_Haney.md): DHS whistleblower on trafficking networks. Shot dead. Family doubts the suicide ruling. Investigation stalled.
+- [Philip K. Dick](Philip_K_Dick.md): His home safe blown open with explosives. FBI and CIA confirmed surveillance.
+- [Paul Walker](Paul_Walker.md): Allegedly discovered child trafficking during Haiti relief work. Died in a fiery car crash at 40.
+- [Mark Middleton](Mark_Middleton.md): Hanged from a tree AND shot. Clinton aide who let Epstein into the White House.
 
 ## Sources
 

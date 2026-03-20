@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Natacha Jaitt
 Argentine model and TV personality who publicly accused politicians, journalists, and an associate of Pope Francis of involvement in pedophile networks — found dead at a Buenos Aires party venue at age 41 after tweeting "I am not going to kill myself."
@@ -87,10 +87,10 @@ Natacha Jaitt belongs to a disturbing pattern of individuals who publicly stated
 
 - **[Isaac Kappy](Isaac_Kappy.md)** — Hollywood actor who named pedophiles, recorded videos saying "if I die, it wasn't suicide," fell from a bridge in May 2019.
 - **[Virginia Giuffre](Virginia_Giuffre.md)** — Epstein's primary accuser, posted "I am not suicidal" on social media, died in 2024.
-- **[Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md)** — The "[DC Madam](../other/groups/dc_madam.md)," told multiple people she would never hang herself, found hanged 16 days after conviction.
+- **[Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md)** — The "[DC Madam](./other/groups/dc_madam.md)," told multiple people she would never hang herself, found hanged 16 days after conviction.
 - **[Tracy Twyman](Tracy_Twyman.md)** — Researcher who continued Kappy's work, left a "dead man's switch" video, found hanged in her garage in July 2019.
 - **[Sabrina Bittencourt](Sabrina_Bittencourt.md)** — Exposed John of God's baby trafficking ring, died in hiding in Barcelona in February 2019 — the same month as Jaitt. Her son said "they killed my mother."
-- **[Nikolai Mushegian](Nikolai_Mushegian.md)** — Tweeted about [CIA](../other/groups/cia.md)/[Mossad](../other/groups/mossad.md) sex trafficking, drowned four hours later.
+- **[Nikolai Mushegian](Nikolai_Mushegian.md)** — Tweeted about [CIA](./other/groups/cia.md)/[Mossad](./other/groups/mossad.md) sex trafficking, drowned four hours later.
 
 Jaitt's death occurred during the 2019 pre-arrest cluster that also included Bittencourt (February 2019), Kappy (May 2019), Twyman (July 2019), and Epstein himself (August 2019).
 
@@ -98,10 +98,10 @@ Jaitt's death occurred during the 2019 pre-arrest cluster that also included Bit
 
 While Natacha Jaitt's accusations were focused on Argentine figures rather than Epstein specifically, her case connects to the broader pattern of elite pedophile network exposure in several ways:
 
-- **The Independiente football club scandal** — a confirmed child abuse ring involving powerful figures in Argentine sports — parallels documented patterns of institutional child exploitation in the Epstein network, the [Franklin scandal](../other/groups/franklin_scandal.md), and the [Jimmy Savile/BBC scandal](../other/groups/jimmy_savile.md).
+- **The Independiente football club scandal** — a confirmed child abuse ring involving powerful figures in Argentine sports — parallels documented patterns of institutional child exploitation in the Epstein network, the [Franklin scandal](./other/groups/franklin_scandal.md), and the [Jimmy Savile/BBC scandal](./other/groups/jimmy_savile.md).
 - **The Vatican/Church connection** — Jaitt's accusations against Gustavo Vera and Pope Francis echo [Sabrina Bittencourt](Sabrina_Bittencourt.md)'s exposure of "John of God" (Joao Teixeira de Faria), a Brazilian faith healer with connections to powerful political figures.
 - **The intelligence dimension** — Some investigators have alleged connections between Argentine intelligence services (SIDE/AFI) and the networks Jaitt exposed.
-- **International trafficking networks** — Elite pedophile networks do not respect national borders. The same patterns — powerful men, institutional protection, whistleblowers silenced, evidence destroyed — appear across Epstein's operation, the [Dutroux](../other/groups/dutroux_affair.md) affair in Belgium, Savile in the UK, and the networks Jaitt exposed in Argentina.
+- **International trafficking networks** — Elite pedophile networks do not respect national borders. The same patterns — powerful men, institutional protection, whistleblowers silenced, evidence destroyed — appear across Epstein's operation, the [Dutroux](./other/groups/dutroux_affair.md) affair in Belgium, Savile in the UK, and the networks Jaitt exposed in Argentina.
 
 ## Key Quotes from Media Coverage
 
@@ -125,6 +125,12 @@ While Natacha Jaitt's accusations were focused on Argentine figures rather than 
 - [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.md) — Mexican woman who accused elites on camera, never seen again
 - [Virginia Giuffre](Virginia_Giuffre.md) — Epstein's primary accuser, posted "not suicidal"
 - [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "DC Madam" who said she'd never hang herself, found hanged
+## Other Shocking Stories
+
+- [Sabrina Bittencourt](Sabrina_Bittencourt.md): Exposed a baby-selling operation. Died in hiding in Barcelona.
+- [Joe Recarey](Joe_Recarey.md): Lead detective on the original Epstein case. Died unexpectedly at 50 of a brief unspecified illness.
+- [Tom Artiom Alexandrovich](Tom_Alexandrovich.md): Senior Israeli cyber official caught in FBI child predator sting. Posted bail. Fled to Israel in 48 hours.
+- [LeRoi Moore](LeRoi_Moore.md): Dave Matthews Band saxophonist. Died at 46 from a blood clot. Band's agency CEO later linked to Epstein.
 
 ## Sources
 

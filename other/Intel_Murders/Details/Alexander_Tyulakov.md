@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Alexander Tyulakov
 Gazprom executive found dead in his garage the morning after Russia invaded Ukraine in February 2022. Reportedly seen "severely beaten" before his death, which was ruled a suicide.
@@ -61,6 +61,12 @@ A later investigation by Novaya Gazeta Europe linked Gazprom to a money-launderi
 - [Ravil Maganov](Ravil_Maganov.md) — Lukoil chairman, fell from hospital window September 2022
 - [Sergei Protosenya](Sergei_Protosenya.md) — Former Novatek head, found dead in Spain April 2022
 - Alexander Subbotin — Former Lukoil board member, found dead May 2022
+## Other Shocking Stories
+
+- [Alexei Navalny](Alexei_Navalny.md): Survived FSB Novichok poisoning, tricked his assassin into confessing on camera, then died in an Arctic prison.
+- [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md): Mossad sent 27 agents with forged passports to suffocate one Hamas commander in a Dubai hotel room.
+- [Mahmoud Hamshari](Mahmoud_Hamshari.md): Mossad planted a bomb inside his telephone. When he answered, they detonated it remotely in Paris.
+- [Stanislav Markelov](Stanislav_Markelov.md): Human rights lawyer investigating Chechen war crimes shot dead on a Moscow street alongside a journalist.
 
 ## Sources
 

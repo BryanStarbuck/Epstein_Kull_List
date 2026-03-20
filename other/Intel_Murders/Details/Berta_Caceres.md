@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Berta Caceres
 Honduran indigenous Lenca leader and environmental activist assassinated in her home in 2016. A US-trained military intelligence officer was convicted of orchestrating her murder. She had been a prominent critic of the US-backed 2009 Honduran coup.
@@ -59,7 +59,13 @@ Berta Caceres was a co-founder and coordinator of the Civic Council of Popular a
 - [Enrique Camarena](Enrique_Camarena.md) — DEA agent murdered with alleged CIA complicity in Latin America
 - [Jaime Roldos](Jaime_Roldos.md) — Ecuadorian president killed in suspicious plane crash
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Yevgeny Prigozhin](Yevgeny_Prigozhin.md): Wagner Group founder's plane exploded exactly two months after his mutiny against Putin. Grenade fragments in the bodies.
+- [Philip Marshall](Philip_Marshall.md): Former CIA pilot writing about Saudi-9/11 connections found dead alongside his two children.
+- [Patrice Lumumba](Patrice_Lumumba.md): Congo's first democratically elected leader. The CIA and Belgium had him executed within seven months.
+- [Charles Horman](Charles_Horman.md): American journalist executed during the Chilean coup. The US government knew and did nothing. Declassified documents confirmed.
 
 ## Sources
 

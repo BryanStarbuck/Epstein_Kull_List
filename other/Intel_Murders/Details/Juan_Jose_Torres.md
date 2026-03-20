@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Juan José Torres
 Former president of Bolivia, assassinated in Buenos Aires in 1976 as part of the US-backed Operation Condor campaign of cross-border political killings.
@@ -54,7 +54,13 @@ Torres served as the 50th president of Bolivia from October 1970 to August 1971.
 - [Carlos Prats](Carlos_Prats.md) — Chilean general assassinated by DINA in Buenos Aires, 1974
 - [Orlando Letelier](Orlando_Letelier.md) — Chilean diplomat killed by DINA car bomb in Washington DC, 1976
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Charles Horman](Charles_Horman.md): American journalist executed during the Chilean coup. The US government knew and did nothing. Declassified documents confirmed.
+- [Enrique "Kiki" Camarena](Enrique_Camarena.md): DEA agent kidnapped and tortured for 30 hours in Mexico. CIA allegedly knew about the plot beforehand.
+- [Héctor Gutiérrez Ruiz](Hector_Gutierrez_Ruiz.md): Former Speaker of Uruguay's parliament, kidnapped, tortured, and shot in Buenos Aires. Operation Condor.
+- [Ngo Dinh Diem](Ngo_Dinh_Diem.md): South Vietnam's president surrendered during a CIA-backed coup. They shot him in the back of an armored vehicle.
 
 ## Sources
 

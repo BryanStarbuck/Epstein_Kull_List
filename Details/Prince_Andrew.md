@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Prince Andrew (Andrew Mountbatten-Windsor)
 Former UK royal arrested Feb 2026 for sharing classified trade intelligence with Epstein; first royal arrested in 400 years.
@@ -54,7 +54,7 @@ Andrew was released on bail at 2 AM on February 24, 2026. He has not been charge
 > "Today is just the beginning of accountability and justice brought forth by Virginia Roberts Giuffre — a young mother who adored her daughter so deeply, she fought the most powerful on earth to protect her. She did this for everyone's daughters. Let's now demand all the dominos of power and corruption begin to fall."
 > — Maria Farmer, first known Epstein survivor to report to law enforcement, [The Hill (February 2026)](https://thehill.com/policy/international/5745795-prince-andrew-arrested-epstein-survivor/)
 
-> "I have learned with the deepest concern the news about Andrew Mountbatten-Windsor and suspicion of misconduct in public office... Let me state clearly: the law must take its course."
+> "I have learned with the deepest concern the news about Andrew Mountbatten-Windsor and suspicion of misconduct in public office.. Let me state clearly: the law must take its course."
 > — King Charles III, statement following the arrest, [CNBC (February 2026)](https://www.cnbc.com/2026/02/19/epstein-files-former-prince-andrew-police-released-arrest.html)
 
 > "I think it's very sad. I think it's so bad for the royal family. It's very, very sad."
@@ -68,6 +68,12 @@ Andrew was released on bail at 2 AM on February 24, 2026. He has not been charge
 - [Peter Mandelson](Peter_Mandelson.md) — Also arrested in UK over Epstein ties
 - [Thorbjorn Jagland](Thorbjorn_Jagland.md) — Norwegian PM, part of European fallout
 - [Diana Spencer](Diana_Spencer.md) — Former sister-in-law; died in Paris car crash 1997 under disputed circumstances
+## Other Shocking Stories
+
+- [Tom Artiom Alexandrovich](Tom_Alexandrovich.md): Senior Israeli cyber official caught in FBI child predator sting. Posted bail. Fled to Israel in 48 hours.
+- [Two Unnamed Foreign Women (Alleged — Zorro Ranch)](Zorro_Ranch_Unnamed_Victims.md): Two foreign women allegedly strangled and buried near Epstein's New Mexico ranch. FBI never raided the property.
+- [Austin Tucker Martin](Austin_Tucker_Martin.md): Armed 21-year-old breached Mar-a-Lago fixated on Epstein files. Shot dead by Secret Service on the property.
+- [Linda Collins-Smith](Linda_Collins_Smith.md): Arkansas state senator investigating child trafficking through DHS. Stabbed to death at her own home.
 
 ## Sources
 

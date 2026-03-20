@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Eduardo Mondlane
 Mozambican independence leader and FRELIMO president killed by a book bomb in 1969, allegedly planted by Portuguese secret police (PIDE) and the Aginter Press network.
@@ -58,7 +58,13 @@ Mondlane was born in southern Mozambique under Portuguese colonial rule. He stud
 - [Patrice Lumumba](Patrice_Lumumba.md) — Congolese independence leader assassinated with Western intelligence involvement (1961)
 - [Thomas Sankara](Thomas_Sankara.md) — African leader assassinated with alleged foreign intelligence backing (1987)
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [John Lennon](John_Lennon.md): FBI surveilled him for years under COINTELPRO. His killer had CIA-connected ties and unexplained world travel.
+- [Bernardo Leighton](Bernardo_Leighton.md): Chilean politician shot in Rome by DINA and Italian neofascists working together. Operation Condor reached Europe.
+- [Qasem Soleimani](Qasem_Soleimani.md): Iran's most powerful military commander vaporized by a US drone strike at Baghdad airport. Trump ordered it.
+- [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md): Mossad sent 27 agents with forged passports to suffocate one Hamas commander in a Dubai hotel room.
 
 ## Sources
 

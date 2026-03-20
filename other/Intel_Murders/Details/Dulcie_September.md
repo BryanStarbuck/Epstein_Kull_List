@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Dulcie September
 ANC representative in Paris assassinated outside her office in 1988. South African intelligence widely suspected but her murder remains officially unsolved.
@@ -59,6 +59,12 @@ The French investigation into September's murder produced no arrests and was off
 - [Ruth First](Ruth_First.md) — Anti-apartheid activist killed by South African letter bomb in Mozambique
 - [Chris Hani](Chris_Hani.md) — SACP leader assassinated in South Africa in 1993
 - [Steve Biko](Steve_Biko.md) — Anti-apartheid activist beaten to death in police custody
+## Other Shocking Stories
+
+- [Serena Shim](Serena_Shim.md): Reported ISIS using UN food trucks. Turkish intelligence accused her of espionage.
+- [Anna Politkovskaya](Anna_Politkovskaya.md): Shot dead in her apartment elevator on Putin's birthday. She had been documenting Chechen war crimes for years.
+- [Vladimir Kara-Murza](Vladimir_Kara_Murza.md): Poisoned by the FSB twice and survived both times.
+- [Gerald Bull](Gerald_Bull.md): Canadian genius building Iraq a supergun. Five bullets to the head at his Brussels apartment. Mossad widely blamed.
 
 ## Sources
 

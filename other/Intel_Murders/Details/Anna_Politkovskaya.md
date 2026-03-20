@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Anna Politkovskaya
 Investigative journalist and fierce critic of the Chechen war, shot dead in her Moscow apartment building on Vladimir Putin's birthday.
@@ -76,6 +76,12 @@ Politkovskaya had survived a previous poisoning attempt in September 2004, when 
 - [Boris Nemtsov](Boris_Nemtsov.md) — Opposition leader shot near Kremlin, 2015
 - [Natalya Estemirova](Natalya_Estemirova.md) — Fellow Chechnya human rights activist, murdered 2009
 - [Paul Klebnikov](Paul_Klebnikov.md) — Forbes Russia editor, shot in Moscow 2004
+## Other Shocking Stories
+
+- [Michael Hastings](Michael_Hastings.md): Investigating CIA Director Brennan. His car exploded at 4 a.m. Richard Clarke said it looked like a cyberattack.
+- [Thomas Sankara](Thomas_Sankara.md): Africa's revolutionary president shot dead in a coup. France allegedly backed it. His killer convicted in 2022.
+- [Frank Teruggi](Frank_Teruggi.md): American student executed during the Chilean coup. US intelligence knew. It took 42 years to get convictions.
+- [John Paisley](John_Paisley.md): Senior CIA officer found floating with a bullet in his head and dive weights.
 
 ## Sources
 

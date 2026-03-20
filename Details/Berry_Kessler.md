@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Berry L. Kessler
 Prime suspect in Shapiro murder with FBI-documented Epstein link, died in prison at 84.
@@ -51,7 +51,7 @@ FBI documents mention a possible link between Kessler and [Jeffrey Epstein](Jeff
 
 ## Related Groups
 
-- [Wexner / L Brands](../other/groups/wexner_l_brands.md) — Connected to the Columbus/Wexner financial orbit
+- [Wexner / L Brands](./other/groups/wexner_l_brands.md) — Connected to the Columbus/Wexner financial orbit
 
 ## See Also — The Kessler Pattern
 
@@ -61,6 +61,12 @@ FBI documents mention a possible link between Kessler and [Jeffrey Epstein](Jeff
 - [Ella Rich](Ella_Rich.md) — Killed alongside Yassenoff (1970)
 - [Marjorie Dyer](Marjorie_Dyer.md) — Co-signed Yassenoff's will with Kessler, died in car accident
 - [John Deroo](John_Deroo.md) — Kessler business partner, shot six times (1991); Kessler convicted and sentenced to death
+## Other Shocking Stories
+
+- [Mark Middleton](Mark_Middleton.md): Hanged from a tree AND shot. Clinton aide who let Epstein into the White House.
+- [Linda Collins-Smith](Linda_Collins_Smith.md): Arkansas state senator investigating child trafficking through DHS. Stabbed to death at her own home.
+- [Diana Spencer (Princess of Wales)](Diana_Spencer.md): Wrote 'my husband is planning an accident in my car.' Died in a Paris tunnel crash.
+- [Ruslana Korshunova](Ruslana_Korshunova.md): Flew on Epstein's jet at 18. Two years later fell from the 9th floor.
 
 ## Sources
 

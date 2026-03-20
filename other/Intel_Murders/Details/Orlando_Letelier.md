@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Orlando Letelier
 Chilean diplomat and former ambassador to the United States, assassinated by a car bomb in Washington, DC, by agents of Chile's DINA secret police.
@@ -67,7 +67,13 @@ Letelier was particularly effective at lobbying European governments and interna
 - [Ronni Moffitt](Ronni_Moffitt.md) — American citizen killed alongside Letelier
 - [Rene Schneider](Rene_Schneider.md) — Chilean general assassinated by CIA-backed plotters, 1970
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Jan Kuciak](Jan_Kuciak.md): Shot dead at home with his fiancee for exposing mafia-government ties. Slovakia's prime minister resigned.
+- [Trevor Moore](Trevor_Moore.md): Comedian with 100 million views exposing elite trafficking and CIA crimes fell from a balcony at 2:30 a.m.
+- [Michael Hastings](Michael_Hastings.md): Investigating CIA Director Brennan. His car exploded at 4 a.m. Richard Clarke said it looked like a cyberattack.
+- [Wadie Haddad](Wadie_Haddad.md): Mossad allegedly laced his Belgian chocolate with a biological agent. Doctors diagnosed 'leukemia.'
 
 ## Sources
 

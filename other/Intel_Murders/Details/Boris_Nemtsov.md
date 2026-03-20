@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Boris Nemtsov
 Russian opposition leader and former Deputy Prime Minister shot dead on a bridge within sight of the Kremlin.
@@ -75,6 +75,12 @@ In his final years, Nemtsov was especially vocal about:
 - [Alexei Navalny](Alexei_Navalny.md) — Opposition leader who died in prison, 2024
 - [Anna Politkovskaya](Anna_Politkovskaya.md) — Journalist murdered in Moscow, 2006
 - [Sergei Yushenkov](Sergei_Yushenkov.md) — Opposition politician shot in Moscow, 2003
+## Other Shocking Stories
+
+- [Fidan Doğan](Fidan_Dogan.md): Kurdish activist shot execution-style in Paris. Turkish intelligence suspected of ordering the triple assassination.
+- [Victor Jara](Victor_Jara.md): Chilean folk singer's hands were broken. Then soldiers machine-gunned him with 44 rounds in a stadium.
+- [Jamal Khashoggi](Jamal_Khashoggi.md): Walked into a Saudi consulate for a marriage document. A 15-man hit squad strangled and dismembered him inside.
+- [Mehdi Ben Barka](Mehdi_Ben_Barka.md): Moroccan opposition leader kidnapped in broad daylight in Paris by French and Moroccan intelligence. Body never found.
 
 ## Sources
 

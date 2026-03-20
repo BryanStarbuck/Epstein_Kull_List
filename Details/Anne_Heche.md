@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Anne Heche
 Actress who claimed promoting trafficking film, died in fiery car crash in 2022 cluster.
@@ -63,6 +63,12 @@ Anne Heche's death in August 2022 occurred during a year with multiple Epstein-c
 - [Mark Middleton](Mark_Middleton.md)
 - [Steven Hoffenberg](Steven_Hoffenberg.md)
 - [Kenneth Starr](Kenneth_Starr.md)
+## Other Shocking Stories
+
+- [Vitaly Churkin](Vitaly_Churkin.md): Russian UN Ambassador. Sudden cardiac event. Cause of death withheld by State Department. Autopsy results sealed.
+- [Aaron Swartz](Aaron_Swartz.md): Built the tool that protects whistleblowers. Faced 35 years for downloading research papers. MIT took Epstein's money.
+- [Efrain "Stone" Reyes](Efrain_Stone_Reyes.md): Epstein's cellmate who knew what happened that night. Talked to investigators. Dead within months.
+- [Jenny Moore](Jenny_Moore.md): Journalist investigating child trafficking. Filed an FBI report. Found dead in a DC hotel weeks later.
 
 ## Sources
 - LA County coroner's report and toxicology findings

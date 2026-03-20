@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Sabrina Bittencourt
 Brazilian activist who exposed faith healer João de Deus ("John of God") as a serial rapist and alleged baby trafficker; found dead in Barcelona in February 2019 while living in hiding under protection after death threats.
@@ -97,7 +97,7 @@ While there is no direct evidence linking Sabrina Bittencourt or João de Deus t
 - **International trafficking:** Both operations allegedly involved international trafficking — Epstein across the Caribbean, New York, Florida, and New Mexico; João de Deus allegedly selling babies to couples on three continents.
 - **Institutional protection:** Both benefited from institutional protection. Epstein received a sweetheart plea deal in 2008; João de Deus operated openly for decades despite persistent rumors.
 - **Investigators dying:** Both cases involve investigators or activists who died under disputed circumstances after making public accusations.
-- **Intelligence connections:** While Epstein's ties to intelligence services ([CIA](../other/groups/cia.md), [Mossad](../other/groups/mossad.md)) are alleged, João de Deus's operation existed within a different sphere — but both exploited vulnerable populations at an industrial scale with apparent impunity.
+- **Intelligence connections:** While Epstein's ties to intelligence services ([CIA](./other/groups/cia.md), [Mossad](./other/groups/mossad.md)) are alleged, João de Deus's operation existed within a different sphere — but both exploited vulnerable populations at an industrial scale with apparent impunity.
 
 ## Key Quotes from Media Coverage
 
@@ -117,11 +117,17 @@ While there is no direct evidence linking Sabrina Bittencourt or João de Deus t
 - [Ted Gunderson](Ted_Gunderson.md) — Former FBI SAC who investigated elite trafficking networks for decades; died 2011
 - [Monica Petersen](Monica_Petersen.md) — Trafficking researcher who died in Haiti in 2016
 - [Jenny Moore](Jenny_Moore.md) — Journalist investigating trafficking; found dead in DC hotel in 2018
-- [Gary Caradori](Gary_Caradori.md) — [Franklin](../other/groups/franklin_scandal.md) scandal investigator whose plane disintegrated in 1990
-- [Danny Casolaro](Danny_Casolaro.md) — [PROMIS](../other/groups/promis_octopus.md) investigator found with wrists slashed in 1991
+- [Gary Caradori](Gary_Caradori.md) — [Franklin](./other/groups/franklin_scandal.md) scandal investigator whose plane disintegrated in 1990
+- [Danny Casolaro](Danny_Casolaro.md) — [PROMIS](./other/groups/promis_octopus.md) investigator found with wrists slashed in 1991
 - [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.md) — Accused elites of murder on camera in Mexico; disappeared 2009
 - [Max Spiers](Max_Spiers.md) — Researcher investigating elite pedophilia; died in Poland in 2016
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — [DC Madam](../other/groups/dc_madam.md) who said she'd never hang herself; found hanged in 2008
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — [DC Madam](./other/groups/dc_madam.md) who said she'd never hang herself; found hanged in 2008
+## Other Shocking Stories
+
+- [Ruslana Korshunova](Ruslana_Korshunova.md): Flew on Epstein's jet at 18. Two years later fell from the 9th floor.
+- [Alfredo Rodriguez](Alfredo_Rodriguez.md): Had Epstein's black book listing every victim and client. Tried to sell it. Died of cancer in custody.
+- [Steven Silks](Steven_Silks.md): NYPD deputy chief who allegedly viewed the Weiner laptop evidence. First of four officer suicides in 22 days.
+- [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.md): Screamed on camera that elites murder and eat people. Named Carlos Slim's son. Institutionalized. Never seen again.
 
 ## Sources
 

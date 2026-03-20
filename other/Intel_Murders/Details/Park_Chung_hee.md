@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Park Chung-hee
 President of South Korea for 18 years, shot and killed by his own intelligence chief — KCIA Director Kim Jae-gyu — at a private dinner on October 26, 1979. U.S. intelligence had been in contact with the assassin in the weeks before the killing.
@@ -63,7 +63,13 @@ By 1979, Park faced mounting domestic unrest, including the Busan-Masan uprising
 - [Patrice Lumumba](Patrice_Lumumba.md) — Foreign leader assassinated with intelligence service involvement
 - [Thomas Sankara](Thomas_Sankara.md) — Foreign leader assassinated in a coup
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Danny Casolaro](Danny_Casolaro.md): Told friends 'if I die, it wasn't suicide.' Found with slashed wrists in a hotel.
+- [Michael Hastings](Michael_Hastings.md): Investigating CIA Director Brennan. His car exploded at 4 a.m. Richard Clarke said it looked like a cyberattack.
+- [Bernardo Leighton](Bernardo_Leighton.md): Chilean politician shot in Rome by DINA and Italian neofascists working together. Operation Condor reached Europe.
+- [Nikolai Glushkov](Nikolai_Glushkov.md): Strangled in his London home and staged to look like suicide. One week after the Skripal Novichok attack.
 
 ## Sources
 

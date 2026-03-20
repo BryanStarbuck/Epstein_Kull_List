@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Nikolai Glushkov
 Russian exile and Kremlin critic found strangled in his London home, one week after the Skripal poisoning.
@@ -69,6 +69,12 @@ Glushkov was deeply connected to the network of Russian exiles in London who had
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — Mentor, assassinated in London 2006
 - [Sergei Skripal](Sergei_Skripal.md) — Poisoned one week before Glushkov's death
 - [Alexander Perepilichnyy](Alexander_Perepilichnyy.md) — Russian whistleblower who died in UK 2012
+## Other Shocking Stories
+
+- [Isaac Kappy](Isaac_Kappy.md): Said 'if I die, it wasn't suicide' on camera. Fell from a bridge 60 days before Epstein's arrest.
+- [Serena Shim](Serena_Shim.md): Reported ISIS using UN food trucks. Turkish intelligence accused her of espionage.
+- [Daniel Pearl](Daniel_Pearl.md): Wall Street Journal reporter beheaded in Pakistan while investigating ISI links to Al-Qaeda.
+- [Sakine Cansiz](Sakine_Cansiz.md): PKK co-founder shot execution-style in Paris alongside two other Kurdish women. Turkish intelligence suspected.
 
 ## Sources
 

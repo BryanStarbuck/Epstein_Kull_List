@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Bill Richardson
 Former NM governor who met Epstein 9+ times after conviction; name removed from children's hospital.
@@ -67,6 +67,12 @@ Epstein's [Zorro Ranch](Zorro_Ranch_Unnamed_Victims.md) — the 7,560-acre prope
 - [Two Unnamed Foreign Women](Zorro_Ranch_Unnamed_Victims.md) — Alleged burial at Zorro Ranch
 - [Brice and Karen Gordon](Brice_Karen_Gordon.md) — Zorro Ranch managers who vanished
 - [Virginia Giuffre](Virginia_Giuffre.md) — Accused Richardson of abuse
+## Other Shocking Stories
+
+- [Mark Salling](Mark_Salling.md): 50,000 child abuse images. A child abuse manual. Hanged five weeks before sentencing. Distribution network never traced.
+- [Steven Hoffenberg](Steven_Hoffenberg.md): FBI cooperator who exposed Epstein's blackmail operation. Found dead in his apartment, body decomposing for a week.
+- [Peter Mandelson](Peter_Mandelson.md): Senior UK politician arrested for leaking government secrets to Jeffrey Epstein. Accused of selling state intelligence.
+- [Johnny Rios](Johnny_Rios.md): NYPD officer. Allegedly viewed the Weiner laptop. Suicide. Six officers connected to that laptop are gone.
 
 ## Sources
 

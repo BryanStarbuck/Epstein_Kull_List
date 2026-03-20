@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Danny Casolaro
 Freelance journalist investigating "The Octopus" — a network linking PROMIS software theft, CIA/DOJ corruption, and intelligence operations — found dead in a hotel bathtub with his wrists slashed 10-12 times. His briefcase of documents was missing.
@@ -82,9 +82,15 @@ In 1990, Casolaro met Bill Hamilton, founder of INSLAW, who gave him a 12-page m
 - [Michael Hastings](Michael_Hastings.md) — journalist investigating CIA director, killed in car crash, 2013
 - [Karen Silkwood](Karen_Silkwood.md) — whistleblower killed en route to deliver documents to reporter
 - [William Colby](William_Colby.md) — former CIA Director who died under suspicious circumstances
-- [Danny Casolaro (Epstein Kill List)](../../../Details/Danny_Casolaro.md) — Epstein Kill List cross-reference
-- [PROMIS / The Octopus](../../groups/promis_octopus.md) — the intelligence network Casolaro was investigating
-- [CIA](../../groups/cia.md) — intelligence service implicated in PROMIS theft
+- [Danny Casolaro (Epstein Kill List)](./././Details/Danny_Casolaro.md) — Epstein Kill List cross-reference
+- [PROMIS / The Octopus](././groups/promis_octopus.md) — the intelligence network Casolaro was investigating
+- [CIA](././groups/cia.md) — intelligence service implicated in PROMIS theft
+## Other Shocking Stories
+
+- [Paul Klebnikov](Paul_Klebnikov.md): First American journalist murdered in Russia. Founded Forbes Russia. His suspects were acquitted.
+- [Salah al-Arouri](Salah_al_Arouri.md): Hamas deputy leader killed by Israeli drone strike in Beirut during the Gaza war.
+- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
+- [Barry Seal](Barry_Seal.md): CIA drug pilot turned informant. A judge forced him into an unprotected halfway house. The cartel found him.
 
 ## Sources
 

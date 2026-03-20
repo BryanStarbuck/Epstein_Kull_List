@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Benazir Bhutto
 Former Pakistani Prime Minister assassinated by gunshot and suicide bomb after a political rally in Rawalpindi, with UN investigators finding Pakistani authorities "failed profoundly" and ISI involvement in the cover-up.
@@ -61,6 +61,12 @@ Her return was itself marked by violence: a bombing at her welcome rally in Kara
 
 - [Zia ul-Haq](Zia_ul_Haq.md) -- Pakistani military ruler killed in suspicious plane crash
 - [Yitzhak Rabin](Yitzhak_Rabin.md) -- leader assassinated amid intelligence security failures
+## Other Shocking Stories
+
+- [Milton William "Bill" Cooper](Bill_Cooper.md): Predicted a major false-flag attack on radio in June 2001. Shot dead by police two months after 9/11.
+- [Galina Starovoitova](Galina_Starovoitova.md): Russian liberal lawmaker gunned down in her apartment lobby. She championed human rights Putin wanted silenced.
+- [Alexei Navalny](Alexei_Navalny.md): Survived FSB Novichok poisoning, tricked his assassin into confessing on camera, then died in an Arctic prison.
+- [Serena Shim](Serena_Shim.md): Reported ISIS using UN food trucks. Turkish intelligence accused her of espionage.
 
 ## Sources
 

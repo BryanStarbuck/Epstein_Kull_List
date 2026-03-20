@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Joe Recarey
 Lead Palm Beach detective who built the original Epstein case, interviewing 30+ victims and characterizing it as a "sexual pyramid scheme." Died unexpectedly at 50 of "brief illness" just as journalists were reopening the case.
@@ -158,7 +158,7 @@ X posts often mix real facts with speculation and frequently cite no primary doc
 > "Everything took a turn once Epstein's high-powered defense attorneys became involved."
 > — **Joe Recarey**, in sworn testimony, describing how the prosecution's approach shifted ([Vox](https://vox.com))
 
-> "He was a lead detective in many major investigations, including the high-profile solicitation-of-minors case against billionaire [Jeffrey Epstein](Jeffrey_Epstein.md)... He died Friday, May 25, 2018, surrounded by his family after a brief illness."
+> "He was a lead detective in many major investigations, including the high-profile solicitation-of-minors case against billionaire [Jeffrey Epstein](Jeffrey_Epstein.md).. He died Friday, May 25, 2018, surrounded by his family after a brief illness."
 > — **Palm Beach Daily News**, obituary for Joseph Recarey ([Legacy.com](https://www.legacy.com/us/obituaries/palmbeachdailynews/name/joseph-recarey-obituary?id=11914016))
 
 ## See Also
@@ -172,6 +172,12 @@ X posts often mix real facts with speculation and frequently cite no primary doc
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Modeling agent who trafficked girls to Epstein; found hanged in prison
 - [Mark Middleton](Mark_Middleton.md) — Another suspicious death linked to the Epstein network
 - [Carolyn Andriano](Carolyn_Andriano.md) — Victim who testified against Maxwell; died of overdose in West Palm Beach
+## Other Shocking Stories
+
+- [Frank Yassenoff](Frank_Yassenoff.md): Shot to death alongside his fiancee. Both murders unsolved. Killer's partner later linked to Epstein's network.
+- [Austin Tucker Martin](Austin_Tucker_Martin.md): Armed 21-year-old breached Mar-a-Lago fixated on Epstein files. Shot dead by Secret Service on the property.
+- [Jenny Moore](Jenny_Moore.md): Journalist investigating child trafficking. Filed an FBI report. Found dead in a DC hotel weeks later.
+- [Andrew Breitbart](Andrew_Breitbart.md): Tweeted about Podesta covering up a trafficking ring. Dropped dead of heart failure before releasing the evidence.
 
 ## Sources
 

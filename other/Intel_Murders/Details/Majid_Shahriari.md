@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Majid Shahriari
 Iranian nuclear scientist killed by motorcycle-riding assassins who attached a magnetized bomb to his car in Tehran.
@@ -56,7 +56,13 @@ Shahriari was a professor of nuclear engineering at Shahid Beheshti University i
 - [Mostafa Ahmadi Roshan](Mostafa_Ahmadi_Roshan.md) — Iranian nuclear scientist killed by magnetic bomb, 2012
 - [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md) — Head of Iran's nuclear weapons program, assassinated 2020
 
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md): JFK's mistress shot execution-style on a Georgetown towpath. CIA counterintelligence chief seized and burned her diary.
+- [John Lennon](John_Lennon.md): FBI surveilled him for years under COINTELPRO. His killer had CIA-connected ties and unexplained world travel.
+- [Chris Hani](Chris_Hani.md): South African Communist leader shot at home. His assassination nearly destroyed the transition to democracy.
+- [Yahya Ayyash](Yahya_Ayyash.md): Shin Bet packed a cell phone with explosives and called his number. Israel acknowledged the operation.
 
 ## Sources
 

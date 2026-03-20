@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Frank Yassenoff
 Business partner of [Berry Kessler](Berry_Kessler.md), shot to death alongside fiancee [Ella Rich](Ella_Rich.md) in unsolved double homicide.
@@ -55,7 +55,7 @@ The fact that Kessler — who was later convicted of arranging the murder of ano
 
 ## Related Groups
 
-- [Wexner / L Brands](../other/groups/wexner_l_brands.md) — Columbus death pattern
+- [Wexner / L Brands](./other/groups/wexner_l_brands.md) — Columbus death pattern
 
 ## See Also
 
@@ -64,6 +64,12 @@ The fact that Kessler — who was later convicted of arranging the murder of ano
 - [Arthur Shapiro](Arthur_Shapiro.md) — Another Kessler-connected murder victim
 - [John Deroo](John_Deroo.md) — Kessler was convicted of his murder
 - [Marjorie Dyer](Marjorie_Dyer.md) — Co-signed Yassenoff's will with Kessler, died in car accident
+## Other Shocking Stories
+
+- [Johnny Rios](Johnny_Rios.md): NYPD officer. Allegedly viewed the Weiner laptop. Suicide. Six officers connected to that laptop are gone.
+- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Epstein left $5 million per child in his will. Resigned. Under criminal investigation.
+- [Michael Caddy](Michael_Caddy.md): NYPD officer, age 29. Allegedly viewed the Weiner laptop. Suicide. Third officer dead in weeks.
+- [Chris Cornell](Chris_Cornell.md): Funding a child trafficking documentary. Found hanged in his hotel room. Wife says it was not suicide.
 
 ## Sources
 

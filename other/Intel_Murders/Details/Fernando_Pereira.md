@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Fernando Pereira
 Portuguese-Dutch freelance photographer drowned when French intelligence agents bombed and sank the Greenpeace ship Rainbow Warrior in Auckland harbour, New Zealand, in 1985.
@@ -58,6 +58,12 @@ New Zealand expelled France's ambassador and demanded a formal apology. The two 
 ## See Also
 
 - [Dag Hammarskjold](Dag_Hammarskjold.md) — UN Secretary-General killed in suspicious plane crash while opposing Western interests in Africa
+## Other Shocking Stories
+
+- [Serena Shim](Serena_Shim.md): Reported ISIS using UN food trucks. Turkish intelligence accused her of espionage.
+- [Dulcie September](Dulcie_September.md): ANC representative shot dead in Paris while investigating South African arms deals. Case still unsolved after 38 years.
+- [Natalya Estemirova](Natalya_Estemirova.md): Kidnapped from Kadyrov's Chechnya for documenting atrocities. Found shot dead. Unsolved for fifteen years.
+- [Mehdi Ben Barka](Mehdi_Ben_Barka.md): Moroccan opposition leader kidnapped in broad daylight in Paris by French and Moroccan intelligence. Body never found.
 
 ## Sources
 

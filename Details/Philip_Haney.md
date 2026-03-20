@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Philip Haney
 
@@ -64,11 +64,17 @@ The official ruling is suicide, supported by a handwriting-verified suicide note
 
 ## Related Groups
 
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — DHS whistleblower on trafficking
+- [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) — DHS whistleblower on trafficking
 
 ## Related Locations
 
-- [Other U.S. Locations](../other/locations/other_us.md) — Found shot dead near Plymouth, California, in a park-and-ride lot along State Highway 16
+- [Other U.S. Locations](./other/locations/other_us.md) — Found shot dead near Plymouth, California, in a park-and-ride lot along State Highway 16
+## Other Shocking Stories
+
+- [Daniel Anderl](Daniel_Anderl.md): Judge gets Epstein-Deutsche Bank case. Four days later, a gunman with intel ties murders her 20-year-old son.
+- [Johnny Rios](Johnny_Rios.md): NYPD officer. Allegedly viewed the Weiner laptop. Suicide. Six officers connected to that laptop are gone.
+- [Denise George](Denise_George.md): Filed the lawsuit that exposed JPMorgan's role. Fired four days later.
+- [Tracy Twyman](Tracy_Twyman.md): Picked up the dead man's research on elite pedophilia. Left a dead man's switch.
 
 ## Sources
 

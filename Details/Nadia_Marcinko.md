@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Nadia Marcinko
 Epstein's pilot and alleged trafficking victim, missing since January 2024 after Epstein files unsealed.
@@ -50,14 +50,20 @@ As of late 2025, OSINT investigators reported that her email account appeared to
 
 ## Related Groups
 
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — Epstein's pilot
-- [MC2 Model Management](../other/groups/mc2_model_management.md) — Entered orbit through modeling
+- [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) — Epstein's pilot
+- [MC2 Model Management](./other/groups/mc2_model_management.md) — Entered orbit through modeling
 
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Primary subject
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Co-conspirator, serving 20 years
 - [Virginia Giuffre](Virginia_Giuffre.md) — Fellow accuser, died 2025
+## Other Shocking Stories
+
+- [Leigh Skye Patrick](Leigh_Skye_Patrick.md): Lured to Epstein's mansion at 16. Died of an overdose in a Palm Beach hotel room.
+- [Ivana Trump](Ivana_Trump.md): Trump's ex-wife. Found dead at the bottom of her staircase. Buried on his golf course. #Epsteined trended online.
+- [Sabrina Bittencourt](Sabrina_Bittencourt.md): Exposed a baby-selling operation. Died in hiding in Barcelona.
+- [Peter Mandelson](Peter_Mandelson.md): Senior UK politician arrested for leaking government secrets to Jeffrey Epstein. Accused of selling state intelligence.
 
 ## Sources
 

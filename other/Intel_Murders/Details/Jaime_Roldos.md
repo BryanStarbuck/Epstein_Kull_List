@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Jaime Roldos
 President of Ecuador killed in a plane crash in 1981, just hours after delivering a speech asserting Latin American independence from U.S. policy. His death came two months before Panamanian leader Omar Torrijos died in a nearly identical plane crash. John Perkins alleged CIA involvement in both deaths.
@@ -60,9 +60,15 @@ Jaime Roldos was elected president of Ecuador in 1979, becoming the country's fi
 - [Oscar Romero](Oscar_Romero.md) — Archbishop killed by US-backed death squads in El Salvador in 1980
 - [Dag Hammarskjold](Dag_Hammarskjold.md) — UN Secretary-General killed in suspicious 1961 plane crash
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
 
 - [Omar Torrijos](Omar_Torrijos.md) — Panamanian leader who died the same way two months later
+## Other Shocking Stories
+
+- [Fidan Doğan](Fidan_Dogan.md): Kurdish activist shot execution-style in Paris. Turkish intelligence suspected of ordering the triple assassination.
+- [Fuad Shukr](Fuad_Shukr.md): Hezbollah's top military commander killed by Israeli airstrike in Beirut during the 2024 escalation.
+- [John Paisley](John_Paisley.md): Senior CIA officer found floating with a bullet in his head and dive weights.
+- [Enrique "Kiki" Camarena](Enrique_Camarena.md): DEA agent kidnapped and tortured for 30 hours in Mexico. CIA allegedly knew about the plot beforehand.
 
 ## Sources
 

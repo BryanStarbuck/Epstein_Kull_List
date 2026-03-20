@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Michael Jackson
 Visited Epstein's mansion once in 2003; death by physician unrelated to Epstein.
@@ -33,10 +33,10 @@ Jackson reportedly visited [Epstein](Jeffrey_Epstein.md)'s Palm Beach mansion on
 
 ## Key Quotes from Media Coverage
 
-> "We were just viewing houses as Michael wanted to live on Palm Beach so he can be close to his friend Barry Gibb... We never even knew who Epstein was. He was not famous then."
+> "We were just viewing houses as Michael wanted to live on Palm Beach so he can be close to his friend Barry Gibb.. We never even knew who Epstein was. He was not famous then."
 > — Matt Fiddes, Jackson's former bodyguard, via [The Tab](https://thetab.com/2025/12/22/michael-jacksons-bodyguard-speaks-out-on-that-picture-from-the-epstein-files)
 
-> "He, like the other house owners we viewed that week, wanted a picture with Michael... Epstein was not in Michael's financial circles."
+> "He, like the other house owners we viewed that week, wanted a picture with Michael.. Epstein was not in Michael's financial circles."
 > — Matt Fiddes, explaining the Epstein photo, via [The Mirror](https://www.themirror.com/entertainment/celebrity-news/michael-jacksons-bodyguard-explains-reason-1574511)
 
 > "No allegations of wrongdoing or involvement in Epstein's illegal activities were made against Jackson in any of the unsealed files."
@@ -45,6 +45,12 @@ Jackson reportedly visited [Epstein](Jeffrey_Epstein.md)'s Palm Beach mansion on
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md)
+## Other Shocking Stories
+
+- [Carolyn Andriano](Carolyn_Andriano.md): Testified against Ghislaine Maxwell. Died of an overdose in a Palm Beach hotel.
+- [Nikolai Mushegian](Nikolai_Mushegian.md): Tweeted that CIA and Mossad ran a sex trafficking ring in Puerto Rico. Drowned four hours later.
+- [Johnny Rios](Johnny_Rios.md): NYPD officer. Allegedly viewed the Weiner laptop. Suicide. Six officers connected to that laptop are gone.
+- [Nancy Schaefer](Nancy_Schaefer.md): State senator exposing child trafficking through CPS. Shot in the back with an untraceable gun no family recognized.
 
 ## Sources
 

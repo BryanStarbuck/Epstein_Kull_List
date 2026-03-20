@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Alfredo Rodriguez
 Epstein's house manager who stole the 'black book,' died of confirmed mesothelioma.
@@ -69,6 +69,12 @@ The current location of the full document has not been disclosed. According to T
 - [Joe Recarey](Joe_Recarey.md) — Lead detective investigating Epstein's Palm Beach crimes
 - [Virginia Giuffre](Virginia_Giuffre.md) — Named in the black book
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md)
+## Other Shocking Stories
+
+- [Peaches Geldof](Peaches_Geldof.md): Tweeted the names of mothers who enabled a pedophile. Five months later, dead on 61% pure heroin.
+- [John Ashe](John_Ashe.md): UN General Assembly president. A barbell crushed his throat days before his corruption trial involving Clinton donors.
+- [Andrew Breitbart](Andrew_Breitbart.md): Tweeted about Podesta covering up a trafficking ring. Dropped dead of heart failure before releasing the evidence.
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md): The DC Madam said publicly she would never hang herself. Found hanged 16 days after conviction.
 
 ## Sources
 

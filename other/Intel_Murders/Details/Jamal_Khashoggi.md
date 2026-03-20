@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Jamal Khashoggi
 Saudi dissident journalist murdered and dismembered inside the Saudi consulate in Istanbul by a 15-member Saudi hit squad.
@@ -65,6 +65,12 @@ After MBS rose to power in 2017, Khashoggi became increasingly critical of the C
 - [Boris Nemtsov](Boris_Nemtsov.md) -- another dissident murdered by state agents
 - [Alexander Litvinenko](Alexander_Litvinenko.md) -- state-sponsored assassination of a critic abroad
 - [Anna Politkovskaya](Anna_Politkovskaya.md) -- journalist critical of government murdered
+## Other Shocking Stories
+
+- [Yitzhak Rabin](Yitzhak_Rabin.md): Israeli PM shot by an extremist. Allegations that Shin Bet infiltrated and possibly manipulated the assassin.
+- [Anastasia Baburova](Anastasia_Baburova.md): A 25-year-old journalism student shot dead on a Moscow sidewalk trying to save a human rights lawyer.
+- [Roberto Calvi](Roberto_Calvi.md): Found hanging under London's Blackfriars Bridge with bricks in his pockets. Linked to the Vatican and P2 lodge.
+- [Eduardo Mondlane](Eduardo_Mondlane.md): Mozambican independence leader killed by a book bomb. Portuguese secret police and possibly CIA implicated.
 
 ## Sources
 

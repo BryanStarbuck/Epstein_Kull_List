@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Maxim Kuzminov
 Russian military helicopter pilot who defected to Ukraine, found shot dead in Spain six months later.
@@ -58,7 +58,7 @@ After his defection, Russian intelligence officials made threatening public stat
 
 > "A dog's death awaits him. A traitor is always a traitor." — Sergei Naryshkin, SVR Director
 
-> "This is a demonstration killing... the message is clear: if you defect, we will find you." — Western intelligence analyst
+> "This is a demonstration killing.. the message is clear: if you defect, we will find you." — Western intelligence analyst
 
 ## See Also
 
@@ -66,6 +66,12 @@ After his defection, Russian intelligence officials made threatening public stat
 - [Sergei Skripal](Sergei_Skripal.md) — GRU defector poisoned in Salisbury, 2018
 - [Georgi Markov](Georgi_Markov.md) — Bulgarian defector assassinated in London, 1978
 - [Denis Voronenkov](Denis_Voronenkov.md) — Russian defector shot in Kyiv, 2017
+## Other Shocking Stories
+
+- [Boris Berezovsky](Boris_Berezovsky.md): Russian oligarch found hanged in his locked bathroom. German pathologist said the evidence pointed to strangulation by others.
+- [Ismail Haniyeh](Ismail_Haniyeh.md): Hamas political chief killed by a bomb inside a Tehran guesthouse during Iran's presidential inauguration.
+- [Héctor Gutiérrez Ruiz](Hector_Gutierrez_Ruiz.md): Former Speaker of Uruguay's parliament, kidnapped, tortured, and shot in Buenos Aires. Operation Condor.
+- [Stanislav Markelov](Stanislav_Markelov.md): Human rights lawyer investigating Chechen war crimes shot dead on a Moscow street alongside a journalist.
 
 ## Sources
 

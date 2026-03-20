@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Sergei Yushenkov
 Russian liberal politician and State Duma member shot dead outside his Moscow apartment in 2003, hours after registering his opposition party — and while actively investigating FSB involvement in the 1999 apartment bombings.
@@ -60,6 +60,12 @@ Yushenkov and other commission members believed the FSB had orchestrated or faci
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — former FSB officer who also investigated the bombings, poisoned with polonium in 2006
 - [Anna Politkovskaya](Anna_Politkovskaya.md) — journalist who covered the Chechen wars and FSB abuses, murdered 2006
 - [Boris Nemtsov](Boris_Nemtsov.md) — opposition politician shot near Kremlin in 2015
+## Other Shocking Stories
+
+- [Mark Clark](Mark_Clark.md): Killed alongside Fred Hampton. Police fired 99 shots.
+- [Fernando Pereira](Fernando_Pereira.md): Photographer drowned when French intelligence bombed the Rainbow Warrior in a New Zealand harbor. France admitted it.
+- [Gerald Bull](Gerald_Bull.md): Canadian genius building Iraq a supergun. Five bullets to the head at his Brussels apartment. Mossad widely blamed.
+- [Juan José Torres](Juan_Jose_Torres.md): Former president of Bolivia, kidnapped and executed in Buenos Aires. CIA-backed Operation Condor.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # David Webster
 South African anti-apartheid academic and anthropologist, shot dead outside his Johannesburg home in 1989 by an agent of the apartheid government's covert Civil Cooperation Bureau (CCB).
@@ -56,6 +56,12 @@ Born in Northern Rhodesia (now Zambia) where his father worked as a miner in the
 - [Dulcie September](Dulcie_September.md) — ANC representative shot in Paris, 1988
 - [Rick Turner](Rick_Turner.md) — South African political scientist shot at home, 1978
 - [Chris Hani](Chris_Hani.md) — South African Communist Party leader shot at home, 1993
+## Other Shocking Stories
+
+- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
+- [David Kelly](David_Kelly.md): UK weapons inspector who challenged the Iraq WMD lie. Almost no blood at the scene.
+- [Boris Berezovsky](Boris_Berezovsky.md): Russian oligarch found hanged in his locked bathroom. German pathologist said the evidence pointed to strangulation by others.
+- [Eduardo Mondlane](Eduardo_Mondlane.md): Mozambican independence leader killed by a book bomb. Portuguese secret police and possibly CIA implicated.
 
 ## Sources
 

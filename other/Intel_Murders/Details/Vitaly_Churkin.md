@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Vitaly Churkin
 Russia's Permanent Representative to the United Nations who died suddenly in New York City in 2017, one day before his 65th birthday. The NYC Medical Examiner initially could not determine cause of death, and the autopsy results were subsequently suppressed under diplomatic immunity at the request of the U.S. State Department.
@@ -62,7 +62,13 @@ Churkin was one of Russia's most prominent and skilled diplomats. He served as R
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — Russian intelligence defector poisoned in London
 - [Boris Nemtsov](Boris_Nemtsov.md) — Russian opposition leader killed in Moscow
 - [Nikolai Glushkov](Nikolai_Glushkov.md) — Russian exile found dead in London
-- [Vitaly Churkin (Epstein Kill List)](../../../Details/Vitaly_Churkin.md) — Epstein Kill List cross-reference
+- [Vitaly Churkin (Epstein Kill List)](./././Details/Vitaly_Churkin.md) — Epstein Kill List cross-reference
+## Other Shocking Stories
+
+- [Carlos Prats](Carlos_Prats.md): Chilean general killed by a DINA car bomb in Buenos Aires. Operation Condor hunted dissidents across continents.
+- [Pierre Gemayel](Pierre_Gemayel.md): Lebanese anti-Syrian politician shot dead in his car. Part of a wave of assassinations targeting one alliance.
+- [Barry Seal](Barry_Seal.md): CIA drug pilot turned informant. A judge forced him into an unprotected halfway house. The cartel found him.
+- [Dulcie September](Dulcie_September.md): ANC representative shot dead in Paris while investigating South African arms deals. Case still unsolved after 38 years.
 
 ## Sources
 

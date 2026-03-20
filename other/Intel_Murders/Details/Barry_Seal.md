@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Barry Seal
 CIA-connected drug pilot and DEA informant machine-gunned in his car by Medellin Cartel hitmen, after his cover was allegedly blown by the CIA and Oliver North.
@@ -58,14 +58,20 @@ In 1984, Seal flew a specially equipped C-123K cargo plane with hidden CIA camer
 
 > "I've got more knowledge about what's going on than the president, the CIA, the FBI, and the DEA." — Barry Seal, reportedly, before his death
 
-> "Barry Seal was the biggest drug informant in American history... and we set him up to be killed." — Former DEA agent, quoted in reporting on the case
+> "Barry Seal was the biggest drug informant in American history.. and we set him up to be killed." — Former DEA agent, quoted in reporting on the case
 
 ## See Also
 
 - [Gary Webb](Gary_Webb.md) — journalist who exposed CIA-Contra-crack connection, found dead in 2004
 - [Danny Casolaro](Danny_Casolaro.md) — journalist investigating the Octopus/intelligence connections
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Ali Hassan Salameh](Ali_Hassan_Salameh.md): He was simultaneously a CIA asset and a Mossad target. Mossad killed him anyway with a car bomb.
+- [Nikolai Glushkov](Nikolai_Glushkov.md): Strangled in his London home and staged to look like suicide. One week after the Skripal Novichok attack.
+- [Anna Politkovskaya](Anna_Politkovskaya.md): Shot dead in her apartment elevator on Putin's birthday. She had been documenting Chechen war crimes for years.
+- [Roman Tsepov](Roman_Tsepov.md): Putin's former personal security chief died of radioactive poisoning two years before they did it to Litvinenko.
 
 ## Sources
 

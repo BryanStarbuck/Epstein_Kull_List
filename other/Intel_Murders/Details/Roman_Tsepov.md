@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Roman Tsepov
 Putin's former personal security provider, died of radioactive poisoning in St. Petersburg in 2004 — two years before Alexander Litvinenko was killed by the same method in London.
@@ -59,6 +59,12 @@ Tsepov's influence extended far beyond personal security. He was connected to Ru
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — poisoned by polonium-210 in London in 2006, confirmed FSB operation
 - [Sergei Skripal](Sergei_Skripal.md) — Novichok poisoning in 2018, confirmed GRU operation
 - [Boris Berezovsky](Boris_Berezovsky.md) — another Putin-era figure who died under suspicious circumstances
+## Other Shocking Stories
+
+- [Gerald Bull](Gerald_Bull.md): Canadian genius building Iraq a supergun. Five bullets to the head at his Brussels apartment. Mossad widely blamed.
+- [Maxim Kuzminov](Maxim_Kuzminov.md): Russian pilot defected to Ukraine. Found shot dead in Spain with Russian ammunition. SVR called him 'traitor.'
+- [Ismail Haniyeh](Ismail_Haniyeh.md): Hamas political chief killed by a bomb inside a Tehran guesthouse during Iran's presidential inauguration.
+- [Paul Klebnikov](Paul_Klebnikov.md): First American journalist murdered in Russia. Founded Forbes Russia. His suspects were acquitted.
 
 ## Sources
 

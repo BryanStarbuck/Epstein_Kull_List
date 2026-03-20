@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Marc Angelucci
 Men's rights attorney shot dead at his front door by a gunman posing as a delivery driver — the same gunman who, eight days later, killed the son of the judge assigned to the Epstein-Deutsche Bank case.
@@ -58,7 +58,7 @@ At the time of the attacks, Den Hollander was reportedly terminally ill with can
 - **The timing with the Deutsche Bank-Epstein case:** Judge Salas was assigned the Deutsche Bank investors' lawsuit — alleging the bank failed to monitor Epstein's accounts — just four days before her family was attacked. Whether this timing is coincidental remains debated.
 - **Den Hollander's target list:** Investigators found a list of multiple targets in Den Hollander's rental car, suggesting a planned series of attacks rather than a spontaneous act.
 - **The "lone wolf" question:** Authorities concluded Den Hollander acted alone, motivated by personal grievances against Angelucci (professional rivalry) and Judge Salas (judicial rulings against him). However, some commentators have questioned whether a 72-year-old terminally ill man could have carried out a cross-country killing spree — California to New Jersey — without assistance or direction.
-- **Den Hollander's reported intelligence connections:** According to reporting by RT and other outlets, Den Hollander had reportedly worked for Kroll Associates, sometimes described as "the [CIA](../other/groups/cia.md) of Wall Street." The significance of this employment, if confirmed, remains unclear.
+- **Den Hollander's reported intelligence connections:** According to reporting by RT and other outlets, Den Hollander had reportedly worked for Kroll Associates, sometimes described as "the [CIA](./other/groups/cia.md) of Wall Street." The significance of this employment, if confirmed, remains unclear.
 - **No clear personal motive for killing Angelucci first:** While professional rivalry has been cited as the motive for the Angelucci killing, some observers have noted that it is unusual for someone planning to attack a federal judge to first travel cross-country to kill a professional rival — unless the Angelucci killing served some other purpose, such as testing the delivery driver disguise or establishing a pattern that would obscure the true motive for the Salas attack.
 
 ## Key Quotes from Media Coverage
@@ -80,13 +80,19 @@ At the time of the attacks, Den Hollander was reportedly terminally ill with can
 
 ## Related Groups
 
-- [Kroll Associates](../other/groups/kroll_associates.md) — Den Hollander (the gunman) worked at Kroll's Moscow office; Kroll had Deutsche Bank ties
-- [Deutsche Bank](../other/groups/deutsche_bank.md) — Judge Salas was assigned the Epstein-Deutsche Bank case days before the same gunman attacked her family
+- [Kroll Associates](./other/groups/kroll_associates.md) — Den Hollander (the gunman) worked at Kroll's Moscow office; Kroll had Deutsche Bank ties
+- [Deutsche Bank](./other/groups/deutsche_bank.md) — Judge Salas was assigned the Epstein-Deutsche Bank case days before the same gunman attacked her family
 
 ## Related Locations
 
-- [Southern California](../other/locations/southern_california.md) — Cedarpines Park, where Angelucci was killed at his home
-- [New Jersey](../other/locations/new_jersey.md) — North Brunswick, where Den Hollander attacked Judge Salas's family eight days later
+- [Southern California](./other/locations/southern_california.md) — Cedarpines Park, where Angelucci was killed at his home
+- [New Jersey](./other/locations/new_jersey.md) — North Brunswick, where Den Hollander attacked Judge Salas's family eight days later
+## Other Shocking Stories
+
+- [Peter Mandelson](Peter_Mandelson.md): Senior UK politician arrested for leaking government secrets to Jeffrey Epstein. Accused of selling state intelligence.
+- [Danny Casolaro](Danny_Casolaro.md): Investigating the same intel op that created Epstein's blackmail machine. Found with slashed wrists. Briefcase gone.
+- [Terje Rød-Larsen](Terje_Rod_Larsen.md): Norwegian diplomat. Epstein paid him $250K and willed $10 million to his children. Under criminal investigation.
+- [Ted Gunderson](Ted_Gunderson.md): Former FBI chief who exposed elite blackmail rings for decades. Associates say he was slowly poisoned with arsenic.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Peaches Geldof
 British socialite, journalist, and television presenter who publicly named mothers who enabled convicted pedophile Ian Watkins — found dead of a heroin overdose five months later at age 25.
@@ -149,7 +149,13 @@ All three deaths occurred within a 17-year span. Two of three died of heroin ove
 
 ## Related Groups
 
-- [Jimmy Savile / BBC](../other/groups/jimmy_savile.md) — UK's most prolific pedophile; institutional cover-up exposed 2012, contemporaneous with the Watkins case
+- [Jimmy Savile / BBC](./other/groups/jimmy_savile.md) — UK's most prolific pedophile; institutional cover-up exposed 2012, contemporaneous with the Watkins case
+## Other Shocking Stories
+
+- [John Connolly](John_Connolly.md): Co-authored the book that exposed Epstein to millions. Died of a brief illness at 78.
+- [Joe Recarey](Joe_Recarey.md): Lead detective on the original Epstein case. Died unexpectedly at 50 of a brief unspecified illness.
+- [John Deroo](John_Deroo.md): Shot six times in the face.
+- [Isaac Kappy](Isaac_Kappy.md): Said on camera: 'If I die, it wasn't suicide.' Two months later, fell from a bridge in Arizona.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Mahmoud Al-Mabhouh
 Hamas military commander assassinated in a Dubai hotel room by Mossad agents using forged passports, in an operation captured on hotel CCTV that caused an international diplomatic crisis.
@@ -62,7 +62,13 @@ He had survived at least one previous assassination attempt in 2009 when he was 
 - [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md) -- Iranian scientist killed by Mossad
 - [Wael Zwaiter](Wael_Zwaiter.md) -- PLO representative killed by Mossad in Operation Wrath of God
 
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Sergei Magnitsky](Sergei_Magnitsky.md): Exposed a $230 million government fraud. Russia beat him to death in prison.
+- [Gary Webb](Gary_Webb.md): Two gunshots to the head — ruled suicide. He exposed the CIA's crack cocaine pipeline into Black neighborhoods.
+- [Boris Berezovsky](Boris_Berezovsky.md): Russian oligarch found hanged in his locked bathroom. German pathologist said the evidence pointed to strangulation by others.
+- [Anna Politkovskaya](Anna_Politkovskaya.md): Shot dead in her apartment elevator on Putin's birthday. She had been documenting Chechen war crimes for years.
 
 ## Sources
 

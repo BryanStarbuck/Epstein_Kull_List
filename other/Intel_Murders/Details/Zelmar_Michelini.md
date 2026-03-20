@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Zelmar Michelini
 Uruguayan senator in exile, kidnapped from his Buenos Aires hotel, tortured, and murdered in May 1976 as part of Operation Condor.
@@ -54,7 +54,13 @@ Michelini served in the Uruguayan Chamber of Deputies from 1954 to 1958 and the 
 - [Orlando Letelier](Orlando_Letelier.md) — Chilean diplomat killed by DINA in Washington DC, 1976
 - [Carlos Prats](Carlos_Prats.md) — Chilean general assassinated by DINA in Buenos Aires, 1974
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Anwar al-Awlaki](Anwar_al_Awlaki.md): First American citizen deliberately killed by his own government without trial. Obama signed the order.
+- [Leonid Shulman](Leonid_Shulman.md): Gazprom transport chief found with slashed wrists in his country house.
+- [Karen Silkwood](Karen_Silkwood.md): Drove toward the New York Times with nuclear documents. Forced off the road. Documents never found.
+- [Aldo Moro](Aldo_Moro.md): Italy's prime minister held for 55 days, then shot. CIA and NATO's Gladio network allegedly manipulated his captors.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Ruslana Korshunova
 Model documented on Epstein's jet at 18, fell from 9th floor; mother rejects suicide ruling.
@@ -102,8 +102,8 @@ Two young models, both connected to the same psychological group, both dying by 
 
 ## Related Groups
 
-- [Elite Model Management](../other/groups/elite_model_management.md) — Modeling industry trafficking pipeline
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — Documented on Epstein's jet
+- [Elite Model Management](./other/groups/elite_model_management.md) — Modeling industry trafficking pipeline
+- [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) — Documented on Epstein's jet
 
 ## See Also
 
@@ -116,7 +116,13 @@ Two young models, both connected to the same psychological group, both dying by 
 
 ## Related Locations
 
-- [New York City Metro](../other/locations/new_york_metro.md) — Fell from 9th-floor apartment at 130 Water Street in Manhattan's Financial District
+- [New York City Metro](./other/locations/new_york_metro.md) — Fell from 9th-floor apartment at 130 Water Street in Manhattan's Financial District
+## Other Shocking Stories
+
+- [Philip Haney](Philip_Haney.md): DHS whistleblower on trafficking networks. Shot dead. Family doubts the suicide ruling. Investigation stalled.
+- [Richard C. Curtiss](Richard_C_Curtiss.md): Epstein's fellow inmate says he was murdered. Described disabled cameras and a goon squad. Received death threats.
+- [Terje Rød-Larsen](Terje_Rod_Larsen.md): Norwegian diplomat. Epstein paid him $250K and willed $10 million to his children. Under criminal investigation.
+- [Sabrina Bittencourt](Sabrina_Bittencourt.md): Exposed a baby-selling operation. Died in hiding in Barcelona.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Humberto Delgado
 Portuguese opposition leader and Air Force general murdered in 1965 by PIDE (Portuguese secret police) agents after being lured into an ambush near the Spanish border.
@@ -55,6 +55,12 @@ Humberto Delgado was a Portuguese Air Force general who became the leading oppos
 
 - [Eduardo Mondlane](Eduardo_Mondlane.md) — Mozambican independence leader killed by book bomb allegedly planted by the same PIDE agent (1969)
 - [Patrice Lumumba](Patrice_Lumumba.md) — Another African/Portuguese-colonial-era political assassination (1961)
+## Other Shocking Stories
+
+- [Wael Zwaiter](Wael_Zwaiter.md): Palestinian intellectual shot twelve times in Rome. First kill in Mossad's post-Munich revenge campaign. Possibly wrong man.
+- [Barry Seal](Barry_Seal.md): CIA drug pilot turned informant. A judge forced him into an unprotected halfway house. The cartel found him.
+- [Alexander Litvinenko](Alexander_Litvinenko.md): Poisoned with radioactive polonium in his London tea. UK inquiry found Putin 'probably approved' it.
+- [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md): Iran's top nuclear scientist killed by an AI-assisted remote-controlled gun. No assassin was even present.
 
 ## Sources
 

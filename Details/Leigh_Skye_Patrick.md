@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Leigh Skye Patrick
 Epstein victim lured to his mansion at 16, died of heroin overdose linked to abuse trauma.
@@ -42,7 +42,7 @@ After her daughter's death, Michelle Licata became an advocate for other Epstein
 > "My sister suffered tremendously and it started with Epstein. Something happened in her when she met him that got her out of control."
 > — **Shelby Patrick**, Leigh's twin sister ([MEAWW](https://meaww.com/leigh-patrick-overdosed-blame-meeting-jeffrey-epstein-sexual-trafficking-assault-underage-teens))
 
-> "I ran out because he was so creepy. He scared the life out of me... I left because I was a scared 16-year-old."
+> "I ran out because he was so creepy. He scared the life out of me.. I left because I was a scared 16-year-old."
 > — **Leigh Skye Patrick**, describing her encounter with Epstein at his Palm Beach mansion in 2003 ([MEAWW](https://meaww.com/leigh-patrick-overdosed-blame-meeting-jeffrey-epstein-sexual-trafficking-assault-underage-teens))
 
 > "The system may have failed them twice: once in letting Epstein go, and a second time by failing to provide some kind of support."
@@ -53,6 +53,12 @@ After her daughter's death, Michelle Licata became an advocate for other Epstein
 - [Carolyn Andriano](Carolyn_Andriano.md) — Second Epstein victim to die of overdose in Palm Beach hotel (2023)
 - [Virginia Giuffre](Virginia_Giuffre.md) — Fellow Epstein victim
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Abused Patrick at his Palm Beach mansion
+## Other Shocking Stories
+
+- [John Ashe](John_Ashe.md): UN General Assembly president. A barbell crushed his throat days before his corruption trial involving Clinton donors.
+- [Ines Zorreguieta](Ines_Zorreguieta.md): Queen Maxima's sister. Hanged in Buenos Aires the same week as Spade and Bourdain. Three hangings, one week.
+- [Wendy Leigh](Wendy_Leigh.md): Investigating Jeffrey Epstein. Found beneath her London balcony. Ex-husband rejects the suicide ruling.
+- [Mark Middleton](Mark_Middleton.md): Hanged from a tree AND shot. Clinton aide who let Epstein into the White House.
 
 ## Sources
 

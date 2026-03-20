@@ -1,7 +1,7 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md) | [Weiner Laptop Overview](../other/laptop.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md) | [Weiner Laptop Overview](./other/laptop.md)
 
 # Johnny Rios
-NYPD officer who allegedly viewed [Weiner laptop](../other/laptop.md) evidence. Limited independent details available.
+NYPD officer who allegedly viewed [Weiner laptop](./other/laptop.md) evidence. Limited independent details available.
 
 | Field | Details |
 |-------|---------|
@@ -22,11 +22,11 @@ Limited details are publicly available about Johnny Rios's death. He is named in
 
 ## Connection to Weiner Laptop
 
-Rios is named in online claims as one of 12 NYPD officers who allegedly viewed files on [Anthony Weiner's laptop](../other/laptop.md). These claims have not been independently verified. The FBI, not the NYPD, had formal custody of the laptop.
+Rios is named in online claims as one of 12 NYPD officers who allegedly viewed files on [Anthony Weiner's laptop](./other/laptop.md). These claims have not been independently verified. The FBI, not the NYPD, had formal custody of the laptop.
 
 ## Why This Death Possibly Raises Questions
 
-- Named as one of the officers who allegedly viewed the [Weiner laptop](../other/laptop.md)
+- Named as one of the officers who allegedly viewed the [Weiner laptop](./other/laptop.md)
 - Part of the broader 2019 NYPD suicide crisis
 - Limited public documentation makes independent verification difficult
 
@@ -55,6 +55,12 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 
 > "Tonight our city mourns a tragedy. We won't let anyone struggle alone. I want every one of New York's Finest to know we are here for you."
 > — New York City Mayor Bill de Blasio, the following day after the ninth NYPD suicide ([Newsweek](https://www.newsweek.com/day-after-eighth-nypd-suicide-this-year-veteran-officer-kills-himself-queens-1454435))
+## Other Shocking Stories
+
+- [John Ashe](John_Ashe.md): UN General Assembly president. A barbell crushed his throat days before his corruption trial involving Clinton donors.
+- [Jenny Moore](Jenny_Moore.md): Journalist investigating child trafficking. Filed an FBI report. Found dead in a DC hotel weeks later.
+- [Jill Dando](Jill_Dando.md): BBC presenter who compiled a dossier on a pedophile ring inside the BBC. Execution-style bullet to the head.
+- [Chester Bennington](Chester_Bennington.md): Cornell's close friend. Same cause of death. Died on Cornell's birthday. Two months apart.
 
 ## Sources
 

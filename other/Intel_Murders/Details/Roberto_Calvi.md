@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Roberto Calvi
 Italian banker known as "God's Banker" found hanging under London's Blackfriars Bridge with bricks in his pockets, in a death linked to the Vatican Bank, the Mafia, and the P2 Masonic lodge.
@@ -63,6 +63,12 @@ In the weeks before his death, Banco Ambrosiano collapsed with debts of $1.3 bil
 
 - [Aldo Moro](Aldo_Moro.md) -- Italian political figure killed in context of P2/Gladio/intelligence intrigue
 - [Dag Hammarskjold](Dag_Hammarskjold.md) -- another powerful figure whose death involved multiple intelligence agencies
+## Other Shocking Stories
+
+- [Yitzhak Rabin](Yitzhak_Rabin.md): Israeli PM shot by an extremist. Allegations that Shin Bet infiltrated and possibly manipulated the assassin.
+- [Galina Starovoitova](Galina_Starovoitova.md): Russian liberal lawmaker gunned down in her apartment lobby. She championed human rights Putin wanted silenced.
+- [Yuri Shchekochikhin](Yuri_Shchekochikhin.md): Russian journalist died days before meeting the FBI. Symptoms matched poisoning. Medical records sealed.
+- [Ngo Dinh Diem](Ngo_Dinh_Diem.md): South Vietnam's president surrendered during a CIA-backed coup. They shot him in the back of an armored vehicle.
 
 ## Sources
 

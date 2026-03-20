@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Sakine Cansiz
 PKK co-founder, shot execution-style in Paris in January 2013 along with two other Kurdish women activists. Turkish intelligence (MIT) allegedly ordered the operation.
@@ -56,6 +56,12 @@ Sakine Cansiz was one of the founding members of the PKK in 1978 alongside Abdul
 - [Fidan Doğan](Fidan_Dogan.md) — Kurdish activist murdered alongside Cansiz in Paris
 - [Leyla Saylemez](Leyla_Saylemez.md) — Kurdish youth activist, third victim of the Paris triple assassination
 - [Zelimkhan Khangoshvili](Zelimkhan_Khangoshvili.md) — Chechen dissident assassinated in Berlin by Russian intelligence, 2019
+## Other Shocking Stories
+
+- [Maurice Bishop](Maurice_Bishop.md): Grenada's PM executed in a coup. The US invaded days later. CIA destabilization preceded both events.
+- [Jamal Khashoggi](Jamal_Khashoggi.md): Walked into a Saudi consulate for a marriage document. A 15-man hit squad strangled and dismembered him inside.
+- [Alexander Litvinenko](Alexander_Litvinenko.md): Poisoned with radioactive polonium in his London tea. UK inquiry found Putin 'probably approved' it.
+- [Artyom Borovik](Artyom_Borovik.md): His plane crashed three days after meeting Berezovsky. He was investigating the FSB apartment bombings.
 
 ## Sources
 

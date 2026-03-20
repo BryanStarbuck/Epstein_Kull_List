@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Vitaly Churkin
 Russian UN Ambassador who died suddenly; medical examiner withheld cause at State Dept request.
@@ -12,7 +12,7 @@ Russian UN Ambassador who died suddenly; medical examiner withheld cause at Stat
 - **Suspicion Level:** UNCERTAIN
 
 ## Connection to Epstein Network
-A less common but recurring mention in Epstein threads on X, some posts call Churkin's death suspicious, labeling him a possible "[Epstein](Jeffrey_Epstein.md) GRU case officer" or intelligence link/accomplice in the network. The claim ties into broader theories about Epstein's alleged intelligence connections ([Mossad](../other/groups/mossad.md), [CIA](../other/groups/cia.md), and Russian intelligence have all been named in various theories).
+A less common but recurring mention in Epstein threads on X, some posts call Churkin's death suspicious, labeling him a possible "[Epstein](Jeffrey_Epstein.md) GRU case officer" or intelligence link/accomplice in the network. The claim ties into broader theories about Epstein's alleged intelligence connections ([Mossad](./other/groups/mossad.md), [CIA](./other/groups/cia.md), and Russian intelligence have all been named in various theories).
 
 ## Circumstances Raising Suspicion
 - Died suddenly in the same 2017 wave as [Chris Cornell](Chris_Cornell.md) and [Chester Bennington](Chester_Bennington.md) — key figures in the alleged "Silent Children" documentary
@@ -46,6 +46,12 @@ No verified evidence connects Churkin to [Jeffrey Epstein](Jeffrey_Epstein.md), 
 - [Jeffrey Epstein](Jeffrey_Epstein.md)
 - [Chris Cornell](Chris_Cornell.md)
 - [Chester Bennington](Chester_Bennington.md)
+## Other Shocking Stories
+
+- [Steven Silks](Steven_Silks.md): NYPD deputy chief who allegedly viewed the Weiner laptop evidence. First of four officer suicides in 22 days.
+- [Val Broeksmit](Val_Broeksmit.md): His father hanged. He became an FBI informant on Deutsche Bank.
+- [Diana Spencer (Princess of Wales)](Diana_Spencer.md): Wrote 'my husband is planning an accident in my car.' Died in a Paris tunnel crash.
+- [Priscilla Presley](Priscilla_Presley.md): Groomed by Elvis Presley at age 14. The entertainment industry's oldest documented pattern of powerful men targeting girls.
 
 ## Sources
 

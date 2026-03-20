@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Ines Zorreguieta
 Younger sister of Queen Maxima of the Netherlands, found dead by hanging in her Buenos Aires apartment at age 33.
@@ -88,6 +88,12 @@ Ines reportedly suffered from depression and eating disorders. In 2012, she spen
 - [Chester Bennington](Chester_Bennington.md) — Part of the 2017-2018 hanging cluster
 - [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md) — Part of the 2017-2018 death cluster
 - [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — Another hanging with elite connections
+## Other Shocking Stories
+
+- [Marc Angelucci](Marc_Angelucci.md): Shot at his front door by the same gunman who attacked Judge Salas's family eight days later.
+- [Marvin Minsky](Marvin_Minsky.md): AI pioneer named in Epstein court filings. Visited the island. Died at 88 of cerebral hemorrhage.
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md): Found hanged in his cell awaiting trial. Same method as Epstein. Both cameras conveniently malfunctioned.
+- [Paul Walker](Paul_Walker.md): Allegedly discovered child trafficking during Haiti relief work. Died in a fiery car crash at 40.
 
 ## Sources
 

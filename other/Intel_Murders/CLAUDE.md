@@ -125,6 +125,15 @@ Who this person was. Their role, career, relationships. Why they mattered to int
 - Links to related profiles in this project (use relative paths like [Name](Name.md))
 - Links to Epstein Kill List profiles if overlap exists (use `../../Details/Name.md`)
 
+## Other Shocking Stories
+
+- [Person Name](Person_Name.md): 18 words or less — the most shocking, suspicious, or unjust hook about this person. Maximum impact to make the reader click.
+- [Person Name](Person_Name.md): 18 words or less — different person, different hook.
+- [Person Name](Person_Name.md): 18 words or less — different person, different hook.
+- [Person Name](Person_Name.md): 18 words or less — different person, different hook.
+
+Pick 4 other people from the Details/ directory (not the current person). Choose a diverse mix — different categories, different intelligence services, different eras. Write the hook to maximize reader engagement: focus on injustice, suspicious indicators, powerful motives for murder, or the most disturbing facts. Keep each hook to 18 words or fewer. Link each name to their profile using relative paths (e.g., `[Name](Name.md)`).
+
 ## Sources
 
 - Sourced links, one per line

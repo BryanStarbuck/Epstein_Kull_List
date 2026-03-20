@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Wadie Haddad
 PFLP hijacking mastermind allegedly poisoned by Mossad through contaminated personal items in a slow-acting covert assassination, dying in an East German hospital in 1978.
@@ -60,7 +60,13 @@ Wadie Haddad was a Palestinian Christian from Safed who co-founded the Popular F
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — Another case of slow-acting poison assassination by intelligence service (2006)
 - [Georgi Markov](Georgi_Markov.md) — Bulgarian dissident killed by poison pellet from intelligence service (1978)
 
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Steve Biko](Steve_Biko.md): South African leader beaten to death in police custody. They initially claimed he died from a hunger strike.
+- [Benazir Bhutto](Benazir_Bhutto.md): Pakistan's first female prime minister. UN found her own government failed to protect her from assassination.
+- [Darioush Rezaeinejad](Darioush_Rezaeinejad.md): Iranian engineer shot five times in front of his wife and child. Part of a systematic assassination campaign.
+- [Abdel Aziz al-Rantisi](Abdel_Aziz_al_Rantisi.md): Killed by Israeli missile one month after they assassinated his predecessor. Hamas leadership was being erased systematically.
 
 ## Sources
 

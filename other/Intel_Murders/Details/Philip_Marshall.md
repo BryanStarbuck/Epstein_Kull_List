@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Philip Marshall
 Former CIA-connected pilot who flew for Barry Seal, author of books exposing CIA drug smuggling and Saudi-9/11 connections, found shot dead alongside his two teenage children and family dog in 2013.
@@ -63,7 +63,13 @@ He authored three books: *Lakefront Airport* (2003), a novel based on his experi
 - [Danny Casolaro](Danny_Casolaro.md) — investigator killed while exposing intelligence operations
 - [Gary Webb](Gary_Webb.md) — journalist who died investigating CIA drug operations
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md): Panama Papers journalist killed by car bomb in Malta. State inquiry found the government bore responsibility.
+- [Eduardo Mondlane](Eduardo_Mondlane.md): Mozambican independence leader killed by a book bomb. Portuguese secret police and possibly CIA implicated.
+- [Boris Nemtsov](Boris_Nemtsov.md): Shot four times on a bridge within sight of the Kremlin.
+- [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md): Iran's top nuclear scientist killed by an AI-assisted remote-controlled gun. No assassin was even present.
 
 ## Sources
 

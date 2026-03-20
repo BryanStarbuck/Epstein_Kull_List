@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Max Spiers
 
@@ -62,7 +62,13 @@ The 2019 inquest determined drug-related death, and Spiers had a documented opio
 - [Monica Petersen](Monica_Petersen.md)
 - [Isaac Kappy](Isaac_Kappy.md)
 - [Tracy Twyman](Tracy_Twyman.md)
-- [Nikolai Mushegian](Nikolai_Mushegian.md) — tweeted about [CIA](../other/groups/cia.md)/[Mossad](../other/groups/mossad.md) trafficking ring, drowned hours later (2022)
+- [Nikolai Mushegian](Nikolai_Mushegian.md) — tweeted about [CIA](./other/groups/cia.md)/[Mossad](./other/groups/mossad.md) trafficking ring, drowned hours later (2022)
+## Other Shocking Stories
+
+- [Jeffrey Epstein](Jeffrey_Epstein.md): Both cameras failed. Both guards slept. The world's most connected prisoner died in maximum security. Ruled suicide.
+- [Joe Recarey](Joe_Recarey.md): Lead detective on the original Epstein case. Died unexpectedly at 50 of a brief unspecified illness.
+- [Ella Rich](Ella_Rich.md): Killed alongside Yassenoff. Double murder, no robbery, no arrest. Columbus, Ohio — Wexner's backyard.
+- [John Connolly](John_Connolly.md): Co-authored the book that exposed Epstein to millions. Died of a brief illness at 78.
 
 ## Sources
 

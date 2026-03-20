@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Danny Casolaro
 Investigative journalist found with wrists slashed while investigating the PROMIS/Octopus scandal linked to [Robert Maxwell](Robert_Maxwell.md) and intelligence blackmail operations.
@@ -63,14 +63,20 @@ Casolaro and Robert Maxwell died within three months of each other in 1991.
 
 ## Related Groups
 
-- [PROMIS / The Octopus](../other/groups/promis_octopus.md) — The intelligence surveillance operation Casolaro was investigating when he died
-- [Mossad](../other/groups/mossad.md) — Israeli intelligence service that allegedly distributed backdoored PROMIS via Robert Maxwell
-- [CIA](../other/groups/cia.md) — U.S. intelligence agency allegedly involved in the PROMIS software theft and modification
+- [PROMIS / The Octopus](./other/groups/promis_octopus.md) — The intelligence surveillance operation Casolaro was investigating when he died
+- [Mossad](./other/groups/mossad.md) — Israeli intelligence service that allegedly distributed backdoored PROMIS via Robert Maxwell
+- [CIA](./other/groups/cia.md) — U.S. intelligence agency allegedly involved in the PROMIS software theft and modification
 
 ## Related Locations
 
-- [Other U.S. Locations](../other/locations/other_us.md) — Found dead in Sheraton Hotel in Martinsburg, West Virginia
-- [Washington DC Area](../other/locations/washington_dc.md) — Investigated PROMIS software theft from the U.S. Department of Justice; his "Octopus" investigation centered on Washington power networks
+- [Other U.S. Locations](./other/locations/other_us.md) — Found dead in Sheraton Hotel in Martinsburg, West Virginia
+- [Washington DC Area](./other/locations/washington_dc.md) — Investigated PROMIS software theft from the U.S. Department of Justice; his "Octopus" investigation centered on Washington power networks
+## Other Shocking Stories
+
+- [Kevin Preiss](Kevin_Preiss.md): NYPD officer who allegedly saw what was on the Weiner laptop. Suicide. The pattern keeps repeating.
+- [Efrain "Stone" Reyes](Efrain_Stone_Reyes.md): Epstein's cellmate who knew what happened that night. Talked to investigators. Dead within months.
+- [LeRoi Moore](LeRoi_Moore.md): Dave Matthews Band saxophonist. Died at 46 from a blood clot. Band's agency CEO later linked to Epstein.
+- [Michael Jackson](Michael_Jackson.md): Visited Epstein's mansion. Died of drug intoxication administered by his own doctor. Convicted of manslaughter.
 
 ## Sources
 

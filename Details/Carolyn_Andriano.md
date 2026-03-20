@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Carolyn Andriano
 Epstein victim who testified against Maxwell, died of overdose after reportedly being drug-free.
@@ -43,10 +43,10 @@ She testified against [Ghislaine Maxwell](Ghislaine_Maxwell.md) in the 2021 tria
 > "Money will not ever fix what that woman did to me."
 > — **Carolyn Andriano**, testifying against Ghislaine Maxwell at trial, December 2021 ([ABC News](https://abcnews.com/US/dramatic-testimony-alleged-epstein-victim-carolyn-recounts-maxwells/story?id=81612421))
 
-> "She was ecstatic. She was all set up for a whole new lifestyle... Because this is my daughter, and she deserves justice. She got to a point where she was turning her whole life around."
+> "She was ecstatic. She was all set up for a whole new lifestyle.. Because this is my daughter, and she deserves justice. She got to a point where she was turning her whole life around."
 > — **Dorothy Groenert**, Carolyn's mother, questioning the circumstances of her daughter's death ([Newsweek](https://www.newsweek.com/jeffrey-epstein-victim-carolyn-adriano-mother-answers-death-1834841))
 
-> "Carolyn, her testimony was the most gripping and I felt the most compassion for her... She told the truth every step of the way."
+> "Carolyn, her testimony was the most gripping and I felt the most compassion for her.. She told the truth every step of the way."
 > — **Scotty David**, juror in the Ghislaine Maxwell trial ([The Daily Beast](https://www.thedailybeast.com/carolyn-andriano-epstein-victim-who-testified-against-ghislaine-maxwell-has-died/))
 
 > "Even though Epstein is dead, and Maxwell is behind bars, victims of [Jeffrey Epstein](Jeffrey_Epstein.md) will forever live with the abuse that occurred to them."
@@ -54,7 +54,7 @@ She testified against [Ghislaine Maxwell](Ghislaine_Maxwell.md) in the 2021 tria
 
 ## Related Groups
 
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — Victim who testified at Maxwell trial
+- [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) — Victim who testified at Maxwell trial
 
 ## See Also
 
@@ -62,6 +62,12 @@ She testified against [Ghislaine Maxwell](Ghislaine_Maxwell.md) in the 2021 tria
 - [Virginia Giuffre](Virginia_Giuffre.md) — Fellow Epstein accuser
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Testified against her at trial
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Primary abuser
+## Other Shocking Stories
+
+- [Natacha Jaitt](Natacha_Jaitt.md): Accused elites of pedophilia on national TV.
+- [Chris Cornell](Chris_Cornell.md): Funding a child trafficking documentary. Found hanged in his hotel room. Wife says it was not suicide.
+- [Arthur Shapiro](Arthur_Shapiro.md): Gunned down weeks before IRS questioning. His killer's partner had FBI links to Epstein's network.
+- [Diana Spencer (Princess of Wales)](Diana_Spencer.md): Wrote 'my husband is planning an accident in my car.' Died in a Paris tunnel crash.
 
 ## Sources
 

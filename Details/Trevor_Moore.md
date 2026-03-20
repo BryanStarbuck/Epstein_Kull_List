@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Trevor Moore
 Comedian, filmmaker, and musician who used boundary-pushing comedy to deliver explosive anti-elite content — Hollywood child trafficking, Epstein's bioweapon "kill switch," CIA conspiracies, and elite pedophile rings — to millions of viewers through Comedy Central, IFC, YouTube, and social media. Died at age 41 after falling from a second-story balcony at his home in Los Angeles, approximately ten months after his viral Epstein/COVID-19 theory connected Epstein's arrest to the emergence of the coronavirus.
@@ -47,9 +47,9 @@ During a WKUK podcast segment called "Newsboyz - Conspiracy Weirdness," Moore pr
 - **August 10, 2019:** Epstein found dead in his cell
 - **November-December 2019:** COVID-19 begins spreading in Wuhan
 
-Moore stated on air: *"He had them design a novel coronavirus that was his kill switch... His kill switch went off, and that's when the disease got introduced into the world."*
+Moore stated on air: *"He had them design a novel coronavirus that was his kill switch.. His kill switch went off, and that's when the disease got introduced into the world."*
 
-He framed the bit as unsubstantiated: *"This is completely unsubstantiated... but that's a goddamn great conspiracy theory. I love it and I'm gonna spread it as much as I can."*
+He framed the bit as unsubstantiated: *"This is completely unsubstantiated.. but that's a goddamn great conspiracy theory. I love it and I'm gonna spread it as much as I can."*
 
 ### Hollywood Child Exploitation and Pedophile Rings
 
@@ -82,7 +82,7 @@ On August 7, 2021, at approximately 2:30 a.m., Trevor Moore fell from the second
 - At approximately 2:30 a.m., the fall occurred
 - His body was discovered on the patio
 
-**Family response:** His wife, Aimee Carlson, issued a statement via his manager: *"We are devastated by the loss of my husband, best friend and the father of our son. He was known as a writer and comedian to millions, and yet to us he was simply the center of our whole world... This is a tragic and sudden loss and we ask that you please respect our privacy during this time of grieving."*
+**Family response:** His wife, Aimee Carlson, issued a statement via his manager: *"We are devastated by the loss of my husband, best friend and the father of our son. He was known as a writer and comedian to millions, and yet to us he was simply the center of our whole world.. This is a tragic and sudden loss and we ask that you please respect our privacy during this time of grieving."*
 
 No family members or WKUK co-stars have publicly suggested murder.
 
@@ -113,14 +113,14 @@ However: security camera footage can be incomplete or show only partial views. A
 
 Moore's death triggered a massive wave of conspiracy theories across X, Reddit, YouTube, and TikTok. These theories intensified significantly after the 2024-2026 Epstein document releases, when Moore's earlier content was recontextualized as prescient rather than satirical.
 
-In March 2024, podcaster **Royce Lopez** (@hippojuicefilm) launched a viral X video series titled *"Reason #X the CIA killed Trevor Moore,"* using clips from Moore's comedy. The series accumulated hundreds of thousands of views. Common refrains: *"they 100% killed Trevor"*; *"Realizing all of Trevor Moore's political conspiracy skits were like 100% accurate... convinced that they had him killed"*; *"Don't a lot of folks in the know about sex trafficking 'fall' of balconies?"*
+In March 2024, podcaster **Royce Lopez** (@hippojuicefilm) launched a viral X video series titled *"Reason #X the CIA killed Trevor Moore,"* using clips from Moore's comedy. The series accumulated hundreds of thousands of views. Common refrains: *"they 100% killed Trevor"*; *"Realizing all of Trevor Moore's political conspiracy skits were like 100% accurate.. convinced that they had him killed"*; *"Don't a lot of folks in the know about sex trafficking 'fall' of balconies?"*
 
 ## Key Quotes from Media Coverage
 
-> "He had them design a novel coronavirus that was his kill switch... His kill switch went off, and that's when the disease got introduced into the world."
+> "He had them design a novel coronavirus that was his kill switch.. His kill switch went off, and that's when the disease got introduced into the world."
 > -- **Trevor Moore**, WKUK Podcast "Newsboyz" segment, October 2020
 
-> "This is completely unsubstantiated... but that's a goddamn great conspiracy theory. I love it and I'm gonna spread it as much as I can."
+> "This is completely unsubstantiated.. but that's a goddamn great conspiracy theory. I love it and I'm gonna spread it as much as I can."
 > -- **Trevor Moore**, same segment, October 2020
 
 > "We are devastated by the loss of my husband, best friend and the father of our son. He was known as a writer and comedian to millions, and yet to us he was simply the center of our whole world."
@@ -134,13 +134,19 @@ In March 2024, podcaster **Royce Lopez** (@hippojuicefilm) launched a viral X vi
 
 ## See Also
 
-- [Trevor Moore — Intel Murders Profile](../other/Intel_Murders/Details/Trevor_Moore.md) — Extended profile with full discography and intelligence connection analysis
+- [Trevor Moore — Intel Murders Profile](./other/Intel_Murders/Details/Trevor_Moore.md) — Extended profile with full discography and intelligence connection analysis
 - [Isaac Kappy](Isaac_Kappy.md) — Actor who discussed elite pedophilia publicly, died in a fall from a bridge (2019)
 - [Steve Bing](Steve_Bing.md) — Fell from 27th floor in Los Angeles (2020)
 - [Ruslana Korshunova](Ruslana_Korshunova.md) — Fell from 9th floor in New York (2008)
 - [Anastasia Drozdova](Anastasia_Drozdova.md) — Died identically to Korshunova one year later (2009)
 - [Chris Cornell](Chris_Cornell.md) — Backed trafficking documentary, hung (2017)
 - [Chester Bennington](Chester_Bennington.md) — Cornell's friend, same method, Cornell's birthday (2017)
+## Other Shocking Stories
+
+- [Mark Salling](Mark_Salling.md): 50,000 child abuse images. A child abuse manual. Hanged five weeks before sentencing. Distribution network never traced.
+- [Matthew Perry](Matthew_Perry.md): His death exposed an elite ketamine supply network. Five charged including a doctor dubbed the Ketamine Queen.
+- [John Deroo](John_Deroo.md): Shot six times in the face.
+- [Marc Angelucci](Marc_Angelucci.md): Shot at his front door by the same gunman who attacked Judge Salas's family eight days later.
 
 ## Sources
 

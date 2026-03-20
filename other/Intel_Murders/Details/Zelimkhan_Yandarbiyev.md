@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Zelimkhan Yandarbiyev
 Former president of the Chechen Republic of Ichkeria, assassinated by a car bomb in Doha, Qatar in 2004 — one of the few confirmed cases where Russian military intelligence (GRU) agents were caught, tried, and convicted of an extraterritorial assassination.
@@ -58,6 +58,12 @@ Russia had designated Yandarbiyev as a terrorist and accused him of financing Ch
 - [Zelimkhan Khangoshvili](Zelimkhan_Khangoshvili.md) — another Chechen dissident assassinated abroad by Russian intelligence (Berlin, 2019)
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — FSB defector poisoned in London, confirmed Russian operation
 - [Sergei Skripal](Sergei_Skripal.md) — GRU double agent poisoned in Salisbury, confirmed GRU Unit 29155
+## Other Shocking Stories
+
+- [Mark Lombardi](Mark_Lombardi.md): His art mapped CIA, BCCI, and intelligence money networks. Found hanged in his studio. FBI visited after 9/11.
+- [Darioush Rezaeinejad](Darioush_Rezaeinejad.md): Iranian engineer shot five times in front of his wife and child. Part of a systematic assassination campaign.
+- [Imad Mughniyeh](Imad_Mughniyeh.md): The world's most wanted terrorist. CIA and Mossad finally killed him with a car bomb in Damascus.
+- [Salvador Allende](Salvador_Allende.md): Chile's elected president died in a CIA-backed coup. Pinochet took power. The killing never stopped.
 
 ## Sources
 

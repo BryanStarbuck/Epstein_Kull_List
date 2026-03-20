@@ -1,7 +1,7 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md) | [Weiner Laptop Overview](../other/laptop.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md) | [Weiner Laptop Overview](./other/laptop.md)
 
 # Kevin Preiss
-NYPD officer who allegedly viewed [Weiner laptop](../other/laptop.md) evidence. Fourth death in the June 2019 cluster.
+NYPD officer who allegedly viewed [Weiner laptop](./other/laptop.md) evidence. Fourth death in the June 2019 cluster.
 
 | Field | Details |
 |-------|---------|
@@ -22,7 +22,7 @@ Officer Kevin Preiss was found dead at his Long Island home on June 27, 2019 —
 
 ## Connection to Weiner Laptop
 
-Preiss is named in online claims as one of 12 NYPD officers who allegedly viewed files on [Anthony Weiner's laptop](../other/laptop.md). These claims have not been independently verified. The FBI, not the NYPD, had formal custody of the laptop.
+Preiss is named in online claims as one of 12 NYPD officers who allegedly viewed files on [Anthony Weiner's laptop](./other/laptop.md). These claims have not been independently verified. The FBI, not the NYPD, had formal custody of the laptop.
 
 ## Why This Death Possibly Raises Questions
 
@@ -53,6 +53,12 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 
 > "To every member of the NYPD, please know this: it is okay to feel vulnerable. It is okay if you are facing struggles. And it is okay to seek help from others. You may not know this, and it may be hard to imagine, but you are not out there all by yourself."
 > — NYPD Commissioner James O'Neill ([NBC New York](https://www.nbcnewyork.com/investigations/NYC-Top-Cop-Speaks-Out-Mental-Health-Awareness-James-Oneill-Suicides-511005002.html))
+## Other Shocking Stories
+
+- [Prince Andrew (Andrew Mountbatten-Windsor)](Prince_Andrew.md): First British royal arrested in 400 years. Shared classified intelligence with a convicted sex trafficker.
+- [LeRoi Moore](LeRoi_Moore.md): Dave Matthews Band saxophonist. Died at 46 from a blood clot. Band's agency CEO later linked to Epstein.
+- [B. Stanley Pons - Cold Fusion Scientist](B_Stanley_Pons.md): Epstein emailed 'I killed Pons years ago.' The cold fusion pioneer hasn't been heard from in 30 years.
+- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Epstein left $5 million per child in his will. Resigned. Under criminal investigation.
 
 ## Sources
 

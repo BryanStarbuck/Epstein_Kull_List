@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Ghislaine Maxwell (Living — At Risk)
 Only convicted Epstein co-conspirator still alive, serving 20 years with multiple documented threats.
@@ -69,9 +69,9 @@ Ghislaine Maxwell is the only convicted Epstein co-conspirator still alive. Give
 
 ## Related Groups
 
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — The core operation she co-ran with Epstein
-- [Mossad](../other/groups/mossad.md) — Intelligence service her father allegedly served; researchers allege she continued his intelligence role
-- [Elite Model Management](../other/groups/elite_model_management.md) — Introduced Brunel to Epstein; Brunel's agency was a trafficking pipeline
+- [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) — The core operation she co-ran with Epstein
+- [Mossad](./other/groups/mossad.md) — Intelligence service her father allegedly served; researchers allege she continued his intelligence role
+- [Elite Model Management](./other/groups/elite_model_management.md) — Introduced Brunel to Epstein; Brunel's agency was a trafficking pipeline
 
 ## See Also
 
@@ -81,6 +81,12 @@ Ghislaine Maxwell is the only convicted Epstein co-conspirator still alive. Give
 - [Carolyn Andriano](Carolyn_Andriano.md) — Testified against Maxwell at trial
 - [Steven Hoffenberg](Steven_Hoffenberg.md) — Confessed about Epstein-Maxwell blackmail operation
 - [Ruslana Korshunova](Ruslana_Korshunova.md) — Model documented on Epstein's jet
+## Other Shocking Stories
+
+- [Corey Haim](Corey_Haim.md): Allegedly raped on a film set at age 13. Spent 25 years in addiction. Dead at 38.
+- [Nikolai Mushegian](Nikolai_Mushegian.md): Tweeted that CIA and Mossad ran a sex trafficking ring in Puerto Rico. Drowned four hours later.
+- [Austin Tucker Martin](Austin_Tucker_Martin.md): Armed 21-year-old breached Mar-a-Lago fixated on Epstein files. Shot dead by Secret Service on the property.
+- [Vitaly Churkin](Vitaly_Churkin.md): Russian UN Ambassador. Sudden cardiac event. Cause of death withheld by State Department. Autopsy results sealed.
 
 ## Sources
 

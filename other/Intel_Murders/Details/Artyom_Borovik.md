@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Artyom Borovik
 Russian investigative journalist and media magnate killed in a plane crash at Sheremetyevo airport in 2000, three days before he was reportedly set to publish damaging materials about Vladimir Putin and the FSB apartment bombings.
@@ -58,6 +58,12 @@ His *Top Secret* TV program and print publications were openly critical of Vladi
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — former FSB officer who investigated apartment bombings, poisoned in 2006
 - [Sergei Yushenkov](Sergei_Yushenkov.md) — Duma member investigating apartment bombings, shot in 2003
 - [Yuri Shchekochikhin](Yuri_Shchekochikhin.md) — journalist investigating apartment bombings, poisoned in 2003
+## Other Shocking Stories
+
+- [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md): Iran's top nuclear scientist killed by an AI-assisted remote-controlled gun. No assassin was even present.
+- [Oscar Romero](Oscar_Romero.md): Archbishop shot through the heart while saying mass. US-backed death squads. UN confirmed the killers.
+- [Manuel Buendia](Manuel_Buendia.md): Mexico's top columnist shot in the back for exposing CIA-cartel-secret police connections. His killer: the secret police chief.
+- [Denis Voronenkov](Denis_Voronenkov.md): Russian lawmaker defected and testified against Russia. Shot dead in broad daylight on a Kyiv street.
 
 ## Sources
 

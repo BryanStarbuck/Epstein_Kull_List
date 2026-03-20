@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Priscilla Presley
 Iconic case study in entertainment-industry grooming of minors; met Elvis Presley at 14, became a high-profile Scientologist, and remains a living witness to the pattern of powerful men accessing underage girls through entourages and institutional protection.
@@ -61,7 +61,7 @@ Priscilla Presley has pushed back against the characterization of her relationsh
 
 - The entertainment industry's historical tolerance of relationships between adult male stars and underage girls — including Elvis, Jerry Lee Lewis (who married his 13-year-old cousin in 1958), and others — represents the cultural environment that later enabled operations like Epstein's trafficking network.
 - **Colonel Tom Parker**, Elvis's manager, was himself operating under a false identity. Born Andreas Cornelis van Kuijk in the Netherlands, Parker was an illegal immigrant to the United States who never obtained citizenship. His control over Elvis's career — taking 25–50% commissions — has been described by the Presley estate as "exploitation." Parker's secretive background and total control over his client parallel the handler-asset dynamics seen in later intelligence-linked operations.
-- The use of entourages, staff, and institutional structures to procure young girls for powerful men is a direct precursor to the systematized trafficking pipelines documented in the Epstein case, where agencies like [Elite Model Management](../other/groups/elite_model_management.md) and [MC2 Model Management](../other/groups/mc2_model_management.md) served the same function at industrial scale.
+- The use of entourages, staff, and institutional structures to procure young girls for powerful men is a direct precursor to the systematized trafficking pipelines documented in the Epstein case, where agencies like [Elite Model Management](./other/groups/elite_model_management.md) and [MC2 Model Management](./other/groups/mc2_model_management.md) served the same function at industrial scale.
 
 ### Scientology Connection to Abuse Patterns
 
@@ -92,8 +92,14 @@ Priscilla Presley has pushed back against the characterization of her relationsh
 
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Modeling agent who supplied girls to Epstein; found hanged in prison 2022. Represents the industrialized version of the "girl-getting" entourage model.
 - [Karen Mulder](Karen_Mulder.md) — Supermodel who named fashion industry predators in 2001; silenced and institutionalized. Another case of a young woman exploited by the entertainment/fashion industry.
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — [DC Madam](../other/groups/dc_madam.md) who said she would never commit suicide; found hanged. Another case of a woman connected to powerful men's sexual misconduct dying under disputed circumstances.
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — [DC Madam](./other/groups/dc_madam.md) who said she would never commit suicide; found hanged. Another case of a woman connected to powerful men's sexual misconduct dying under disputed circumstances.
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Epstein's co-conspirator, serving 20 years. The Epstein network systematized the grooming patterns that were normalized in the entertainment industry for decades.
+## Other Shocking Stories
+
+- [Kate Spade](Kate_Spade.md): Hanged three days before Bourdain. Same week as Zorreguieta. Three high-profile hangings in a single week.
+- [Anastasia Drozdova](Anastasia_Drozdova.md): Her friend Korshunova fell from a building.
+- [Johnny Rios](Johnny_Rios.md): NYPD officer. Allegedly viewed the Weiner laptop. Suicide. Six officers connected to that laptop are gone.
+- [Marjorie Dyer](Marjorie_Dyer.md): Co-signed Yassenoff's will with the man suspected of killing him. Died in a car accident.
 
 ## Sources
 

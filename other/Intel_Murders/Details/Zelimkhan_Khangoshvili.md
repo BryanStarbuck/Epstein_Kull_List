@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Zelimkhan Khangoshvili
 Chechen-Georgian dissident and former military commander assassinated in broad daylight in a Berlin park by an FSB operative.
@@ -65,6 +65,12 @@ Facing continued threats, Khangoshvili fled to Germany in 2016 and applied for a
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — FSB officer poisoned in London, 2006
 - [Sergei Skripal](Sergei_Skripal.md) — GRU target poisoned with Novichok in Salisbury, 2018
 - [Boris Nemtsov](Boris_Nemtsov.md) — Opposition leader shot near Kremlin, 2015
+## Other Shocking Stories
+
+- [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md): JFK's mistress shot execution-style on a Georgetown towpath. CIA counterintelligence chief seized and burned her diary.
+- [Ronni Moffitt](Ronni_Moffitt.md): A 25-year-old American killed on American soil by a Chilean intelligence car bomb meant for her colleague.
+- [Rick Turner](Rick_Turner.md): South African professor shot dead through his own front door. Security police suspected. Case never solved.
+- [Ruth First](Ruth_First.md): South African activist opened a letter bomb in Mozambique. Military intelligence confirmed. Assassin confessed.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Héctor Gutiérrez Ruiz
 Former Speaker of the Uruguayan Chamber of Deputies, kidnapped and murdered in Buenos Aires in May 1976 alongside Senator Zelmar Michelini as part of Operation Condor.
@@ -54,7 +54,13 @@ Gutiérrez Ruiz was a member of the National Party (Partido Nacional) and served
 - [Orlando Letelier](Orlando_Letelier.md) — Chilean diplomat killed by DINA car bomb, Washington DC, 1976
 - [Carlos Prats](Carlos_Prats.md) — Chilean general assassinated by DINA in Buenos Aires, 1974
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Charles Horman](Charles_Horman.md): American journalist executed during the Chilean coup. The US government knew and did nothing. Declassified documents confirmed.
+- [Yuri Shchekochikhin](Yuri_Shchekochikhin.md): Russian journalist died days before meeting the FBI. Symptoms matched poisoning. Medical records sealed.
+- [Yevgeny Prigozhin](Yevgeny_Prigozhin.md): Wagner Group founder's plane exploded exactly two months after his mutiny against Putin. Grenade fragments in the bodies.
+- [Frank Teruggi](Frank_Teruggi.md): American student executed during the Chilean coup. US intelligence knew. It took 42 years to get convictions.
 
 ## Sources
 

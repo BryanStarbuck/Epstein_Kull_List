@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Matthew Perry
 Actor best known for *Friends*; died of ketamine overdose at 54. Five people criminally charged in connection with his death, exposing a drug supply network that served Hollywood's elite.
@@ -97,6 +97,12 @@ Reports indicated that Sangha's full client list — which reportedly included o
 - [Anne Heche](Anne_Heche.md) — Celebrity death during the 2022–2023 period with tenuous trafficking-related online theories
 - [Carolyn Andriano](Carolyn_Andriano.md) — Epstein victim who also died of an overdose
 - [Leigh Skye Patrick](Leigh_Skye_Patrick.md) — Epstein victim who also died of an overdose
+## Other Shocking Stories
+
+- [Ivana Trump](Ivana_Trump.md): Trump's ex-wife. Found dead at the bottom of her staircase. Buried on his golf course. #Epsteined trended online.
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md): Found hanged in his cell awaiting trial. Same method as Epstein. Both cameras conveniently malfunctioned.
+- [Wendy Leigh](Wendy_Leigh.md): Investigating Jeffrey Epstein. Found beneath her London balcony. Ex-husband rejects the suicide ruling.
+- [Natacha Jaitt](Natacha_Jaitt.md): Accused elites of pedophilia on national TV.
 
 ## Sources
 

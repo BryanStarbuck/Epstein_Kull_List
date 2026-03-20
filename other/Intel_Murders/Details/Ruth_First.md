@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Ruth First
 South African anti-apartheid activist, scholar, and journalist assassinated by a letter bomb sent by South African Military Intelligence while working at a university in Maputo, Mozambique, in 1982.
@@ -60,6 +60,12 @@ Ruth First was born in Johannesburg to Jewish Lithuanian immigrant parents who w
 - [Georgi Markov](Georgi_Markov.md) — Bulgarian dissident assassinated by intelligence service using a specialized weapon
 
 - [Eduardo Mondlane](Eduardo_Mondlane.md) — Mozambican independence leader killed by bomb
+## Other Shocking Stories
+
+- [Abdel Aziz al-Rantisi](Abdel_Aziz_al_Rantisi.md): Killed by Israeli missile one month after they assassinated his predecessor. Hamas leadership was being erased systematically.
+- [Philip Haney](Philip_Haney.md): DHS whistleblower on terrorism found shot dead. Family says it was not suicide.
+- [Dulcie September](Dulcie_September.md): ANC representative shot dead in Paris while investigating South African arms deals. Case still unsolved after 38 years.
+- [Paul Klebnikov](Paul_Klebnikov.md): First American journalist murdered in Russia. Founded Forbes Russia. His suspects were acquitted.
 
 ## Sources
 

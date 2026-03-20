@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Charles Horman
 American journalist and filmmaker, executed by the Chilean military during the 1973 Pinochet coup. Declassified U.S. documents and a Chilean court ruling confirmed that U.S. intelligence played a "fundamental role" in his death. His story was the basis for the 1982 Costa-Gavras film *Missing*.
@@ -58,7 +58,13 @@ Horman was a Harvard-educated journalist and documentary filmmaker from New York
 - [Orlando Letelier](Orlando_Letelier.md) — Chilean diplomat assassinated by DINA in Washington, DC
 - [Carlos Prats](Carlos_Prats.md) — Chilean general assassinated by DINA car bomb
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Manuel Buendia](Manuel_Buendia.md): Mexico's top columnist shot in the back for exposing CIA-cartel-secret police connections. His killer: the secret police chief.
+- [Bernardo Leighton](Bernardo_Leighton.md): Chilean politician shot in Rome by DINA and Italian neofascists working together. Operation Condor reached Europe.
+- [Abu Jihad (Khalil al-Wazir)](Abu_Jihad.md): Israeli commandos broke into his Tunis home and shot him in front of his wife and daughter.
+- [Natalya Estemirova](Natalya_Estemirova.md): Kidnapped from Kadyrov's Chechnya for documenting atrocities. Found shot dead. Unsolved for fifteen years.
 
 ## Sources
 

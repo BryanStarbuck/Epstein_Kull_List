@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Val Broeksmit
 Deutsche Bank whistleblower and FBI informant found dead on LA school campus after exposing bank documents.
@@ -65,7 +65,7 @@ Val had a history of personal struggles, including substance abuse, and had prev
 
 ## Related Groups
 
-- [Deutsche Bank](../other/groups/deutsche_bank.md) — The institution his father worked at and whose documents he whistleblew to the FBI
+- [Deutsche Bank](./other/groups/deutsche_bank.md) — The institution his father worked at and whose documents he whistleblew to the FBI
 
 ## See Also
 
@@ -76,7 +76,13 @@ Val had a history of personal struggles, including substance abuse, and had prev
 
 ## Related Locations
 
-- [Southern California](../other/locations/southern_california.md) — Found dead on Wilson High School campus in El Sereno, Los Angeles
+- [Southern California](./other/locations/southern_california.md) — Found dead on Wilson High School campus in El Sereno, Los Angeles
+## Other Shocking Stories
+
+- [Carolyn Andriano](Carolyn_Andriano.md): Testified against Ghislaine Maxwell. Died of an overdose in a Palm Beach hotel.
+- [Denise George](Denise_George.md): Filed the lawsuit that exposed JPMorgan's role. Fired four days later.
+- [Leigh Skye Patrick](Leigh_Skye_Patrick.md): Lured to Epstein's mansion at 16. Died of an overdose in a Palm Beach hotel room.
+- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Epstein left $5 million per child in his will. Resigned. Under criminal investigation.
 
 ## Sources
 

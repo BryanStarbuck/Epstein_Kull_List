@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Omar Torrijos
 Panamanian military leader and de facto head of state, killed in a plane crash in 1981 under circumstances that former CIA operatives and whistleblowers have alleged involved CIA sabotage.
@@ -59,9 +59,15 @@ Torrijos was the sixth of twelve children born to two schoolteachers. He joined 
 - [Salvador Allende](Salvador_Allende.md) — Chilean president overthrown with CIA support
 - [Dag Hammarskjold](Dag_Hammarskjold.md) — UN Secretary-General killed in a suspicious plane crash
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
 
 - [Jaime Roldos](Jaime_Roldos.md) — Ecuadorian president who died the same way two months earlier
+## Other Shocking Stories
+
+- [Ali Hassan Salameh](Ali_Hassan_Salameh.md): He was simultaneously a CIA asset and a Mossad target. Mossad killed him anyway with a car bomb.
+- [Rafik Hariri](Rafik_Hariri.md): Lebanon's prime minister killed by a massive car bomb. UN tribunal convicted a Hezbollah operative.
+- [David Webster](David_Webster.md): South African academic shot dead outside his home by military intelligence for documenting apartheid-era death squads.
+- [Imad Mughniyeh](Imad_Mughniyeh.md): The world's most wanted terrorist. CIA and Mossad finally killed him with a car bomb in Damascus.
 
 ## Sources
 

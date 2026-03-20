@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Chris Hani
 General Secretary of the South African Communist Party and chief of staff of Umkhonto we Sizwe, assassinated outside his home in 1993. While right-wing extremists were convicted, allegations of deeper intelligence service involvement persist.
@@ -60,6 +60,12 @@ Hani's assassination triggered massive protests across South Africa and nearly d
 - [Ruth First](Ruth_First.md) — Anti-apartheid activist killed by South African letter bomb in 1982
 - [Dulcie September](Dulcie_September.md) — ANC representative assassinated in Paris in 1988
 - [Steve Biko](Steve_Biko.md) — Anti-apartheid activist killed in police custody in 1977
+## Other Shocking Stories
+
+- [Zia ul-Haq](Zia_ul_Haq.md): Pakistan's president, the US ambassador, and top generals all died in one plane crash. Sabotage widely suspected.
+- [Philip Agee](Philip_Agee.md): Named 250 CIA agents in print. Expelled from five countries. Died in Cuba after ulcer surgery.
+- [Aldo Moro](Aldo_Moro.md): Italy's prime minister held for 55 days, then shot. CIA and NATO's Gladio network allegedly manipulated his captors.
+- [Abdel Aziz al-Rantisi](Abdel_Aziz_al_Rantisi.md): Killed by Israeli missile one month after they assassinated his predecessor. Hamas leadership was being erased systematically.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # William Colby
 Former CIA Director who cooperated with the Church Commission and exposed CIA abuses. Found drowned after a solo canoe trip under unusual circumstances.
@@ -74,9 +74,15 @@ After leaving the CIA, Colby practiced law in Washington and remained engaged in
 
 - [Frank Olson](Frank_Olson.md) — CIA scientist Colby apologized to the family of; died under suspicious circumstances in 1953
 - [Danny Casolaro](Danny_Casolaro.md) — journalist investigating intelligence operations, found dead in 1991
-- [../../Details/William_Colby.md](../../Details/William_Colby.md) — Epstein Kill List profile (cross-reference)
+- [././Details/William_Colby.md](././Details/William_Colby.md) — Epstein Kill List profile (cross-reference)
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Paul Wellstone](Paul_Wellstone.md): The Senate's loudest Iraq War opponent died in a plane crash eleven days before his election.
+- [Rafik Hariri](Rafik_Hariri.md): Lebanon's prime minister killed by a massive car bomb. UN tribunal convicted a Hezbollah operative.
+- [Anna Politkovskaya](Anna_Politkovskaya.md): Shot dead in her apartment elevator on Putin's birthday. She had been documenting Chechen war crimes for years.
+- [Philip Haney](Philip_Haney.md): DHS whistleblower on terrorism found shot dead. Family says it was not suicide.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Jean-Luc Brunel
 Epstein's modeling agent found hanged in Paris prison cell while awaiting trafficking trial.
@@ -58,9 +58,9 @@ Brunel was detained in December 2020 at Paris Charles de Gaulle airport while at
 
 ## Related Groups
 
-- [Elite Model Management](../other/groups/elite_model_management.md) — Agency where Brunel worked as a scout; used as trafficking pipeline
-- [MC2 Model Management](../other/groups/mc2_model_management.md) — Agency Brunel co-founded with Epstein's direct financial backing
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — The core trafficking and blackmail operation
+- [Elite Model Management](./other/groups/elite_model_management.md) — Agency where Brunel worked as a scout; used as trafficking pipeline
+- [MC2 Model Management](./other/groups/mc2_model_management.md) — Agency Brunel co-founded with Epstein's direct financial backing
+- [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) — The core trafficking and blackmail operation
 
 ## See Also
 
@@ -74,7 +74,13 @@ Brunel was detained in December 2020 at Paris Charles de Gaulle airport while at
 
 ## Related Locations
 
-- [France](../other/locations/france.md) — Found hanged in La Sante Prison in Paris; detained at Charles de Gaulle airport
+- [France](./other/locations/france.md) — Found hanged in La Sante Prison in Paris; detained at Charles de Gaulle airport
+## Other Shocking Stories
+
+- [LeRoi Moore](LeRoi_Moore.md): Dave Matthews Band saxophonist. Died at 46 from a blood clot. Band's agency CEO later linked to Epstein.
+- [Berry L. Kessler](Berry_Kessler.md): Prime suspect in the Shapiro murder. FBI linked him to Epstein.
+- [Chris Cornell](Chris_Cornell.md): Funding a child trafficking documentary. Found hanged in his hotel room. Wife says it was not suicide.
+- [Tracy Twyman](Tracy_Twyman.md): Picked up the dead man's research on elite pedophilia. Left a dead man's switch.
 
 ## Sources
 

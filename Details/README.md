@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md) | [Weiner Laptop Overview](../other/laptop.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md) | [Weiner Laptop Overview](./other/laptop.md)
 
 # Epstein-Related Deaths: Detailed Research Database
 
@@ -131,6 +131,12 @@ Research was conducted on February 7, 2026 through:
 4. Cross-referencing multiple news sources
 5. Reviewing DOJ file releases (2024–2026)
 6. Documenting both public questions raised and official rulings
+## Other Shocking Stories
+
+- [Ruslana Korshunova](Ruslana_Korshunova.md): Flew on Epstein's jet at 18. Two years later fell from the 9th floor.
+- [Ines Zorreguieta](Ines_Zorreguieta.md): Queen Maxima's sister. Hanged in Buenos Aires the same week as Spade and Bourdain. Three hangings, one week.
+- [Daniel Anderl](Daniel_Anderl.md): Judge gets Epstein-Deutsche Bank case. Four days later, a gunman with intel ties murders her 20-year-old son.
+- [Nikolai Mushegian](Nikolai_Mushegian.md): Tweeted that CIA and Mossad ran a sex trafficking ring in Puerto Rico. Drowned four hours later.
 
 ## Sources
 

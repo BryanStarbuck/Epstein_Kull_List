@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # John Connolly
 Journalist who co-authored Filthy Rich exposing Epstein, died at 78 of natural illness.
@@ -50,6 +50,12 @@ He co-authored *Filthy Rich: A Powerful Billionaire, the Sex Scandal that Undid 
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md)
+## Other Shocking Stories
+
+- [Marvin Minsky](Marvin_Minsky.md): AI pioneer named in Epstein court filings. Visited the island. Died at 88 of cerebral hemorrhage.
+- [Alfredo Rodriguez](Alfredo_Rodriguez.md): Had Epstein's black book listing every victim and client. Tried to sell it. Died of cancer in custody.
+- [Marjorie Dyer](Marjorie_Dyer.md): Co-signed Yassenoff's will with the man suspected of killing him. Died in a car accident.
+- [Joseph Calabrese](Joseph_Calabrese.md): NYPD detective. Allegedly saw the Weiner laptop. Dead by suicide one day after his colleague Silks.
 
 ## Sources
 

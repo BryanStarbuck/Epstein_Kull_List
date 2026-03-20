@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Roy Black
 Epstein defense attorney in West Palm Beach case, died at 80 of serious illness.
@@ -48,6 +48,12 @@ Black was a high-powered defense attorney who, along with [Kenneth Starr](Kennet
 
 - [Kenneth Starr](Kenneth_Starr.md) — Also Epstein defense attorney
 - [Jeffrey Epstein](Jeffrey_Epstein.md)
+## Other Shocking Stories
+
+- [Anthony Bourdain](Anthony_Bourdain.md): Vocal crusader against powerful abusers. Found hanged in a French hotel room with zero warning signs.
+- [Tom Artiom Alexandrovich](Tom_Alexandrovich.md): Senior Israeli cyber official caught in FBI child predator sting. Posted bail. Fled to Israel in 48 hours.
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md): The DC Madam said publicly she would never hang herself. Found hanged 16 days after conviction.
+- [Matthew Perry](Matthew_Perry.md): His death exposed an elite ketamine supply network. Five charged including a doctor dubbed the Ketamine Queen.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Hilda Murrell
 78-year-old British anti-nuclear campaigner, rose grower, and former SOE-connected figure, kidnapped from her Shrewsbury home in 1984, beaten, stabbed, and left to die of hypothermia in a field — days before her scheduled testimony at the Sizewell B nuclear inquiry.
@@ -56,6 +56,12 @@ Hilda Murrell was a highly respected rose grower and naturalist who ran the nurs
 
 - [David Kelly](David_Kelly.md) — UK weapons inspector who died before he could fully testify, 2003
 - [Karen Silkwood](Karen_Silkwood.md) — Nuclear whistleblower killed en route to meet a reporter, 1974
+## Other Shocking Stories
+
+- [Gerald Bull](Gerald_Bull.md): Canadian genius building Iraq a supergun. Five bullets to the head at his Brussels apartment. Mossad widely blamed.
+- [Mostafa Ahmadi Roshan](Mostafa_Ahmadi_Roshan.md): Fourth Iranian nuclear scientist killed by a magnetic car bomb. Same method, same motorcycle assassins, different year.
+- [Abdel Aziz al-Rantisi](Abdel_Aziz_al_Rantisi.md): Killed by Israeli missile one month after they assassinated his predecessor. Hamas leadership was being erased systematically.
+- [Sergei Skripal and Dawn Sturgess](Sergei_Skripal.md): Novichok nerve agent smeared on his door handle in England. UK inquiry confirmed Putin ordered the attack.
 
 ## Sources
 

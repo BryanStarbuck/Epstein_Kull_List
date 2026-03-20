@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Main List](./README.md)
 
 # Max Spiers
 British conspiracy researcher and lecturer who died in Warsaw, Poland, after vomiting two litres of black fluid — days after texting his mother: "Your boy's in trouble. If anything happens to me, investigate."
@@ -79,6 +79,12 @@ At the time of his death, he was reportedly working on an expose of prominent fi
 - [Bill Cooper](Bill_Cooper.md) — Author and broadcaster killed after exposing government conspiracies
 - [Jenny Moore](Jenny_Moore.md) — Citizen journalist investigating trafficking, found dead in DC hotel
 - [Philip Marshall](Philip_Marshall.md) — Author exposing CIA connections, found dead
+## Other Shocking Stories
+
+- [Jan Kuciak](Jan_Kuciak.md): Shot dead at home with his fiancee for exposing mafia-government ties. Slovakia's prime minister resigned.
+- [Daniel Pearl](Daniel_Pearl.md): Wall Street Journal reporter beheaded in Pakistan while investigating ISI links to Al-Qaeda.
+- [Anastasia Baburova](Anastasia_Baburova.md): A 25-year-old journalism student shot dead on a Moscow sidewalk trying to save a human rights lawyer.
+- [Maxim Kuzminov](Maxim_Kuzminov.md): Russian pilot defected to Ukraine. Found shot dead in Spain with Russian ammunition. SVR called him 'traitor.'
 
 ## Sources
 

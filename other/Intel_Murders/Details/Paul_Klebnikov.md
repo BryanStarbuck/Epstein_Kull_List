@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Paul Klebnikov
 American journalist and founding editor of Forbes Russia, shot dead outside his Moscow office in a contract killing.
@@ -67,6 +67,12 @@ His work systematically documented the merger of Russian business, organized cri
 - [Yuri Shchekochikhin](Yuri_Shchekochikhin.md) — Journalist likely poisoned, 2003
 
 - [Boris Berezovsky](Boris_Berezovsky.md) — Russian oligarch whom Klebnikov investigated
+## Other Shocking Stories
+
+- [Jan Kuciak](Jan_Kuciak.md): Shot dead at home with his fiancee for exposing mafia-government ties. Slovakia's prime minister resigned.
+- [Roberto Calvi](Roberto_Calvi.md): Found hanging under London's Blackfriars Bridge with bricks in his pockets. Linked to the Vatican and P2 lodge.
+- [Mostafa Ahmadi Roshan](Mostafa_Ahmadi_Roshan.md): Fourth Iranian nuclear scientist killed by a magnetic car bomb. Same method, same motorcycle assassins, different year.
+- [Mehdi Ben Barka](Mehdi_Ben_Barka.md): Moroccan opposition leader kidnapped in broad daylight in Paris by French and Moroccan intelligence. Body never found.
 
 ## Sources
 

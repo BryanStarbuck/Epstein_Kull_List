@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Daphne Caruana Galizia
 Maltese investigative journalist assassinated by car bomb near her home after exposing high-level corruption linked to the Panama Papers. A public inquiry found the Maltese state bore responsibility.
@@ -54,13 +54,19 @@ In the weeks before her death, Caruana Galizia wrote on her blog: "There are cro
 
 > "There are crooks everywhere you look now. The situation is desperate." -- Daphne Caruana Galizia, in her last blog post, published 30 minutes before her death
 
-> "The State should shoulder responsibility for the assassination... because it created an atmosphere of impunity." -- Malta Public Inquiry Report, 2021
+> "The State should shoulder responsibility for the assassination.. because it created an atmosphere of impunity." -- Malta Public Inquiry Report, 2021
 
 ## See Also
 
 - [Jan Kuciak](Jan_Kuciak.md) -- Slovak journalist killed five months later in similar circumstances
 - [Anna Politkovskaya](Anna_Politkovskaya.md) -- journalist killed for investigating government corruption
 - [Jamal Khashoggi](Jamal_Khashoggi.md) -- journalist killed by state actors
+## Other Shocking Stories
+
+- [Denis Voronenkov](Denis_Voronenkov.md): Russian lawmaker defected and testified against Russia. Shot dead in broad daylight on a Kyiv street.
+- [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md): Iran's top nuclear scientist killed by an AI-assisted remote-controlled gun. No assassin was even present.
+- [John Lennon](John_Lennon.md): FBI surveilled him for years under COINTELPRO. His killer had CIA-connected ties and unexplained world travel.
+- [Alexander Litvinenko](Alexander_Litvinenko.md): Poisoned with radioactive polonium in his London tea. UK inquiry found Putin 'probably approved' it.
 
 ## Sources
 

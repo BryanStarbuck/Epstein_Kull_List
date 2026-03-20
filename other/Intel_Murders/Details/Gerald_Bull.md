@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Gerald Bull
 Canadian ballistics engineer and supergun designer assassinated outside his Brussels apartment, allegedly by Mossad, over his work building a long-range artillery weapon for Iraq.
@@ -62,8 +62,14 @@ After his release, Bull moved to Brussels and began working with Iraq's governme
 - [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md) -- another Mossad assassination target
 - [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md) -- Iranian nuclear scientist killed by Mossad
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Ahmed Yassin](Ahmed_Yassin.md): Wheelchair-bound, half-blind, quadriplegic. Israel killed him with a helicopter missile strike leaving a mosque.
+- [Michael Hastings](Michael_Hastings.md): Investigating CIA Director Brennan. His car exploded at 4 a.m. Richard Clarke said it looked like a cyberattack.
+- [Salah al-Arouri](Salah_al_Arouri.md): Hamas deputy leader killed by Israeli drone strike in Beirut during the Gaza war.
+- [Zia ul-Haq](Zia_ul_Haq.md): Pakistan's president, the US ambassador, and top generals all died in one plane crash. Sabotage widely suspected.
 
 ## Sources
 

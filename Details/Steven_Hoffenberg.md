@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Steven Hoffenberg
 Epstein business partner who confessed about blackmail operation, found dead after FBI cooperation.
@@ -16,7 +16,7 @@ Epstein business partner who confessed about blackmail operation, found dead aft
 
 ## Assessment: SUSPICIOUS
 
-Hoffenberg had made explosive public statements about the Epstein-Maxwell blackmail operation, cooperated with the FBI, and spoken about Epstein's alleged [Mossad](../other/groups/mossad.md) connections. He was found dead in his apartment, having been dead for at least seven days before discovery. While he was in declining health and living in reduced circumstances, the timing — shortly after his FBI cooperation and public claims about the blackmail operation — is concerning. He possessed direct insider knowledge of Epstein's early financial operations dating back to the 1980s.
+Hoffenberg had made explosive public statements about the Epstein-Maxwell blackmail operation, cooperated with the FBI, and spoken about Epstein's alleged [Mossad](./other/groups/mossad.md) connections. He was found dead in his apartment, having been dead for at least seven days before discovery. While he was in declining health and living in reduced circumstances, the timing — shortly after his FBI cooperation and public claims about the blackmail operation — is concerning. He possessed direct insider knowledge of Epstein's early financial operations dating back to the 1980s.
 
 ## Circumstances of Death
 
@@ -51,7 +51,7 @@ Hoffenberg once tried to buy the New York Post. He briefly took over the paper i
 
 ## Related Groups
 
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — Epstein's business partner who described the blackmail operation
+- [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) — Epstein's business partner who described the blackmail operation
 
 ## See Also — 2022 Death Cluster
 
@@ -59,7 +59,7 @@ Hoffenberg once tried to buy the New York Post. He briefly took over the paper i
 - [Mark Middleton](Mark_Middleton.md) — May 2022 (hanging + shotgun)
 - [Anne Heche](Anne_Heche.md) — August 2022 (car crash)
 - [Kenneth Starr](Kenneth_Starr.md) — September 2022 (surgical complications)
-- [Nikolai Mushegian](Nikolai_Mushegian.md) — October 2022 (drowning, hours after tweeting about [CIA](../other/groups/cia.md)/Mossad trafficking)
+- [Nikolai Mushegian](Nikolai_Mushegian.md) — October 2022 (drowning, hours after tweeting about [CIA](./other/groups/cia.md)/Mossad trafficking)
 - [John Connolly](John_Connolly.md) — January 2022 (natural causes)
 
 See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_Maxwell.md)
@@ -74,7 +74,7 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 >
 > — Maria Farmer, on Hoffenberg's character ([The Daily Beast](https://www.thedailybeast.com/steven-hoffenberg-jeffrey-epsteins-ponzi-schemer-pal-found-dead-after-a-welfare-check/))
 
-> "He was too smart for his own good... He did not have self-control. He always thought he was smarter than the next guy." Baise also called Hoffenberg "a good man" but noted he had not been taking care of himself.
+> "He was too smart for his own good.. He did not have self-control. He always thought he was smarter than the next guy." Baise also called Hoffenberg "a good man" but noted he had not been taking care of himself.
 >
 > — Gary Baise, Hoffenberg's friend and lawyer ([NPR](https://www.npr.org/2022/08/26/1119746511/jeffrey-epstein-mentor-steven-hoffenberg-dead))
 
@@ -84,7 +84,13 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 
 ## Related Locations
 
-- [New York City Metro](../other/locations/new_york_metro.md) — Based in New York City during partnership with Epstein; ran Towers Financial Corp from NYC; found dead in Derby, Connecticut
+- [New York City Metro](./other/locations/new_york_metro.md) — Based in New York City during partnership with Epstein; ran Towers Financial Corp from NYC; found dead in Derby, Connecticut
+## Other Shocking Stories
+
+- [Sabrina Bittencourt](Sabrina_Bittencourt.md): Exposed a baby-selling operation. Died in hiding in Barcelona.
+- [Wendy Leigh](Wendy_Leigh.md): Investigating Jeffrey Epstein. Found beneath her London balcony. Ex-husband rejects the suicide ruling.
+- [Virginia Giuffre](Virginia_Giuffre.md): Epstein's most prominent accuser. Posted publicly she was not suicidal. Ruled suicide anyway.
+- [John Connolly](John_Connolly.md): Co-authored the book that exposed Epstein to millions. Died of a brief illness at 78.
 
 ## Sources
 

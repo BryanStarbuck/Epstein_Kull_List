@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Georgi Markov
 Bulgarian dissident writer assassinated on Waterloo Bridge in London with a ricin-tipped pellet fired from a modified umbrella.
@@ -60,13 +60,19 @@ Markov's broadcasts were considered so damaging that Bulgarian dictator Todor Zh
 
 > "The KGB had the umbrella made and the pellet designed. They gave it to the Bulgarians." — Oleg Kalugin, former KGB general, 1991
 
-> "The case was unprecedented... It established that a state security service had used a sophisticated weapon to assassinate an individual on the streets of a Western capital." — BBC documentary
+> "The case was unprecedented.. It established that a state security service had used a sophisticated weapon to assassinate an individual on the streets of a Western capital." — BBC documentary
 
 ## See Also
 
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — Another state poisoning in London, using polonium-210, 2006
 - [Sergei Skripal](Sergei_Skripal.md) — Novichok poisoning in Salisbury, 2018
 - [Alexei Navalny](Alexei_Navalny.md) — Novichok poisoning 2020, epibatidine poisoning 2024
+## Other Shocking Stories
+
+- [Thomas Sankara](Thomas_Sankara.md): Africa's revolutionary president shot dead in a coup. France allegedly backed it. His killer convicted in 2022.
+- [Sergei Skripal and Dawn Sturgess](Sergei_Skripal.md): Novichok nerve agent smeared on his door handle in England. UK inquiry confirmed Putin ordered the attack.
+- [Dag Hammarskjold](Dag_Hammarskjold.md): UN Secretary-General's plane crashed in Africa.
+- [Enrique "Kiki" Camarena](Enrique_Camarena.md): DEA agent kidnapped and tortured for 30 hours in Mexico. CIA allegedly knew about the plot beforehand.
 
 ## Sources
 

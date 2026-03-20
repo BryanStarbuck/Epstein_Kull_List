@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Mary Pinchot Meyer
 Washington socialite, artist, and alleged mistress of President John F. Kennedy, shot execution-style while walking along the C&O Canal towpath in Georgetown — less than a year after JFK's assassination and weeks after the Warren Commission report was released.
@@ -106,7 +106,7 @@ The web of CIA connections surrounding Mary Pinchot Meyer is extraordinary:
 > "Mary would be very amused by all of this."
 > — Ben Bradlee, quoted in Nina Burleigh's *A Very Private Woman*
 
-> "We found a diary... After reading it, I turned it over to James Angleton... I am sure it was destroyed."
+> "We found a diary.. After reading it, I turned it over to James Angleton.. I am sure it was destroyed."
 > — Ben Bradlee, in his 1995 memoir *A Good Life*
 
 > "Someone help me, someone help me."
@@ -125,7 +125,13 @@ The web of CIA connections surrounding Mary Pinchot Meyer is extraordinary:
 - [William Colby](William_Colby.md) — Former CIA Director who died under suspicious circumstances
 - [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating intelligence operations, found dead in hotel room
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Sergei Magnitsky](Sergei_Magnitsky.md): Exposed a $230 million government fraud. Russia beat him to death in prison.
+- [Maurice Bishop](Maurice_Bishop.md): Grenada's PM executed in a coup. The US invaded days later. CIA destabilization preceded both events.
+- [Paul Wellstone](Paul_Wellstone.md): The Senate's loudest Iraq War opponent died in a plane crash eleven days before his election.
+- [Wadie Haddad](Wadie_Haddad.md): Mossad allegedly laced his Belgian chocolate with a biological agent. Doctors diagnosed 'leukemia.'
 
 ## Sources
 

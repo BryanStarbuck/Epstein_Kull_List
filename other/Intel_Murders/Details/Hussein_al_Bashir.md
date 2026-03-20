@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Hussein al-Bashir
 Fatah representative in Cyprus killed when Mossad detonated explosives planted under his hotel bed in Nicosia, as part of Operation Wrath of God.
@@ -53,7 +53,13 @@ Hussein al-Bashir was a Jordanian member of the Palestine Liberation Organizatio
 - [Atef Bseiso](Atef_Bseiso.md) — PLO intelligence chief killed in Paris, 1992
 - Zuheir Mohsen — PLO/as-Sa'iqa leader shot in Cannes, 1979
 
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Trevor Moore](Trevor_Moore.md): Comedian with 100 million views exposing elite trafficking and CIA crimes fell from a balcony at 2:30 a.m.
+- [Chris Hani](Chris_Hani.md): South African Communist leader shot at home. His assassination nearly destroyed the transition to democracy.
+- [Hilda Murrell](Hilda_Murrell.md): A 78-year-old anti-nuclear campaigner kidnapped from her home, stabbed, and left in a field to die.
+- [Alexander Tyulakov](Alexander_Tyulakov.md): Gazprom executive found hanged the morning Russia invaded Ukraine. One of eight Russian energy executives dead that year.
 
 ## Sources
 

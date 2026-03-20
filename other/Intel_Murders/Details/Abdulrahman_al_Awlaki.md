@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Abdulrahman al-Awlaki
 16-year-old American citizen killed by a US drone strike in Yemen in 2011, two weeks after his father Anwar al-Awlaki was killed in a separate strike. The Obama administration said he was not the intended target.
@@ -59,7 +59,13 @@ Abdulrahman was born in Denver, Colorado, on 26 August 1995, making him a natura
 - [Anwar al-Awlaki](Anwar_al_Awlaki.md) — His father, killed by a US drone strike two weeks earlier
 - [Pat Tillman](Pat_Tillman.md) — American killed by friendly fire with subsequent government cover-up
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Galina Starovoitova](Galina_Starovoitova.md): Russian liberal lawmaker gunned down in her apartment lobby. She championed human rights Putin wanted silenced.
+- [Zelimkhan Yandarbiyev](Zelimkhan_Yandarbiyev.md): Former Chechen president killed by a GRU car bomb in Qatar. Two Russian agents convicted.
+- [Abu Jihad (Khalil al-Wazir)](Abu_Jihad.md): Israeli commandos broke into his Tunis home and shot him in front of his wife and daughter.
+- [Pavel Sheremet](Pavel_Sheremet.md): Started his car in Kyiv and it exploded. One of Europe's most prominent unsolved journalist killings.
 
 ## Sources
 

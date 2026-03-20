@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Paul Wellstone
 U.S. Senator from Minnesota, the most progressive member of the Senate and one of the most vocal opponents of the Iraq War, killed in a plane crash eleven days before his 2002 reelection — along with his wife, daughter, and five others.
@@ -134,6 +134,12 @@ Regardless of the cause of the crash, certain facts are not in dispute:
 - [Pat Tillman](Pat_Tillman.md) — another death where someone opposed to the Iraq War died under suspicious circumstances
 - [David Kelly](David_Kelly.md) — UK weapons inspector who challenged Iraq WMD claims, died in 2003
 - [Michael Hastings](Michael_Hastings.md) — journalist investigating intelligence, killed in vehicle crash
+## Other Shocking Stories
+
+- [Thomas Sankara](Thomas_Sankara.md): Africa's revolutionary president shot dead in a coup. France allegedly backed it. His killer convicted in 2022.
+- [Majid Shahriari](Majid_Shahriari.md): Motorcycle assassins attached a magnetic bomb to his car door in Tehran traffic. Fourth scientist targeted.
+- [Gerard Hoarau](Gerard_Hoarau.md): Seychelles opposition leader shot dead in London. South African intelligence suspected. No one was ever charged.
+- [Steve Biko](Steve_Biko.md): South African leader beaten to death in police custody. They initially claimed he died from a hunger strike.
 
 ## Sources
 

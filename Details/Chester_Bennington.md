@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Chester Bennington
 Linkin Park vocalist and Cornell's close friend, hanged on Cornell's birthday two months later.
@@ -48,6 +48,12 @@ The connection to the documentary has been debunked by fact-checkers and the doc
 
 > "I woke up with Rocky Raccoon playing in my head and a concerned look on my wife's face. She told me my friend had just passed away. Thoughts of you flooded my mind and I wept."
 > -- Chester Bennington, in his letter to Chris Cornell, [NME: Read Linkin Park frontman Chester Bennington's emotional tribute to Chris Cornell](https://www.nme.com/news/music/chris-cornell-chester-bennington-tribute-2073635)
+## Other Shocking Stories
+
+- [Carolyn Andriano](Carolyn_Andriano.md): Testified against Ghislaine Maxwell. Died of an overdose in a Palm Beach hotel.
+- [Efrain "Stone" Reyes](Efrain_Stone_Reyes.md): Epstein's cellmate who knew what happened that night. Talked to investigators. Dead within months.
+- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Epstein left $5 million per child in his will. Resigned. Under criminal investigation.
+- [Michael Hutchence](Michael_Hutchence.md): INXS frontman found hanged. Family disputes suicide. Unexplained injuries. $13 million fortune vanished into offshore trusts.
 
 ## Sources
 - LA County Department of Medical Examiner-Coroner report

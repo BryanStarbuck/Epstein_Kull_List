@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Alexis Arquette
 Transgender actress and member of the Arquette acting family who publicly accused Hollywood figures of sexual misconduct and was reportedly planning a tell-all memoir exposing industry secrets before dying of cardiac arrest related to HIV at age 47.
@@ -67,13 +67,13 @@ According to multiple reports, Arquette had been approached several times to wri
 
 ## Key Quotes from Media Coverage
 
-> "Our brother Robert, who became our brother Alexis, who became our sister Alexis, who became our brother Alexis, taught us tolerance and acceptance... We learned what real bravery is through watching her journey of living as a trans woman."
+> "Our brother Robert, who became our brother Alexis, who became our sister Alexis, who became our brother Alexis, taught us tolerance and acceptance.. We learned what real bravery is through watching her journey of living as a trans woman."
 > — Patricia Arquette, family statement, September 2016
 
-> "In my heart, I'm so sad... I'm in mourning every day of my life, Alexis, and I will be the rest of my life for you until we change the world so that trans people are not persecuted."
+> "In my heart, I'm so sad.. I'm in mourning every day of my life, Alexis, and I will be the rest of my life for you until we change the world so that trans people are not persecuted."
 > — Patricia Arquette, Emmy acceptance speech, 2019
 
-> "When Jada comes out as Gay and her beard husband admits his first marriage ended when she walked in to him butt servicing his Sugar Daddy... then I will listen to them."
+> "When Jada comes out as Gay and her beard husband admits his first marriage ended when she walked in to him butt servicing his Sugar Daddy.. then I will listen to them."
 > — Alexis Arquette, Facebook post, January 2016 (subsequently deleted)
 
 > According to *The Shade Room*, Arquette "was stressed over whether or not she should be a whistleblower for what could be some of Hollywood's dirtiest secrets" and had been "approached many times" to write a tell-all book.
@@ -101,6 +101,12 @@ There is no documented direct connection between Alexis Arquette and [Jeffrey Ep
 - [Chester Bennington](Chester_Bennington.md) — Cornell's friend, found hanged on Cornell's birthday
 - [Anthony Bourdain](Anthony_Bourdain.md) — Vocal against Hollywood abusers, found hanged in France
 - [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md) — Worked on trafficking documentary, died at 28
+## Other Shocking Stories
+
+- [Carolyn Andriano](Carolyn_Andriano.md): Testified against Ghislaine Maxwell. Died of an overdose in a Palm Beach hotel.
+- [Daniel Anderl](Daniel_Anderl.md): Judge gets Epstein-Deutsche Bank case. Four days later, a gunman with intel ties murders her 20-year-old son.
+- [Ghislaine Maxwell (Living — At Risk)](Ghislaine_Maxwell.md): The only convicted co-conspirator still alive. Serving 20 years. Her brother says publicly she is not suicidal.
+- [Aivar Rehe](Aivar_Rehe.md): Ran the Danske Bank branch that laundered $230 billion. Questioned as a witness. Found dead at home.
 
 ## Sources
 

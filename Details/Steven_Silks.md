@@ -1,7 +1,7 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md) | [Weiner Laptop Overview](../other/laptop.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md) | [Weiner Laptop Overview](./other/laptop.md)
 
 # Steven Silks
-NYPD Deputy Chief and 38-year veteran who allegedly viewed [Weiner laptop](../other/laptop.md) evidence, found dead in police vehicle.
+NYPD Deputy Chief and 38-year veteran who allegedly viewed [Weiner laptop](./other/laptop.md) evidence, found dead in police vehicle.
 
 | Field | Details |
 |-------|---------|
@@ -24,7 +24,7 @@ Deputy Chief Steven Silks, 62, was found dead from a self-inflicted gunshot woun
 
 ## Connection to Weiner Laptop
 
-Silks is named in online claims as one of 12 NYPD officers who allegedly viewed files on [Anthony Weiner's laptop](../other/laptop.md) after it was seized in September 2016 during a sexting investigation. The claim states that 9 of these 12 officers subsequently died. The specific allegation is that Silks "was directly involved in the sex crimes investigation of former Congressman Anthony Weiner, and personally oversaw evidence-gathering from the laptop." This claim originated from outlets including Hal Turner Radio Show and State of the Nation and has not been independently verified.
+Silks is named in online claims as one of 12 NYPD officers who allegedly viewed files on [Anthony Weiner's laptop](./other/laptop.md) after it was seized in September 2016 during a sexting investigation. The claim states that 9 of these 12 officers subsequently died. The specific allegation is that Silks "was directly involved in the sex crimes investigation of former Congressman Anthony Weiner, and personally oversaw evidence-gathering from the laptop." This claim originated from outlets including Hal Turner Radio Show and State of the Nation and has not been independently verified.
 
 ## Related Deaths — NYPD Weiner Laptop Cluster
 
@@ -58,6 +58,12 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 - Allegedly connected to Weiner laptop examination
 - Part of a year in which 10 NYPD officers died by suicide — an unprecedented number
 - The cluster timing mirrors patterns seen in other Epstein-adjacent death clusters
+## Other Shocking Stories
+
+- [Prince Andrew (Andrew Mountbatten-Windsor)](Prince_Andrew.md): First British royal arrested in 400 years. Shared classified intelligence with a convicted sex trafficker.
+- [Terrence McAvoy](Terrence_McAvoy.md): NYPD sergeant. Allegedly viewed the Weiner laptop evidence. Suicide. Five officers now dead.
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md): The DC Madam said publicly she would never hang herself. Found hanged 16 days after conviction.
+- [Michael Jackson](Michael_Jackson.md): Visited Epstein's mansion. Died of drug intoxication administered by his own doctor. Convicted of manslaughter.
 
 ## Sources
 

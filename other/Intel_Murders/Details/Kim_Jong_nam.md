@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Kim Jong-nam
 Half-brother of North Korean leader Kim Jong-un, assassinated with VX nerve agent at Kuala Lumpur International Airport in 2017 in a brazen North Korean intelligence operation.
@@ -59,7 +59,13 @@ Kim Jong-nam was the eldest son of North Korean dictator Kim Jong-il by his mist
 - [Georgi Markov](Georgi_Markov.md) — Bulgarian dissident assassinated with ricin pellet, another state-sponsored poisoning of a defector
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — Russian defector killed by polonium poisoning
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Dorothy Kilgallen](Dorothy_Kilgallen.md): Found dead after privately interviewing Jack Ruby about the JFK assassination. Her notes vanished completely.
+- [Berta Caceres](Berta_Caceres.md): Goldman Prize-winning indigenous activist. US-trained military intelligence agents helped plan her murder in Honduras.
+- [Wael Zwaiter](Wael_Zwaiter.md): Palestinian intellectual shot twelve times in Rome. First kill in Mossad's post-Munich revenge campaign. Possibly wrong man.
+- [Ali Hassan Salameh](Ali_Hassan_Salameh.md): He was simultaneously a CIA asset and a Mossad target. Mossad killed him anyway with a car bomb.
 
 ## Sources
 

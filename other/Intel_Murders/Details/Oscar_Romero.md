@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Oscar Romero
 Archbishop of San Salvador assassinated while celebrating Mass in 1980, one day after publicly ordering Salvadoran soldiers to stop killing civilians. The UN Truth Commission confirmed the killing was ordered by death squad leader Roberto D'Aubuisson, who was trained at the U.S. School of the Americas.
@@ -59,7 +59,13 @@ Oscar Romero was ordained as a priest in 1942 and appointed Archbishop of San Sa
 - [Enrique Camarena](Enrique_Camarena.md) — DEA agent murdered with alleged CIA complicity in Latin America
 - [Jaime Roldos](Jaime_Roldos.md) — Ecuadorian president killed in suspicious plane crash in 1981
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Alexander Zakharchenko](Alexander_Zakharchenko.md): Separatist leader blown up by a bomb hidden inside a Donetsk cafe he visited daily.
+- [Judi Bari](Judi_Bari.md): FBI accused her of bombing her own car. A jury saw through it and awarded $4.4 million.
+- [Rafael Trujillo](Rafael_Trujillo.md): CIA supplied the weapons. Dominican dictator ambushed and shot in his car. Church Committee confirmed it.
+- [Mostafa Ahmadi Roshan](Mostafa_Ahmadi_Roshan.md): Fourth Iranian nuclear scientist killed by a magnetic car bomb. Same method, same motorcycle assassins, different year.
 
 ## Sources
 

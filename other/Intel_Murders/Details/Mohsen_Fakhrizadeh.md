@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Mohsen Fakhrizadeh
 Iran's chief nuclear scientist, assassinated in a road ambush near Tehran in 2020 using a remote-controlled, AI-assisted machine gun operated by satellite. The operation is widely attributed to Israel's Mossad and represented a new frontier in autonomous targeted killing technology.
@@ -65,7 +65,13 @@ In 2018, Israeli Prime Minister Benjamin Netanyahu publicly identified Fakhrizad
 - [Ahmed Yassin](Ahmed_Yassin.md) — Hamas founder killed by Israeli airstrike, 2004
 - [Gerald Bull](Gerald_Bull.md) — weapons designer killed in Brussels, Mossad widely blamed
 
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Maurice Bishop](Maurice_Bishop.md): Grenada's PM executed in a coup. The US invaded days later. CIA destabilization preceded both events.
+- [Sergei Magnitsky](Sergei_Magnitsky.md): Exposed a $230 million government fraud. Russia beat him to death in prison.
+- [Thomas Sankara](Thomas_Sankara.md): Africa's revolutionary president shot dead in a coup. France allegedly backed it. His killer convicted in 2022.
+- [Seth Rich](Seth_Rich.md): DNC staffer shot twice in the back in DC. Nothing stolen. Case still unsolved.
 
 ## Sources
 

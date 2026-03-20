@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Masoud Alimohammadi
 Iranian physics professor killed by a remote-controlled motorcycle bomb outside his Tehran home in 2010.
@@ -56,7 +56,13 @@ Alimohammadi was a professor of physics at the University of Tehran who speciali
 - [Mostafa Ahmadi Roshan](Mostafa_Ahmadi_Roshan.md) — Iranian nuclear scientist killed by magnetic bomb, 2012
 - [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md) — Head of Iran's nuclear weapons program, assassinated 2020
 
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md): Panama Papers journalist killed by car bomb in Malta. State inquiry found the government bore responsibility.
+- [Dag Hammarskjold](Dag_Hammarskjold.md): UN Secretary-General's plane crashed in Africa.
+- [Philip Haney](Philip_Haney.md): DHS whistleblower on terrorism found shot dead. Family says it was not suicide.
+- [Fuad Shukr](Fuad_Shukr.md): Hezbollah's top military commander killed by Israeli airstrike in Beirut during the 2024 escalation.
 
 ## Sources
 

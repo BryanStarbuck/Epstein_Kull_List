@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Sergei Skripal and Dawn Sturgess
 Former GRU double agent poisoned with Novichok nerve agent in Salisbury; survived. Bystander Dawn Sturgess killed by discarded nerve agent.
@@ -73,6 +73,12 @@ Dawn Sturgess was a completely innocent bystander with no connection to intellig
 - [Alexei Navalny](Alexei_Navalny.md) — Poisoned with Novichok in 2020, died in prison 2024
 - [Zelimkhan Khangoshvili](Zelimkhan_Khangoshvili.md) — Shot by FSB operative in Berlin, 2019
 - Emilian Gebrev — Bulgarian arms dealer poisoned by the same GRU unit in 2015
+## Other Shocking Stories
+
+- [Maurice Bishop](Maurice_Bishop.md): Grenada's PM executed in a coup. The US invaded days later. CIA destabilization preceded both events.
+- [Imad Mughniyeh](Imad_Mughniyeh.md): The world's most wanted terrorist. CIA and Mossad finally killed him with a car bomb in Damascus.
+- [Fidan Doğan](Fidan_Dogan.md): Kurdish activist shot execution-style in Paris. Turkish intelligence suspected of ordering the triple assassination.
+- [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md): JFK's mistress shot execution-style on a Georgetown towpath. CIA counterintelligence chief seized and burned her diary.
 
 ## Sources
 

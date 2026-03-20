@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Roy Den Hollander
 Self-described "anti-feminist" attorney and former Kroll Associates operative in Moscow who killed the son of Judge [Esther Salas](Esther_Salas.md) — the judge assigned to the Epstein-Deutsche Bank case — then was found dead from an apparent self-inflicted gunshot wound.
@@ -125,16 +125,22 @@ In January 2020, Den Hollander informed reporters that he was "painfully dying f
 
 ## Related Groups
 
-- [Kroll Associates](../other/groups/kroll_associates.md) — Den Hollander worked at Kroll's Moscow office (1999–2000); Kroll had ties to Deutsche Bank and Robert Maxwell
-- [Deutsche Bank](../other/groups/deutsche_bank.md) — The bank at the center of the case Judge Salas was assigned days before the shooting
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — The broader network whose financial dealings were under scrutiny in the Deutsche Bank case
-- [Mossad](../other/groups/mossad.md) — Israeli intelligence; Kroll Associates employed former Mossad agents
-- [CIA](../other/groups/cia.md) — Kroll Associates was known as the "CIA of Wall Street" and employed former CIA operatives
+- [Kroll Associates](./other/groups/kroll_associates.md) — Den Hollander worked at Kroll's Moscow office (1999–2000); Kroll had ties to Deutsche Bank and Robert Maxwell
+- [Deutsche Bank](./other/groups/deutsche_bank.md) — The bank at the center of the case Judge Salas was assigned days before the shooting
+- [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) — The broader network whose financial dealings were under scrutiny in the Deutsche Bank case
+- [Mossad](./other/groups/mossad.md) — Israeli intelligence; Kroll Associates employed former Mossad agents
+- [CIA](./other/groups/cia.md) — Kroll Associates was known as the "CIA of Wall Street" and employed former CIA operatives
 
 ## Related Locations
 
-- [New Jersey](../other/locations/new_jersey.md) — North Brunswick Township, where he attacked the Salas family home (July 19, 2020)
-- [Southern California](../other/locations/southern_california.md) — Cedarpines Park, where he killed Marc Angelucci (July 11, 2020)
+- [New Jersey](./other/locations/new_jersey.md) — North Brunswick Township, where he attacked the Salas family home (July 19, 2020)
+- [Southern California](./other/locations/southern_california.md) — Cedarpines Park, where he killed Marc Angelucci (July 11, 2020)
+## Other Shocking Stories
+
+- [Robert Maxwell](Robert_Maxwell.md): Ghislaine's father. Alleged Mossad super-spy. Fell from his yacht. Six intelligence services attended the funeral.
+- [Danny Casolaro](Danny_Casolaro.md): Investigating the same intel op that created Epstein's blackmail machine. Found with slashed wrists. Briefcase gone.
+- [Ruslana Korshunova](Ruslana_Korshunova.md): Flew on Epstein's jet at 18. Two years later fell from the 9th floor.
+- [Val Broeksmit](Val_Broeksmit.md): His father hanged. He became an FBI informant on Deutsche Bank.
 
 ## Sources
 

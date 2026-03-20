@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Mostafa Ahmadi Roshan
 Iranian nuclear scientist and Natanz enrichment facility director killed by a magnetized car bomb in Tehran.
@@ -58,7 +58,13 @@ Ahmadi Roshan was a chemistry expert and a director of commercial affairs at the
 - [Darioush Rezaeinejad](Darioush_Rezaeinejad.md) — Iranian scientist shot in Tehran, 2011
 - [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md) — Head of Iran's nuclear weapons program, assassinated 2020
 
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md): Mossad sent 27 agents with forged passports to suffocate one Hamas commander in a Dubai hotel room.
+- [Ronni Moffitt](Ronni_Moffitt.md): A 25-year-old American killed on American soil by a Chilean intelligence car bomb meant for her colleague.
+- [Serena Shim](Serena_Shim.md): Reported ISIS using UN food trucks. Turkish intelligence accused her of espionage.
+- [Natalya Estemirova](Natalya_Estemirova.md): Kidnapped from Kadyrov's Chechnya for documenting atrocities. Found shot dead. Unsolved for fifteen years.
 
 ## Sources
 

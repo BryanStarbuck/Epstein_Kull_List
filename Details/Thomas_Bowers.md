@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Thomas Bowers
 Deutsche Bank wealth chief who handled Epstein's money, found hanged three months after Epstein.
@@ -49,8 +49,8 @@ Bowers was the former head of Deutsche Bank's American wealth management divisio
 
 ## Related Groups
 
-- [Deutsche Bank](../other/groups/deutsche_bank.md) — The financial institution where Bowers oversaw Epstein's accounts
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — The operation Bowers' division financially enabled
+- [Deutsche Bank](./other/groups/deutsche_bank.md) — The financial institution where Bowers oversaw Epstein's accounts
+- [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) — The operation Bowers' division financially enabled
 
 ## See Also
 
@@ -63,7 +63,13 @@ Bowers was the former head of Deutsche Bank's American wealth management divisio
 
 ## Related Locations
 
-- [Southern California](../other/locations/southern_california.md) — Found hanged at his home in Malibu, California
+- [Southern California](./other/locations/southern_california.md) — Found hanged at his home in Malibu, California
+## Other Shocking Stories
+
+- [Arthur Shapiro](Arthur_Shapiro.md): Gunned down weeks before IRS questioning. His killer's partner had FBI links to Epstein's network.
+- [Vitaly Churkin](Vitaly_Churkin.md): Russian UN Ambassador. Sudden cardiac event. Cause of death withheld by State Department. Autopsy results sealed.
+- [Corey Haim](Corey_Haim.md): Allegedly raped on a film set at age 13. Spent 25 years in addiction. Dead at 38.
+- [Jenny Moore](Jenny_Moore.md): Journalist investigating child trafficking. Filed an FBI report. Found dead in a DC hotel weeks later.
 
 ## Sources
 

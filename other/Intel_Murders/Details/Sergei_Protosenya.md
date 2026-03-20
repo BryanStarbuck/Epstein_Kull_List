@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Sergei Protosenya
 Former chief accountant and board member of Russian gas giant Novatek, found hanged in the garden of his Spanish villa in April 2022 alongside his murdered wife and daughter. Ruled a murder-suicide, but forensic anomalies and his family dispute this.
@@ -43,7 +43,7 @@ After leaving Novatek in 2015–2016, Protosenya and his family resided primaril
 ## Why This Death Raises Questions
 
 - No blood or signs of struggle on Protosenya's clothing despite the brutal stabbing of his wife and daughter
-- His son publicly stated: "He loved my mother and especially Maria my sister... He could never do anything to harm them"
+- His son publicly stated: "He loved my mother and especially Maria my sister.. He could never do anything to harm them"
 - The death occurred within 48 hours of the nearly identical Avayev family deaths in Moscow
 - As former chief accountant of Novatek, he possessed detailed knowledge of Russian energy sector finances
 - The death occurred during the most intense period of the 2022 Russian oligarch death wave
@@ -52,7 +52,7 @@ After leaving Novatek in 2015–2016, Protosenya and his family resided primaril
 
 ## Key Quotes
 
-> Protosenya's son stated: "He loved my mother and especially Maria my sister... He could never do anything to harm them. I don't know what happened that night but I know that my dad did not hurt them."
+> Protosenya's son stated: "He loved my mother and especially Maria my sister.. He could never do anything to harm them. I don't know what happened that night but I know that my dad did not hurt them."
 
 > Spanish police confirmed that despite the brutal knife attack on his family members, Protosenya "did not have any traces of blood or signs of struggle on his clothes."
 
@@ -62,6 +62,12 @@ After leaving Novatek in 2015–2016, Protosenya and his family resided primaril
 - [Leonid Shulman](Leonid_Shulman.md) — Gazprom transport chief, found dead January 2022
 - [Alexander Tyulakov](Alexander_Tyulakov.md) — Gazprom director, found dead February 2022
 - Alexander Subbotin — Former Lukoil board member, found dead May 2022
+## Other Shocking Stories
+
+- [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md): JFK's mistress shot execution-style on a Georgetown towpath. CIA counterintelligence chief seized and burned her diary.
+- [Chris Hani](Chris_Hani.md): South African Communist leader shot at home. His assassination nearly destroyed the transition to democracy.
+- [Seth Rich](Seth_Rich.md): DNC staffer shot twice in the back in DC. Nothing stolen. Case still unsolved.
+- [Gerald Bull](Gerald_Bull.md): Canadian genius building Iraq a supergun. Five bullets to the head at his Brussels apartment. Mossad widely blamed.
 
 ## Sources
 

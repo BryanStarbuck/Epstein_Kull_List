@@ -1,7 +1,7 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Nikolai Mushegian
-MakerDAO co-founder and crypto pioneer who tweeted about a [CIA](../other/groups/cia.md)/[Mossad](../other/groups/mossad.md) sex trafficking ring in Puerto Rico hours before drowning at age 29.
+MakerDAO co-founder and crypto pioneer who tweeted about a [CIA](./other/groups/cia.md)/[Mossad](./other/groups/mossad.md) sex trafficking ring in Puerto Rico hours before drowning at age 29.
 
 ## Basic Information
 - **Full Name:** Nikolai Arcadie Mushegian (also spelled Muchgian in official records)
@@ -68,7 +68,13 @@ Mushegian fits a documented pattern of individuals who publicly accused intellig
 
 ## Related Locations
 
-- [Caribbean](../other/locations/caribbean.md) — Drowned at Condado Beach in San Juan, Puerto Rico; tweeted about CIA/Mossad trafficking ring operating out of Puerto Rico and Caribbean islands
+- [Caribbean](./other/locations/caribbean.md) — Drowned at Condado Beach in San Juan, Puerto Rico; tweeted about CIA/Mossad trafficking ring operating out of Puerto Rico and Caribbean islands
+## Other Shocking Stories
+
+- [Kevin Preiss](Kevin_Preiss.md): NYPD officer who allegedly saw what was on the Weiner laptop. Suicide. The pattern keeps repeating.
+- [Max Spiers](Max_Spiers.md): Told his mother: 'If anything happens to me, investigate.' Died days later in Poland researching elite pedophilia.
+- [Aivar Rehe](Aivar_Rehe.md): Ran the Danske Bank branch that laundered $230 billion. Questioned as a witness. Found dead at home.
+- [Philip Haney](Philip_Haney.md): DHS whistleblower on trafficking networks. Shot dead. Family doubts the suicide ruling. Investigation stalled.
 
 ## Sources
 - [Wikipedia: Nikolai Mushegian](https://en.wikipedia.org/wiki/Nikolai_Mushegian)

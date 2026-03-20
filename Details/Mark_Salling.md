@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Mark Salling
 *Glee* actor who pleaded guilty to possessing tens of thousands of images of child sexual abuse material, found hanged weeks before sentencing where cooperation or testimony could have exposed others.
@@ -95,7 +95,7 @@ In August 2017 — approximately two months before his plea deal was announced �
 
 ## Key Quotes from Media Coverage
 
-> "Salling was last known to be alive while watching television with his father at his home in Sunland, California... Officers responded around 3 a.m. to a report that Salling had gone missing. Salling managed to remove an ankle monitor he was wearing as part of his house arrest."
+> "Salling was last known to be alive while watching television with his father at his home in Sunland, California.. Officers responded around 3 a.m. to a report that Salling had gone missing. Salling managed to remove an ankle monitor he was wearing as part of his house arrest."
 >
 > — [NBC News](https://www.nbcnews.com/news/us-news/glee-actor-mark-salling-found-dead-while-facing-prison-child-n842701), January 30, 2018
 
@@ -103,7 +103,7 @@ In August 2017 — approximately two months before his plea deal was announced �
 >
 > — [ICE Press Release](https://www.ice.gov/news/releases/actor-pleads-guilty-possessing-large-collection-child-pornography-found-his-home), December 18, 2017
 
-> "In addition to having images of babies and toddlers being sexually abused by grown men, Mark Salling had a how-to manual instructing adult men on how to have sex with little girls... a document called 'jazzguide,' which is a manual that instructs adult men how to abuse little girls who are between three and six years old."
+> "In addition to having images of babies and toddlers being sexually abused by grown men, Mark Salling had a how-to manual instructing adult men on how to have sex with little girls.. a document called 'jazzguide,' which is a manual that instructs adult men how to abuse little girls who are between three and six years old."
 >
 > — [Inquisitr](https://www.inquisitr.com/4540481/documents-and-details-in-glee-actor-mark-salling-child-porn-guilty-plea-included-disturbing-how-to-manual), reporting on court documents, October 2017
 
@@ -119,12 +119,18 @@ In August 2017 — approximately two months before his plea deal was announced �
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Died by hanging before trial on sex trafficking charges
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Modeling agent found hanged in prison awaiting trafficking trial
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "[DC Madam](../other/groups/dc_madam.md)" found hanged before sentencing after saying she would never kill herself
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "[DC Madam](./other/groups/dc_madam.md)" found hanged before sentencing after saying she would never kill herself
 - [Corey Haim](Corey_Haim.md) — Child actor allegedly abused in Hollywood, died at 38
 - [Isaac Kappy](Isaac_Kappy.md) — Actor who publicly named Hollywood pedophiles, fell from bridge
 - [Chester Bennington](Chester_Bennington.md) — Musician found hanged, allegedly connected to child trafficking documentary
 - [Chris Cornell](Chris_Cornell.md) — Musician found hanged, allegedly backed trafficking documentary
 - [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md) — Musician who died after working on trafficking-awareness content
+## Other Shocking Stories
+
+- [Seth Rich](Seth_Rich.md): DNC staffer shot twice in the back. Nothing stolen. Walking home at night in DC. Case still unsolved.
+- [Chester Bennington](Chester_Bennington.md): Cornell's close friend. Same cause of death. Died on Cornell's birthday. Two months apart.
+- [Aivar Rehe](Aivar_Rehe.md): Ran the Danske Bank branch that laundered $230 billion. Questioned as a witness. Found dead at home.
+- [John Connolly](John_Connolly.md): Co-authored the book that exposed Epstein to millions. Died of a brief illness at 78.
 
 ## Sources
 

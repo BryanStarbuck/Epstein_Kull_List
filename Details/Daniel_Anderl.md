@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Daniel Anderl
 
@@ -40,7 +40,7 @@ The shooter was identified as **[Roy Den Hollander](Roy_Den_Hollander.md)** (Sep
 
 - **Education:** JD from George Washington University Law School (1985); MBA from Columbia Business School (1997)
 - **Legal career:** Attorney in the Office of Chief Counsel at the IRS; associate at Cravath, Swaine & Moore (white-shoe NYC law firm); later became a solo practitioner filing frivolous "men's rights" lawsuits
-- **Intelligence work:** Private investigator for **[Kroll Associates](../other/groups/kroll_associates.md)** in Moscow (1999–2000), where he "managed and upgraded Kroll's delivery of intelligence and security in the former Soviet Union." He also gave a speech at the Kremlin in 1993
+- **Intelligence work:** Private investigator for **[Kroll Associates](./other/groups/kroll_associates.md)** in Moscow (1999–2000), where he "managed and upgraded Kroll's delivery of intelligence and security in the former Soviet Union." He also gave a speech at the Kremlin in 1993
 - **Russia connections:** Married Russian model Angelina Shipilina in March 2000; separated nine months later. He accused her of ties to Russian organized crime and claimed she used him for a green card
 - **Media presence:** Appeared on The Colbert Report and Fox News for his anti-feminist lawsuits (challenging ladies' night discounts, women's studies courses at Columbia, VAWA, the male-only draft)
 - **Political connections:** Trump volunteer/donor; filed a RICO suit against media outlets for "negative coverage" of Trump
@@ -63,7 +63,7 @@ The timing raises questions that the official narrative does not adequately answ
 
 2. **Broader Epstein timeline:** [Ghislaine Maxwell](Ghislaine_Maxwell.md) was arrested on **July 2, 2020** — just 17 days before the Salas attack. The Epstein network was under maximum legal pressure at precisely this moment.
 
-3. **Den Hollander's intelligence background:** He worked for **[Kroll Associates](../other/groups/kroll_associates.md)**, known as the "[CIA](../other/groups/cia.md) of Wall Street." Kroll frequently hired former CIA, FBI, MI6, and [Mossad](../other/groups/mossad.md) officers. French intelligence agencies alleged Kroll was an actual CIA front. Critically, **Kroll had direct business ties to Deutsche Bank** — the very institution in the case Salas had just been assigned.
+3. **Den Hollander's intelligence background:** He worked for **[Kroll Associates](./other/groups/kroll_associates.md)**, known as the "[CIA](./other/groups/cia.md) of Wall Street." Kroll frequently hired former CIA, FBI, MI6, and [Mossad](./other/groups/mossad.md) officers. French intelligence agencies alleged Kroll was an actual CIA front. Critically, **Kroll had direct business ties to Deutsche Bank** — the very institution in the case Salas had just been assigned.
 
 4. **The Russia connection:** Kremlin speech in 1993. Years working intelligence in Russia. Marriage to a Russian model he accused of organized crime ties. This is not the profile of a simple "angry loner."
 
@@ -115,7 +115,7 @@ The Salas attack became one of the most viral Epstein-adjacent stories on social
 
 - **Tim Dillon** (July 20, 2020) — 25,000+ likes, 8,000+ reposts, 2,600+ quotes, 500+ replies: *"Judge Salas was assigned 4 days ago to unravel all of the money laundering in the Epstein case. Hundreds of millions worth with banks, suspects, whole black book. Yesterday a gunman shows up at her house, shoots her husband, kills her son, and escapes without going into house."* This single post became the seed for most conspiracy threads and is still quoted verbatim in 2025–2026 Epstein-file discussions.
 
-- **@JMFDSJ** (July 20, 2020) — 1,700 likes, 763 reposts: *"Does anyone else find this somewhat suspicious….. Judge Esther Salas assigned to Epstein Deutsche Bank case 4 days before husband, son shot"*
+- **@JMFDSJ** (July 20, 2020) — 1,700 likes, 763 reposts: *"Does anyone else find this somewhat suspicious…. Judge Esther Salas assigned to Epstein Deutsche Bank case 4 days before husband, son shot"*
 
 - **@laurarichards99** (crime analyst): *"This is deeply troubling: Judge Esther Salas, who is presiding over Epstein/Deutsche Bank lawsuit, son Daniel Anderl, was shot dead…"* — 861 likes, 667 reposts
 
@@ -173,12 +173,18 @@ The platform treats the Salas attack as one of the strongest pieces of circumsta
 
 ## Related Groups
 
-- [Deutsche Bank](../other/groups/deutsche_bank.md) — His mother was assigned the Epstein-Deutsche Bank case four days before his murder
-- [Kroll Associates](../other/groups/kroll_associates.md) — The gunman Roy Den Hollander worked at Kroll's Moscow office (1999–2000)
+- [Deutsche Bank](./other/groups/deutsche_bank.md) — His mother was assigned the Epstein-Deutsche Bank case four days before his murder
+- [Kroll Associates](./other/groups/kroll_associates.md) — The gunman Roy Den Hollander worked at Kroll's Moscow office (1999–2000)
 
 ## Related Locations
 
-- [New Jersey](../other/locations/new_jersey.md) — Shot dead at family home in North Brunswick Township, New Jersey
+- [New Jersey](./other/locations/new_jersey.md) — Shot dead at family home in North Brunswick Township, New Jersey
+## Other Shocking Stories
+
+- [Monica Petersen](Monica_Petersen.md): Trafficking researcher in Haiti. Dead at 32. Ruled suicide. Her colleagues publicly disputed the finding.
+- [Richard C. Curtiss](Richard_C_Curtiss.md): Epstein's fellow inmate says he was murdered. Described disabled cameras and a goon squad. Received death threats.
+- [Anastasia Drozdova](Anastasia_Drozdova.md): Her friend Korshunova fell from a building.
+- [Efrain "Stone" Reyes](Efrain_Stone_Reyes.md): Epstein's cellmate who knew what happened that night. Talked to investigators. Dead within months.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Hassan Nasrallah
 Secretary-General of Hezbollah for over three decades, killed by a massive Israeli airstrike on his underground headquarters in Beirut.
@@ -53,7 +53,13 @@ Hassan Nasrallah was born on 31 August 1960 in Bourj Hammoud, an eastern suburb 
 - [Abdel Aziz al-Rantisi](Abdel_Aziz_al_Rantisi.md) — Hamas leader killed by Israeli airstrike, 2004
 - Abu Ali Mustafa — PFLP leader killed by Israeli missile, 2001
 
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Benazir Bhutto](Benazir_Bhutto.md): Pakistan's first female prime minister. UN found her own government failed to protect her from assassination.
+- [Wadie Haddad](Wadie_Haddad.md): Mossad allegedly laced his Belgian chocolate with a biological agent. Doctors diagnosed 'leukemia.'
+- [Philip Marshall](Philip_Marshall.md): Former CIA pilot writing about Saudi-9/11 connections found dead alongside his two children.
+- [Dag Hammarskjold](Dag_Hammarskjold.md): UN Secretary-General's plane crashed in Africa.
 
 ## Sources
 

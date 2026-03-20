@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Ali Hassan Salameh
 PLO intelligence chief and Black September operations commander killed by a Mossad car bomb in Beirut in 1979, as the final target of Operation Wrath of God. He was simultaneously serving as a CIA asset and back-channel to the PLO.
@@ -58,8 +58,14 @@ Salameh was the son of Sheikh Hassan Salameh, a Palestinian nationalist leader k
 - [Fathi Shaqaqi](Fathi_Shaqaqi.md) — Palestinian Islamic Jihad leader assassinated by Mossad in Malta (1995)
 - [Gerald Bull](Gerald_Bull.md) — Weapons designer killed in operation widely attributed to Mossad (1990)
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Park Chung-hee](Park_Chung_hee.md): South Korea's president shot dead by his own intelligence chief at a private dinner.
+- [Nikolai Glushkov](Nikolai_Glushkov.md): Strangled in his London home and staged to look like suicide. One week after the Skripal Novichok attack.
+- [Anna Politkovskaya](Anna_Politkovskaya.md): Shot dead in her apartment elevator on Putin's birthday. She had been documenting Chechen war crimes for years.
+- [Orlando Letelier](Orlando_Letelier.md): Chilean diplomat killed by a car bomb on Embassy Row in Washington, DC. CIA knew Pinochet ordered it.
 
 ## Sources
 

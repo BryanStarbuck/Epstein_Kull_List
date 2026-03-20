@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Alexei Navalny
 Russian opposition leader and anti-corruption activist who survived a Novichok poisoning in 2020, then died in an Arctic penal colony in 2024 — confirmed poisoned with epibatidine.
@@ -85,6 +85,12 @@ He was held in increasingly harsh conditions, ultimately being transferred to th
 - [Boris Nemtsov](Boris_Nemtsov.md) — Russian opposition leader shot near Kremlin, 2015
 - [Anna Politkovskaya](Anna_Politkovskaya.md) — Journalist critical of Putin, murdered 2006
 - [Sergei Magnitsky](Sergei_Magnitsky.md) — Whistleblower who died in Russian prison, 2009
+## Other Shocking Stories
+
+- [Salvador Allende](Salvador_Allende.md): Chile's elected president died in a CIA-backed coup. Pinochet took power. The killing never stopped.
+- [Benazir Bhutto](Benazir_Bhutto.md): Pakistan's first female prime minister. UN found her own government failed to protect her from assassination.
+- [Hassan Nasrallah](Hassan_Nasrallah.md): Led Hezbollah for 32 years. Israel buried him under Beirut with a single massive airstrike.
+- [Paul Wellstone](Paul_Wellstone.md): The Senate's loudest Iraq War opponent died in a plane crash eleven days before his election.
 
 ## Sources
 

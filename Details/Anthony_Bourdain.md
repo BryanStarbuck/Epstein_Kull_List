@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Anthony Bourdain
 Celebrity chef and vocal abuse advocate, found hanged in France with no warning signs.
@@ -47,8 +47,14 @@ The claimed involvement with "The Silent Children" documentary has not been veri
 > "Tony had been in a dark mood these past couple of days."
 > -- Eric Ripert to Gladys Bourdain, [Euronews: Anthony Bourdain's mother speaks out about his tragic death](https://www.euronews.com/culture/2018/06/11/anthony-bourdain-s-mother-remembers-him-feisty-talented-t130641)
 
-> "His suicide appeared to be an impulsive act... Toxicology results were negative for narcotics."
+> "His suicide appeared to be an impulsive act.. Toxicology results were negative for narcotics."
 > -- French prosecutor Christian de Rocquigny du Fayel, [Fortune: Anthony Bourdain's Toxicology Report Shows No Narcotics in His System](https://fortune.com/2018/06/25/anthony-bourdain-toxicology-report/)
+## Other Shocking Stories
+
+- [Val Broeksmit](Val_Broeksmit.md): His father hanged. He became an FBI informant on Deutsche Bank.
+- [Matthew Perry](Matthew_Perry.md): His death exposed an elite ketamine supply network. Five charged including a doctor dubbed the Ketamine Queen.
+- [Monica Petersen](Monica_Petersen.md): Trafficking researcher in Haiti. Dead at 32. Ruled suicide. Her colleagues publicly disputed the finding.
+- [Steven Silks](Steven_Silks.md): NYPD deputy chief who allegedly viewed the Weiner laptop evidence. First of four officer suicides in 22 days.
 
 ## Sources
 - French authorities' investigation report

@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Yuri Shchekochikhin
 Russian investigative journalist who died of a mysterious illness consistent with thallium poisoning, days before flying to the US to meet FBI investigators.
@@ -73,6 +73,12 @@ At the time of his death, he was investigating the Tri Kita case and was prepari
 - [Sergei Yushenkov](Sergei_Yushenkov.md) — Politician investigating apartment bombings, murdered 2003
 
 - [Vladimir Kara-Murza](Vladimir_Kara_Murza.md) — opposition figure also suspected of poisoning
+## Other Shocking Stories
+
+- [Sakine Cansiz](Sakine_Cansiz.md): PKK co-founder shot execution-style in Paris alongside two other Kurdish women. Turkish intelligence suspected.
+- [Paul Klebnikov](Paul_Klebnikov.md): First American journalist murdered in Russia. Founded Forbes Russia. His suspects were acquitted.
+- [Wadie Haddad](Wadie_Haddad.md): Mossad allegedly laced his Belgian chocolate with a biological agent. Doctors diagnosed 'leukemia.'
+- [Sergei Skripal and Dawn Sturgess](Sergei_Skripal.md): Novichok nerve agent smeared on his door handle in England. UK inquiry confirmed Putin ordered the attack.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Deborah Jeane Palfrey
 "DC Madam" who ran elite escort service exposing powerful clients, found hanged in Florida after conviction.
@@ -51,7 +51,7 @@ Her death is relevant to the broader pattern because it demonstrates what can ha
 
 ## Key Quotes from Media Coverage
 
-> "I don't want to be like her. I don't want to end up like her... I'd never want my life to end in suicide."
+> "I don't want to be like her. I don't want to end up like her.. I'd never want my life to end in suicide."
 >
 > — Deborah Jeane Palfrey, in a May 2007 interview with Carol Joynt, referencing her former employee Brandy Britton's hanging death ([Washington Examiner: Eerie Flashback -- DC Madam said 'I'd never want my life to end in suicide'](https://www.washingtonexaminer.com/sports/386522/eerie-flashback-dc-madam-said-id-never-want-my-life-to-end-in-suicide/))
 
@@ -65,14 +65,20 @@ Her death is relevant to the broader pattern because it demonstrates what can ha
 
 ## Related Groups
 
-- [DC Madam Operation](../other/groups/dc_madam.md) — Palfrey's escort service and the broader pattern of DC elite sex operations
-- [Craig Spence Operation](../other/groups/craig_spence.md) — Another DC-area political sex operation from the 1980s
-- [Franklin Scandal](../other/groups/franklin_scandal.md) — Earlier DC-connected child trafficking ring
+- [DC Madam Operation](./other/groups/dc_madam.md) — Palfrey's escort service and the broader pattern of DC elite sex operations
+- [Craig Spence Operation](./other/groups/craig_spence.md) — Another DC-area political sex operation from the 1980s
+- [Franklin Scandal](./other/groups/franklin_scandal.md) — Earlier DC-connected child trafficking ring
 
 ## Related Locations
 
-- [South Florida](../other/locations/south_florida.md) — Found hanged at her mother's mobile home in Tarpon Springs, Florida
-- [Washington DC Area](../other/locations/washington_dc.md) — Operated Pamela Martin and Associates escort service serving Washington DC power brokers
+- [South Florida](./other/locations/south_florida.md) — Found hanged at her mother's mobile home in Tarpon Springs, Florida
+- [Washington DC Area](./other/locations/washington_dc.md) — Operated Pamela Martin and Associates escort service serving Washington DC power brokers
+## Other Shocking Stories
+
+- [Monica Petersen](Monica_Petersen.md): Trafficking researcher in Haiti. Dead at 32. Ruled suicide. Her colleagues publicly disputed the finding.
+- [Steve Bing](Steve_Bing.md): Clinton mega-donor named in the Epstein files. Fell from the 27th floor of his Los Angeles apartment building.
+- [John Deroo](John_Deroo.md): Shot six times in the face.
+- [Robert Maxwell](Robert_Maxwell.md): Ghislaine's father. Alleged Mossad super-spy. Fell from his yacht. Six intelligence services attended the funeral.
 
 ## Sources
 

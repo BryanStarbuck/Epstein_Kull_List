@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Nancy Schaefer
 Georgia state senator and whistleblower who published a landmark report exposing CPS corruption and child trafficking; found shot dead alongside her husband in a ruling of murder-suicide that friends, colleagues, and investigators have disputed.
@@ -88,7 +88,7 @@ According to multiple accounts from friends and colleagues, the Schaefers were r
 
 - **Financial problems as motive may be overstated.** While the Schaefers were indeed facing foreclosure and credit card debt during the 2008-2010 economic downturn, critics have noted that the suicide notes provide "little or no information on the Schaefers' assets and income" and that financial difficulties during the Great Recession affected millions of Americans without resulting in murder-suicide.
 
-- **Pattern of whistleblower deaths.** Schaefer's death fits a documented pattern of politicians and investigators who pursued child trafficking or CPS corruption dying under disputed circumstances. [Linda Collins-Smith](Linda_Collins_Smith.md), an Arkansas state senator investigating DHS/CPS corruption, was stabbed to death in 2019. [Philip Haney](Philip_Haney.md), a DHS whistleblower on trafficking, was found shot dead in 2020 in a ruling of suicide his family disputes. [Gary Caradori](Gary_Caradori.md), the lead investigator of the [Franklin](../other/groups/franklin_scandal.md) child abuse scandal, died in 1990 when his plane disintegrated mid-air.
+- **Pattern of whistleblower deaths.** Schaefer's death fits a documented pattern of politicians and investigators who pursued child trafficking or CPS corruption dying under disputed circumstances. [Linda Collins-Smith](Linda_Collins_Smith.md), an Arkansas state senator investigating DHS/CPS corruption, was stabbed to death in 2019. [Philip Haney](Philip_Haney.md), a DHS whistleblower on trafficking, was found shot dead in 2020 in a ruling of suicide his family disputes. [Gary Caradori](Gary_Caradori.md), the lead investigator of the [Franklin](./other/groups/franklin_scandal.md) child abuse scandal, died in 1990 when his plane disintegrated mid-air.
 
 - **Garland Favorito's investigation.** Garland Favorito, founder of VoterGA (Voters Organized for Trusted Election Results in Georgia), who knew Schaefer personally, circulated an 11-point bulletin stating it was "more obvious" that the case was "a murder made to look like suicide." His analysis raised questions about the weapon's provenance, the lack of forensic verification of the notes, and the overall thoroughness of the investigation.
 
@@ -117,8 +117,14 @@ According to multiple accounts from friends and colleagues, the Schaefers were r
 - [Philip Haney](Philip_Haney.md) — DHS whistleblower on trafficking, shot dead in 2020, ruled suicide
 - [Ted Gunderson](Ted_Gunderson.md) — Former FBI SAC who investigated Franklin scandal and elite blackmail networks
 - [Gary Caradori](Gary_Caradori.md) — Franklin scandal investigator whose plane disintegrated mid-air in 1990
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "[DC Madam](../other/groups/dc_madam.md)" who said she'd never hang herself, found hanged
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "[DC Madam](./other/groups/dc_madam.md)" who said she'd never hang herself, found hanged
 - [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.md) — Mexican woman who accused elites on camera, never seen again
+## Other Shocking Stories
+
+- [Steve Bing](Steve_Bing.md): Clinton mega-donor named in the Epstein files. Fell from the 27th floor of his Los Angeles apartment building.
+- [Alfredo Rodriguez](Alfredo_Rodriguez.md): Had Epstein's black book listing every victim and client. Tried to sell it. Died of cancer in custody.
+- [Anastasia Drozdova](Anastasia_Drozdova.md): Her friend Korshunova fell from a building.
+- [Tracy Twyman](Tracy_Twyman.md): Picked up the dead man's research on elite pedophilia. Left a dead man's switch.
 
 ## Sources
 

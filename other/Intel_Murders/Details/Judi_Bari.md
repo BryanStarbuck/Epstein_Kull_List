@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Judi Bari
 Earth First! organizer who survived a car bombing in Oakland in 1990, was falsely accused by the FBI of carrying her own bomb, and later died of cancer in 1997. A federal jury awarded $4.4 million after finding FBI and Oakland Police violated her civil rights.
@@ -59,6 +59,12 @@ Bari was notable for steering Earth First! away from tree-spiking and toward non
 ## See Also
 
 - [Fred Hampton](Fred_Hampton.md) — Another activist targeted and killed by FBI COINTELPRO operations
+## Other Shocking Stories
+
+- [Alexander Perepilichnyy](Alexander_Perepilichnyy.md): Helped expose Russia's $230 million fraud. Dropped dead jogging outside his Surrey home. Insurers suspected poisoning.
+- [Galina Starovoitova](Galina_Starovoitova.md): Russian liberal lawmaker gunned down in her apartment lobby. She championed human rights Putin wanted silenced.
+- [Rafik Hariri](Rafik_Hariri.md): Lebanon's prime minister killed by a massive car bomb. UN tribunal convicted a Hezbollah operative.
+- [Darioush Rezaeinejad](Darioush_Rezaeinejad.md): Iranian engineer shot five times in front of his wife and child. Part of a systematic assassination campaign.
 
 ## Sources
 

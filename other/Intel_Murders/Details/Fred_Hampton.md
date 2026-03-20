@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Fred Hampton
 Chairman of the Illinois Black Panther Party, assassinated in his bed during a pre-dawn FBI-coordinated police raid. He was 21 years old.
@@ -77,7 +77,13 @@ Hampton organized free breakfast programs for children, free medical clinics, an
 - [Mark Clark](Mark_Clark.md) — Black Panther leader killed alongside Hampton in the same raid
 - [Pat Tillman](Pat_Tillman.md) — killed by own forces with subsequent cover-up
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Maxim Kuzminov](Maxim_Kuzminov.md): Russian pilot defected to Ukraine. Found shot dead in Spain with Russian ammunition. SVR called him 'traitor.'
+- [Pavel Sheremet](Pavel_Sheremet.md): Started his car in Kyiv and it exploded. One of Europe's most prominent unsolved journalist killings.
+- [Philip Haney](Philip_Haney.md): DHS whistleblower on terrorism found shot dead. Family says it was not suicide.
+- [Fernando Pereira](Fernando_Pereira.md): Photographer drowned when French intelligence bombed the Rainbow Warrior in a New Zealand harbor. France admitted it.
 
 ## Sources
 

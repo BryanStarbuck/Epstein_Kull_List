@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Rafik Hariri
 Former Prime Minister of Lebanon, assassinated along with 21 others by a massive car bomb in Beirut in 2005, triggering the Cedar Revolution and Syria's withdrawal from Lebanon.
@@ -49,7 +49,7 @@ Rafik Hariri was a self-made billionaire who made his fortune in construction in
 
 ## Key Quotes
 
-> "Hariri's assassination was the result of a conspiracy. The conspiracy involved the preparation of a large explosive device and its detonation... as Prime Minister Hariri's motorcade passed." — UN Special Tribunal for Lebanon ruling, August 2020
+> "Hariri's assassination was the result of a conspiracy. The conspiracy involved the preparation of a large explosive device and its detonation.. as Prime Minister Hariri's motorcade passed." — UN Special Tribunal for Lebanon ruling, August 2020
 
 > "I will break Lebanon over your head and Walid Jumblatt's." — Statement reportedly made by Syrian President Bashar al-Assad to Hariri, according to multiple Lebanese sources, as reported by the Atlantic Council
 
@@ -58,6 +58,12 @@ Rafik Hariri was a self-made billionaire who made his fortune in construction in
 - [Pierre Gemayel](Pierre_Gemayel.md) — Lebanese anti-Syrian politician assassinated in 2006
 - [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md) — Journalist killed by car bomb
 - [Benazir Bhutto](Benazir_Bhutto.md) — Pakistani PM assassinated in a bombing and shooting attack
+## Other Shocking Stories
+
+- [Michael Hastings](Michael_Hastings.md): Investigating CIA Director Brennan. His car exploded at 4 a.m. Richard Clarke said it looked like a cyberattack.
+- [Imad Mughniyeh](Imad_Mughniyeh.md): The world's most wanted terrorist. CIA and Mossad finally killed him with a car bomb in Damascus.
+- [Sakine Cansiz](Sakine_Cansiz.md): PKK co-founder shot execution-style in Paris alongside two other Kurdish women. Turkish intelligence suspected.
+- [Paul Klebnikov](Paul_Klebnikov.md): First American journalist murdered in Russia. Founded Forbes Russia. His suspects were acquitted.
 
 ## Sources
 

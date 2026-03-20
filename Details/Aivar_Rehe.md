@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Aivar Rehe
 
@@ -42,7 +42,7 @@ Rehe's death fits a pattern of banking executives connected to money laundering 
 
 ## Key Quotes from Media Coverage
 
-> "You've got to be careful... The very nature of the people who want to launder money probably means that they're not the sort that you want to go down to the pub and have a pint with."
+> "You've got to be careful.. The very nature of the people who want to launder money probably means that they're not the sort that you want to go down to the pub and have a pint with."
 > — Howard Wilkinson, Danske Bank whistleblower ([WhoWhatWhy: Death of a Banker](https://whowhatwhy.org/2019/11/27/death-of-a-banker-did-laundered-russian-billions-play-a-role/))
 
 > "There have been credible threats in recent months to his life."
@@ -56,13 +56,19 @@ Rehe's death fits a pattern of banking executives connected to money laundering 
 
 ## Related Groups
 
-- [Deutsche Bank](../other/groups/deutsche_bank.md) — Danske Bank exec connected to the broader banking scandal pattern
+- [Deutsche Bank](./other/groups/deutsche_bank.md) — Danske Bank exec connected to the broader banking scandal pattern
 
 ## See Also
 
 - [William Broeksmit](William_Broeksmit.md) — Deutsche Bank senior exec, hanged 2014
 - [Thomas Bowers](Thomas_Bowers.md) — Deutsche Bank wealth management, hanged 2019
 - [Val Broeksmit](Val_Broeksmit.md) — Deutsche Bank whistleblower, found dead 2022
+## Other Shocking Stories
+
+- [Marjorie Dyer](Marjorie_Dyer.md): Co-signed Yassenoff's will with the man suspected of killing him. Died in a car accident.
+- [Thorbjorn Jagland](Thorbjorn_Jagland.md): Former Norwegian Prime Minister. Charged with corruption over Epstein ties. Hospitalized after suicide attempt.
+- [Austin Tucker Martin](Austin_Tucker_Martin.md): Armed 21-year-old breached Mar-a-Lago fixated on Epstein files. Shot dead by Secret Service on the property.
+- [Val Broeksmit](Val_Broeksmit.md): His father hanged. He became an FBI informant on Deutsche Bank.
 
 ## Sources
 

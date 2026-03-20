@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Alexander Zakharchenko
 Pro-Russian separatist leader of the Donetsk People's Republic, killed by a bomb planted in a cafe he frequented in Donetsk in 2018.
@@ -58,6 +58,12 @@ Zakharchenko was born in Donetsk and worked as a mine electrician before enterin
 - [Yevgeny Prigozhin](Yevgeny_Prigozhin.md) — Russian paramilitary leader killed in suspicious plane crash
 - [Boris Nemtsov](Boris_Nemtsov.md) — Russian opposition politician assassinated near the Kremlin
 - [Alexei Navalny](Alexei_Navalny.md) — Russian opposition leader who died in custody
+## Other Shocking Stories
+
+- [Serena Shim](Serena_Shim.md): Reported ISIS using UN food trucks. Turkish intelligence accused her of espionage.
+- [Marine Vlahovic](Marine_Vlahovic.md): French journalist found dead on a Marseille rooftop while filming a documentary on Israel's war in Gaza.
+- [Humberto Delgado](Humberto_Delgado.md): Portuguese opposition leader lured to the Spanish border by secret police and murdered. Body hidden for two years.
+- [Boris Nemtsov](Boris_Nemtsov.md): Shot four times on a bridge within sight of the Kremlin.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Gabriela Rico Jimenez
 Mexican woman who publicly accused elites of cannibalism and murder outside a Monterrey hotel in 2009; detained by police, sent to psychiatric facility, and never seen again.
@@ -127,7 +127,7 @@ Jiménez fits a documented pattern of individuals who publicly accused powerful 
 
 - **[Karen Mulder](Karen_Mulder.md)** — Named [Jean-Luc Brunel](Jean_Luc_Brunel.md) and modeling industry rapists on French TV in 2001. Footage destroyed. Hospitalized for five months. Career ended. (Brunel wasn't arrested for 19 more years.)
 - **[Isaac Kappy](Isaac_Kappy.md)** — Named Hollywood pedophiles publicly. Said "if I die, it wasn't suicide." Fell from bridge (2019).
-- **[Nikolai Mushegian](Nikolai_Mushegian.md)** — Tweeted about [CIA](../other/groups/cia.md)/[Mossad](../other/groups/mossad.md) sex trafficking ring in Puerto Rico. Drowned four hours later (2022).
+- **[Nikolai Mushegian](Nikolai_Mushegian.md)** — Tweeted about [CIA](./other/groups/cia.md)/[Mossad](./other/groups/mossad.md) sex trafficking ring in Puerto Rico. Drowned four hours later (2022).
 - **[Tracy Twyman](Tracy_Twyman.md)** — Researcher who warned about elite trafficking. Left dead man's switch. Found hanged (2019).
 - **[Max Spiers](Max_Spiers.md)** — Told mother "if anything happens to me, investigate." Found dead in Poland (2016).
 
@@ -176,6 +176,12 @@ Her case resurfaced in public attention not because of a documented Epstein conn
 - [Tracy Twyman](Tracy_Twyman.md) — Researcher who warned about elite trafficking; found hanged
 - [Ruslana Korshunova](Ruslana_Korshunova.md) — Model connected to Epstein who fell from building
 - [Nadia Marcinko](Nadia_Marcinko.md) — Epstein associate, missing since January 2024
+## Other Shocking Stories
+
+- [Isaac Kappy](Isaac_Kappy.md): Said on camera: 'If I die, it wasn't suicide.' Two months later, fell from a bridge in Arizona.
+- [Joe Recarey](Joe_Recarey.md): Lead detective on the original Epstein case. Died unexpectedly at 50 of a brief unspecified illness.
+- [Nancy Schaefer](Nancy_Schaefer.md): State senator exposing child trafficking through CPS. Shot in the back with an untraceable gun no family recognized.
+- [Corey Haim](Corey_Haim.md): Allegedly raped on a film set at age 13. Spent 25 years in addiction. Dead at 38.
 
 ## Sources
 

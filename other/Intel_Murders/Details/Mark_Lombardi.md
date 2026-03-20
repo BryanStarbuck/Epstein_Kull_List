@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Mark Lombardi
 Neo-conceptual artist whose intricate diagrams mapped BCCI, Iran-Contra, and intelligence financial networks, found hanged in his New York apartment in 2000. FBI visited the Whitney Museum after 9/11 to study his work.
@@ -59,7 +59,13 @@ His drawings documented the Bank of Credit and Commerce International (BCCI), th
 - [Danny Casolaro](Danny_Casolaro.md) — investigated overlapping intelligence financial networks (BCCI, PROMIS)
 - [Roberto Calvi](Roberto_Calvi.md) — banker connected to intelligence-linked financial networks
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Nikolai Glushkov](Nikolai_Glushkov.md): Strangled in his London home and staged to look like suicide. One week after the Skripal Novichok attack.
+- [Zelimkhan Khangoshvili](Zelimkhan_Khangoshvili.md): Chechen dissident shot in a Berlin park by a confirmed Russian intelligence agent. Germany expelled diplomats.
+- [Rene Schneider](Rene_Schneider.md): Chilean army commander shot during a CIA-backed kidnapping to stop Allende from taking office.
+- [Hussein al-Bashir](Hussein_al_Bashir.md): Mossad detonated a bomb under his hotel bed in Cyprus. He never woke up. Operation Wrath of God.
 
 ## Sources
 

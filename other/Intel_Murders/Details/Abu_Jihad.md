@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Abu Jihad (Khalil al-Wazir)
 PLO co-founder and military commander assassinated by Israeli naval commandos at his home in Tunis.
@@ -55,7 +55,13 @@ Khalil Ibrahim al-Wazir, universally known by his nom de guerre Abu Jihad, was b
 - [Atef Bseiso](Atef_Bseiso.md) — PLO intelligence chief killed in Paris, 1992
 - [Hassan Nasrallah](Hassan_Nasrallah.md) — Hezbollah leader killed by Israeli airstrike, 2024
 
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Leyla Saylemez](Leyla_Saylemez.md): Youngest of three Kurdish women shot execution-style in Paris. Turkish intelligence suspected. She was 25.
+- [Paul Klebnikov](Paul_Klebnikov.md): First American journalist murdered in Russia. Founded Forbes Russia. His suspects were acquitted.
+- [David Kelly](David_Kelly.md): UK weapons inspector who challenged the Iraq WMD lie. Almost no blood at the scene.
+- [Milton William "Bill" Cooper](Bill_Cooper.md): Predicted a major false-flag attack on radio in June 2001. Shot dead by police two months after 9/11.
 
 ## Sources
 

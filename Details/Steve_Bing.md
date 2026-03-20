@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Steve Bing
 Major Clinton donor named in Epstein files, fell from 27th floor with documented depression.
@@ -82,6 +82,12 @@ By the time of his death, his liquid estate had reportedly dwindled from $600 mi
 - [Ruslana Korshunova](Ruslana_Korshunova.md) — Also died from building fall
 - [Wendy Leigh](Wendy_Leigh.md) — Also fell from building
 - [Mark Middleton](Mark_Middleton.md) — Also Clinton associate
+## Other Shocking Stories
+
+- [Gary Caradori](Gary_Caradori.md): His plane disintegrated mid-air carrying evidence of elite child trafficking. Briefcase of photos never recovered.
+- [Chris Cornell](Chris_Cornell.md): Funding a child trafficking documentary. Found hanged in his hotel room. Wife says it was not suicide.
+- [Austin Tucker Martin](Austin_Tucker_Martin.md): Armed 21-year-old breached Mar-a-Lago fixated on Epstein files. Shot dead by Secret Service on the property.
+- [Michael Jackson](Michael_Jackson.md): Visited Epstein's mansion. Died of drug intoxication administered by his own doctor. Convicted of manslaughter.
 
 ## Sources
 

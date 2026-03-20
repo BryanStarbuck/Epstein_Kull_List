@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Fidan Doğan
 Kurdish activist and representative of the Kurdistan National Congress in France, shot execution-style in Paris in January 2013 alongside two other Kurdish women. French investigators concluded Turkish intelligence (MIT) was involved.
@@ -56,6 +56,12 @@ Fidan Doğan worked at the Kurdistan Information Center in Paris and also served
 - [Sakine Cansiz](Sakine_Cansiz.md) — PKK co-founder murdered alongside Doğan in Paris
 - [Leyla Saylemez](Leyla_Saylemez.md) — Kurdish youth activist, third victim of the Paris triple assassination
 - [Zelimkhan Khangoshvili](Zelimkhan_Khangoshvili.md) — Chechen dissident assassinated in Berlin by Russian intelligence, 2019
+## Other Shocking Stories
+
+- [Zelimkhan Khangoshvili](Zelimkhan_Khangoshvili.md): Chechen dissident shot in a Berlin park by a confirmed Russian intelligence agent. Germany expelled diplomats.
+- [Roman Tsepov](Roman_Tsepov.md): Putin's former personal security chief died of radioactive poisoning two years before they did it to Litvinenko.
+- [Boris Nemtsov](Boris_Nemtsov.md): Shot four times on a bridge within sight of the Kremlin.
+- [Wael Zwaiter](Wael_Zwaiter.md): Palestinian intellectual shot twelve times in Rome. First kill in Mossad's post-Munich revenge campaign. Possibly wrong man.
 
 ## Sources
 

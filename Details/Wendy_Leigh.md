@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Wendy Leigh
 Biographer who claimed to be investigating Epstein, found beneath London balcony; manner undetermined.
@@ -36,7 +36,7 @@ Leigh was a British-American best-selling celebrity biographer. She authored una
 - On her mother's death: "She really was struggling with that. She was so upbeat and optimistic though, you never really understood what she was going through."
 
 **Ex-husband Steve Karten** (married 19 years):
-- *"I can't state emphatically enough how I don't understand how she could possibly commit suicide... I'm devastated."*
+- *"I can't state emphatically enough how I don't understand how she could possibly commit suicide.. I'm devastated."*
 
 ## The Epstein Connection — Critical Assessment
 
@@ -44,7 +44,7 @@ Leigh was a British-American best-selling celebrity biographer. She authored una
 
 **What is NOT documented:** No contemporaneous 2016 news report mentions any Epstein book project or investigation by Leigh. No publisher, agent, or colleague statement from 2016 references Epstein. No manuscript, book deal, or reporting on an Epstein-related project appears in any source. The Epstein connection appears to originate from post-2019 retrospective conspiracy coverage, not from contemporaneous reporting.
 
-**Context:** Leigh's mother, Marion, died in December 2015 at age 88, approximately five months before Wendy's death. Leigh posted on Facebook: *"Five months today since my mother Marion died. I wish I could say it gets easier, but the truth is quite the reverse..."* She had also shared an article about depression on Twitter shortly before her death.
+**Context:** Leigh's mother, Marion, died in December 2015 at age 88, approximately five months before Wendy's death. Leigh posted on Facebook: *"Five months today since my mother Marion died. I wish I could say it gets easier, but the truth is quite the reverse.."* She had also shared an article about depression on Twitter shortly before her death.
 
 ## Why This Death Possibly Raises Questions
 
@@ -57,16 +57,16 @@ Leigh was a British-American best-selling celebrity biographer. She authored una
 
 ## Key Quotes from Media Coverage
 
-> "I can't state emphatically enough how I don't understand how she could possibly commit suicide... I'm devastated."
+> "I can't state emphatically enough how I don't understand how she could possibly commit suicide.. I'm devastated."
 > — **Steve Karten**, Wendy Leigh's ex-husband of 19 years ([Inside Edition](https://www.insideedition.com/16748-best-selling-celebrity-biographer-wendy-leigh-dead-in-possible-suicide-after-fall-from-balcony))
 
-> "She was an eternally optimistic and upbeat person... always up for an adventure."
+> "She was an eternally optimistic and upbeat person.. always up for an adventure."
 > — **Dan Strone**, Leigh's literary agent at Trident Media Group ([Seattle Times](https://www.seattletimes.com/nation-world/celebrity-biographer-wendy-leigh-dies-in-london-at-age-65/))
 
 > "She moved on from sex manuals to write a series of celebrity biographies, most of which antagonized her subjects. But they were always scrupulously researched and full of interesting psychological insights."
 > — **Roy Greenslade**, journalist and 30-year friend ([Boston Herald](https://www.bostonherald.com/2016/06/05/wendy-leigh-at-65-celebrity-biographer/))
 
-> "Five months today since my mother Marion died. I wish I could say it gets easier, but the truth is quite the reverse..."
+> "Five months today since my mother Marion died. I wish I could say it gets easier, but the truth is quite the reverse.."
 > — **Wendy Leigh**, Facebook post on May 22, 2016, one week before her death ([Legacy.com](https://www.legacy.com/news/wendy-leigh-1950-2016))
 
 ## See Also
@@ -75,6 +75,12 @@ Leigh was a British-American best-selling celebrity biographer. She authored una
 - [Anastasia Drozdova](Anastasia_Drozdova.md) — Also jumped from building
 - [Steve Bing](Steve_Bing.md) — Also fell from building
 - [Jeffrey Epstein](Jeffrey_Epstein.md)
+## Other Shocking Stories
+
+- [Tracy Twyman](Tracy_Twyman.md): Picked up the dead man's research on elite pedophilia. Left a dead man's switch.
+- [Jill Dando](Jill_Dando.md): BBC presenter who compiled a dossier on a pedophile ring inside the BBC. Execution-style bullet to the head.
+- [Ronald R. Eppinger Sr.](Ronald_Eppinger.md): Allegedly the first person to traffic Virginia Giuffre to Jeffrey Epstein. Never charged. Fate unclear.
+- [Steve Bing](Steve_Bing.md): Clinton mega-donor named in the Epstein files. Fell from the 27th floor of his Los Angeles apartment building.
 
 ## Sources
 

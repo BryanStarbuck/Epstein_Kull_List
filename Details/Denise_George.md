@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Denise George
 USVI Attorney General fired days after suing JPMorgan over Epstein; told FBI she felt threatened.
@@ -73,14 +73,20 @@ Cecile de Jongh, wife of former USVI Governor John de Jongh (2007–2015), was a
 
 ## Related Groups
 
-- [USVI Government](../other/groups/usvi_government.md) — The territorial government that protected Epstein and fired George
-- [JPMorgan Chase](../other/groups/jpmorgan_chase.md) — The bank George sued, triggering her firing
+- [USVI Government](./other/groups/usvi_government.md) — The territorial government that protected Epstein and fired George
+- [JPMorgan Chase](./other/groups/jpmorgan_chase.md) — The bank George sued, triggering her firing
 
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Primary subject, owned Little St. James island in USVI
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Co-conspirator
 - [Bill Richardson](Bill_Richardson.md) — Another governor who met with Epstein after his conviction
+## Other Shocking Stories
+
+- [Sabrina Bittencourt](Sabrina_Bittencourt.md): Exposed a baby-selling operation. Died in hiding in Barcelona.
+- [Michael Caddy](Michael_Caddy.md): NYPD officer, age 29. Allegedly viewed the Weiner laptop. Suicide. Third officer dead in weeks.
+- [Ruslana Korshunova](Ruslana_Korshunova.md): Flew on Epstein's jet at 18. Two years later fell from the 9th floor.
+- [Carolyn Andriano](Carolyn_Andriano.md): Testified against Ghislaine Maxwell. Died of an overdose in a Palm Beach hotel.
 
 ## Sources
 

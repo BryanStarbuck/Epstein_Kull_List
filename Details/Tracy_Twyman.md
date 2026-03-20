@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Tracy Twyman
 Independent researcher investigating Kappy's Epstein claims, found hanged in garage two months after Kappy's death.
@@ -39,21 +39,27 @@ The "dead man's switch" video she left behind is frequently cited as evidence th
 
 ## Key Quotes from Media Coverage
 
-> "I'm going to stop using Twitter and YouTube after what happened... I've received death threats."
+> "I'm going to stop using Twitter and YouTube after what happened.. I've received death threats."
 >
 > — Tracy Twyman, [in messages before her death](https://burners.me/2019/07/10/another-pedogate-researcher-suddenly-dies-rip-tracy-twyman/) (2019)
 
-> "My heart is broken. I've just been crying. I don't know what else to say... The details surrounding her death are a convoluted mystery. Her family has requested the specifics be kept silent."
+> "My heart is broken. I've just been crying. I don't know what else to say.. The details surrounding her death are a convoluted mystery. Her family has requested the specifics be kept silent."
 >
 > — S.B. Alger (RX Only Picture Show co-host), [on learning of Twyman's death](https://burners.me/2019/07/10/another-pedogate-researcher-suddenly-dies-rip-tracy-twyman/) (July 2019)
 
-> "She sent a 'Dead Man's Switch' video with information about people who had been sending her death threats... She had been in communication with [Isaac Kappy](Isaac_Kappy.md) about threats she had received related to a campground near Williams, Arizona."
+> "She sent a 'Dead Man's Switch' video with information about people who had been sending her death threats.. She had been in communication with [Isaac Kappy](Isaac_Kappy.md) about threats she had received related to a campground near Williams, Arizona."
 >
 > — [Burners.me: Another #PedoGate Researcher Suddenly Dies: RIP Tracy Twyman](https://burners.me/2019/07/10/another-pedogate-researcher-suddenly-dies-rip-tracy-twyman/) (July 10, 2019)
 
 ## Related Groups
 
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — Continued Kappy's research into elite pedophilia
+- [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) — Continued Kappy's research into elite pedophilia
+## Other Shocking Stories
+
+- [Aaron Swartz](Aaron_Swartz.md): Built the tool that protects whistleblowers. Faced 35 years for downloading research papers. MIT took Epstein's money.
+- [William Broeksmit](William_Broeksmit.md): Senior Deutsche Bank exec who knew where Epstein's money went. Found hanged at home. Son became FBI informant.
+- [Matthew Perry](Matthew_Perry.md): His death exposed an elite ketamine supply network. Five charged including a doctor dubbed the Ketamine Queen.
+- [Stephen Hawking](Stephen_Hawking.md): The world's most famous physicist visited Epstein's island. Photographed there. Died of ALS at 76.
 
 ## Sources
 - [Burners.me: Another #PedoGate Researcher Suddenly Dies: RIP Tracy Twyman](https://burners.me/2019/07/10/another-pedogate-researcher-suddenly-dies-rip-tracy-twyman/)

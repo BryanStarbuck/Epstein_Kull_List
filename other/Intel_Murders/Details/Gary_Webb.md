@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Gary Webb
 Investigative journalist who exposed the CIA-Contra-crack cocaine connection, found dead with two gunshot wounds to the head, ruled suicide.
@@ -61,7 +61,7 @@ The series created a firestorm. Congresswoman Maxine Waters and other members of
 
 > "Managing a Nightmare: CIA Public Affairs and the Drug Conspiracy Story" — Title of an internal CIA report on how the agency handled the "Dark Alliance" fallout
 
-> "The CIA's war was run by drug traffickers... and the agency knew about it." — Gary Webb, interview, 2004
+> "The CIA's war was run by drug traffickers.. and the agency knew about it." — Gary Webb, interview, 2004
 
 > "In the end, the truth came out. But by then, Gary Webb was dead." — Nick Schou, author of *Kill the Messenger*
 
@@ -71,7 +71,13 @@ The series created a firestorm. Congresswoman Maxine Waters and other members of
 - [Danny Casolaro](Danny_Casolaro.md) — journalist investigating intelligence connections, found dead in 1991
 - [Michael Hastings](Michael_Hastings.md) — journalist investigating CIA Director, killed in car crash, 2013
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Chris Hani](Chris_Hani.md): South African Communist leader shot at home. His assassination nearly destroyed the transition to democracy.
+- [Pat Tillman](Pat_Tillman.md): Three bullets to the forehead at close range. The Pentagon called it 'friendly fire' and burned his uniform.
+- [Jan Kuciak](Jan_Kuciak.md): Shot dead at home with his fiancee for exposing mafia-government ties. Slovakia's prime minister resigned.
+- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
 
 ## Sources
 

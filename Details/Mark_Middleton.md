@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Mark Middleton
 Clinton aide who admitted Epstein to White House, found hanged and shot under sealed circumstances.
@@ -66,7 +66,7 @@ Middleton served as a Special Assistant to President Bill Clinton and as an aide
 
 ## Related Groups
 
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — Clinton aide who gave Epstein White House access
+- [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) — Clinton aide who gave Epstein White House access
 
 ## See Also — 2022 Death Cluster
 
@@ -93,7 +93,13 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 
 ## Related Locations
 
-- [Arkansas](../other/locations/arkansas.md) — Found dead at Heifer International Ranch in Perryville, Perry County, Arkansas
+- [Arkansas](./other/locations/arkansas.md) — Found dead at Heifer International Ranch in Perryville, Perry County, Arkansas
+## Other Shocking Stories
+
+- [Anne Heche](Anne_Heche.md): Starred in a child trafficking film. Weeks later, crashed her car into a house and never regained consciousness.
+- [Diana Spencer (Princess of Wales)](Diana_Spencer.md): Wrote 'my husband is planning an accident in my car.' Died in a Paris tunnel crash.
+- [Danny Casolaro](Danny_Casolaro.md): Investigating the same intel op that created Epstein's blackmail machine. Found with slashed wrists. Briefcase gone.
+- [Prince (Prince Rogers Nelson)](Prince_Rogers_Nelson.md): Music industry's fiercest critic of exploitation. Killed by counterfeit fentanyl pills. Supplier never identified.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Ngo Dinh Diem
 South Vietnamese president assassinated during a CIA-backed military coup in 1963, shot in the back of an armored personnel carrier after surrendering.
@@ -46,7 +46,7 @@ Diem was born into one of Vietnam's noble Catholic families and served as Empero
 
 ## Key Quotes
 
-> "I can not believe that Diem and Nhu committed suicide... No one could have imagined that Diem and Nhu could be treated so shabbily." — **Ambassador Henry Cabot Lodge**, upon learning of the killings
+> "I can not believe that Diem and Nhu committed suicide.. No one could have imagined that Diem and Nhu could be treated so shabbily." — **Ambassador Henry Cabot Lodge**, upon learning of the killings
 
 > "The US must bear considerable responsibility for bringing about the coup." — **Church Committee Report**, 1975
 
@@ -57,7 +57,13 @@ Diem was born into one of Vietnam's noble Catholic families and served as Empero
 - [Rene Schneider](Rene_Schneider.md) — Chilean general killed in CIA-backed operation (1970)
 - [Rafael Trujillo](Rafael_Trujillo.md) — Dominican dictator killed with CIA-supplied weapons (1961)
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Chris Hani](Chris_Hani.md): South African Communist leader shot at home. His assassination nearly destroyed the transition to democracy.
+- [Victor Jara](Victor_Jara.md): Chilean folk singer's hands were broken. Then soldiers machine-gunned him with 44 rounds in a stadium.
+- [Majid Shahriari](Majid_Shahriari.md): Motorcycle assassins attached a magnetic bomb to his car door in Tehran traffic. Fourth scientist targeted.
+- [Che Guevara](Che_Guevara.md): Captured with CIA help, then executed in a Bolivian schoolhouse. The CIA operative watched him die.
 
 ## Sources
 

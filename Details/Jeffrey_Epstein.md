@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Jeffrey Epstein
 Convicted sex trafficker found hanged in federal jail awaiting trial under deeply suspicious circumstances.
@@ -52,7 +52,7 @@ Epstein had a previous conviction in 2008 under a controversial Florida plea dea
 > "I could see if he got a life sentence, I could then see him taking himself out, but he had a bail hearing coming up."
 > — Mark Epstein, Jeffrey Epstein's brother, rejecting suicide as the cause of death, via [Newsweek](https://www.newsweek.com/jeffrey-epstein-murdered-conspiracy-theory-piers-morgan-brother-interview-1859542)
 
-> "Numerous and serious failures by MCC New York staff constituting misconduct and dereliction of their duties... resulted in Epstein being unmonitored and alone in his cell with an excessive amount of bed linens."
+> "Numerous and serious failures by MCC New York staff constituting misconduct and dereliction of their duties.. resulted in Epstein being unmonitored and alone in his cell with an excessive amount of bed linens."
 > — DOJ Office of the Inspector General, [official report](https://oig.justice.gov/reports/investigation-and-review-federal-bureau-prisons-custody-care-and-supervision-jeffrey)
 
 > "The movement is more consistent with an inmate — or someone wearing an orange prison uniform — than a corrections officer."
@@ -60,15 +60,15 @@ Epstein had a previous conviction in 2008 under a controversial Florida plea dea
 
 ## Related Groups
 
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — The core trafficking and blackmail operation
-- [Mossad](../other/groups/mossad.md) — Israeli intelligence allegedly behind the operation via the Maxwell family
-- [CIA](../other/groups/cia.md) — Acosta allegedly said Epstein "belonged to intelligence"
-- [Deutsche Bank](../other/groups/deutsche_bank.md) — Moved Epstein's money; $150M fine
-- [JPMorgan Chase](../other/groups/jpmorgan_chase.md) — Maintained accounts for 15+ years; $365M in settlements
-- [Wexner / L Brands](../other/groups/wexner_l_brands.md) — Source of Epstein's wealth and NYC townhouse
-- [Elite Model Management](../other/groups/elite_model_management.md) — Modeling agency used as trafficking pipeline
-- [MC2 Model Management](../other/groups/mc2_model_management.md) — Agency Epstein funded for Brunel
-- [USVI Government](../other/groups/usvi_government.md) — Territorial government that protected Epstein
+- [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) — The core trafficking and blackmail operation
+- [Mossad](./other/groups/mossad.md) — Israeli intelligence allegedly behind the operation via the Maxwell family
+- [CIA](./other/groups/cia.md) — Acosta allegedly said Epstein "belonged to intelligence"
+- [Deutsche Bank](./other/groups/deutsche_bank.md) — Moved Epstein's money; $150M fine
+- [JPMorgan Chase](./other/groups/jpmorgan_chase.md) — Maintained accounts for 15+ years; $365M in settlements
+- [Wexner / L Brands](./other/groups/wexner_l_brands.md) — Source of Epstein's wealth and NYC townhouse
+- [Elite Model Management](./other/groups/elite_model_management.md) — Modeling agency used as trafficking pipeline
+- [MC2 Model Management](./other/groups/mc2_model_management.md) — Agency Epstein funded for Brunel
+- [USVI Government](./other/groups/usvi_government.md) — Territorial government that protected Epstein
 
 ## See Also
 
@@ -82,14 +82,20 @@ Epstein had a previous conviction in 2008 under a controversial Florida plea dea
 - [Efrain "Stone" Reyes](Efrain_Stone_Reyes.md) — Last cellmate, transferred out one day before death
 - [Arthur Shapiro](Arthur_Shapiro.md) — Predecessor whose murder created Epstein's opening
 - [Joe Recarey](Joe_Recarey.md) — Lead detective on the original investigation
-- [Weiner Laptop Officers](../other/laptop.md) — NYPD officers who allegedly died after viewing related evidence
+- [Weiner Laptop Officers](./other/laptop.md) — NYPD officers who allegedly died after viewing related evidence
 
 ## Related Locations
 
-- [New York City Metro](../other/locations/new_york_metro.md) — Died at Metropolitan Correctional Center in Manhattan; primary base of operations
-- [South Florida](../other/locations/south_florida.md) — Palm Beach mansion where trafficking was first investigated; 2008 plea deal in Florida
-- [Caribbean](../other/locations/caribbean.md) — Owned Little St. James island in the U.S. Virgin Islands, center of trafficking operation
-- [New Mexico](../other/locations/new_mexico.md) — Owned Zorro Ranch near Stanley, New Mexico; another documented abuse location
+- [New York City Metro](./other/locations/new_york_metro.md) — Died at Metropolitan Correctional Center in Manhattan; primary base of operations
+- [South Florida](./other/locations/south_florida.md) — Palm Beach mansion where trafficking was first investigated; 2008 plea deal in Florida
+- [Caribbean](./other/locations/caribbean.md) — Owned Little St. James island in the U.S. Virgin Islands, center of trafficking operation
+- [New Mexico](./other/locations/new_mexico.md) — Owned Zorro Ranch near Stanley, New Mexico; another documented abuse location
+## Other Shocking Stories
+
+- [Val Broeksmit](Val_Broeksmit.md): His father hanged. He became an FBI informant on Deutsche Bank.
+- [Terje Rød-Larsen](Terje_Rod_Larsen.md): Norwegian diplomat. Epstein paid him $250K and willed $10 million to his children. Under criminal investigation.
+- [Johnny Rios](Johnny_Rios.md): NYPD officer. Allegedly viewed the Weiner laptop. Suicide. Six officers connected to that laptop are gone.
+- [Marc Angelucci](Marc_Angelucci.md): Shot at his front door by the same gunman who attacked Judge Salas's family eight days later.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Stanislav Markelov
 Russian human rights lawyer shot dead in broad daylight in central Moscow in 2009 alongside journalist Anastasia Baburova, minutes after leaving a press conference denouncing the early release of a convicted war criminal.
@@ -61,6 +61,12 @@ He had previously represented journalist Anna Politkovskaya and had taken on cas
 - [Boris Nemtsov](Boris_Nemtsov.md) — Russian opposition leader shot near Kremlin
 
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — Russian dissident poisoned in London
+## Other Shocking Stories
+
+- [Marine Vlahovic](Marine_Vlahovic.md): French journalist found dead on a Marseille rooftop while filming a documentary on Israel's war in Gaza.
+- [Park Chung-hee](Park_Chung_hee.md): South Korea's president shot dead by his own intelligence chief at a private dinner.
+- [Maurice Bishop](Maurice_Bishop.md): Grenada's PM executed in a coup. The US invaded days later. CIA destabilization preceded both events.
+- [Dag Hammarskjold](Dag_Hammarskjold.md): UN Secretary-General's plane crashed in Africa.
 
 ## Sources
 

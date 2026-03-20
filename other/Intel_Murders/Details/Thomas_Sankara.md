@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Thomas Sankara
 Revolutionary president of Burkina Faso assassinated in a coup led by his former ally Blaise Compaore, with alleged backing from French intelligence (DGSE).
@@ -63,6 +63,12 @@ Sankara's pan-African rhetoric, his challenges to French neo-colonial influence 
 - [Olof Palme](Olof_Palme.md) -- leader who supported African liberation, assassinated
 
 - [Che Guevara](Che_Guevara.md) — revolutionary leader Sankara admired
+## Other Shocking Stories
+
+- [Anna Politkovskaya](Anna_Politkovskaya.md): Shot dead in her apartment elevator on Putin's birthday. She had been documenting Chechen war crimes for years.
+- [Oscar Romero](Oscar_Romero.md): Archbishop shot through the heart while saying mass. US-backed death squads. UN confirmed the killers.
+- [Alexander Perepilichnyy](Alexander_Perepilichnyy.md): Helped expose Russia's $230 million fraud. Dropped dead jogging outside his Surrey home. Insurers suspected poisoning.
+- [Ismail Haniyeh](Ismail_Haniyeh.md): Hamas political chief killed by a bomb inside a Tehran guesthouse during Iran's presidential inauguration.
 
 ## Sources
 

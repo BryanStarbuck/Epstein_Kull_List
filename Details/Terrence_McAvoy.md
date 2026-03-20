@@ -1,7 +1,7 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md) | [Weiner Laptop Overview](../other/laptop.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md) | [Weiner Laptop Overview](./other/laptop.md)
 
 # Terrence McAvoy
-NYPD Sergeant who allegedly viewed [Weiner laptop](../other/laptop.md) evidence. Died one month after the June 2019 cluster.
+NYPD Sergeant who allegedly viewed [Weiner laptop](./other/laptop.md) evidence. Died one month after the June 2019 cluster.
 
 | Field | Details |
 |-------|---------|
@@ -22,7 +22,7 @@ Sergeant Terrence McAvoy died on July 27, 2019. Limited details about the specif
 
 ## Connection to Weiner Laptop
 
-McAvoy is named in online claims as one of 12 NYPD officers who allegedly viewed files on [Anthony Weiner's laptop](../other/laptop.md). These claims have not been independently verified. The FBI, not the NYPD, had formal custody of the laptop.
+McAvoy is named in online claims as one of 12 NYPD officers who allegedly viewed files on [Anthony Weiner's laptop](./other/laptop.md). These claims have not been independently verified. The FBI, not the NYPD, had formal custody of the laptop.
 
 ## Why This Death Possibly Raises Questions
 
@@ -52,6 +52,12 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 
 > "It is okay to feel vulnerable. It is okay if you are facing struggles. And it is okay to seek help from others."
 > — NYPD Commissioner James P. O'Neill ([Patch](https://patch.com/new-jersey/lacey/nypd-sergeant-former-lacey-resident-dies-suicide))
+## Other Shocking Stories
+
+- [Chester Bennington](Chester_Bennington.md): Cornell's close friend. Same cause of death. Died on Cornell's birthday. Two months apart.
+- [Austin Tucker Martin](Austin_Tucker_Martin.md): Armed 21-year-old breached Mar-a-Lago fixated on Epstein files. Shot dead by Secret Service on the property.
+- [Kate Spade](Kate_Spade.md): Hanged three days before Bourdain. Same week as Zorreguieta. Three high-profile hangings in a single week.
+- [John Deroo](John_Deroo.md): Shot six times in the face.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Avicii (Tim Bergling)
 DJ who depicted child trafficking in music, died at 28 by self-inflicted wounds in Oman.
@@ -38,7 +38,7 @@ The clustering of these deaths, combined with the alleged trafficking documentar
 
 ## Key Quotes from Media Coverage
 
-> "Our beloved Tim was a seeker, a fragile artistic soul searching for answers to existential questions. An over-achieving perfectionist who travelled and worked hard at a pace that led to extreme stress... He could not go on any longer. He wanted to find peace."
+> "Our beloved Tim was a seeker, a fragile artistic soul searching for answers to existential questions. An over-achieving perfectionist who travelled and worked hard at a pace that led to extreme stress.. He could not go on any longer. He wanted to find peace."
 > -- Bergling family statement, [Billboard: Avicii's Family Shares Heartfelt Second Statement Following DJ's Death](https://www.billboard.com/music/music-news/avicii-death-family-heartfelt-second-statement-8389218/)
 
 > "Tim was not made for the business machine he found himself in; he was a sensitive guy who loved his fans but shunned the spotlight."
@@ -46,6 +46,12 @@ The clustering of these deaths, combined with the alleged trafficking documentar
 
 > "The promise of a better life often traps families and children into being used as tools for some of the most despicable people on Earth."
 > -- Avicii, on his "For a Better Day" music video depicting child trafficking, [Billboard: Avicii Directs 'For a Better Day' and 'Pure Grinding'](https://www.billboard.com/music/music-news/avicii-directs-videos-for-a-better-day-pure-grinding-6685775/)
+## Other Shocking Stories
+
+- [Sabrina Bittencourt](Sabrina_Bittencourt.md): Exposed a baby-selling operation. Died in hiding in Barcelona.
+- [Michael Caddy](Michael_Caddy.md): NYPD officer, age 29. Allegedly viewed the Weiner laptop. Suicide. Third officer dead in weeks.
+- [Peter Mandelson](Peter_Mandelson.md): Senior UK politician arrested for leaking government secrets to Jeffrey Epstein. Accused of selling state intelligence.
+- [Vitaly Churkin](Vitaly_Churkin.md): Russian UN Ambassador. Sudden cardiac event. Cause of death withheld by State Department. Autopsy results sealed.
 
 ## Sources
 - Family statement via TMZ and BBC News (April 2018)

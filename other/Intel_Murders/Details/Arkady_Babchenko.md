@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Arkady Babchenko
 Russian war correspondent and Kremlin critic who faked his own assassination in Kyiv in 2018, in cooperation with Ukrainian security services, to expose and disrupt a genuine Russian plot to kill him.
@@ -50,7 +50,7 @@ After years of increasing threats, Babchenko left Russia in February 2017, movin
 
 > "I chose to stay alive. I know that the price that I paid for this — the price was the trust in me, the trust in journalism, the trust in the Ukrainian government." — Arkady Babchenko, TIME Person of the Year interview, 2018
 
-> "I want to apologize for what you have all had to go through... I'm sorry, but there was no other way." — Babchenko at the SBU press conference, May 30, 2018
+> "I want to apologize for what you have all had to go through.. I'm sorry, but there was no other way." — Babchenko at the SBU press conference, May 30, 2018
 
 > "I am Russian special services' target, and they have been trying to kill me for a long time." — Babchenko, prior statements
 
@@ -60,6 +60,12 @@ After years of increasing threats, Babchenko left Russia in February 2017, movin
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — FSB defector poisoned in London
 - [Anna Politkovskaya](Anna_Politkovskaya.md) — Russian journalist murdered in Moscow
 - [Sergei Skripal](Sergei_Skripal.md) — Russian double agent poisoned with Novichok in England
+## Other Shocking Stories
+
+- [Philip Agee](Philip_Agee.md): Named 250 CIA agents in print. Expelled from five countries. Died in Cuba after ulcer surgery.
+- [Salah al-Arouri](Salah_al_Arouri.md): Hamas deputy leader killed by Israeli drone strike in Beirut during the Gaza war.
+- [Zia ul-Haq](Zia_ul_Haq.md): Pakistan's president, the US ambassador, and top generals all died in one plane crash. Sabotage widely suspected.
+- [Berta Caceres](Berta_Caceres.md): Goldman Prize-winning indigenous activist. US-trained military intelligence agents helped plan her murder in Honduras.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Jenny Moore
 Citizen journalist and former police officer investigating elite trafficking who was found dead in a Washington, D.C.-area hotel room in August 2018, weeks after filing reports with the FBI and DHS.
@@ -60,7 +60,13 @@ Moore's work was conducted outside mainstream journalism, and many of her claims
 
 - [Seth Rich](Seth_Rich.md) — another DC death with unresolved questions
 - [Danny Casolaro](Danny_Casolaro.md) — journalist investigating intelligence connections, found dead in hotel
-- [Jenny Moore (Epstein Kill List)](../../../Details/Jenny_Moore.md) — Epstein Kill List cross-reference
+- [Jenny Moore (Epstein Kill List)](./././Details/Jenny_Moore.md) — Epstein Kill List cross-reference
+## Other Shocking Stories
+
+- [Che Guevara](Che_Guevara.md): Captured with CIA help, then executed in a Bolivian schoolhouse. The CIA operative watched him die.
+- [Pavel Sheremet](Pavel_Sheremet.md): Started his car in Kyiv and it exploded. One of Europe's most prominent unsolved journalist killings.
+- [William Colby](William_Colby.md): Former CIA Director left dinner half-eaten and his computer running. Found dead in a river nine days later.
+- [Philip Agee](Philip_Agee.md): Named 250 CIA agents in print. Expelled from five countries. Died in Cuba after ulcer surgery.
 
 ## Sources
 

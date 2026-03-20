@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Ronni Moffitt
 25-year-old American woman killed by a Chilean intelligence (DINA) car bomb on Embassy Row in Washington, DC, in an attack targeting former Chilean diplomat Orlando Letelier.
@@ -61,7 +61,13 @@ The primary target was Orlando Letelier, who had served as Chile's ambassador to
 - [Salvador Allende](Salvador_Allende.md) -- Chilean president overthrown in CIA-backed coup
 - [Aldo Moro](Aldo_Moro.md) -- political figure killed during era of intelligence-linked terrorism
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Marine Vlahovic](Marine_Vlahovic.md): French journalist found dead on a Marseille rooftop while filming a documentary on Israel's war in Gaza.
+- [Anna Politkovskaya](Anna_Politkovskaya.md): Shot dead in her apartment elevator on Putin's birthday. She had been documenting Chechen war crimes for years.
+- [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md): Panama Papers journalist killed by car bomb in Malta. State inquiry found the government bore responsibility.
+- [Rafik Hariri](Rafik_Hariri.md): Lebanon's prime minister killed by a massive car bomb. UN tribunal convicted a Hezbollah operative.
 
 ## Sources
 

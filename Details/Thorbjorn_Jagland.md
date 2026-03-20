@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Thorbjorn Jagland
 Former Norwegian PM charged with corruption over Epstein ties, hospitalized after suicide attempt February 2026.
@@ -57,7 +57,7 @@ Jagland's case is part of a broader European reckoning triggered by the 2026 Eps
 > "No evidence has linked Jagland to Epstein's criminal sexual activities or any direct involvement in abuse or trafficking. The main focus of the probe is on him allegedly accepting undue benefits or peddling influence."
 > — [BBN Times (February 2026)](https://www.bbntimes.com/politics/former-norwegian-pm-thorbjorn-jagland-hospitalized-after-reported-suicide-attempt-amid-epstein-corruption-probe)
 
-> "Jagland and his family members planned or made visits to Epstein's properties in Paris, New York, and Palm Beach, Florida... There are also reports that they planned a visit to Epstein's private island."
+> "Jagland and his family members planned or made visits to Epstein's properties in Paris, New York, and Palm Beach, Florida.. There are also reports that they planned a visit to Epstein's private island."
 > — [Anadolu Agency (February 2026)](https://www.aa.com.tr/en/europe/former-norwegian-premier-hospitalized-after-suicide-attempt-amid-epstein-corruption-charges-report/3839028)
 
 ## See Also
@@ -66,6 +66,12 @@ Jagland's case is part of a broader European reckoning triggered by the 2026 Eps
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Also died in European custody while awaiting trial
 - [Robert Maxwell](Robert_Maxwell.md) — Died in European waters
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Convicted co-conspirator
+## Other Shocking Stories
+
+- [Steven Silks](Steven_Silks.md): NYPD deputy chief who allegedly viewed the Weiner laptop evidence. First of four officer suicides in 22 days.
+- [William Broeksmit](William_Broeksmit.md): Senior Deutsche Bank exec who knew where Epstein's money went. Found hanged at home. Son became FBI informant.
+- [Leigh Skye Patrick](Leigh_Skye_Patrick.md): Lured to Epstein's mansion at 16. Died of an overdose in a Palm Beach hotel room.
+- [Marjorie Dyer](Marjorie_Dyer.md): Co-signed Yassenoff's will with the man suspected of killing him. Died in a car accident.
 
 ## Sources
 

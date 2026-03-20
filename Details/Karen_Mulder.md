@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Karen Mulder
 Original Epstein-era whistleblower; named fashion industry rapists on French TV in 2001, was immediately hospitalized and silenced.
@@ -112,9 +112,9 @@ As of 2026, Karen Mulder is alive and living privately in France, primarily in P
 
 ## Related Groups
 
-- [Elite Model Management](../other/groups/elite_model_management.md) — The agency where Brunel and Marie operated; used as trafficking pipeline
-- [MC2 Model Management](../other/groups/mc2_model_management.md) — Agency Brunel later founded with Epstein's money
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — The broader operation Mulder tried to expose 19 years before Brunel's arrest
+- [Elite Model Management](./other/groups/elite_model_management.md) — The agency where Brunel and Marie operated; used as trafficking pipeline
+- [MC2 Model Management](./other/groups/mc2_model_management.md) — Agency Brunel later founded with Epstein's money
+- [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) — The broader operation Mulder tried to expose 19 years before Brunel's arrest
 
 ## See Also
 
@@ -124,6 +124,12 @@ As of 2026, Karen Mulder is alive and living privately in France, primarily in P
 - [Nadia Marcinko](Nadia_Marcinko.md) — Epstein's pilot, missing since 2024
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Introduced Brunel to Epstein
 - [Virginia Giuffre](Virginia_Giuffre.md) — Testified about Brunel's trafficking for Epstein
+## Other Shocking Stories
+
+- [Thorbjorn Jagland](Thorbjorn_Jagland.md): Former Norwegian Prime Minister. Charged with corruption over Epstein ties. Hospitalized after suicide attempt.
+- [Thomas Bowers](Thomas_Bowers.md): Deutsche Bank exec who personally handled Epstein's money. Found hanged at home. Bank paid $150M in fines.
+- [Anastasia Drozdova](Anastasia_Drozdova.md): Her friend Korshunova fell from a building.
+- [Tom Artiom Alexandrovich](Tom_Alexandrovich.md): Senior Israeli cyber official caught in FBI child predator sting. Posted bail. Fled to Israel in 48 hours.
 
 ## Sources
 

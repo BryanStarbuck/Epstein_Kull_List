@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Frank Teruggi
 American student and journalist, seized by Chilean military forces and executed at the National Stadium in Santiago during the 1973 Pinochet coup. A Chilean court confirmed that U.S. military intelligence provided information that led to his arrest and death.
@@ -57,7 +57,13 @@ Teruggi was a young American from Chicago, Illinois, studying in Chile. He was a
 - [Salvador Allende](Salvador_Allende.md) — Chilean president who died during the coup
 - [Orlando Letelier](Orlando_Letelier.md) — Chilean diplomat assassinated by DINA in Washington, DC
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Arkady Babchenko](Arkady_Babchenko.md): Ukraine faked his assassination to catch Russian hitmen. The plot to kill him was real.
+- [Salah al-Arouri](Salah_al_Arouri.md): Hamas deputy leader killed by Israeli drone strike in Beirut during the Gaza war.
+- [Majid Shahriari](Majid_Shahriari.md): Motorcycle assassins attached a magnetic bomb to his car door in Tehran traffic. Fourth scientist targeted.
+- [Enrique "Kiki" Camarena](Enrique_Camarena.md): DEA agent kidnapped and tortured for 30 hours in Mexico. CIA allegedly knew about the plot beforehand.
 
 ## Sources
 

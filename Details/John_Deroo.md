@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # John Deroo
 Business partner of [Berry Kessler](Berry_Kessler.md), shot six times in the face in a murder-for-hire arranged by Kessler.
@@ -52,7 +52,7 @@ Kessler's documented willingness to arrange contract killings adds weight to sus
 
 ## Related Groups
 
-- [Wexner / L Brands](../other/groups/wexner_l_brands.md) — Columbus death pattern
+- [Wexner / L Brands](./other/groups/wexner_l_brands.md) — Columbus death pattern
 
 ## See Also
 
@@ -60,6 +60,12 @@ Kessler's documented willingness to arrange contract killings adds weight to sus
 - [Arthur Shapiro](Arthur_Shapiro.md) — Unsolved murder that enabled Epstein's rise
 - [Frank Yassenoff](Frank_Yassenoff.md) — Another Kessler business partner found shot to death
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Took Shapiro's position after the murder
+## Other Shocking Stories
+
+- [Ghislaine Maxwell (Living — At Risk)](Ghislaine_Maxwell.md): The only convicted co-conspirator still alive. Serving 20 years. Her brother says publicly she is not suicidal.
+- [Mark Salling](Mark_Salling.md): 50,000 child abuse images. A child abuse manual. Hanged five weeks before sentencing. Distribution network never traced.
+- [Vitaly Churkin](Vitaly_Churkin.md): Russian UN Ambassador. Sudden cardiac event. Cause of death withheld by State Department. Autopsy results sealed.
+- [Steve Bing](Steve_Bing.md): Clinton mega-donor named in the Epstein files. Fell from the 27th floor of his Los Angeles apartment building.
 
 ## Sources
 

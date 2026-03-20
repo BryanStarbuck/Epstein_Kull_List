@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Two Unnamed Foreign Women (Alleged — Zorro Ranch)
 Two unnamed women allegedly strangled near Epstein's ranch per DOJ files; under active NM investigation.
@@ -77,7 +77,7 @@ The burial allegations remain unverified. The DOJ warned that some files contain
 > "While Epstein's properties in New York, Paris, Palm Beach and the Caribbean have all been searched at some point, state and local officials said they weren't aware of any federal search at Zorro Ranch."
 > — [NBC News: New Mexico approves comprehensive probe of Epstein's Zorro Ranch](https://www.nbcnews.com/politics/politics-news/new-mexico-probe-jeffrey-epstein-zorro-ranch-rcna259292)
 
-> "Two foreign girls died by strangulation during rough, fetish sex... their bodies were buried somewhere in the hills outside the Zorro."
+> "Two foreign girls died by strangulation during rough, fetish sex.. their bodies were buried somewhere in the hills outside the Zorro."
 > — Anonymous email from alleged former Zorro Ranch employee to talk show host Eddy Aragon, November 2019, via [The Hill](https://thehill.com/homenews/state-watch/5746366-zorro-ranch-illegal-activity/)
 
 ## See Also
@@ -86,6 +86,12 @@ The burial allegations remain unverified. The DOJ warned that some files contain
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — "Madam G" referenced in burial allegation
 - [Bill Richardson](Bill_Richardson.md) — NM governor who met with Epstein at the ranch 9+ times after his conviction
 - [Brice and Karen Gordon](Brice_Karen_Gordon.md) — Ranch managers who vanished after Epstein's death
+## Other Shocking Stories
+
+- [John Ashe](John_Ashe.md): UN General Assembly president. A barbell crushed his throat days before his corruption trial involving Clinton donors.
+- [Kate Spade](Kate_Spade.md): Hanged three days before Bourdain. Same week as Zorreguieta. Three high-profile hangings in a single week.
+- [Kurt Cobain](Kurt_Cobain.md): Shotgun ruled suicide. Three times the lethal dose of heroin in his blood.
+- [Monica Petersen](Monica_Petersen.md): Trafficking researcher in Haiti. Dead at 32. Ruled suicide. Her colleagues publicly disputed the finding.
 
 ## Sources
 

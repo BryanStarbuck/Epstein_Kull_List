@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Boris Berezovsky
 Russian oligarch and Kremlin critic found dead in his locked bathroom with a ligature around his neck. Coroner recorded an open verdict.
@@ -67,6 +67,12 @@ In his final years, Berezovsky faced severe financial difficulties. He lost a ma
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — Berezovsky's protege, assassinated by FSB in 2006
 - [Nikolai Glushkov](Nikolai_Glushkov.md) — Berezovsky's close friend, murdered in London 2018
 - [Alexei Navalny](Alexei_Navalny.md) — Opposition leader who died in prison, 2024
+## Other Shocking Stories
+
+- [Alexei Navalny](Alexei_Navalny.md): Survived FSB Novichok poisoning, tricked his assassin into confessing on camera, then died in an Arctic prison.
+- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
+- [Roberto Calvi](Roberto_Calvi.md): Found hanging under London's Blackfriars Bridge with bricks in his pockets. Linked to the Vatican and P2 lodge.
+- [Alexander Tyulakov](Alexander_Tyulakov.md): Gazprom executive found hanged the morning Russia invaded Ukraine. One of eight Russian energy executives dead that year.
 
 ## Sources
 

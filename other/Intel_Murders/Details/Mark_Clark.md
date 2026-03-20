@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Mark Clark
 Founder of the Peoria, Illinois Black Panther Party, killed alongside Fred Hampton during the FBI-coordinated pre-dawn police raid on December 4, 1969.
@@ -64,6 +64,12 @@ Clark had traveled to Chicago the night of December 3, 1969, to work with Hampto
 ## See Also
 
 - [Fred Hampton](Fred_Hampton.md) — Black Panther chairman killed in the same raid
+## Other Shocking Stories
+
+- [Seth Rich](Seth_Rich.md): DNC staffer shot twice in the back in DC. Nothing stolen. Case still unsolved.
+- [Victor Jara](Victor_Jara.md): Chilean folk singer's hands were broken. Then soldiers machine-gunned him with 44 rounds in a stadium.
+- [Philip Marshall](Philip_Marshall.md): Former CIA pilot writing about Saudi-9/11 connections found dead alongside his two children.
+- [Dag Hammarskjold](Dag_Hammarskjold.md): UN Secretary-General's plane crashed in Africa.
 
 ## Sources
 

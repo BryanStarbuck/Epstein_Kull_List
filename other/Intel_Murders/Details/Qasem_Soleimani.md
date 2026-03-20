@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Qasem Soleimani
 Commander of Iran's IRGC Quds Force, assassinated by a US drone strike near Baghdad International Airport in January 2020 on the orders of President Trump.
@@ -59,7 +59,13 @@ Qasem Soleimani led the Quds Force — the extraterritorial operations arm of Ir
 - [Anwar al-Awlaki](Anwar_al_Awlaki.md) — US citizen killed by drone strike, establishing targeted killing precedent
 - [Ismail Haniyeh](Ismail_Haniyeh.md) — Hamas leader assassinated in Tehran in 2024
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Barry Seal](Barry_Seal.md): CIA drug pilot turned informant. A judge forced him into an unprotected halfway house. The cartel found him.
+- [Berta Caceres](Berta_Caceres.md): Goldman Prize-winning indigenous activist. US-trained military intelligence agents helped plan her murder in Honduras.
+- [Vladimir Kara-Murza](Vladimir_Kara_Murza.md): Poisoned by the FSB twice and survived both times.
+- [Salah al-Arouri](Salah_al_Arouri.md): Hamas deputy leader killed by Israeli drone strike in Beirut during the Gaza war.
 
 ## Sources
 

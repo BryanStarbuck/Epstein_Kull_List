@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Steve Biko
 South African anti-apartheid activist and founder of the Black Consciousness Movement, beaten to death in police custody in 1977. Five officers later confessed to killing him but were denied amnesty.
@@ -58,6 +58,12 @@ Steve Biko was born in King William's Town in the Eastern Cape. He studied medic
 - [Ruth First](Ruth_First.md) — Anti-apartheid activist killed by South African letter bomb in 1982
 - [Chris Hani](Chris_Hani.md) — SACP leader assassinated in 1993
 - [Dulcie September](Dulcie_September.md) — ANC representative assassinated in Paris in 1988
+## Other Shocking Stories
+
+- [Karen Silkwood](Karen_Silkwood.md): Drove toward the New York Times with nuclear documents. Forced off the road. Documents never found.
+- [Qasem Soleimani](Qasem_Soleimani.md): Iran's most powerful military commander vaporized by a US drone strike at Baghdad airport. Trump ordered it.
+- [Patrice Lumumba](Patrice_Lumumba.md): Congo's first democratically elected leader. The CIA and Belgium had him executed within seven months.
+- [Thomas Sankara](Thomas_Sankara.md): Africa's revolutionary president shot dead in a coup. France allegedly backed it. His killer convicted in 2022.
 
 ## Sources
 

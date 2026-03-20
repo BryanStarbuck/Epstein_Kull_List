@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Corey Haim
 1980s teen idol who was allegedly sexually abused as a child actor in Hollywood; died at 38 of pneumonia complicated by heart disease after decades of substance abuse widely attributed to childhood trauma.
@@ -97,6 +97,12 @@ Corey Feldman has stated that he and Haim were "passed around to pedophiles" at 
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Modeling industry figure who trafficked minors to Epstein; found hanged in prison
 - [Karen Mulder](Karen_Mulder.md) — Model who named abusers on French TV; hospitalized, footage destroyed
 - [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.md) — Accused elites of abuse on camera; disappeared
+## Other Shocking Stories
+
+- [Robert Maxwell](Robert_Maxwell.md): Ghislaine's father. Alleged Mossad super-spy. Fell from his yacht. Six intelligence services attended the funeral.
+- [Peaches Geldof](Peaches_Geldof.md): Tweeted the names of mothers who enabled a pedophile. Five months later, dead on 61% pure heroin.
+- [Karen Mulder](Karen_Mulder.md): Named her traffickers on French national television. The footage was destroyed.
+- [Kevin Preiss](Kevin_Preiss.md): NYPD officer who allegedly saw what was on the Weiner laptop. Suicide. The pattern keeps repeating.
 
 ## Sources
 

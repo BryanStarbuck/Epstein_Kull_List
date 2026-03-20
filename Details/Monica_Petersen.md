@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Monica Petersen
 
@@ -61,6 +61,12 @@ The connection to Epstein is speculative, running through Haiti and the Clinton 
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md)
 - [Jenny Moore](Jenny_Moore.md)
 - [Max Spiers](Max_Spiers.md)
+## Other Shocking Stories
+
+- [Frank Yassenoff](Frank_Yassenoff.md): Shot to death alongside his fiancee. Both murders unsolved. Killer's partner later linked to Epstein's network.
+- [Denise George](Denise_George.md): Filed the lawsuit that exposed JPMorgan's role. Fired four days later.
+- [Brice and Karen Gordon](Brice_Karen_Gordon.md): Managed Epstein's New Mexico ranch for 20 years. Both vanished after Maxwell's arrest. Never found.
+- [Anne Heche](Anne_Heche.md): Starred in a child trafficking film. Weeks later, crashed her car into a house and never regained consciousness.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Main List](./README.md)
 
 # Marine Vlahovic
 French journalist and West Asia expert found dead on the rooftop terrace of her Marseille apartment while working on a documentary about Israel's war on Gaza.
@@ -85,6 +85,12 @@ After leaving Ramallah in 2019, Vlahovic moved to Marseille but maintained close
 - [Mahmoud Hamshari](Mahmoud_Hamshari.md) — PLO representative assassinated by Mossad phone bomb in Paris (1973)
 - [Atef Bseiso](Atef_Bseiso.md) — PLO intelligence chief shot by Mossad in Paris (1992)
 - [Fidan Dogan](Fidan_Dogan.md) — Kurdish activist shot execution-style in Paris; Turkish intelligence suspected (2013)
+## Other Shocking Stories
+
+- [Salvador Allende](Salvador_Allende.md): Chile's elected president died in a CIA-backed coup. Pinochet took power. The killing never stopped.
+- [Yevgeny Prigozhin](Yevgeny_Prigozhin.md): Wagner Group founder's plane exploded exactly two months after his mutiny against Putin. Grenade fragments in the bodies.
+- [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md): JFK's mistress shot execution-style on a Georgetown towpath. CIA counterintelligence chief seized and burned her diary.
+- [Boris Nemtsov](Boris_Nemtsov.md): Shot four times on a bridge within sight of the Kremlin.
 
 ## Sources
 

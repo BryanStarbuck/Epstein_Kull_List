@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Stephen Hawking
 Physicist who visited Epstein's island, died of ALS after 50+ years; not suspicious.
@@ -46,6 +46,12 @@ Hawking was one of the most famous physicists in the world. He was known to have
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md)
 - [Marvin Minsky](Marvin_Minsky.md) — Also scientist who visited Epstein's properties
+## Other Shocking Stories
+
+- [Diana Spencer (Princess of Wales)](Diana_Spencer.md): Wrote 'my husband is planning an accident in my car.' Died in a Paris tunnel crash.
+- [Peter Mandelson](Peter_Mandelson.md): Senior UK politician arrested for leaking government secrets to Jeffrey Epstein. Accused of selling state intelligence.
+- [Karen Mulder](Karen_Mulder.md): Named her traffickers on French national television. The footage was destroyed.
+- [Marc Angelucci](Marc_Angelucci.md): Shot at his front door by the same gunman who attacked Judge Salas's family eight days later.
 
 ## Sources
 

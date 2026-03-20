@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Ravil Maganov
 Chairman of Lukoil, Russia's largest private oil company, who fell from a sixth-floor hospital window in Moscow in September 2022 — months after Lukoil publicly called for an end to the Ukraine invasion.
@@ -63,6 +63,12 @@ In March 2022, Lukoil's board — under Maganov's chairmanship — issued a rare
 - [Alexander Tyulakov](Alexander_Tyulakov.md) — Gazprom director, found dead February 2022
 - [Sergei Protosenya](Sergei_Protosenya.md) — Former Novatek head, found dead April 2022
 - Alexander Subbotin — Former Lukoil board member, found dead May 2022
+## Other Shocking Stories
+
+- [Juan José Torres](Juan_Jose_Torres.md): Former president of Bolivia, kidnapped and executed in Buenos Aires. CIA-backed Operation Condor.
+- [John Lennon](John_Lennon.md): FBI surveilled him for years under COINTELPRO. His killer had CIA-connected ties and unexplained world travel.
+- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
+- [Philip Haney](Philip_Haney.md): DHS whistleblower on terrorism found shot dead. Family says it was not suicide.
 
 ## Sources
 

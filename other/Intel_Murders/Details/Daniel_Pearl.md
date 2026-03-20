@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Daniel Pearl
 Wall Street Journal journalist investigating links between Pakistani intelligence (ISI) and Al-Qaeda, kidnapped and beheaded in Karachi in 2002. His murder exposed deep connections between Pakistani intelligence assets and jihadist networks.
@@ -49,13 +49,19 @@ Daniel Pearl was a reporter and South Asia bureau chief for The Wall Street Jour
 
 > "I decapitated with my blessed right hand the head of the American Jew Daniel Pearl in the city of Karachi, Pakistan." — Khalid Sheikh Mohammed, 2007 tribunal hearing
 
-> "Whether Sheikh sought refuge in Shah's custody because there was a family connection... or whether it was because Sheikh had a long history with the ISI is still unresolved." — The Pearl Project report
+> "Whether Sheikh sought refuge in Shah's custody because there was a family connection.. or whether it was because Sheikh had a long history with the ISI is still unresolved." — The Pearl Project report
 
 ## See Also
 
 - [Benazir Bhutto](Benazir_Bhutto.md) — Pakistani PM assassinated in Rawalpindi, 2007
 - [Zia ul-Haq](Zia_ul_Haq.md) — Pakistani president killed in suspicious plane crash, 1988
 - [Jamal Khashoggi](Jamal_Khashoggi.md) — Journalist murdered by Saudi intelligence, 2018
+## Other Shocking Stories
+
+- [Karen Silkwood](Karen_Silkwood.md): Drove toward the New York Times with nuclear documents. Forced off the road. Documents never found.
+- [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md): JFK's mistress shot execution-style on a Georgetown towpath. CIA counterintelligence chief seized and burned her diary.
+- [Anna Politkovskaya](Anna_Politkovskaya.md): Shot dead in her apartment elevator on Putin's birthday. She had been documenting Chechen war crimes for years.
+- [Rafik Hariri](Rafik_Hariri.md): Lebanon's prime minister killed by a massive car bomb. UN tribunal convicted a Hezbollah operative.
 
 ## Sources
 

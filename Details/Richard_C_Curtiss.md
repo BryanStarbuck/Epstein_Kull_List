@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Richard C. Curtiss
 Former MCC inmate who emailed media outlets and authorities in 2021 claiming Jeffrey Epstein's death was a murder, not a suicide.
@@ -21,7 +21,7 @@ Curtiss was incarcerated at the Metropolitan Correctional Center (MCC) in New Yo
 
 On May 13, 2021, Curtiss sent a detailed email to Emily Smith, editor at Page Six (New York Post), and to the NY Post tips line. The email, which included over 40 inline image attachments, asked whether the Post was "still going to write a story about Jeffrey Epstein's murder inside the Metropolitan Correctional Center."
 
-![Richard C. Curtiss email to NY Post, May 13, 2021](../other/images/Richard_C_Curtiss_email.jpeg)
+![Richard C. Curtiss email to NY Post, May 13, 2021](./other/images/Richard_C_Curtiss_email.jpeg)
 
 ## Key Claims
 
@@ -114,6 +114,12 @@ Additionally, newly released surveillance video observation logs revealed an uni
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Died at MCC under disputed circumstances
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Held at MDC Brooklyn, where Curtiss also claimed to have been incarcerated
 - [Efrain "Stone" Reyes](Efrain_Stone_Reyes.md) — Epstein's cellmate at MCC who died after talking to investigators
+## Other Shocking Stories
+
+- [Carolyn Andriano](Carolyn_Andriano.md): Testified against Ghislaine Maxwell. Died of an overdose in a Palm Beach hotel.
+- [Chris Cornell](Chris_Cornell.md): Funding a child trafficking documentary. Found hanged in his hotel room. Wife says it was not suicide.
+- [Steve Bing](Steve_Bing.md): Clinton mega-donor named in the Epstein files. Fell from the 27th floor of his Los Angeles apartment building.
+- [Jenny Moore](Jenny_Moore.md): Journalist investigating child trafficking. Filed an FBI report. Found dead in a DC hotel weeks later.
 
 ## Sources
 

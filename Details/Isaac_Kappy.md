@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Isaac Kappy
 Actor who publicly accused Hollywood elites of pedophilia and claimed to possess hacked Epstein blackmail files, fell from Arizona bridge two months before Epstein's arrest.
@@ -24,7 +24,7 @@ On May 13, 2019, at approximately 7:26 a.m., Isaac Kappy forced himself off the 
 
 The day before his death — May 12, 2019 — a lengthy note was posted to Kappy's Instagram account. The note was rambling and self-flagellating. He claimed to be "the reincarnation of Judas Iscariot," opened up about drug and alcohol abuse, apologized to Jesus Christ, Donald Trump, and QAnon, and stated: "Beware the man that has nothing to lose, for he has nothing to protect." He also stated he had committed unspecified acts that made him "no better than" the people he had been accusing.
 
-In his final recorded video, made days before his death, Kappy said: "This will likely be my last broadcast... I am not suicidal... Have I become one of them? I am. Now I am one of them."
+In his final recorded video, made days before his death, Kappy said: "This will likely be my last broadcast.. I am not suicidal.. Have I become one of them? I am. Now I am one of them."
 
 The toxicology report reportedly supported substance abuse at the time of death. The DPS investigation was closed without criminal charges or further inquiry.
 
@@ -70,7 +70,7 @@ After Kappy's death, a video described as his "dead man's switch" was posted to 
 - **Final Instagram note anomalies:** The note's tone — claiming to be "the reincarnation of Judas Iscariot," apologizing to Trump, QAnon, and Jesus Christ — struck some observers as coerced or written under duress rather than reflecting genuine suicidal ideation. Others interpret it as a mental health crisis
 - **No prior suicidal history:** Kappy had no documented history of suicidal ideation before the final note. He was actively producing content and engaging with followers up until his last days
 - **Claimed possession of blackmail materials:** If Kappy did possess hacked files from Epstein's operation — a claim amplified by Lin Wood — this would represent a clear motive for silencing him
-- **Intelligence service connection theory:** Theories linking Kappy to Mossad/CIA through the Epstein blackmail operation are discussed in his [Intel Murders profile](../other/Intel_Murders/Details/Isaac_Kappy.md)
+- **Intelligence service connection theory:** Theories linking Kappy to Mossad/CIA through the Epstein blackmail operation are discussed in his [Intel Murders profile](./other/Intel_Murders/Details/Isaac_Kappy.md)
 
 ## The Counterargument
 
@@ -88,7 +88,7 @@ After Kappy's death, a video described as his "dead man's switch" was posted to 
 >
 > — Isaac Kappy, final Instagram post (May 12, 2019)
 
-> "This will likely be my last broadcast... I am not suicidal... Have I become one of them? I am. Now I am one of them."
+> "This will likely be my last broadcast.. I am not suicidal.. Have I become one of them? I am. Now I am one of them."
 >
 > — Isaac Kappy, final video recording (days before his death)
 
@@ -96,7 +96,7 @@ After Kappy's death, a video described as his "dead man's switch" was posted to 
 >
 > — Lin Wood, Twitter/X post (January 3, 2021)
 
-> "Actor Isaac Kappy died years ago, but QAnon claims that he was murdered persist... Kappy had previously alleged without evidence on conspiracy theorist Alex Jones' radio show that Hanks, among other Hollywood stars, was a pedophile. This claim made Kappy 'a minor celebrity in Q-adjacent communities.'"
+> "Actor Isaac Kappy died years ago, but QAnon claims that he was murdered persist.. Kappy had previously alleged without evidence on conspiracy theorist Alex Jones' radio show that Hanks, among other Hollywood stars, was a pedophile. This claim made Kappy 'a minor celebrity in Q-adjacent communities.'"
 >
 > — PolitiFact (January 24, 2023)
 
@@ -115,8 +115,14 @@ After Kappy's death, a video described as his "dead man's switch" was posted to 
 - [Jenny Moore](Jenny_Moore.md) — Citizen journalist investigating trafficking; found dead in DC hotel 2018
 - [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — "DC Madam" who said she would not commit suicide; found hanged 2008
 - [Danny Casolaro](Danny_Casolaro.md) — Journalist who told friends "if I die, it wasn't suicide"; found dead 1991
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — The network Kappy claimed to be exposing
-- [Intel Murders profile](../other/Intel_Murders/Details/Isaac_Kappy.md) — Intelligence service connection analysis
+- [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) — The network Kappy claimed to be exposing
+- [Intel Murders profile](./other/Intel_Murders/Details/Isaac_Kappy.md) — Intelligence service connection analysis
+## Other Shocking Stories
+
+- [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.md): Screamed on camera that elites murder and eat people. Named Carlos Slim's son. Institutionalized. Never seen again.
+- [Gary Caradori](Gary_Caradori.md): His plane disintegrated mid-air carrying evidence of elite child trafficking. Briefcase of photos never recovered.
+- [Max Spiers](Max_Spiers.md): Told his mother: 'If anything happens to me, investigate.' Died days later in Poland researching elite pedophilia.
+- [Vitaly Churkin](Vitaly_Churkin.md): Russian UN Ambassador. Sudden cardiac event. Cause of death withheld by State Department. Autopsy results sealed.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Fuad Shukr
 Senior Hezbollah military commander and Nasrallah's right-hand man, killed by an Israeli airstrike on an apartment building in Beirut's southern suburbs in July 2024. He was also accused of helping plan the 1983 US Marine barracks bombing that killed 241 Americans.
@@ -59,10 +59,16 @@ Fuad Shukr was born in Al-Nabi Sheeth in the Bekaa Valley around 1961. He was a 
 - [Salah al-Arouri](Salah_al_Arouri.md) — Hamas deputy leader killed by Israeli strike in Beirut, January 2024
 - [Qasem Soleimani](Qasem_Soleimani.md) — Iranian Quds Force commander killed by US drone strike
 
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
 
 - [Hassan Nasrallah](Hassan_Nasrallah.md) — Hezbollah leader killed weeks later
 - [Imad Mughniyeh](Imad_Mughniyeh.md) — Hezbollah commander killed by CIA-Mossad
+## Other Shocking Stories
+
+- [Rafael Trujillo](Rafael_Trujillo.md): CIA supplied the weapons. Dominican dictator ambushed and shot in his car. Church Committee confirmed it.
+- [Dag Hammarskjold](Dag_Hammarskjold.md): UN Secretary-General's plane crashed in Africa.
+- [Frank Teruggi](Frank_Teruggi.md): American student executed during the Chilean coup. US intelligence knew. It took 42 years to get convictions.
+- [Alexander Litvinenko](Alexander_Litvinenko.md): Poisoned with radioactive polonium in his London tea. UK inquiry found Putin 'probably approved' it.
 
 ## Sources
 

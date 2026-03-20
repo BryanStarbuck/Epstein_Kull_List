@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md)
+[< Back to Main List](./README.md)
 
 # Isaac Kappy
 Actor who publicly accused Hollywood elites of pedophilia and claimed intelligence agencies ran blackmail operations through Epstein's network. Fell from Arizona bridge two months before Epstein's arrest.
@@ -23,7 +23,7 @@ Isaac Kappy's death occupies the intersection of the Epstein blackmail network a
 
 On May 13, 2019, at approximately 7:26 a.m., Kappy forced himself off the Transwestern Road overpass onto eastbound Interstate 40 near Bellemont, Arizona (milepost 185). He was struck by a Ford pickup truck. Two bystanders attempted to physically restrain him but failed. The Arizona Department of Public Safety investigated and ruled the death a suicide.
 
-The previous day, a lengthy Instagram note was posted to his account. It was self-flagellating and religiously grandiose — he claimed to be "the reincarnation of Judas Iscariot," admitted drug and alcohol abuse, and apologized to Donald Trump, QAnon, and Jesus Christ. In his final recorded video, he said: "This will likely be my last broadcast... I am not suicidal... Have I become one of them? I am. Now I am one of them."
+The previous day, a lengthy Instagram note was posted to his account. It was self-flagellating and religiously grandiose — he claimed to be "the reincarnation of Judas Iscariot," admitted drug and alcohol abuse, and apologized to Donald Trump, QAnon, and Jesus Christ. In his final recorded video, he said: "This will likely be my last broadcast.. I am not suicidal.. Have I become one of them? I am. Now I am one of them."
 
 ## Background
 
@@ -41,7 +41,7 @@ The intelligence angle of Kappy's case rests on several layers of claims:
 
 The foundational claim is that Jeffrey Epstein's sex-trafficking and blackmail operation was run by or connected to intelligence services — primarily Mossad, with CIA involvement or complicity. This theory draws from:
 
-- **Robert Maxwell's Mossad ties:** [Ghislaine Maxwell](../../../Details/Ghislaine_Maxwell.md)'s father Robert was a confirmed Mossad asset. According to journalist Seymour Hersh and multiple biographers, Robert Maxwell was recruited by Israeli intelligence and used his media empire for intelligence purposes. He was given a state funeral in Israel on the Mount of Olives.
+- **Robert Maxwell's Mossad ties:** [Ghislaine Maxwell](./././Details/Ghislaine_Maxwell.md)'s father Robert was a confirmed Mossad asset. According to journalist Seymour Hersh and multiple biographers, Robert Maxwell was recruited by Israeli intelligence and used his media empire for intelligence purposes. He was given a state funeral in Israel on the Mount of Olives.
 - **Ari Ben-Menashe's claims:** Former Israeli military intelligence officer Ari Ben-Menashe stated in a sworn affidavit and in his book *Profits of War* that Robert Maxwell introduced Epstein to Israeli intelligence, and that Epstein was tasked with running a sexual blackmail operation targeting American politicians.
 - **Alexander Acosta's comment:** According to reporting by journalist Vicky Ward, when asked about the lenient 2008 plea deal for Epstein, then-U.S. Attorney (later Labor Secretary) Alexander Acosta reportedly said he was told to back off because Epstein "belonged to intelligence."
 
@@ -69,11 +69,11 @@ Kappy's death falls within a cluster of deaths in 2019 of people connected to ex
 
 | Person | Date | Connection |
 |--------|------|------------|
-| [Natacha Jaitt](../../../Details/Natacha_Jaitt.md) | February 2019 | Named Argentine pedophiles on TV; said "if I die, it wasn't me" |
-| [Sabrina Bittencourt](../../../Details/Sabrina_Bittencourt.md) | February 2019 | Anti-trafficking activist; found dead in Spain |
+| [Natacha Jaitt](./././Details/Natacha_Jaitt.md) | February 2019 | Named Argentine pedophiles on TV; said "if I die, it wasn't me" |
+| [Sabrina Bittencourt](./././Details/Sabrina_Bittencourt.md) | February 2019 | Anti-trafficking activist; found dead in Spain |
 | **Isaac Kappy** | **May 2019** | **Named Hollywood pedophiles; claimed Epstein files** |
-| [Tracy Twyman](../../../Details/Tracy_Twyman.md) | July 2019 | Continued Kappy's research; found hanged |
-| [Jeffrey Epstein](../../../Details/Jeffrey_Epstein.md) | August 2019 | Found dead in federal custody |
+| [Tracy Twyman](./././Details/Tracy_Twyman.md) | July 2019 | Continued Kappy's research; found hanged |
+| [Jeffrey Epstein](./././Details/Jeffrey_Epstein.md) | August 2019 | Found dead in federal custody |
 
 If Epstein's operation was indeed intelligence-connected, as multiple sources allege, then the systematic elimination of those threatening to expose it would represent intelligence service killings — making Kappy's death relevant to this project.
 
@@ -97,7 +97,7 @@ If Epstein's operation was indeed intelligence-connected, as multiple sources al
 
 ## Key Quotes
 
-> "This will likely be my last broadcast... I am not suicidal... Have I become one of them? I am. Now I am one of them."
+> "This will likely be my last broadcast.. I am not suicidal.. Have I become one of them? I am. Now I am one of them."
 >
 > — Isaac Kappy, final video recording (days before his death)
 
@@ -119,7 +119,13 @@ If Epstein's operation was indeed intelligence-connected, as multiple sources al
 - [Gary Webb](Gary_Webb.md) — Journalist who exposed CIA-crack connection; died of two gunshots to the head, ruled suicide
 - [Bill Cooper](Bill_Cooper.md) — Author of *Behold a Pale Horse*; predicted 9/11-type event; killed in tactical operation 2001
 - [Philip Marshall](Philip_Marshall.md) — CIA-connected pilot who wrote about Saudi-9/11 connections; found dead with his two children 2013
-- [Epstein Kill List profile](../../../Details/Isaac_Kappy.md) — Full Epstein-network analysis of Kappy's case
+- [Epstein Kill List profile](./././Details/Isaac_Kappy.md) — Full Epstein-network analysis of Kappy's case
+## Other Shocking Stories
+
+- [Fidan Doğan](Fidan_Dogan.md): Kurdish activist shot execution-style in Paris. Turkish intelligence suspected of ordering the triple assassination.
+- [Qasem Soleimani](Qasem_Soleimani.md): Iran's most powerful military commander vaporized by a US drone strike at Baghdad airport. Trump ordered it.
+- [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md): Mossad sent 27 agents with forged passports to suffocate one Hamas commander in a Dubai hotel room.
+- [Serena Shim](Serena_Shim.md): Reported ISIS using UN food trucks. Turkish intelligence accused her of espionage.
 
 ## Sources
 

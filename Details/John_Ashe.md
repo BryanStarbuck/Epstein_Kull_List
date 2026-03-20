@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # John Ashe
 
@@ -52,13 +52,19 @@ The death was ruled accidental by the medical examiner. The connection to Epstei
 >
 > — [CNN: Ex-U.N. General Assembly president John Ashe, indicted last year, dies](https://www.cnn.com/2016/06/22/us/united-nations-john-ashe-dies-while-awaiting-bribery-trial)
 
-> "U.N. spokesman Dan Thomas told CNN that Ashe died of a heart attack... He later told CNN that the information came from a newspaper report in Antigua."
+> "U.N. spokesman Dan Thomas told CNN that Ashe died of a heart attack.. He later told CNN that the information came from a newspaper report in Antigua."
 >
 > — On the UN's initial misreporting of the cause of death ([CNN](https://www.cnn.com/2016/06/22/us/united-nations-john-ashe-dies-while-awaiting-bribery-trial))
 
 > "No portion of the case pertained to Hillary Clinton, and neither was Ashe slated to testify against her at any point during the trial."
 >
 > — U.S. District Attorney's spokesperson, clarifying false claims about Clinton testimony ([Snopes](https://www.snopes.com/fact-check/un-official-john-ashe-killed-the-day-before-he-was-to-testify-against-hillary-clinton/))
+## Other Shocking Stories
+
+- [Mark Middleton](Mark_Middleton.md): Hanged from a tree AND shot. Clinton aide who let Epstein into the White House.
+- [Austin Tucker Martin](Austin_Tucker_Martin.md): Armed 21-year-old breached Mar-a-Lago fixated on Epstein files. Shot dead by Secret Service on the property.
+- [Matthew Perry](Matthew_Perry.md): His death exposed an elite ketamine supply network. Five charged including a doctor dubbed the Ketamine Queen.
+- [Johnny Rios](Johnny_Rios.md): NYPD officer. Allegedly viewed the Weiner laptop. Suicide. Six officers connected to that laptop are gone.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Rene Schneider
 Chilean army commander-in-chief shot during a CIA-backed kidnapping attempt in 1970, targeted for defending Chile's constitutional transfer of power to elected president Salvador Allende.
@@ -48,7 +48,7 @@ Schneider was born to a German immigrant father and French immigrant mother in C
 
 ## Key Quotes
 
-> "The armed forces are not a deliberating body... The Army is the guarantor of a normal election." — **General Rene Schneider**, May 1970, articulating the Schneider Doctrine
+> "The armed forces are not a deliberating body.. The Army is the guarantor of a normal election." — **General Rene Schneider**, May 1970, articulating the Schneider Doctrine
 
 > "Make the economy scream." — **President Richard Nixon**, ordering the CIA to destabilize Chile, September 15, 1970
 
@@ -59,7 +59,13 @@ Schneider was born to a German immigrant father and French immigrant mother in C
 - [Ngo Dinh Diem](Ngo_Dinh_Diem.md) — Another leader targeted by CIA-backed forces (1963)
 - [Rafael Trujillo](Rafael_Trujillo.md) — Dominican dictator killed with CIA-supplied weapons (1961)
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Alexander Tyulakov](Alexander_Tyulakov.md): Gazprom executive found hanged the morning Russia invaded Ukraine. One of eight Russian energy executives dead that year.
+- [Sergei Skripal and Dawn Sturgess](Sergei_Skripal.md): Novichok nerve agent smeared on his door handle in England. UK inquiry confirmed Putin ordered the attack.
+- [Michael Hastings](Michael_Hastings.md): Investigating CIA Director Brennan. His car exploded at 4 a.m. Richard Clarke said it looked like a cyberattack.
+- [Marine Vlahovic](Marine_Vlahovic.md): French journalist found dead on a Marseille rooftop while filming a documentary on Israel's war in Gaza.
 
 ## Sources
 

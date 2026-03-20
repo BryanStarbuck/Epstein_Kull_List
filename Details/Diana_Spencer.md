@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Diana Spencer (Princess of Wales)
 Former wife of Prince Charles, mother of William and Harry, global humanitarian icon — killed in a Paris car crash in 1997 under circumstances that remain disputed decades later.
@@ -157,10 +157,16 @@ A formal inquest into the deaths of Diana and Dodi Fayed was held at the Royal C
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Convicted Epstein co-conspirator; socialite in London circles that overlapped with royalty
 - [Virginia Giuffre](Virginia_Giuffre.md) — Top Epstein accuser who alleged trafficking to [Prince Andrew](Prince_Andrew.md)
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Primary subject of this project; connected to British Royal family through Prince Andrew
-- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — The "[DC Madam](../other/groups/dc_madam.md)" who also said she'd never kill herself and was found hanged; pattern of women with elite secrets dying
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — The "[DC Madam](./other/groups/dc_madam.md)" who also said she'd never kill herself and was found hanged; pattern of women with elite secrets dying
 - [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating intelligence operations who died under disputed circumstances; pattern of those threatening powerful institutions dying
-- [Mossad](../other/groups/mossad.md) — Intelligence service allegedly involved in elite blackmail operations; Robert Maxwell connection
-- [MI5/MI6](../other/groups/cia.md) — British intelligence services accused of involvement in Diana's death
+- [Mossad](./other/groups/mossad.md) — Intelligence service allegedly involved in elite blackmail operations; Robert Maxwell connection
+- [MI5/MI6](./other/groups/cia.md) — British intelligence services accused of involvement in Diana's death
+## Other Shocking Stories
+
+- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Epstein left $5 million per child in his will. Resigned. Under criminal investigation.
+- [Peaches Geldof](Peaches_Geldof.md): Tweeted the names of mothers who enabled a pedophile. Five months later, dead on 61% pure heroin.
+- [Kevin Preiss](Kevin_Preiss.md): NYPD officer who allegedly saw what was on the Weiner laptop. Suicide. The pattern keeps repeating.
+- [Seth Rich](Seth_Rich.md): DNC staffer shot twice in the back. Nothing stolen. Walking home at night in DC. Case still unsolved.
 
 ## Sources
 

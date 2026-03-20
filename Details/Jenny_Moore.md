@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Jenny Moore
 
@@ -64,14 +64,20 @@ Police found nothing suspicious and the apparent cause was a seizure. However, t
 
 ## Related Groups
 
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — Journalist investigating trafficking
+- [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) — Journalist investigating trafficking
 
 ## See Also
 
 - [Isaac Kappy](Isaac_Kappy.md)
 - [Tracy Twyman](Tracy_Twyman.md)
 - [Max Spiers](Max_Spiers.md)
-- [Nikolai Mushegian](Nikolai_Mushegian.md) — tweeted about [CIA](../other/groups/cia.md)/[Mossad](../other/groups/mossad.md) trafficking ring, drowned hours later (2022)
+- [Nikolai Mushegian](Nikolai_Mushegian.md) — tweeted about [CIA](./other/groups/cia.md)/[Mossad](./other/groups/mossad.md) trafficking ring, drowned hours later (2022)
+## Other Shocking Stories
+
+- [Trevor Moore](Trevor_Moore.md): Delivered Epstein theories to millions on Comedy Central. Fell from his balcony at 2:30 a.m. BAC 0.27.
+- [Gary Caradori](Gary_Caradori.md): His plane disintegrated mid-air carrying evidence of elite child trafficking. Briefcase of photos never recovered.
+- [Karen Mulder](Karen_Mulder.md): Named her traffickers on French national television. The footage was destroyed.
+- [Alexis Arquette](Alexis_Arquette.md): Transgender actress planning a Hollywood tell-all memoir. Publicly accused powerful figures. Died before publishing.
 
 ## Sources
 

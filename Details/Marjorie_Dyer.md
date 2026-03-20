@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Marjorie Dyer
 Witness who co-signed [Frank Yassenoff](Frank_Yassenoff.md)'s will with [Berry Kessler](Berry_Kessler.md), died in questionable car accident.
@@ -48,13 +48,13 @@ Dyer's death removed a witness to the will of a man Kessler was suspected of mur
 >
 > — [Whitney Webb, Unlimited Hangout](https://unlimitedhangout.com/2021/08/investigative-reports/a-kingpin-the-mob-and-a-murder-the-deeper-mystery-behind-the-arthur-shapiro-homicide/) (August 2021)
 
-> "You have attempted to portray yourself as a kindly... senior citizen. The reality is that you, in a most cold and calculated fashion, plotted and carried out a contract-style murder of a man who thought you were his friend. You are, in fact, a clever, cunning and merciless killer."
+> "You have attempted to portray yourself as a kindly.. senior citizen. The reality is that you, in a most cold and calculated fashion, plotted and carried out a contract-style murder of a man who thought you were his friend. You are, in fact, a clever, cunning and merciless killer."
 >
 > — Judge William Webb, [sentencing Berry Kessler for the murder-for-hire of John Deroo](https://www.tampabay.com/archive/1997/02/20/75-year-old-is-sentenced-to-death-for-murder-plot/) (February 1997)
 
 ## Related Groups
 
-- [Wexner / L Brands](../other/groups/wexner_l_brands.md) — Columbus death pattern
+- [Wexner / L Brands](./other/groups/wexner_l_brands.md) — Columbus death pattern
 
 ## See Also
 
@@ -62,6 +62,12 @@ Dyer's death removed a witness to the will of a man Kessler was suspected of mur
 - [Ella Rich](Ella_Rich.md) — Killed alongside Yassenoff
 - [Berry L. Kessler](Berry_Kessler.md) — Other witness to Yassenoff's will; suspected in multiple murders
 - [Arthur Shapiro](Arthur_Shapiro.md) — Another Kessler-connected murder victim
+## Other Shocking Stories
+
+- [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md): Working on a human trafficking awareness film. Dead at 28 from self-inflicted wounds. No prior attempt.
+- [Bill Richardson](Bill_Richardson.md): Named in unsealed Epstein documents. Met Epstein 9+ times after his conviction. Died in his sleep.
+- [Joseph Calabrese](Joseph_Calabrese.md): NYPD detective. Allegedly saw the Weiner laptop. Dead by suicide one day after his colleague Silks.
+- [Mark Salling](Mark_Salling.md): 50,000 child abuse images. A child abuse manual. Hanged five weeks before sentencing. Distribution network never traced.
 
 ## Sources
 

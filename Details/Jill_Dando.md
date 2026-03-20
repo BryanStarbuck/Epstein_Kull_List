@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Jill Dando
 BBC journalist and Crimewatch presenter who was shot dead execution-style outside her London home in 1999; she had reportedly compiled a dossier on a pedophile ring operating within the BBC and handed it to senior management, who took no action.
@@ -16,7 +16,7 @@ BBC journalist and Crimewatch presenter who was shot dead execution-style outsid
 
 ## Assessment: SUSPICIOUS
 
-Jill Dando was Britain's most prominent television journalist when she was executed on her own doorstep in a manner that cold case reviewers have described as a professional "hard contact" assassination. She had reportedly compiled and submitted a dossier to BBC management documenting a pedophile ring within the corporation — years before the [Jimmy Savile](../other/groups/jimmy_savile.md) scandal proved such a ring existed. The only man convicted spent eight years in prison before being acquitted; the case remains unsolved over 26 years later.
+Jill Dando was Britain's most prominent television journalist when she was executed on her own doorstep in a manner that cold case reviewers have described as a professional "hard contact" assassination. She had reportedly compiled and submitted a dossier to BBC management documenting a pedophile ring within the corporation — years before the [Jimmy Savile](./other/groups/jimmy_savile.md) scandal proved such a ring existed. The only man convicted spent eight years in prison before being acquitted; the case remains unsolved over 26 years later.
 
 ## Circumstances of Death
 
@@ -41,7 +41,7 @@ She was named BBC Personality of the Year in 1997. At the time of her death, she
 
 ### The Pedophile Ring Dossier
 
-In 2014, following the explosion of the [Jimmy Savile](../other/groups/jimmy_savile.md) sexual abuse scandal, it was reported that Dando had compiled a dossier of claims that a pedophile ring was operating within the BBC and submitted it to senior management in the mid-1990s. According to a BBC source:
+In 2014, following the explosion of the [Jimmy Savile](./other/groups/jimmy_savile.md) sexual abuse scandal, it was reported that Dando had compiled a dossier of claims that a pedophile ring was operating within the BBC and submitted it to senior management in the mid-1990s. According to a BBC source:
 
 - Female colleagues had come to Dando reporting that they had been groped or sexually assaulted
 - Dando compiled the complaints into a file and presented it to senior management
@@ -81,7 +81,7 @@ The Metropolitan Police confirmed it is re-examining 1999 CCTV evidence in the o
 ## Why This Death Possibly Raises Questions
 
 - **Professional execution method:** Cold case reviewers concluded this was a "hard contact execution" by a professional — not the act of a random stalker or deranged fan
-- **BBC pedophile ring dossier:** Dando reportedly compiled and submitted evidence of a pedophile ring within the BBC — the same institution later proven to have harbored [Jimmy Savile](../other/groups/jimmy_savile.md), one of Britain's most prolific sexual predators
+- **BBC pedophile ring dossier:** Dando reportedly compiled and submitted evidence of a pedophile ring within the BBC — the same institution later proven to have harbored [Jimmy Savile](./other/groups/jimmy_savile.md), one of Britain's most prolific sexual predators
 - **Management inaction:** BBC senior management allegedly received the dossier and did nothing, mirroring the institutional cover-up later exposed in the Savile scandal
 - **The Savile connection:** Savile operated freely within the BBC for over 40 years, abusing hundreds on BBC premises; Dando's dossier, if it existed, would have threatened to expose this network years before it was publicly known
 - **Wrongful conviction:** The only person convicted spent 8 years in prison before acquittal, based on a single particle of residue — suggesting the real killer was never caught
@@ -108,14 +108,20 @@ The Metropolitan Police confirmed it is re-examining 1999 CCTV evidence in the o
 
 ## See Also
 
-- [Jimmy Savile / BBC](../other/groups/jimmy_savile.md) — The institutional pedophile ring Dando reportedly tried to expose
+- [Jimmy Savile / BBC](./other/groups/jimmy_savile.md) — The institutional pedophile ring Dando reportedly tried to expose
 - [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator who exposed CPS child trafficking; shot dead
-- [Gary Caradori](Gary_Caradori.md) — [Franklin](../other/groups/franklin_scandal.md) scandal investigator whose plane disintegrated
+- [Gary Caradori](Gary_Caradori.md) — [Franklin](./other/groups/franklin_scandal.md) scandal investigator whose plane disintegrated
 - [Diana Spencer](Diana_Spencer.md) — Another high-profile British woman killed in circumstances many dispute
 - [Sabrina Bittencourt](Sabrina_Bittencourt.md) — Exposed John of God's trafficking; died in hiding
 - [Tracy Twyman](Tracy_Twyman.md) — Investigated elite pedophilia; hanged in garage
 - [Monica Petersen](Monica_Petersen.md) — Trafficking researcher who died in Haiti
 - [Jenny Moore](Jenny_Moore.md) — Journalist investigating trafficking; found dead in DC hotel
+## Other Shocking Stories
+
+- [Philip Haney](Philip_Haney.md): DHS whistleblower on trafficking networks. Shot dead. Family doubts the suicide ruling. Investigation stalled.
+- [Alfredo Rodriguez](Alfredo_Rodriguez.md): Had Epstein's black book listing every victim and client. Tried to sell it. Died of cancer in custody.
+- [Tracy Twyman](Tracy_Twyman.md): Picked up the dead man's research on elite pedophilia. Left a dead man's switch.
+- [Kenneth Starr](Kenneth_Starr.md): Helped Epstein get the sweetheart plea deal that let a serial child rapist walk free.
 
 ## Sources
 

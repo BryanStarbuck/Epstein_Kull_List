@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Gary Caradori
 
@@ -52,7 +52,7 @@ The NTSB ruled this pilot error, but the mid-air disintegration of the aircraft,
 
 ## Key Quotes from Media Coverage
 
-> "I do not know anything about sabotage, but I have been told that a phosphorous type bomb would, in fact, vaporize metal and any other material with which it came in contact and that unless someone knew what they were looking for, it would be difficult, if not impossible, to detect.... I am sure there will be those who will scoff at such a suggestion, but there have been **entirely too many violent deaths associated with this investigation**."
+> "I do not know anything about sabotage, but I have been told that a phosphorous type bomb would, in fact, vaporize metal and any other material with which it came in contact and that unless someone knew what they were looking for, it would be difficult, if not impossible, to detect.. I am sure there will be those who will scoff at such a suggestion, but there have been **entirely too many violent deaths associated with this investigation**."
 >
 > — Nebraska State Senator Loran Schmit, in a letter to NTSB aviation inspector Bill Bruce, March 6, 1991 ([Wikispooks: Gary Caradori](https://www.wikispooks.com/wiki/Gary_Caradori))
 
@@ -67,22 +67,28 @@ The NTSB ruled this pilot error, but the mid-air disintegration of the aircraft,
 ## Related Deaths
 
 - [Ted Gunderson](Ted_Gunderson.md) — Former FBI SAC who provided investigative assistance to John DeCamp on the Franklin case. Described "brownstone operations" (intelligence-run sexual blackmail using minors) for decades. Died of bladder cancer in 2011; associates allege arsenic poisoning.
-- [Danny Casolaro](Danny_Casolaro.md) — Investigating [PROMIS](../other/groups/promis_octopus.md)/Maxwell intelligence blackmail operations; found with wrists slashed in 1991, the year after Caradori's death.
+- [Danny Casolaro](Danny_Casolaro.md) — Investigating [PROMIS](./other/groups/promis_octopus.md)/Maxwell intelligence blackmail operations; found with wrists slashed in 1991, the year after Caradori's death.
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Ran the sexual blackmail operation that the Franklin scandal prefigured.
 
 ## Related Groups
 
-- [Franklin Scandal](../other/groups/franklin_scandal.md) — The child trafficking ring Caradori was investigating when his plane disintegrated
-- [Craig Spence Operation](../other/groups/craig_spence.md) — DC lobbyist connected to the Franklin network's Washington operations
+- [Franklin Scandal](./other/groups/franklin_scandal.md) — The child trafficking ring Caradori was investigating when his plane disintegrated
+- [Craig Spence Operation](./other/groups/craig_spence.md) — DC lobbyist connected to the Franklin network's Washington operations
 
 ## Related Locations
 
-- [Omaha, Nebraska](../other/locations/omaha_nebraska.md) — Investigated the Franklin scandal centered in Omaha; was returning to Nebraska when his plane disintegrated
+- [Omaha, Nebraska](./other/locations/omaha_nebraska.md) — Investigated the Franklin scandal centered in Omaha; was returning to Nebraska when his plane disintegrated
 
 ## See Also
 
 - [Franklin child prostitution ring allegations — Wikipedia](https://en.wikipedia.org/wiki/Franklin_child_prostitution_ring_allegations)
 - [Lawrence E. King Jr. — Wikipedia](https://en.wikipedia.org/wiki/Lawrence_E._King_Jr.)
+## Other Shocking Stories
+
+- [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.md): Screamed on camera that elites murder and eat people. Named Carlos Slim's son. Institutionalized. Never seen again.
+- [Isaac Kappy](Isaac_Kappy.md): Said on camera: 'If I die, it wasn't suicide.' Two months later, fell from a bridge in Arizona.
+- [Marjorie Dyer](Marjorie_Dyer.md): Co-signed Yassenoff's will with the man suspected of killing him. Died in a car accident.
+- [Alexis Arquette](Alexis_Arquette.md): Transgender actress planning a Hollywood tell-all memoir. Publicly accused powerful figures. Died before publishing.
 
 ## Sources
 

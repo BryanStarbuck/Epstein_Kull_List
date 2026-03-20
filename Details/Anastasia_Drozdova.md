@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Anastasia Drozdova
 Model linked to Korshunova through cult psych sessions, died identically by fall one year later.
@@ -37,7 +37,7 @@ The Rose of the World describes itself as "training for personality development"
 
 Drozdova's direct connection to Epstein is not documented in flight logs or court filings. Her inclusion in this database is based on her close friendship with Korshunova (who is documented on Epstein's jet) and the parallel manner of their deaths.
 
-The broader modeling industry pipeline to Epstein is well-documented through [Jean-Luc Brunel](Jean_Luc_Brunel.md)'s [MC2 Model Management](../other/groups/mc2_model_management.md), which Epstein funded. Whether Drozdova had any contact with this pipeline is unknown.
+The broader modeling industry pipeline to Epstein is well-documented through [Jean-Luc Brunel](Jean_Luc_Brunel.md)'s [MC2 Model Management](./other/groups/mc2_model_management.md), which Epstein funded. Whether Drozdova had any contact with this pipeline is unknown.
 
 ## Why This Death Possibly Raises Questions
 
@@ -67,13 +67,19 @@ The broader modeling industry pipeline to Epstein is well-documented through [Je
 
 ## Related Groups
 
-- [Elite Model Management](../other/groups/elite_model_management.md) — Modeling industry pattern
+- [Elite Model Management](./other/groups/elite_model_management.md) — Modeling industry pattern
 
 ## See Also
 
 - [Ruslana Korshunova](Ruslana_Korshunova.md) — Friend who died one year earlier in identical fashion
 - [Jean-Luc Brunel](Jean_Luc_Brunel.md) — Ran Epstein's modeling pipeline through MC2
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Korshunova was documented on his jet
+## Other Shocking Stories
+
+- [Brice and Karen Gordon](Brice_Karen_Gordon.md): Managed Epstein's New Mexico ranch for 20 years. Both vanished after Maxwell's arrest. Never found.
+- [Frank Yassenoff](Frank_Yassenoff.md): Shot to death alongside his fiancee. Both murders unsolved. Killer's partner later linked to Epstein's network.
+- [Michael Caddy](Michael_Caddy.md): NYPD officer, age 29. Allegedly viewed the Weiner laptop. Suicide. Third officer dead in weeks.
+- [Jeffrey Epstein](Jeffrey_Epstein.md): Both cameras failed. Both guards slept. The world's most connected prisoner died in maximum security. Ruled suicide.
 
 ## Sources
 

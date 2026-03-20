@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Ismail Haniyeh
 Chairman of Hamas's political bureau, assassinated by a remotely detonated bomb in an Iranian military guesthouse in Tehran in July 2024, in an operation widely attributed to and later confirmed by Israel's Mossad.
@@ -59,9 +59,15 @@ Ismail Haniyeh was born in the Al-Shati refugee camp in the Gaza Strip in 1962. 
 - [Fuad Shukr](Fuad_Shukr.md) — Hezbollah commander killed by Israeli airstrike in Beirut, July 2024
 - [Qasem Soleimani](Qasem_Soleimani.md) — Iranian Quds Force commander killed by US drone strike
 
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
 
 - [Hassan Nasrallah](Hassan_Nasrallah.md) — Hezbollah leader killed weeks later
+## Other Shocking Stories
+
+- [Ngo Dinh Diem](Ngo_Dinh_Diem.md): South Vietnam's president surrendered during a CIA-backed coup. They shot him in the back of an armored vehicle.
+- [Leonid Shulman](Leonid_Shulman.md): Gazprom transport chief found with slashed wrists in his country house.
+- [Fathi Shaqaqi](Fathi_Shaqaqi.md): Islamic Jihad leader shot six times on a Malta street. Mossad agents identified by local investigation.
+- [Imad Mughniyeh](Imad_Mughniyeh.md): The world's most wanted terrorist. CIA and Mossad finally killed him with a car bomb in Damascus.
 
 ## Sources
 

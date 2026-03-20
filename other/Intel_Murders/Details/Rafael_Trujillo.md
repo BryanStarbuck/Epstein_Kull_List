@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Rafael Trujillo
 Dominican Republic dictator assassinated in 1961 by conspirators using CIA-supplied weapons, ambushed in his car on the highway to San Cristobal.
@@ -58,7 +58,13 @@ Trujillo ruled the Dominican Republic from 1930 until his death, establishing on
 - [Rene Schneider](Rene_Schneider.md) — Chilean general killed in CIA-backed operation (1970)
 - [Salvador Allende](Salvador_Allende.md) — Chilean president overthrown in CIA-backed coup (1973)
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Victor Jara](Victor_Jara.md): Chilean folk singer's hands were broken. Then soldiers machine-gunned him with 44 rounds in a stadium.
+- [Barry Seal](Barry_Seal.md): CIA drug pilot turned informant. A judge forced him into an unprotected halfway house. The cartel found him.
+- [Fred Hampton](Fred_Hampton.md): FBI gave police his floor plan. They drugged him, then shot him in bed while he slept.
+- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
 
 ## Sources
 

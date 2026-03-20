@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Bernardo Leighton
 Chilean Christian Democratic politician and former Vice President, shot and seriously wounded alongside his wife in Rome in 1975 in a DINA-commissioned assassination attempt carried out by Italian neofascists — a key Operation Condor attack demonstrating collaboration between Chilean intelligence and European far-right terrorist networks.
@@ -61,7 +61,13 @@ Leighton was one of Chile's most distinguished democratic politicians. He co-fou
 - [Salvador Allende](Salvador_Allende.md) — Chilean president who died during the 1973 coup
 - [Victor Jara](Victor_Jara.md) — Chilean folk singer killed during the coup
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Abdel Aziz al-Rantisi](Abdel_Aziz_al_Rantisi.md): Killed by Israeli missile one month after they assassinated his predecessor. Hamas leadership was being erased systematically.
+- [Maxim Kuzminov](Maxim_Kuzminov.md): Russian pilot defected to Ukraine. Found shot dead in Spain with Russian ammunition. SVR called him 'traitor.'
+- [Judi Bari](Judi_Bari.md): FBI accused her of bombing her own car. A jury saw through it and awarded $4.4 million.
+- [Arkady Babchenko](Arkady_Babchenko.md): Ukraine faked his assassination to catch Russian hitmen. The plot to kill him was real.
 
 ## Sources
 

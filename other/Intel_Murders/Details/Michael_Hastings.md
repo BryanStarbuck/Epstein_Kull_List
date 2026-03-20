@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Michael Hastings
 Award-winning Rolling Stone and BuzzFeed journalist who died in a fiery high-speed car crash in Los Angeles in 2013 while reportedly investigating CIA Director John Brennan. Former counterterrorism czar Richard Clarke stated the crash was "consistent with a car cyber attack."
@@ -64,7 +64,13 @@ At the time of his death, Hastings was a reporter for BuzzFeed and was reportedl
 - [Gary Webb](Gary_Webb.md) — Journalist who investigated CIA drug trafficking and died under suspicious circumstances
 - [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating intelligence operations found dead before publishing
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md): Mossad sent 27 agents with forged passports to suffocate one Hamas commander in a Dubai hotel room.
+- [Boris Berezovsky](Boris_Berezovsky.md): Russian oligarch found hanged in his locked bathroom. German pathologist said the evidence pointed to strangulation by others.
+- [William Colby](William_Colby.md): Former CIA Director left dinner half-eaten and his computer running. Found dead in a river nine days later.
+- [Hussein al-Bashir](Hussein_al_Bashir.md): Mossad detonated a bomb under his hotel bed in Cyprus. He never woke up. Operation Wrath of God.
 
 ## Sources
 

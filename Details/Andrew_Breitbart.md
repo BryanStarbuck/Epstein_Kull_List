@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Andrew Breitbart
 Conservative media founder died of heart attack in 2012, weeks before releasing exposing videos; linked to Clinton/Weiner circles.
@@ -14,7 +14,7 @@ Conservative media founder died of heart attack in 2012, weeks before releasing 
 ## Connection to Epstein Network
 Breitbart's connection to the Epstein network is indirect, running primarily through Anthony Weiner and broader "Clinton body count" narratives. In the weeks before his death, Breitbart had been teasing the release of explosive videos, including footage he claimed would damage Barack Obama and potentially expose figures in the Clinton/Weiner political orbit. Some of this material indirectly fed into what later became the Pizzagate narrative.
 
-His most direct link comes through Anthony Weiner — Breitbart broke the original Weiner sexting scandal in 2011, which eventually led to the discovery of Weiner's laptop in 2016. That laptop allegedly contained material that some claim connected to Epstein-adjacent networks (see [NYPD Weiner laptop deaths](../other/laptop.md)).
+His most direct link comes through Anthony Weiner — Breitbart broke the original Weiner sexting scandal in 2011, which eventually led to the discovery of Weiner's laptop in 2016. That laptop allegedly contained material that some claim connected to Epstein-adjacent networks (see [NYPD Weiner laptop deaths](./other/laptop.md)).
 
 Breitbart famously tweeted in 2011: "How prog-guru John Podesta isn't household name as world class underage sex slave op cover-upperer defending unspeakable dregs is beyond me." This tweet, rediscovered after Pizzagate, fueled theories that Breitbart had knowledge of elite trafficking networks before his death.
 
@@ -50,6 +50,12 @@ The connection to Epstein-related networks is primarily through the Weiner/Clint
 - [Vince Foster](Vince_Foster.md)
 - [Deputy Chief Steven Silks](Steven_Silks.md)
 - [Det. Joseph Calabrese](Joseph_Calabrese.md)
+## Other Shocking Stories
+
+- [Kevin Preiss](Kevin_Preiss.md): NYPD officer who allegedly saw what was on the Weiner laptop. Suicide. The pattern keeps repeating.
+- [Joe Recarey](Joe_Recarey.md): Lead detective on the original Epstein case. Died unexpectedly at 50 of a brief unspecified illness.
+- [Michael Caddy](Michael_Caddy.md): NYPD officer, age 29. Allegedly viewed the Weiner laptop. Suicide. Third officer dead in weeks.
+- [Roy Black](Roy_Black.md): Defended Epstein in court. One of many lawyers who shielded the operation. Died at home at 80.
 
 ## Sources
 - LA County Coroner autopsy report (March 2012)

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Brice and Karen Gordon
 Zorro Ranch managers for two decades who vanished after Epstein's death and Maxwell's arrest.
@@ -67,6 +67,12 @@ In February 2026, New Mexico state legislators unanimously passed a measure crea
 - [Bill Richardson](Bill_Richardson.md) — NM governor who met with Epstein at the ranch
 - [Two Unnamed Foreign Women](Zorro_Ranch_Unnamed_Victims.md) — Alleged buried victims at Zorro Ranch
 - [Nadia Marcinko](Nadia_Marcinko.md) — Fellow Epstein associate who also disappeared
+## Other Shocking Stories
+
+- [Stephen Hawking](Stephen_Hawking.md): The world's most famous physicist visited Epstein's island. Photographed there. Died of ALS at 76.
+- [Nadia Marcinko](Nadia_Marcinko.md): Epstein's personal pilot granted immunity in 2008. Files unsealed in 2024.
+- [Sabrina Bittencourt](Sabrina_Bittencourt.md): Exposed a baby-selling operation. Died in hiding in Barcelona.
+- [Roy Black](Roy_Black.md): Defended Epstein in court. One of many lawyers who shielded the operation. Died at home at 80.
 
 ## Sources
 

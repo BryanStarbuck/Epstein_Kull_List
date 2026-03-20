@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Victor Jara
 Chilean folk singer, poet, theater director, and political activist, tortured and murdered by Chilean military forces during the 1973 Pinochet coup. His hands were crushed and he was shot 44 times in Chile Stadium — a killing that became one of the most infamous atrocities of the Chilean dictatorship.
@@ -57,7 +57,13 @@ Jara was one of Chile's most beloved folk musicians and a leading figure in the 
 - [Carlos Prats](Carlos_Prats.md) — Chilean general assassinated by DINA after the coup
 - [Orlando Letelier](Orlando_Letelier.md) — Chilean diplomat assassinated by DINA
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Atef Bseiso](Atef_Bseiso.md): PLO intelligence chief shot dead by two gunmen with silenced pistols on a Paris street. Mossad operation.
+- [Aldo Moro](Aldo_Moro.md): Italy's prime minister held for 55 days, then shot. CIA and NATO's Gladio network allegedly manipulated his captors.
+- [Orlando Letelier](Orlando_Letelier.md): Chilean diplomat killed by a car bomb on Embassy Row in Washington, DC. CIA knew Pinochet ordered it.
+- [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md): JFK's mistress shot execution-style on a Georgetown towpath. CIA counterintelligence chief seized and burned her diary.
 
 ## Sources
 

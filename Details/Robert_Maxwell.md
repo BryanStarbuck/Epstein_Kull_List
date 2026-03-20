@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Robert Maxwell
 Ghislaine's father, media mogul and alleged Mossad agent, found dead floating near his yacht in 1991.
@@ -37,7 +37,7 @@ Former Israeli intelligence operative Ari Ben-Menashe has publicly stated that E
 ## Key Relationships
 - Father of [Ghislaine Maxwell](Ghislaine_Maxwell.md) — convicted Epstein co-conspirator
 - Alleged intelligence connection to [Jeffrey Epstein](Jeffrey_Epstein.md)'s blackmail operation
-- Business and intelligence connections to Leslie [Wexner](../other/groups/wexner_l_brands.md) (Epstein's primary financial backer)
+- Business and intelligence connections to Leslie [Wexner](./other/groups/wexner_l_brands.md) (Epstein's primary financial backer)
 - [Danny Casolaro](Danny_Casolaro.md) — Died three months before Maxwell; was investigating the PROMIS software scandal that Maxwell allegedly distributed for Mossad
 
 ## Key Quotes from Media Coverage
@@ -60,14 +60,20 @@ Former Israeli intelligence operative Ari Ben-Menashe has publicly stated that E
 
 ## Related Groups
 
-- [Mossad](../other/groups/mossad.md) — Intelligence service Maxwell allegedly served as agent; received state funeral from Israel
-- [PROMIS / The Octopus](../other/groups/promis_octopus.md) — Backdoored software Maxwell allegedly distributed worldwide for Mossad
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — The operation his daughter Ghislaine co-ran with Epstein
+- [Mossad](./other/groups/mossad.md) — Intelligence service Maxwell allegedly served as agent; received state funeral from Israel
+- [PROMIS / The Octopus](./other/groups/promis_octopus.md) — Backdoored software Maxwell allegedly distributed worldwide for Mossad
+- [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) — The operation his daughter Ghislaine co-ran with Epstein
 
 ## Related Locations
 
-- [United Kingdom](../other/locations/united_kingdom.md) — British media mogul based in London; built his publishing empire in the UK
-- [Other International](../other/locations/other_international.md) — Found dead floating in the Atlantic Ocean near the Canary Islands; buried on the Mount of Olives in Jerusalem
+- [United Kingdom](./other/locations/united_kingdom.md) — British media mogul based in London; built his publishing empire in the UK
+- [Other International](./other/locations/other_international.md) — Found dead floating in the Atlantic Ocean near the Canary Islands; buried on the Mount of Olives in Jerusalem
+## Other Shocking Stories
+
+- [Chris Cornell](Chris_Cornell.md): Funding a child trafficking documentary. Found hanged in his hotel room. Wife says it was not suicide.
+- [Thomas Bowers](Thomas_Bowers.md): Deutsche Bank exec who personally handled Epstein's money. Found hanged at home. Bank paid $150M in fines.
+- [Val Broeksmit](Val_Broeksmit.md): His father hanged. He became an FBI informant on Deutsche Bank.
+- [Jill Dando](Jill_Dando.md): BBC presenter who compiled a dossier on a pedophile ring inside the BBC. Execution-style bullet to the head.
 
 ## Sources
 

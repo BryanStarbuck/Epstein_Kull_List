@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # David Kelly
 British weapons inspector and biological warfare expert found dead in woods after being exposed as the source who said the Blair government "sexed up" intelligence on Iraqi WMDs.
@@ -59,16 +59,22 @@ After Gilligan broadcast the claim on the BBC Today programme, the government la
 
 > "Kelly's death raises serious medical questions that can only be answered by a full inquest." -- Open letter from nine doctors and forensic experts, The Daily Telegraph, 2010
 
-> "Many of us do not accept the verdict of suicide... Slashing the ulnar artery is an extremely unusual way to commit suicide." -- Dr. David Halpin, trauma surgeon
+> "Many of us do not accept the verdict of suicide.. Slashing the ulnar artery is an extremely unusual way to commit suicide." -- Dr. David Halpin, trauma surgeon
 
 ## See Also
 
 - [Danny Casolaro](Danny_Casolaro.md) -- journalist investigating intelligence connections, found dead with wrists slashed
 - [Gary Webb](Gary_Webb.md) -- journalist who challenged government narratives, ruled suicide
 - [Frank Olson](Frank_Olson.md) -- government scientist killed under suspicious circumstances
-- [Danny Casolaro (Epstein List)](../../../Details/Danny_Casolaro.md) -- Epstein Kill List cross-reference
+- [Danny Casolaro (Epstein List)](./././Details/Danny_Casolaro.md) -- Epstein Kill List cross-reference
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Darioush Rezaeinejad](Darioush_Rezaeinejad.md): Iranian engineer shot five times in front of his wife and child. Part of a systematic assassination campaign.
+- [Mark Clark](Mark_Clark.md): Killed alongside Fred Hampton. Police fired 99 shots.
+- [Paul Klebnikov](Paul_Klebnikov.md): First American journalist murdered in Russia. Founded Forbes Russia. His suspects were acquitted.
+- [Ronni Moffitt](Ronni_Moffitt.md): A 25-year-old American killed on American soil by a Chilean intelligence car bomb meant for her colleague.
 
 ## Sources
 

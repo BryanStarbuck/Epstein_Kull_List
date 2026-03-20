@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Yahya Ayyash
 Palestinian Hamas bomb maker, assassinated by Israel's Shin Bet via a booby-trapped cell phone in 1996 — one of the most technically inventive targeted killings in intelligence history.
@@ -58,7 +58,13 @@ Ayyash was an electrical engineer from the West Bank town of Rafat. He became Ha
 - [Gerald Bull](Gerald_Bull.md) — Weapons designer assassinated, allegedly by Mossad
 - [Wael Zwaiter](Wael_Zwaiter.md) — Palestinian intellectual killed by Mossad in Operation Wrath of God
 
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Kim Jong-nam](Kim_Jong_nam.md): Two women smeared VX nerve agent on his face at a crowded airport. Dead in twenty minutes.
+- [Boris Nemtsov](Boris_Nemtsov.md): Shot four times on a bridge within sight of the Kremlin.
+- [John Paisley](John_Paisley.md): Senior CIA officer found floating with a bullet in his head and dive weights.
+- [David Webster](David_Webster.md): South African academic shot dead outside his home by military intelligence for documenting apartheid-era death squads.
 
 ## Sources
 

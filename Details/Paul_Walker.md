@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Paul Walker
 Actor who allegedly discovered trafficking during Haiti relief, died in high-speed car crash.
@@ -36,15 +36,21 @@ No verified evidence connects Walker to any investigation of child trafficking o
 > "He didn't want anyone to know he was there."
 > — Description of Walker's approach to charity, after he traveled to Tuscaloosa, Alabama to do manual labor following a tornado, via [HuffPost](https://www.huffpost.com/entry/paul-walker-charity_n_4380162)
 
-> "He wanted to get in there and help... Paul was involved in every aspect of ROWW — from putting boots on the ground and deploying with the team to fully funding the entire organization and all deployments prior to his death."
+> "He wanted to get in there and help.. Paul was involved in every aspect of ROWW — from putting boots on the ground and deploying with the team to fully funding the entire organization and all deployments prior to his death."
 > — [Yahoo Entertainment / People](https://www.yahoo.com/entertainment/paul-walker-left-lasting-legacy-140000577.html) on Walker's hands-on role in disaster relief
 
-> "No evidence support Paul Walker Clinton conspiracy... There is no credible evidence linking Walker's death to any political figure or trafficking investigation."
+> "No evidence support Paul Walker Clinton conspiracy.. There is no credible evidence linking Walker's death to any political figure or trafficking investigation."
 > — [PolitiFact fact-check](https://www.politifact.com/factchecks/2020/feb/10/facebook-posts/no-evidence-support-paul-walker-clinton-conspiracy/) debunking social media claims
 
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md)
+## Other Shocking Stories
+
+- [Chester Bennington](Chester_Bennington.md): Cornell's close friend. Same cause of death. Died on Cornell's birthday. Two months apart.
+- [Nikolai Mushegian](Nikolai_Mushegian.md): Tweeted that CIA and Mossad ran a sex trafficking ring in Puerto Rico. Drowned four hours later.
+- [John Connolly](John_Connolly.md): Co-authored the book that exposed Epstein to millions. Died of a brief illness at 78.
+- [Danny Casolaro](Danny_Casolaro.md): Investigating the same intel op that created Epstein's blackmail machine. Found with slashed wrists. Briefcase gone.
 
 ## Sources
 - LA County Sheriff's Department investigation report

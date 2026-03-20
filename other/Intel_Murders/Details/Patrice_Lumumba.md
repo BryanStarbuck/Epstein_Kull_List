@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Patrice Lumumba
 First democratically elected Prime Minister of the Congo, overthrown and executed with the direct involvement of CIA and Belgian intelligence in one of the Cold War's most consequential assassinations.
@@ -65,7 +65,13 @@ Within days of independence, the Congolese army mutinied, and the mineral-rich K
 - [Salvador Allende](Salvador_Allende.md) -- another democratically elected leader overthrown with CIA support
 - [Thomas Sankara](Thomas_Sankara.md) -- African leader assassinated with alleged foreign intelligence backing
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Milton William "Bill" Cooper](Bill_Cooper.md): Predicted a major false-flag attack on radio in June 2001. Shot dead by police two months after 9/11.
+- [Enrique "Kiki" Camarena](Enrique_Camarena.md): DEA agent kidnapped and tortured for 30 hours in Mexico. CIA allegedly knew about the plot beforehand.
+- [Zelimkhan Khangoshvili](Zelimkhan_Khangoshvili.md): Chechen dissident shot in a Berlin park by a confirmed Russian intelligence agent. Germany expelled diplomats.
+- [Juan José Torres](Juan_Jose_Torres.md): Former president of Bolivia, kidnapped and executed in Buenos Aires. CIA-backed Operation Condor.
 
 ## Sources
 

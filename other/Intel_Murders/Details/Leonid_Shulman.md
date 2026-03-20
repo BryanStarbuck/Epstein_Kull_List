@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Leonid Shulman
 Head of Gazprom's transport service, found dead with stab wounds to his wrists in his country house bathroom in January 2022 — the first in a wave of suspicious Russian energy executive deaths that year.
@@ -61,6 +61,12 @@ Shulman's death occurred less than a month before Russia's full-scale invasion o
 - [Ravil Maganov](Ravil_Maganov.md) — Lukoil chairman, fell from hospital window September 2022
 - [Sergei Protosenya](Sergei_Protosenya.md) — Former Novatek head, found dead in Spain April 2022
 - Alexander Subbotin — Former Lukoil board member, found dead May 2022
+## Other Shocking Stories
+
+- [Juan José Torres](Juan_Jose_Torres.md): Former president of Bolivia, kidnapped and executed in Buenos Aires. CIA-backed Operation Condor.
+- [David Kelly](David_Kelly.md): UK weapons inspector who challenged the Iraq WMD lie. Almost no blood at the scene.
+- [Ruth First](Ruth_First.md): South African activist opened a letter bomb in Mozambique. Military intelligence confirmed. Assassin confessed.
+- [Daniel Pearl](Daniel_Pearl.md): Wall Street Journal reporter beheaded in Pakistan while investigating ISI links to Al-Qaeda.
 
 ## Sources
 

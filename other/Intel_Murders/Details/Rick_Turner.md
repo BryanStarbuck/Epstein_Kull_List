@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Rick Turner
 South African political scientist and anti-apartheid intellectual, shot dead through the front door of his Durban home in 1978 while under a government banning order. He died in the arms of his 13-year-old daughter.
@@ -57,6 +57,12 @@ Richard Turner was born in Stellenbosch in 1941 and studied philosophy at the Un
 - [David Webster](David_Webster.md) — Anti-apartheid academic shot by CCB operative, 1989
 - [Ruth First](Ruth_First.md) — Anti-apartheid activist killed by letter bomb, 1982
 - [Dulcie September](Dulcie_September.md) — ANC representative shot in Paris, 1988
+## Other Shocking Stories
+
+- [Berta Caceres](Berta_Caceres.md): Goldman Prize-winning indigenous activist. US-trained military intelligence agents helped plan her murder in Honduras.
+- [Galina Starovoitova](Galina_Starovoitova.md): Russian liberal lawmaker gunned down in her apartment lobby. She championed human rights Putin wanted silenced.
+- [Arkady Babchenko](Arkady_Babchenko.md): Ukraine faked his assassination to catch Russian hitmen. The plot to kill him was real.
+- [Ali Hassan Salameh](Ali_Hassan_Salameh.md): He was simultaneously a CIA asset and a Mossad target. Mossad killed him anyway with a car bomb.
 
 ## Sources
 

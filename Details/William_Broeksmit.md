@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # William Broeksmit
 Senior Deutsche Bank executive found hanged in London home; bank managed Epstein's finances.
@@ -60,7 +60,7 @@ After Broeksmit's death, his son [Val Broeksmit](Val_Broeksmit.md) discovered th
 
 ## Related Groups
 
-- [Deutsche Bank](../other/groups/deutsche_bank.md) — The financial institution where Broeksmit was a senior executive during Epstein's account period
+- [Deutsche Bank](./other/groups/deutsche_bank.md) — The financial institution where Broeksmit was a senior executive during Epstein's account period
 
 ## See Also
 
@@ -71,7 +71,13 @@ After Broeksmit's death, his son [Val Broeksmit](Val_Broeksmit.md) discovered th
 
 ## Related Locations
 
-- [United Kingdom](../other/locations/united_kingdom.md) — Found hanged at his home in Kensington, London
+- [United Kingdom](./other/locations/united_kingdom.md) — Found hanged at his home in Kensington, London
+## Other Shocking Stories
+
+- [Terje Rød-Larsen](Terje_Rod_Larsen.md): Norwegian diplomat. Epstein paid him $250K and willed $10 million to his children. Under criminal investigation.
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md): Found hanged in his cell awaiting trial. Same method as Epstein. Both cameras conveniently malfunctioned.
+- [Mark Middleton](Mark_Middleton.md): Hanged from a tree AND shot. Clinton aide who let Epstein into the White House.
+- [Michael Caddy](Michael_Caddy.md): NYPD officer, age 29. Allegedly viewed the Weiner laptop. Suicide. Third officer dead in weeks.
 
 ## Sources
 

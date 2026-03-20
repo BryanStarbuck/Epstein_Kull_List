@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Chris Cornell
 Soundgarden vocalist linked to trafficking documentary, found hanged after concert; wife disputes suicide.
@@ -49,6 +49,12 @@ The claimed connection to "The Silent Children" documentary has been disputed by
 
 > "Chris Cornell, in our circle, was known as 'The Voice' because he had the best voice in rock and roll."
 > -- Alice Cooper, via [Rolling Stone tribute coverage](https://www.rollingstone.com/music/music-news/chris-cornell-see-best-onstage-tributes-to-soundgarden-singer-120173/)
+## Other Shocking Stories
+
+- [Philip K. Dick](Philip_K_Dick.md): His home safe blown open with explosives. FBI and CIA confirmed surveillance.
+- [Mark Middleton](Mark_Middleton.md): Hanged from a tree AND shot. Clinton aide who let Epstein into the White House.
+- [Austin Tucker Martin](Austin_Tucker_Martin.md): Armed 21-year-old breached Mar-a-Lago fixated on Epstein files. Shot dead by Secret Service on the property.
+- [Corey Haim](Corey_Haim.md): Allegedly raped on a film set at age 13. Spent 25 years in addiction. Dead at 38.
 
 ## Sources
 - Wayne County Medical Examiner's report

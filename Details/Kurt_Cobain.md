@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Kurt Cobain
 Nirvana frontman ruled suicide in 1994; fringe theories link death to music-industry trafficking networks.
@@ -52,6 +52,12 @@ The connection to Epstein or elite trafficking networks is a more recent online 
 - [Chris Cornell](Chris_Cornell.md)
 - [Chester Bennington](Chester_Bennington.md)
 - [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md)
+## Other Shocking Stories
+
+- [Matthew Perry](Matthew_Perry.md): His death exposed an elite ketamine supply network. Five charged including a doctor dubbed the Ketamine Queen.
+- [Jenny Moore](Jenny_Moore.md): Journalist investigating child trafficking. Filed an FBI report. Found dead in a DC hotel weeks later.
+- [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md): The DC Madam said publicly she would never hang herself. Found hanged 16 days after conviction.
+- [Ruslana Korshunova](Ruslana_Korshunova.md): Flew on Epstein's jet at 18. Two years later fell from the 9th floor.
 
 ## Sources
 - Seattle Police Department case files (partially released 2014)

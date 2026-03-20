@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Serena Shim
 Lebanese-American journalist for Press TV who died in a suspicious car crash in Turkey in 2014, two days after reporting that Turkish intelligence (MIT) had accused her of espionage for her coverage of ISIS fighters using UN World Food Programme trucks to cross the Syria-Turkey border.
@@ -62,6 +62,12 @@ In the days before her death, Shim reported having obtained images of ISIS and o
 
 - [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md) — Journalist killed for investigative reporting
 - [Jan Kuciak](Jan_Kuciak.md) — Journalist killed for investigative reporting
+## Other Shocking Stories
+
+- [Anastasia Baburova](Anastasia_Baburova.md): A 25-year-old journalism student shot dead on a Moscow sidewalk trying to save a human rights lawyer.
+- [Roman Tsepov](Roman_Tsepov.md): Putin's former personal security chief died of radioactive poisoning two years before they did it to Litvinenko.
+- [Sakine Cansiz](Sakine_Cansiz.md): PKK co-founder shot execution-style in Paris alongside two other Kurdish women. Turkish intelligence suspected.
+- [Anwar al-Awlaki](Anwar_al_Awlaki.md): First American citizen deliberately killed by his own government without trial. Obama signed the order.
 
 ## Sources
 

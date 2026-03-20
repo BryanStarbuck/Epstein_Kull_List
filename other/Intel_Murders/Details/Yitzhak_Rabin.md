@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Yitzhak Rabin
 Israeli Prime Minister shot and killed by far-right extremist Yigal Amir at a peace rally in Tel Aviv on November 4, 1995. Allegations persist that the Shin Bet domestic intelligence service failed to prevent the assassination despite operating an agent provocateur, Avishai Raviv, within the extremist milieu surrounding the assassin.
@@ -65,6 +65,12 @@ The Oslo process was fiercely opposed by Israel's far right, including settler m
 
 - [Olof Palme](Olof_Palme.md) — Another head of government assassinated under circumstances raising intelligence questions
 - [Benazir Bhutto](Benazir_Bhutto.md) — Political leader assassinated with alleged intelligence service failures
+## Other Shocking Stories
+
+- [Anwar al-Awlaki](Anwar_al_Awlaki.md): First American citizen deliberately killed by his own government without trial. Obama signed the order.
+- [John Lennon](John_Lennon.md): FBI surveilled him for years under COINTELPRO. His killer had CIA-connected ties and unexplained world travel.
+- [Zia ul-Haq](Zia_ul_Haq.md): Pakistan's president, the US ambassador, and top generals all died in one plane crash. Sabotage widely suspected.
+- [Wael Zwaiter](Wael_Zwaiter.md): Palestinian intellectual shot twelve times in Rome. First kill in Mossad's post-Munich revenge campaign. Possibly wrong man.
 
 ## Sources
 

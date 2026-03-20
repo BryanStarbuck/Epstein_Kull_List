@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Manuel Buendia
 Mexico's most influential political columnist, assassinated for investigating the nexus between the CIA, Mexico's Federal Security Directorate (DFS), and drug trafficking cartels.
@@ -76,7 +76,7 @@ The Camarena affair ultimately forced the Mexican government to dissolve the DFS
 > "Manuel Buendia was the most-read journalist in Mexico's print media, and is often cited by newspapers and journalists as the most influential political columnist in Mexico of the second half of the 20th century."
 > — *Wikipedia*
 
-> "The murder of Manuel Buendia...brought to light the complicity between drug traffickers and the Direccion Federal de Seguridad (DFS), which enjoyed the support of or worked on behalf of the CIA."
+> "The murder of Manuel Buendia..brought to light the complicity between drug traffickers and the Direccion Federal de Seguridad (DFS), which enjoyed the support of or worked on behalf of the CIA."
 > — *Drug Trafficking, the Informal Order, and Caciques*, Taylor & Francis
 
 > The book "exposes deadly connections among historical events usually remembered as isolated episodes, tracking a Cold War confrontation that has compromised the national interests of both Mexico and the United States."
@@ -95,7 +95,13 @@ The Camarena affair ultimately forced the Mexican government to dissolve the DFS
 - [Gary Webb](Gary_Webb.md) — Journalist who exposed CIA-Contra-crack cocaine connection; career destroyed and died under suspicious circumstances
 - [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating PROMIS/intelligence connections who died before publication
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Isaac Kappy](Isaac_Kappy.md): Said 'if I die, it wasn't suicide' on camera. Fell from a bridge 60 days before Epstein's arrest.
+- [Daniel Pearl](Daniel_Pearl.md): Wall Street Journal reporter beheaded in Pakistan while investigating ISI links to Al-Qaeda.
+- [Alexander Perepilichnyy](Alexander_Perepilichnyy.md): Helped expose Russia's $230 million fraud. Dropped dead jogging outside his Surrey home. Insurers suspected poisoning.
+- [Carlos Prats](Carlos_Prats.md): Chilean general killed by a DINA car bomb in Buenos Aires. Operation Condor hunted dissidents across continents.
 
 ## Sources
 

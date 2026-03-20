@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Salvador Allende
 Chilean president overthrown and killed during the CIA-backed military coup of September 11, 1973.
@@ -23,7 +23,7 @@ The CIA spent $8 million to destabilize Allende's democratically elected governm
 
 On September 11, 1973, the Chilean military — led by General Augusto Pinochet — launched a coordinated coup d'etat against President Allende. The air force bombed La Moneda, the presidential palace, with Hawker Hunter jets. Ground troops surrounded the building and demanded surrender.
 
-Allende reportedly refused to leave the palace or resign. He allegedly gave a final radio address to the Chilean people, saying: "I will not resign... I will repay the loyalty of the people with my life." During the final assault, Allende was found dead in his office from a gunshot wound. He was reportedly holding an AK-47 assault rifle that had been a gift from Fidel Castro.
+Allende reportedly refused to leave the palace or resign. He allegedly gave a final radio address to the Chilean people, saying: "I will not resign.. I will repay the loyalty of the people with my life." During the final assault, Allende was found dead in his office from a gunshot wound. He was reportedly holding an AK-47 assault rifle that had been a gift from Fidel Castro.
 
 A 2011 exhumation and autopsy by an international team of forensic experts concluded that Allende died by suicide — two gunshot wounds consistent with a self-inflicted injury using the AK-47. A Chilean judge affirmed this finding in December 2011. However, the question of whether Allende was murdered by soldiers during the assault had persisted for decades, and his family had long disputed the suicide ruling.
 
@@ -57,14 +57,20 @@ As president, Allende nationalized Chile's copper mines (which were largely owne
 
 > "I don't see why we need to stand by and watch a country go communist due to the irresponsibility of its own people. The issues are much too important for the Chilean voters to be left to decide for themselves." — Reportedly attributed to Henry Kissinger, 1970
 
-> "I will not resign... Workers of my country: I have faith in Chile and its destiny." — Salvador Allende, final radio address, September 11, 1973
+> "I will not resign.. Workers of my country: I have faith in Chile and its destiny." — Salvador Allende, final radio address, September 11, 1973
 
 ## See Also
 
 - [Rene Schneider](Rene_Schneider.md) — Chilean general assassinated by CIA-backed plotters in 1970 to enable the coup
 - [Orlando Letelier](Orlando_Letelier.md) — Chilean diplomat killed by DINA car bomb in Washington DC, 1976
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Trevor Moore](Trevor_Moore.md): Comedian with 100 million views exposing elite trafficking and CIA crimes fell from a balcony at 2:30 a.m.
+- [Karen Silkwood](Karen_Silkwood.md): Drove toward the New York Times with nuclear documents. Forced off the road. Documents never found.
+- [Jaime Roldos](Jaime_Roldos.md): Ecuador's president died in a plane crash. Two months later, Panama's leader died the same way.
+- [Jamal Khashoggi](Jamal_Khashoggi.md): Walked into a Saudi consulate for a marriage document. A 15-man hit squad strangled and dismembered him inside.
 
 ## Sources
 

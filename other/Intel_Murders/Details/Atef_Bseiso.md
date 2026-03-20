@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Atef Bseiso
 PLO intelligence chief and liaison with Western intelligence agencies, shot dead in Paris in 1992 as part of Operation Wrath of God.
@@ -56,7 +56,13 @@ Atef Bseiso was a rising star within the PLO hierarchy by the early 1990s. He se
 - [Abu Jihad](Abu_Jihad.md) — PLO co-founder killed by Israeli commandos, Tunis 1988
 - Zuheir Mohsen — PLO/as-Sa'iqa leader shot in Cannes, 1979
 
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Abu Jihad (Khalil al-Wazir)](Abu_Jihad.md): Israeli commandos broke into his Tunis home and shot him in front of his wife and daughter.
+- [Orlando Letelier](Orlando_Letelier.md): Chilean diplomat killed by a car bomb on Embassy Row in Washington, DC. CIA knew Pinochet ordered it.
+- [Eduardo Mondlane](Eduardo_Mondlane.md): Mozambican independence leader killed by a book bomb. Portuguese secret police and possibly CIA implicated.
+- [Sergei Skripal and Dawn Sturgess](Sergei_Skripal.md): Novichok nerve agent smeared on his door handle in England. UK inquiry confirmed Putin ordered the attack.
 
 ## Sources
 

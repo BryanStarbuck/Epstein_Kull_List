@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Frank Olson
 CIA biological weapons scientist secretly dosed with LSD under MKULTRA, who fell to his death from a New York hotel window nine days later. Forensic evidence from 1994 exhumation indicates homicide.
@@ -63,14 +63,20 @@ Olson had reportedly traveled to Europe in the summer of 1953, where he allegedl
 
 > "Well, he's gone." — Robert Lashbrook, CIA officer, phone call made moments after Olson's death, as recalled by hotel manager Armand Pastore
 
-> "I was convinced from the very beginning that something was seriously wrong... the only plausible explanation is that Frank Olson was murdered." — Eric Olson, Frank Olson's son
+> "I was convinced from the very beginning that something was seriously wrong.. the only plausible explanation is that Frank Olson was murdered." — Eric Olson, Frank Olson's son
 
 ## See Also
 
 - [William Colby](William_Colby.md) — CIA Director who apologized to the Olson family; died under suspicious circumstances in 1996
 - [Danny Casolaro](Danny_Casolaro.md) — journalist investigating intelligence operations, found dead in 1991
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Wadie Haddad](Wadie_Haddad.md): Mossad allegedly laced his Belgian chocolate with a biological agent. Doctors diagnosed 'leukemia.'
+- [Trevor Moore](Trevor_Moore.md): Comedian with 100 million views exposing elite trafficking and CIA crimes fell from a balcony at 2:30 a.m.
+- [Park Chung-hee](Park_Chung_hee.md): South Korea's president shot dead by his own intelligence chief at a private dinner.
+- [Salah al-Arouri](Salah_al_Arouri.md): Hamas deputy leader killed by Israeli drone strike in Beirut during the Gaza war.
 
 ## Sources
 

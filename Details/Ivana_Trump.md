@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Ivana Trump
 
@@ -45,18 +45,24 @@ The connection to Epstein is tangential — through her ex-husband's social rela
 
 ## Key Quotes from Media Coverage
 
-> "Well I guess Ivana Trump wont be corroborating or refuting any of the depositions tomorrow of Donald, Ivanka, Eric and Don Jr... How convenient #Epsteined"
+> "Well I guess Ivana Trump wont be corroborating or refuting any of the depositions tomorrow of Donald, Ivanka, Eric and Don Jr.. How convenient #Epsteined"
 > — Viral tweet that helped drive the #Epsteined hashtag, which racked up over 8,000 tweets, via [Rolling Stone](https://www.rollingstone.com/culture/culture-news/ivana-trump-epsteined-twitter-1383781/)
 
 > "'Epsteined' is the ominous new verb for our paranoid times."
 > — [MEL Magazine](https://melmagazine.com/en-us/story/ivana-trump-death-epsteined-theories)
 
-> "The manner of death is accident... The cause of death is blunt impact injuries of torso."
+> "The manner of death is accident.. The cause of death is blunt impact injuries of torso."
 > — New York City Office of Chief Medical Examiner, ruling issued July 15, 2022, via [CNBC](https://www.cnbc.com/2022/07/15/ivana-trump-died-from-accident-blunt-impact-trauma-medical-examiner-rules.html)
 
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md)
+## Other Shocking Stories
+
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md): Found hanged in his cell awaiting trial. Same method as Epstein. Both cameras conveniently malfunctioned.
+- [Virginia Giuffre](Virginia_Giuffre.md): Epstein's most prominent accuser. Posted publicly she was not suicidal. Ruled suicide anyway.
+- [Robert Echeverria](Robert_Echeverria.md): Seventh NYPD officer linked to the Weiner laptop. Dead from a gunshot wound. Seven officers, one laptop.
+- [Roy Den Hollander](Roy_Den_Hollander.md): Former Kroll Associates operative. Murdered a judge's son over the Epstein-Deutsche Bank case. Dead within 24 hours.
 
 ## Sources
 

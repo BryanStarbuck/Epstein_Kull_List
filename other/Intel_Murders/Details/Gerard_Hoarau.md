@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Gerard Hoarau
 Seychellois opposition leader in exile, shot dead on his doorstep in London in 1985. The murder remains unsolved, with suspicion falling on the Seychelles government of France-Albert Rene and possible South African intelligence involvement.
@@ -57,6 +57,12 @@ Hoarau was born in Seychelles and became politically active in opposition to Fra
 
 - [Olof Palme](Olof_Palme.md) — Another political figure assassinated in a still-unsolved case
 - [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md) — Journalist assassinated for investigating government corruption
+## Other Shocking Stories
+
+- [David Webster](David_Webster.md): South African academic shot dead outside his home by military intelligence for documenting apartheid-era death squads.
+- [Milton William "Bill" Cooper](Bill_Cooper.md): Predicted a major false-flag attack on radio in June 2001. Shot dead by police two months after 9/11.
+- [Victor Jara](Victor_Jara.md): Chilean folk singer's hands were broken. Then soldiers machine-gunned him with 44 rounds in a stadium.
+- [Natalya Estemirova](Natalya_Estemirova.md): Kidnapped from Kadyrov's Chechnya for documenting atrocities. Found shot dead. Unsolved for fifteen years.
 
 ## Sources
 

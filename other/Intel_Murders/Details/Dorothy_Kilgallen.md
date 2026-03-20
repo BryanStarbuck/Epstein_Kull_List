@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Dorothy Kilgallen
 Prominent journalist and television personality found dead of barbiturate overdose in 1965 after privately interviewing Jack Ruby and aggressively investigating the JFK assassination.
@@ -60,7 +60,13 @@ After the JFK assassination in November 1963, Kilgallen became one of the few ma
 - [Danny Casolaro](Danny_Casolaro.md) — another investigator whose files vanished after death
 - [Gary Webb](Gary_Webb.md) — journalist who died while investigating intelligence connections
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Victor Jara](Victor_Jara.md): Chilean folk singer's hands were broken. Then soldiers machine-gunned him with 44 rounds in a stadium.
+- [Kim Jong-nam](Kim_Jong_nam.md): Two women smeared VX nerve agent on his face at a crowded airport. Dead in twenty minutes.
+- [Eduardo Mondlane](Eduardo_Mondlane.md): Mozambican independence leader killed by a book bomb. Portuguese secret police and possibly CIA implicated.
+- [Maxim Kuzminov](Maxim_Kuzminov.md): Russian pilot defected to Ukraine. Found shot dead in Spain with Russian ammunition. SVR called him 'traitor.'
 
 ## Sources
 

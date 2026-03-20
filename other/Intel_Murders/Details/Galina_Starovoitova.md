@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Galina Starovoitova
 Russian liberal lawmaker and human rights champion shot dead in her St. Petersburg apartment lobby in 1998 — one of the most prominent political assassinations in post-Soviet Russia.
@@ -57,6 +57,12 @@ By 1998, Starovoitova was an outspoken critic of communists, extreme nationalist
 - [Boris Nemtsov](Boris_Nemtsov.md) — another Russian opposition figure assassinated
 - [Anna Politkovskaya](Anna_Politkovskaya.md) — journalist critical of Putin, murdered in 2006
 - [Sergei Yushenkov](Sergei_Yushenkov.md) — Duma member investigating FSB, shot in 2003
+## Other Shocking Stories
+
+- [Mehdi Ben Barka](Mehdi_Ben_Barka.md): Moroccan opposition leader kidnapped in broad daylight in Paris by French and Moroccan intelligence. Body never found.
+- [Sergei Protosenya](Sergei_Protosenya.md): Former Russian gas executive found hanged in his Spanish villa. His family disputes the ruling.
+- [Serena Shim](Serena_Shim.md): Reported ISIS using UN food trucks. Turkish intelligence accused her of espionage.
+- [Isaac Kappy](Isaac_Kappy.md): Said 'if I die, it wasn't suicide' on camera. Fell from a bridge 60 days before Epstein's arrest.
 
 ## Sources
 

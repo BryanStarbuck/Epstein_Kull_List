@@ -1,7 +1,7 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md) | [Weiner Laptop Overview](../other/laptop.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md) | [Weiner Laptop Overview](./other/laptop.md)
 
 # Joseph Calabrese
-NYPD Brooklyn Homicide detective who allegedly viewed [Weiner laptop](../other/laptop.md) evidence, found dead one day after Deputy Chief [Steven Silks](Steven_Silks.md).
+NYPD Brooklyn Homicide detective who allegedly viewed [Weiner laptop](./other/laptop.md) evidence, found dead one day after Deputy Chief [Steven Silks](Steven_Silks.md).
 
 | Field | Details |
 |-------|---------|
@@ -24,7 +24,7 @@ Detective Joseph Calabrese, 58, was found dead at Plum Beach in Brooklyn on June
 
 ## Connection to Weiner Laptop
 
-Calabrese is named in online claims as one of 12 NYPD officers who allegedly viewed files on [Anthony Weiner's laptop](../other/laptop.md). As a homicide detective, he is alleged to have had relevant investigative access. These claims have not been independently verified by credible news sources. The FBI, not the NYPD, had formal custody of the laptop.
+Calabrese is named in online claims as one of 12 NYPD officers who allegedly viewed files on [Anthony Weiner's laptop](./other/laptop.md). As a homicide detective, he is alleged to have had relevant investigative access. These claims have not been independently verified by credible news sources. The FBI, not the NYPD, had formal custody of the laptop.
 
 ## Why This Death Possibly Raises Questions
 
@@ -55,6 +55,12 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 
 > "Three brave members of our police force have taken their lives in recent days. All of them led lives that made their communities better."
 > — New York City Mayor Bill de Blasio ([CBS News](https://www.cbsnews.com/news/nypd-suicide-third-officer-dies-by-suspected-suicide-in-less-than-10-days-today-2019-06-14/))
+## Other Shocking Stories
+
+- [Corey Haim](Corey_Haim.md): Allegedly raped on a film set at age 13. Spent 25 years in addiction. Dead at 38.
+- [Vitaly Churkin](Vitaly_Churkin.md): Russian UN Ambassador. Sudden cardiac event. Cause of death withheld by State Department. Autopsy results sealed.
+- [Nancy Schaefer](Nancy_Schaefer.md): State senator exposing child trafficking through CPS. Shot in the back with an untraceable gun no family recognized.
+- [Thomas Bowers](Thomas_Bowers.md): Deutsche Bank exec who personally handled Epstein's money. Found hanged at home. Bank paid $150M in fines.
 
 ## Sources
 

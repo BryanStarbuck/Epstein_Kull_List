@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Pavel Sheremet
 Belarusian-born investigative journalist killed by a car bomb in Kyiv in 2016 — one of the most prominent unsolved journalist murders in Eastern Europe. A critic of authoritarian leaders in Belarus, Russia, and Ukraine.
@@ -63,6 +63,12 @@ In 2012, he began working at the internet newspaper Ukrainska Pravda, becoming o
 - [Anna Politkovskaya](Anna_Politkovskaya.md) — Russian journalist critical of Putin, murdered in 2006
 - [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md) — Maltese journalist killed by car bomb in 2017
 - [Arkady Babchenko](Arkady_Babchenko.md) — Russian journalist whose assassination was faked by Ukrainian SBU in 2018
+## Other Shocking Stories
+
+- [Olof Palme](Olof_Palme.md): Sweden's prime minister shot dead walking home from a movie. No bodyguards. Case unsolved for 34 years.
+- [Pat Tillman](Pat_Tillman.md): Three bullets to the forehead at close range. The Pentagon called it 'friendly fire' and burned his uniform.
+- [Orlando Letelier](Orlando_Letelier.md): Chilean diplomat killed by a car bomb on Embassy Row in Washington, DC. CIA knew Pinochet ordered it.
+- [Sakine Cansiz](Sakine_Cansiz.md): PKK co-founder shot execution-style in Paris alongside two other Kurdish women. Turkish intelligence suspected.
 
 ## Sources
 

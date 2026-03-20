@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Jan Kuciak
 Slovak investigative journalist shot dead alongside his fiancee in their home in a contract killing linked to his reporting on Italian mafia connections to Slovak politicians.
@@ -57,6 +57,12 @@ He was the first journalist murdered in Slovakia since the country's independenc
 
 - [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md) -- Maltese journalist killed by car bomb five months earlier
 - [Anna Politkovskaya](Anna_Politkovskaya.md) -- journalist killed for investigative reporting
+## Other Shocking Stories
+
+- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
+- [Fred Hampton](Fred_Hampton.md): FBI gave police his floor plan. They drugged him, then shot him in bed while he slept.
+- [David Webster](David_Webster.md): South African academic shot dead outside his home by military intelligence for documenting apartheid-era death squads.
+- [Arkady Babchenko](Arkady_Babchenko.md): Ukraine faked his assassination to catch Russian hitmen. The plot to kill him was real.
 
 ## Sources
 

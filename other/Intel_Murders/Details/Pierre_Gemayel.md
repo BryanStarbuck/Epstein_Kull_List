@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Pierre Gemayel
 Lebanese Christian politician and cabinet minister, assassinated in a drive-by shooting in Beirut in 2006 — the fifth anti-Syrian figure killed in Lebanon in two years.
@@ -58,6 +58,12 @@ Pierre Amine Gemayel came from one of Lebanon's most prominent Maronite Christia
 - [Rafik Hariri](Rafik_Hariri.md) — Lebanese PM assassinated by car bomb in 2005, triggering the Cedar Revolution
 - [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md) — Journalist assassinated by car bomb for investigations into corruption
 - [Benazir Bhutto](Benazir_Bhutto.md) — Political figure assassinated in a bombing and shooting attack
+## Other Shocking Stories
+
+- [Alexei Navalny](Alexei_Navalny.md): Survived FSB Novichok poisoning, tricked his assassin into confessing on camera, then died in an Arctic prison.
+- [Ravil Maganov](Ravil_Maganov.md): Lukoil's chairman fell from a hospital window. His board had just called for ending the Ukraine war.
+- [Anastasia Baburova](Anastasia_Baburova.md): A 25-year-old journalism student shot dead on a Moscow sidewalk trying to save a human rights lawyer.
+- [Ismail Haniyeh](Ismail_Haniyeh.md): Hamas political chief killed by a bomb inside a Tehran guesthouse during Iran's presidential inauguration.
 
 ## Sources
 

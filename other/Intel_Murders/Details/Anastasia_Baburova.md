@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Anastasia Baburova
 Novaya Gazeta freelance journalist shot dead in Moscow in 2009 while trying to help human rights lawyer Stanislav Markelov, who had just been assassinated beside her.
@@ -58,6 +58,12 @@ Her work for Novaya Gazeta placed her in a long and tragic lineage. The newspape
 - [Anna Politkovskaya](Anna_Politkovskaya.md) — Novaya Gazeta journalist murdered in 2006
 - [Natalya Estemirova](Natalya_Estemirova.md) — human rights activist killed later in 2009
 - [Paul Klebnikov](Paul_Klebnikov.md) — journalist shot dead in Moscow in 2004
+## Other Shocking Stories
+
+- [Alexei Navalny](Alexei_Navalny.md): Survived FSB Novichok poisoning, tricked his assassin into confessing on camera, then died in an Arctic prison.
+- [Alexander Zakharchenko](Alexander_Zakharchenko.md): Separatist leader blown up by a bomb hidden inside a Donetsk cafe he visited daily.
+- [Abu Jihad (Khalil al-Wazir)](Abu_Jihad.md): Israeli commandos broke into his Tunis home and shot him in front of his wife and daughter.
+- [Max Spiers](Max_Spiers.md): Texted his mother 'if anything happens, investigate.' Vomited two litres of black fluid and died in Warsaw.
 
 ## Sources
 

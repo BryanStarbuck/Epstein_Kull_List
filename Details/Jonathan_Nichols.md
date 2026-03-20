@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Jonathan Nichols
 
@@ -85,7 +85,7 @@ Nichols married Talitha Joy Dyke on August 18, 1992, in Oklahoma City. They had 
   - [Linda Collins-Smith](Linda_Collins_Smith.md) — Arkansas state senator investigating DHS/CPS child trafficking, stabbed to death May 2019 (same week as Nichols)
   - [Nancy Schaefer](Nancy_Schaefer.md) — Georgia state senator who published "The Corrupt Business of Child Protective Services" exposing CPS corruption, killed March 2010 in what was ruled a murder-suicide
   - [Philip Haney](Philip_Haney.md) — DHS whistleblower on trafficking networks, found shot dead February 2020, ruled suicide
-  - [Ted Gunderson](Ted_Gunderson.md) — Former FBI Special Agent in Charge who spent decades investigating the [Franklin](../other/groups/franklin_scandal.md) scandal and "brownstone operations" (intelligence-run sexual blackmail using minors), died 2011
+  - [Ted Gunderson](Ted_Gunderson.md) — Former FBI Special Agent in Charge who spent decades investigating the [Franklin](./other/groups/franklin_scandal.md) scandal and "brownstone operations" (intelligence-run sexual blackmail using minors), died 2011
 
 - **No known motive for suicide:** Colleagues and fellow legislators expressed shock at Nichols' death. State Sen. Rob Standridge issued a statement calling it "a tremendous loss." Speaker Charles McCall, Nichols' employer at the time, said Nichols "served the people of Oklahoma with absolute distinction." No public reports have indicated financial distress, legal trouble, or personal crisis that would explain the suicide.
 
@@ -124,6 +124,12 @@ Nichols married Talitha Joy Dyke on August 18, 1992, in Oklahoma City. They had 
 - [Philip Haney](Philip_Haney.md) — DHS whistleblower on trafficking networks; found shot dead in 2020, ruled suicide
 - [Ted Gunderson](Ted_Gunderson.md) — Former FBI SAC who investigated Franklin scandal and elite blackmail "brownstone operations" for decades; died 2011, associates allege arsenic poisoning
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Arrested on trafficking charges six weeks after Nichols' death; found dead in jail cell August 2019
+## Other Shocking Stories
+
+- [Corey Haim](Corey_Haim.md): Allegedly raped on a film set at age 13. Spent 25 years in addiction. Dead at 38.
+- [Frank Yassenoff](Frank_Yassenoff.md): Shot to death alongside his fiancee. Both murders unsolved. Killer's partner later linked to Epstein's network.
+- [Bill Richardson](Bill_Richardson.md): Named in unsealed Epstein documents. Met Epstein 9+ times after his conviction. Died in his sleep.
+- [Philip Haney](Philip_Haney.md): DHS whistleblower on trafficking networks. Shot dead. Family doubts the suicide ruling. Investigation stalled.
 
 ## Sources
 

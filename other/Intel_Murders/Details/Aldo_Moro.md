@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Aldo Moro
 Former Italian Prime Minister kidnapped and murdered by the Red Brigades after 55 days in captivity, with persistent allegations of CIA and Operation Gladio involvement in allowing or facilitating the killing.
@@ -64,7 +64,13 @@ Moro was kidnapped on the very morning the Historic Compromise was to be formali
 - [Olof Palme](Olof_Palme.md) -- European leader allegedly killed with intelligence connections
 - [Dag Hammarskjold](Dag_Hammarskjold.md) -- leader whose death involved multiple intelligence agencies
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Philip Haney](Philip_Haney.md): DHS whistleblower on terrorism found shot dead. Family says it was not suicide.
+- [Yuri Shchekochikhin](Yuri_Shchekochikhin.md): Russian journalist died days before meeting the FBI. Symptoms matched poisoning. Medical records sealed.
+- [Omar Torrijos](Omar_Torrijos.md): Panama's leader died in a plane crash two months after Ecuador's president died the same way.
+- [Sergei Skripal and Dawn Sturgess](Sergei_Skripal.md): Novichok nerve agent smeared on his door handle in England. UK inquiry confirmed Putin ordered the attack.
 
 ## Sources
 

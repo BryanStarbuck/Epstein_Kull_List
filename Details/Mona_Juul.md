@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Mona Juul
 Norwegian ambassador who resigned after Epstein willed $5M per child; under criminal corruption investigation.
@@ -65,6 +65,12 @@ Juul's case is part of a broader crisis in Norway:
 - [Thorbjorn Jagland](Thorbjorn_Jagland.md) — Norwegian PM, charged over Epstein ties
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Primary subject
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Convicted co-conspirator
+## Other Shocking Stories
+
+- [Thomas Bowers](Thomas_Bowers.md): Deutsche Bank exec who personally handled Epstein's money. Found hanged at home. Bank paid $150M in fines.
+- [Efrain "Stone" Reyes](Efrain_Stone_Reyes.md): Epstein's cellmate who knew what happened that night. Talked to investigators. Dead within months.
+- [Arthur Shapiro](Arthur_Shapiro.md): Gunned down weeks before IRS questioning. His killer's partner had FBI links to Epstein's network.
+- [Natacha Jaitt](Natacha_Jaitt.md): Accused elites of pedophilia on national TV.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Ronald R. Eppinger Sr.
 Alleged first trafficker of [Virginia Giuffre](Virginia_Giuffre.md) to Epstein, died in Miami with undocumented cause.
@@ -47,6 +47,12 @@ Eppinger was described as a Miami pimp who allegedly was the first person to tra
 
 - [Virginia Giuffre](Virginia_Giuffre.md) — Allegedly trafficked by Eppinger to Epstein
 - [Jeffrey Epstein](Jeffrey_Epstein.md)
+## Other Shocking Stories
+
+- [Anne Heche](Anne_Heche.md): Starred in a child trafficking film. Weeks later, crashed her car into a house and never regained consciousness.
+- [Matthew Perry](Matthew_Perry.md): His death exposed an elite ketamine supply network. Five charged including a doctor dubbed the Ketamine Queen.
+- [John Connolly](John_Connolly.md): Co-authored the book that exposed Epstein to millions. Died of a brief illness at 78.
+- [Denise George](Denise_George.md): Filed the lawsuit that exposed JPMorgan's role. Fired four days later.
 
 ## Sources
 

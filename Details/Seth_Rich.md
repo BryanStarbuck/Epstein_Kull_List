@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Seth Rich
 DNC voter expansion data director shot and killed in Washington, DC at age 27; ruled a botched robbery but nothing was stolen. His murder became the subject of conspiracy theories alleging he was the WikiLeaks source for DNC emails — claims contradicted by the Mueller investigation and rejected by his family.
@@ -43,7 +43,7 @@ At the DNC, Rich served as the Voter Expansion Data Director, a position focused
 Seth Rich has no known direct connection to [Jeffrey Epstein](Jeffrey_Epstein.md), his trafficking operation, or any of the individuals in Epstein's network. The connection to this project is tangential, running through several broad threads:
 
 - **DNC/political circles:** Rich worked for the DNC, and several individuals with Epstein connections operated in Democratic political circles (Bill Clinton, [Bill Richardson](Bill_Richardson.md), etc.). However, Rich was a mid-level data staffer with no known contact with any Epstein-linked figures.
-- **Washington, DC pattern:** Rich's death fits the broader pattern documented in this project of political operatives, whistleblowers, and investigators dying in the Washington, DC area. The DC area has been the site of multiple overlapping blackmail and trafficking operations spanning decades — [Craig Spence's operation](../other/groups/craig_spence.md), the [Henry Vinson Escort Service](../other/groups/henry_vinson_escort_service.md), the [DC Madam](../other/groups/dc_madam.md), and others.
+- **Washington, DC pattern:** Rich's death fits the broader pattern documented in this project of political operatives, whistleblowers, and investigators dying in the Washington, DC area. The DC area has been the site of multiple overlapping blackmail and trafficking operations spanning decades — [Craig Spence's operation](./other/groups/craig_spence.md), the [Henry Vinson Escort Service](./other/groups/henry_vinson_escort_service.md), the [DC Madam](./other/groups/dc_madam.md), and others.
 - **"Clinton body count" overlap:** Rich's death became part of the so-called "Clinton body count" conspiracy theory, which overlaps with some Epstein-connected deaths like [Vince Foster](Vince_Foster.md) and [Mark Middleton](Mark_Middleton.md). However, there is no verified evidence connecting Rich's death to any Clinton-related cover-up.
 - **WikiLeaks/political information:** The conspiracy theory that Rich leaked DNC emails to WikiLeaks places him in a narrative about political information and cover-ups, but this theory has been contradicted by the Mueller investigation and intelligence community findings.
 
@@ -166,6 +166,12 @@ Important context often omitted from conspiracy narratives:
 - [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md) — The "DC Madam" who said she would never kill herself; found hanged in 2007
 - [John Ashe](John_Ashe.md) — UN General Assembly president who died before his corruption trial in 2016; another politically connected death during the same period
 - [Mark Middleton](Mark_Middleton.md) — Clinton aide who authorized Epstein's White House visits; died suspiciously in 2022
+## Other Shocking Stories
+
+- [Anastasia Drozdova](Anastasia_Drozdova.md): Her friend Korshunova fell from a building.
+- [Aaron Swartz](Aaron_Swartz.md): Built the tool that protects whistleblowers. Faced 35 years for downloading research papers. MIT took Epstein's money.
+- [Wendy Leigh](Wendy_Leigh.md): Investigating Jeffrey Epstein. Found beneath her London balcony. Ex-husband rejects the suicide ruling.
+- [Danny Casolaro](Danny_Casolaro.md): Investigating the same intel op that created Epstein's blackmail machine. Found with slashed wrists. Briefcase gone.
 
 ## Sources
 

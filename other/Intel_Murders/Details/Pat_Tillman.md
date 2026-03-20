@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Pat Tillman
 NFL star turned Army Ranger killed by "friendly fire" in Afghanistan. Pentagon covered up the true circumstances for weeks and used his death as pro-war propaganda.
@@ -72,6 +72,12 @@ Tillman was, by multiple accounts, becoming deeply critical of the Iraq War, whi
 
 - [Fred Hampton](Fred_Hampton.md) — killed by government forces in a planned operation, with subsequent cover-up
 - [Michael Hastings](Michael_Hastings.md) — journalist killed while investigating military/intelligence officials
+## Other Shocking Stories
+
+- [Serena Shim](Serena_Shim.md): Reported ISIS using UN food trucks. Turkish intelligence accused her of espionage.
+- [Gary Webb](Gary_Webb.md): Two gunshots to the head — ruled suicide. He exposed the CIA's crack cocaine pipeline into Black neighborhoods.
+- [Fred Hampton](Fred_Hampton.md): FBI gave police his floor plan. They drugged him, then shot him in bed while he slept.
+- [Benazir Bhutto](Benazir_Bhutto.md): Pakistan's first female prime minister. UN found her own government failed to protect her from assassination.
 
 ## Sources
 

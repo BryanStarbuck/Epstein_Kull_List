@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Virginia Giuffre
 Most prominent Epstein accuser who said she was 'not suicidal,' died by suicide in Australia.
@@ -82,8 +82,8 @@ In February 2026, newly released Epstein files shed additional light on her case
 
 ## Related Groups
 
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — The operation that trafficked her
-- [MC2 Model Management](../other/groups/mc2_model_management.md) — Brunel's agency that she testified provided girls to Epstein
+- [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) — The operation that trafficked her
+- [MC2 Model Management](./other/groups/mc2_model_management.md) — Brunel's agency that she testified provided girls to Epstein
 
 ## See Also
 
@@ -97,8 +97,14 @@ In February 2026, newly released Epstein files shed additional light on her case
 
 ## Related Locations
 
-- [Other International](../other/locations/other_international.md) — Died at her farm in Neergabby, Western Australia; trafficked internationally by Epstein
-- [South Florida](../other/locations/south_florida.md) — Recruited by Ghislaine Maxwell in Florida; raised primarily in the state
+- [Other International](./other/locations/other_international.md) — Died at her farm in Neergabby, Western Australia; trafficked internationally by Epstein
+- [South Florida](./other/locations/south_florida.md) — Recruited by Ghislaine Maxwell in Florida; raised primarily in the state
+## Other Shocking Stories
+
+- [Denise George](Denise_George.md): Filed the lawsuit that exposed JPMorgan's role. Fired four days later.
+- [Aaron Swartz](Aaron_Swartz.md): Built the tool that protects whistleblowers. Faced 35 years for downloading research papers. MIT took Epstein's money.
+- [Johnny Rios](Johnny_Rios.md): NYPD officer. Allegedly viewed the Weiner laptop. Suicide. Six officers connected to that laptop are gone.
+- [Anastasia Drozdova](Anastasia_Drozdova.md): Her friend Korshunova fell from a building.
 
 ## Sources
 

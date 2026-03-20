@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Denis Voronenkov
 Former Russian State Duma member who defected to Ukraine and was shot dead in broad daylight outside a Kyiv hotel in 2017, after testifying against the Russian government and former Ukrainian president Viktor Yanukovych.
@@ -63,6 +63,12 @@ After his defection, Russia opened criminal cases against him and placed him on 
 - [Zelimkhan Khangoshvili](Zelimkhan_Khangoshvili.md) — Chechen dissident shot dead in Berlin by Russian agent
 - [Boris Nemtsov](Boris_Nemtsov.md) — opposition leader shot near the Kremlin
 - [Maxim Kuzminov](Maxim_Kuzminov.md) — Russian helicopter pilot defector found dead in Spain
+## Other Shocking Stories
+
+- [Vladimir Kara-Murza](Vladimir_Kara_Murza.md): Poisoned by the FSB twice and survived both times.
+- [Maxim Kuzminov](Maxim_Kuzminov.md): Russian pilot defected to Ukraine. Found shot dead in Spain with Russian ammunition. SVR called him 'traitor.'
+- [Mahmoud Hamshari](Mahmoud_Hamshari.md): Mossad planted a bomb inside his telephone. When he answered, they detonated it remotely in Paris.
+- [Sergei Skripal and Dawn Sturgess](Sergei_Skripal.md): Novichok nerve agent smeared on his door handle in England. UK inquiry confirmed Putin ordered the attack.
 
 ## Sources
 

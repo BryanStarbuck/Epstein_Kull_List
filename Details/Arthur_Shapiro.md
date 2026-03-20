@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Arthur Shapiro
 Lawyer gunned down in unsolved murder; Epstein took his position weeks later.
@@ -53,7 +53,7 @@ The prime suspect in the Shapiro murder was [Berry L. Kessler](Berry_Kessler.md)
 
 ## Related Groups
 
-- [Wexner / L Brands](../other/groups/wexner_l_brands.md) — The Columbus business empire Shapiro managed before his murder; Epstein took his position
+- [Wexner / L Brands](./other/groups/wexner_l_brands.md) — The Columbus business empire Shapiro managed before his murder; Epstein took his position
 
 ## See Also — The Kessler Pattern
 
@@ -66,7 +66,13 @@ The prime suspect in the Shapiro murder was [Berry L. Kessler](Berry_Kessler.md)
 
 ## Related Locations
 
-- [Columbus, Ohio](../other/locations/columbus_ohio.md) — Gunned down in Columbus; managed Les Wexner's finances at L Brands headquarters
+- [Columbus, Ohio](./other/locations/columbus_ohio.md) — Gunned down in Columbus; managed Les Wexner's finances at L Brands headquarters
+## Other Shocking Stories
+
+- [Diana Spencer (Princess of Wales)](Diana_Spencer.md): Wrote 'my husband is planning an accident in my car.' Died in a Paris tunnel crash.
+- [John Ashe](John_Ashe.md): UN General Assembly president. A barbell crushed his throat days before his corruption trial involving Clinton donors.
+- [Esther Salas](Esther_Salas.md): Assigned the Epstein-Deutsche Bank case. Four days later a gunman killed her son and shot her husband.
+- [Jenny Moore](Jenny_Moore.md): Journalist investigating child trafficking. Filed an FBI report. Found dead in a DC hotel weeks later.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Vince Foster
 
@@ -46,7 +46,7 @@ Foster's death was ruled suicide by five investigations with unlimited resources
 
 ## Key Quotes from Media Coverage
 
-> "I made mistakes from ignorance, inexperience and overwork. I did not knowingly violate any law or standard of conduct... Here ruining people is considered sport."
+> "I made mistakes from ignorance, inexperience and overwork. I did not knowingly violate any law or standard of conduct.. Here ruining people is considered sport."
 >
 > — Vince Foster's torn-up resignation letter found in 27 pieces in his briefcase ([The Washington Post: Foster Note Reveals an Anguished Aide](https://www.washingtonpost.com/archive/politics/1993/08/11/foster-note-reveals-an-anguished-aide/43ff5183-ca17-47c1-aa04-6d39839d1dcd/))
 
@@ -54,17 +54,23 @@ Foster's death was ruled suicide by five investigations with unlimited resources
 >
 > — From Jeffrey Epstein's May 25, 2016 email to Michael Wolff, released in 2025 DOJ Epstein files ([Clinton Foundation Timeline](https://www.clintonfoundationtimeline.com/november-12-2025-newly-released-epstein-email-to-michael-wolff-alleges-hillary-had-sexual-affair-with-suicided-vince-foster/))
 
-> "Foster was not meant for the job or the spotlight of public life in Washington... He admitted to his sister that he was depressed shortly before his death, and he sought treatment for depression one day before committing suicide."
+> "Foster was not meant for the job or the spotlight of public life in Washington.. He admitted to his sister that he was depressed shortly before his death, and he sought treatment for depression one day before committing suicide."
 >
 > — [NBC News: Despite Trump's 'Fishy' Comments, Vince Foster Case Is Closed](https://www.nbcnews.com/politics/2016-election/despite-trumps-fishy-comments-vince-foster-case-closed-n579691)
 
 ## Related Groups
 
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — Referenced in Epstein's 2016 emails
+- [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) — Referenced in Epstein's 2016 emails
 
 ## Related Locations
 
-- [Washington DC Area](../other/locations/washington_dc.md) — Found dead at Fort Marcy Park in McLean, Virginia; served as White House deputy counsel
+- [Washington DC Area](./other/locations/washington_dc.md) — Found dead at Fort Marcy Park in McLean, Virginia; served as White House deputy counsel
+## Other Shocking Stories
+
+- [Gary Caradori](Gary_Caradori.md): His plane disintegrated mid-air carrying evidence of elite child trafficking. Briefcase of photos never recovered.
+- [Jonathan Nichols](Jonathan_Nichols.md): Authored death penalty for child molesters. Gunshot to chest ruled suicide. Firearm found in unexpected position.
+- [Andrew Breitbart](Andrew_Breitbart.md): Tweeted about Podesta covering up a trafficking ring. Dropped dead of heart failure before releasing the evidence.
+- [Esther Salas](Esther_Salas.md): Assigned the Epstein-Deutsche Bank case. Four days later a gunman killed her son and shot her husband.
 
 ## Sources
 

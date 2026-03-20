@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Tom Artiom Alexandrovich
 Senior Israeli cybersecurity official arrested in FBI child sex predator sting in Las Vegas; posted bail and fled to Israel within 48 hours.
@@ -98,14 +98,20 @@ Alexandrovich waived his right to a speedy trial. His trial was scheduled for Ma
 
 ## Connection to Broader Patterns
 
-The Alexandrovich case connects to the broader pattern documented in this project of intelligence-linked individuals involved in sexual exploitation receiving protection or preferential treatment. The [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) was allegedly backed by [Mossad](../other/groups/mossad.md) according to multiple sources. Israel's National Cyber Directorate works closely with Israeli intelligence services. While there is no direct evidence linking Alexandrovich to Epstein's network, the case illustrates the same dynamic: alleged child sex crimes by intelligence-connected individuals, followed by what critics describe as systemic failures that allowed the accused to escape accountability.
+The Alexandrovich case connects to the broader pattern documented in this project of intelligence-linked individuals involved in sexual exploitation receiving protection or preferential treatment. The [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) was allegedly backed by [Mossad](./other/groups/mossad.md) according to multiple sources. Israel's National Cyber Directorate works closely with Israeli intelligence services. While there is no direct evidence linking Alexandrovich to Epstein's network, the case illustrates the same dynamic: alleged child sex crimes by intelligence-connected individuals, followed by what critics describe as systemic failures that allowed the accused to escape accountability.
 
 ## See Also
 
-- [Jeffrey Epstein Network](../other/groups/jeffrey_epstein_network.md) — The core blackmail/trafficking operation
-- [Mossad](../other/groups/mossad.md) — Israeli intelligence service
-- [Tom Alexandrovich Case (Group)](../other/groups/tom_alexandrovich_case.md) — Detailed case analysis
+- [Jeffrey Epstein Network](./other/groups/jeffrey_epstein_network.md) — The core blackmail/trafficking operation
+- [Mossad](./other/groups/mossad.md) — Israeli intelligence service
+- [Tom Alexandrovich Case (Group)](./other/groups/tom_alexandrovich_case.md) — Detailed case analysis
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — The central figure in elite blackmail operations
+## Other Shocking Stories
+
+- [Jean-Luc Brunel](Jean_Luc_Brunel.md): Found hanged in his cell awaiting trial. Same method as Epstein. Both cameras conveniently malfunctioned.
+- [Peaches Geldof](Peaches_Geldof.md): Tweeted the names of mothers who enabled a pedophile. Five months later, dead on 61% pure heroin.
+- [Diana Spencer (Princess of Wales)](Diana_Spencer.md): Wrote 'my husband is planning an accident in my car.' Died in a Paris tunnel crash.
+- [Prince (Prince Rogers Nelson)](Prince_Rogers_Nelson.md): Music industry's fiercest critic of exploitation. Killed by counterfeit fentanyl pills. Supplier never identified.
 
 ## Sources
 

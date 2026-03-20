@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Darioush Rezaeinejad
 Iranian electronics engineer shot five times by motorcycle-riding gunmen in front of his wife and daughter in Tehran.
@@ -56,7 +56,13 @@ Rezaeinejad's exact identity and role were subjects of confusion in the immediat
 - [Mostafa Ahmadi Roshan](Mostafa_Ahmadi_Roshan.md) — Iranian nuclear scientist killed by magnetic bomb, 2012
 - [Mohsen Fakhrizadeh](Mohsen_Fakhrizadeh.md) — Head of Iran's nuclear weapons program, assassinated 2020
 
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Gary Webb](Gary_Webb.md): Two gunshots to the head — ruled suicide. He exposed the CIA's crack cocaine pipeline into Black neighborhoods.
+- [Fathi Shaqaqi](Fathi_Shaqaqi.md): Islamic Jihad leader shot six times on a Malta street. Mossad agents identified by local investigation.
+- [Abdel Aziz al-Rantisi](Abdel_Aziz_al_Rantisi.md): Killed by Israeli missile one month after they assassinated his predecessor. Hamas leadership was being erased systematically.
+- [Victor Jara](Victor_Jara.md): Chilean folk singer's hands were broken. Then soldiers machine-gunned him with 44 rounds in a stadium.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Alexander Perepilichnyy
 Russian whistleblower who helped expose the $230 million Russian treasury fraud at the heart of the Magnitsky case, collapsed and died while jogging in Surrey, England in 2012. Traces of the rare poison Gelsemium were initially found in his stomach, though a bungled police investigation left the case unresolved.
@@ -61,6 +61,12 @@ He reportedly told associates he was too afraid to return to Russia and had take
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — FSB defector poisoned in London
 - [Boris Berezovsky](Boris_Berezovsky.md) — Russian exile who died under suspicious circumstances in England
 - [Nikolai Glushkov](Nikolai_Glushkov.md) — Russian exile strangled in London in 2018
+## Other Shocking Stories
+
+- [Rafik Hariri](Rafik_Hariri.md): Lebanon's prime minister killed by a massive car bomb. UN tribunal convicted a Hezbollah operative.
+- [Galina Starovoitova](Galina_Starovoitova.md): Russian liberal lawmaker gunned down in her apartment lobby. She championed human rights Putin wanted silenced.
+- [Wael Zwaiter](Wael_Zwaiter.md): Palestinian intellectual shot twelve times in Rome. First kill in Mossad's post-Munich revenge campaign. Possibly wrong man.
+- [Maxim Kuzminov](Maxim_Kuzminov.md): Russian pilot defected to Ukraine. Found shot dead in Spain with Russian ammunition. SVR called him 'traitor.'
 
 ## Sources
 

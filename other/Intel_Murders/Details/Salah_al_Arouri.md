@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Salah al-Arouri
 Deputy chief of Hamas's political bureau and co-founder of its armed wing, the Qassam Brigades, killed by an Israeli drone strike on an office in the Dahieh suburbs of Beirut in January 2024.
@@ -59,9 +59,15 @@ Saleh al-Arouri was born in the village of Arura near Ramallah in the West Bank.
 - [Fuad Shukr](Fuad_Shukr.md) — Hezbollah commander killed by Israeli airstrike in Beirut, July 2024
 - [Qasem Soleimani](Qasem_Soleimani.md) — Iranian commander killed by US drone strike in Baghdad
 
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
 
 - [Hassan Nasrallah](Hassan_Nasrallah.md) — Hezbollah leader killed later in 2024
+## Other Shocking Stories
+
+- [Pierre Gemayel](Pierre_Gemayel.md): Lebanese anti-Syrian politician shot dead in his car. Part of a wave of assassinations targeting one alliance.
+- [Daphne Caruana Galizia](Daphne_Caruana_Galizia.md): Panama Papers journalist killed by car bomb in Malta. State inquiry found the government bore responsibility.
+- [Dorothy Kilgallen](Dorothy_Kilgallen.md): Found dead after privately interviewing Jack Ruby about the JFK assassination. Her notes vanished completely.
+- [Dag Hammarskjold](Dag_Hammarskjold.md): UN Secretary-General's plane crashed in Africa.
 
 ## Sources
 

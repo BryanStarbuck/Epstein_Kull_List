@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Peter Mandelson
 UK ex-ambassador arrested Feb 2026 for leaking market-sensitive government information to Epstein.
@@ -61,6 +61,12 @@ Metropolitan Police arrested Mandelson on suspicion of misconduct in public offi
 - [Prince Andrew](Prince_Andrew.md) — Also arrested in UK over Epstein ties
 - [Thorbjorn Jagland](Thorbjorn_Jagland.md) — Norwegian PM charged with corruption
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Convicted co-conspirator
+## Other Shocking Stories
+
+- [Robert Echeverria](Robert_Echeverria.md): Seventh NYPD officer linked to the Weiner laptop. Dead from a gunshot wound. Seven officers, one laptop.
+- [Nikolai Mushegian](Nikolai_Mushegian.md): Tweeted that CIA and Mossad ran a sex trafficking ring in Puerto Rico. Drowned four hours later.
+- [Isaac Kappy](Isaac_Kappy.md): Said on camera: 'If I die, it wasn't suicide.' Two months later, fell from a bridge in Arizona.
+- [Diana Spencer (Princess of Wales)](Diana_Spencer.md): Wrote 'my husband is planning an accident in my car.' Died in a Paris tunnel crash.
 
 ## Sources
 

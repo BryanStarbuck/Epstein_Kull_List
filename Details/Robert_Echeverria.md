@@ -1,7 +1,7 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md) | [Weiner Laptop Overview](../other/laptop.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md) | [Weiner Laptop Overview](./other/laptop.md)
 
 # Robert Echeverria
-NYPD officer who allegedly viewed [Weiner laptop](../other/laptop.md) evidence. Found with gunshot wound at his home.
+NYPD officer who allegedly viewed [Weiner laptop](./other/laptop.md) evidence. Found with gunshot wound at his home.
 
 | Field | Details |
 |-------|---------|
@@ -22,11 +22,11 @@ Robert Echeverria was found with a gunshot wound at his home in Laurelton, Queen
 
 ## Connection to Weiner Laptop
 
-Echeverria is named in online claims as one of 12 NYPD officers who allegedly viewed files on [Anthony Weiner's laptop](../other/laptop.md). These claims have not been independently verified. The FBI, not the NYPD, had formal custody of the laptop.
+Echeverria is named in online claims as one of 12 NYPD officers who allegedly viewed files on [Anthony Weiner's laptop](./other/laptop.md). These claims have not been independently verified. The FBI, not the NYPD, had formal custody of the laptop.
 
 ## Why This Death Possibly Raises Questions
 
-- Named as one of the officers who allegedly viewed the [Weiner laptop](../other/laptop.md)
+- Named as one of the officers who allegedly viewed the [Weiner laptop](./other/laptop.md)
 - Found at his home in Laurelton, Queens
 - Part of the broader 2019 NYPD suicide crisis
 - Same method of death (gunshot) as the other named officers
@@ -44,7 +44,7 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 
 ## Key Quotes from Media Coverage
 
-> "They failed him epically. ... It is NYPD's fault. A hundred percent. I begged them so many times, please take his guns, please get him help."
+> "They failed him epically. .. It is NYPD's fault. A hundred percent. I begged them so many times, please take his guns, please get him help."
 > — Eileen Echeverria, Robert's sister ([Police1](https://www.police1.com/health-fitness/articles/sister-nypd-cop-who-killed-self-had-mental-evaluation-in-june-after-making-threats-KOFfvYpbUG6rKhIt/))
 
 > "The psychiatrist saw him once and then she says he's OK and gives him his guns back."
@@ -52,6 +52,12 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 
 > "Tonight our city mourns a tragedy. We won't let anyone struggle alone. I want every one of New York's Finest to know we are here for you. We value you. Help is available. Please reach out."
 > — New York City Mayor Bill de Blasio ([Newsweek](https://www.newsweek.com/day-after-eighth-nypd-suicide-this-year-veteran-officer-kills-himself-queens-1454435))
+## Other Shocking Stories
+
+- [Matthew Perry](Matthew_Perry.md): His death exposed an elite ketamine supply network. Five charged including a doctor dubbed the Ketamine Queen.
+- [Berry L. Kessler](Berry_Kessler.md): Prime suspect in the Shapiro murder. FBI linked him to Epstein.
+- [Chester Bennington](Chester_Bennington.md): Cornell's close friend. Same cause of death. Died on Cornell's birthday. Two months apart.
+- [Prince Andrew (Andrew Mountbatten-Windsor)](Prince_Andrew.md): First British royal arrested in 400 years. Shared classified intelligence with a convicted sex trafficker.
 
 ## Sources
 

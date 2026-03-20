@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Sergei Magnitsky
 Russian tax advisor and whistleblower who exposed a $230 million government fraud and died in prison after being beaten and denied medical treatment.
@@ -70,6 +70,12 @@ In October 2008, Magnitsky testified to Russian investigators, naming specific o
 - [Alexei Navalny](Alexei_Navalny.md) — Another Russian who died in prison custody under suspicious circumstances
 - [Alexander Perepilichnyy](Alexander_Perepilichnyy.md) — Whistleblower who helped expose the same $230M fraud, died in UK 2012
 - [Boris Nemtsov](Boris_Nemtsov.md) — Opposition leader killed for challenging Putin
+## Other Shocking Stories
+
+- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
+- [Roman Tsepov](Roman_Tsepov.md): Putin's former personal security chief died of radioactive poisoning two years before they did it to Litvinenko.
+- [Eduardo Mondlane](Eduardo_Mondlane.md): Mozambican independence leader killed by a book bomb. Portuguese secret police and possibly CIA implicated.
+- [Charles Horman](Charles_Horman.md): American journalist executed during the Chilean coup. The US government knew and did nothing. Declassified documents confirmed.
 
 ## Sources
 

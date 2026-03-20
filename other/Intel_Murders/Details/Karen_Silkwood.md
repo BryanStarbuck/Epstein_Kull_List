@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Karen Silkwood
 Nuclear industry whistleblower killed in a car crash while driving to meet a New York Times reporter with documents proving safety violations at a plutonium processing plant.
@@ -69,6 +69,12 @@ In the week before her death, Silkwood herself was found to be contaminated with
 
 - [Gary Webb](Gary_Webb.md) — journalist whose career was destroyed after exposing CIA drug connections
 - [Danny Casolaro](Danny_Casolaro.md) — journalist found dead before delivering documents on intelligence operations
+## Other Shocking Stories
+
+- [Frank Teruggi](Frank_Teruggi.md): American student executed during the Chilean coup. US intelligence knew. It took 42 years to get convictions.
+- [Aldo Moro](Aldo_Moro.md): Italy's prime minister held for 55 days, then shot. CIA and NATO's Gladio network allegedly manipulated his captors.
+- [Alexander Tyulakov](Alexander_Tyulakov.md): Gazprom executive found hanged the morning Russia invaded Ukraine. One of eight Russian energy executives dead that year.
+- [Sergei Yushenkov](Sergei_Yushenkov.md): Russian lawmaker investigating FSB apartment bombings. Shot dead hours after registering his political party.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Wael Zwaiter
 Palestinian intellectual, poet, and translator, shot dead by Mossad agents in the lobby of his Rome apartment building in 1972 — the first killing in Operation Wrath of God. Later assessments by Mossad officers acknowledged his targeting may have been a mistake.
@@ -59,7 +59,13 @@ Zwaiter came from a prominent intellectual family in Nablus. His father, Adel Zu
 - [Gerald Bull](Gerald_Bull.md) — Weapons designer allegedly assassinated by Mossad
 - [Yahya Ayyash](Yahya_Ayyash.md) — Hamas bomb maker killed by Shin Bet
 
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Philip Agee](Philip_Agee.md): Named 250 CIA agents in print. Expelled from five countries. Died in Cuba after ulcer surgery.
+- [Sergei Yushenkov](Sergei_Yushenkov.md): Russian lawmaker investigating FSB apartment bombings. Shot dead hours after registering his political party.
+- [Che Guevara](Che_Guevara.md): Captured with CIA help, then executed in a Bolivian schoolhouse. The CIA operative watched him die.
+- [Charles Horman](Charles_Horman.md): American journalist executed during the Chilean coup. The US government knew and did nothing. Declassified documents confirmed.
 
 ## Sources
 

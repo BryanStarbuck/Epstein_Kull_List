@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Yevgeny Prigozhin
 Wagner Group founder killed in a plane crash two months after leading a mutiny against the Russian military.
@@ -69,6 +69,12 @@ Under the deal, Prigozhin and Wagner forces were to relocate to Belarus, and cri
 - [Boris Nemtsov](Boris_Nemtsov.md) — Opposition figure murdered after challenging Putin
 - [Alexei Navalny](Alexei_Navalny.md) — Opposition leader who died in prison, 2024
 - [Alexander Litvinenko](Alexander_Litvinenko.md) — FSB defector assassinated in London, 2006
+## Other Shocking Stories
+
+- [Eduardo Mondlane](Eduardo_Mondlane.md): Mozambican independence leader killed by a book bomb. Portuguese secret police and possibly CIA implicated.
+- [Seth Rich](Seth_Rich.md): DNC staffer shot twice in the back in DC. Nothing stolen. Case still unsolved.
+- [Mark Lombardi](Mark_Lombardi.md): His art mapped CIA, BCCI, and intelligence money networks. Found hanged in his studio. FBI visited after 9/11.
+- [David Kelly](David_Kelly.md): UK weapons inspector who challenged the Iraq WMD lie. Almost no blood at the scene.
 
 ## Sources
 

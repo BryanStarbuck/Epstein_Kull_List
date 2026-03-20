@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Alexander Litvinenko
 Former FSB officer poisoned with polonium-210 in London after publicly accusing the FSB of corruption and state terrorism.
@@ -72,6 +72,12 @@ Litvinenko co-authored the book *Blowing Up Russia: Terror from Within*, which a
 - [Georgi Markov](Georgi_Markov.md) — Bulgarian dissident killed with ricin in 1978, another Cold War-era state poisoning
 
 - [Boris Berezovsky](Boris_Berezovsky.md) — Russian oligarch, Litvinenko's patron
+## Other Shocking Stories
+
+- [Hussein al-Bashir](Hussein_al_Bashir.md): Mossad detonated a bomb under his hotel bed in Cyprus. He never woke up. Operation Wrath of God.
+- [Sergei Protosenya](Sergei_Protosenya.md): Former Russian gas executive found hanged in his Spanish villa. His family disputes the ruling.
+- [Aldo Moro](Aldo_Moro.md): Italy's prime minister held for 55 days, then shot. CIA and NATO's Gladio network allegedly manipulated his captors.
+- [Boris Nemtsov](Boris_Nemtsov.md): Shot four times on a bridge within sight of the Kremlin.
 
 ## Sources
 

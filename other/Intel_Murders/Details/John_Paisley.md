@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # John Paisley
 Senior CIA officer found floating in Chesapeake Bay with a gunshot wound and weighted dive belt. The body was four inches shorter and thirty pounds lighter than Paisley. CIA arranged cremation before positive identification.
@@ -63,7 +63,13 @@ By 1978, Paisley had officially retired from the CIA but remained active as a co
 - [William Colby](William_Colby.md) — former CIA Director who also died in mysterious water-related circumstances
 - [Frank Olson](Frank_Olson.md) — CIA scientist whose death was staged
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Wael Zwaiter](Wael_Zwaiter.md): Palestinian intellectual shot twelve times in Rome. First kill in Mossad's post-Munich revenge campaign. Possibly wrong man.
+- [Kim Jong-nam](Kim_Jong_nam.md): Two women smeared VX nerve agent on his face at a crowded airport. Dead in twenty minutes.
+- [Frank Olson](Frank_Olson.md): CIA scientist dosed with LSD, then fell from a hotel window. Exhumation revealed he was struck unconscious first.
+- [Pierre Gemayel](Pierre_Gemayel.md): Lebanese anti-Syrian politician shot dead in his car. Part of a wave of assassinations targeting one alliance.
 
 ## Sources
 

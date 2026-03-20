@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Austin Tucker Martin
 Trump supporter fixated on Epstein files, shot dead by Secret Service breaching Mar-a-Lago with a shotgun.
@@ -53,6 +53,12 @@ Martin's death occurred three days before the February 25, 2026 news cycle about
 
 > "He was deeply disturbed by what he believed was a government cover-up and often talked about powerful people 'getting away with it.'"
 > — Co-workers at Pine Needles Lodge & Golf Club, via [Newsweek](https://www.newsweek.com/mar-a-lago-suspect-austin-tucker-martin-was-angry-over-epstein-files-report-11564224)
+## Other Shocking Stories
+
+- [Aaron Swartz](Aaron_Swartz.md): Built the tool that protects whistleblowers. Faced 35 years for downloading research papers. MIT took Epstein's money.
+- [John Connolly](John_Connolly.md): Co-authored the book that exposed Epstein to millions. Died of a brief illness at 78.
+- [LeRoi Moore](LeRoi_Moore.md): Dave Matthews Band saxophonist. Died at 46 from a blood clot. Band's agency CEO later linked to Epstein.
+- [Kevin Preiss](Kevin_Preiss.md): NYPD officer who allegedly saw what was on the Weiner laptop. Suicide. The pattern keeps repeating.
 
 ## Sources
 

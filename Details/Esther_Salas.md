@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Esther Salas
 
@@ -67,7 +67,7 @@ The FBI concluded Den Hollander harbored a personal grudge against Salas over a 
 ### Full Background on Den Hollander
 - **Education:** JD George Washington University Law School (1985); MBA Columbia Business School (1997)
 - **Legal career:** IRS Chief Counsel attorney; associate at Cravath, Swaine & Moore; solo practitioner filing frivolous "men's rights" lawsuits
-- **Intelligence work:** Private investigator for **[Kroll Associates](../other/groups/kroll_associates.md)** in Moscow (1999–2000), managing intelligence and security operations. Also spoke at the Kremlin in 1993
+- **Intelligence work:** Private investigator for **[Kroll Associates](./other/groups/kroll_associates.md)** in Moscow (1999–2000), managing intelligence and security operations. Also spoke at the Kremlin in 1993
 - **Russia:** Married Russian model Angelina Shipilina (2000, separated 9 months later); accused her of organized crime ties
 - **Terminal illness:** Metastasized melanoma diagnosed ~June 2019; publicly said he was "painfully dying" in January 2020
 - **Other murder:** Prime suspect in July 11, 2020, murder of [Marc Angelucci](Marc_Angelucci.md) (California men's rights lawyer, same deliveryman MO, same-caliber weapon)
@@ -76,7 +76,7 @@ The FBI concluded Den Hollander harbored a personal grudge against Salas over a 
 
 ### Suspicious Background — Why Theories Persist
 
-- **[Kroll Associates](../other/groups/kroll_associates.md)** was known as the **"[CIA](../other/groups/cia.md) of Wall Street"** and employed former CIA, FBI, MI6, and [Mossad](../other/groups/mossad.md) officers. French intelligence agencies alleged Kroll was an actual CIA front. **Kroll had direct business ties to Deutsche Bank** — the very institution at the center of the case Salas had just been assigned
+- **[Kroll Associates](./other/groups/kroll_associates.md)** was known as the **"[CIA](./other/groups/cia.md) of Wall Street"** and employed former CIA, FBI, MI6, and [Mossad](./other/groups/mossad.md) officers. French intelligence agencies alleged Kroll was an actual CIA front. **Kroll had direct business ties to Deutsche Bank** — the very institution at the center of the case Salas had just been assigned
 - Den Hollander's intelligence background (Kremlin speech, Kroll Moscow, Russian wife with alleged mob ties) contradicts the narrative of a simple "angry loner"
 - A terminally ill man with an intelligence background and a documented personal grudge provides the ideal **"patsy" profile** — someone with nothing to lose, a plausible personal motive already on the public record, and no future to protect
 - His death ~24 hours later in a remote area ensured he could never be interrogated about possible handlers, communications, or whether someone encouraged the timing
@@ -100,7 +100,7 @@ Judge Salas is part of a broader pattern of individuals connected to Epstein's D
 | Person | Role | What Happened | Timing |
 |--------|------|---------------|--------|
 | **Esther Salas** | Judge assigned to DB-Epstein case | Son murdered, husband shot | 4 days after assignment |
-| **[Denise George](Denise_George.md)** | [USVI](../other/groups/usvi_government.md) AG who sued [JPMorgan](../other/groups/jpmorgan_chase.md) over Epstein | Fired by governor, told FBI she felt threatened | 4 days after filing suit |
+| **[Denise George](Denise_George.md)** | [USVI](./other/groups/usvi_government.md) AG who sued [JPMorgan](./other/groups/jpmorgan_chase.md) over Epstein | Fired by governor, told FBI she felt threatened | 4 days after filing suit |
 | **Thomas Bowers** | DB exec who signed off on Epstein accounts | Found hanged | Before he could be questioned |
 | **William Broeksmit** | DB senior exec with knowledge of Epstein finances | Found hanged | Before he could be questioned |
 
@@ -175,12 +175,18 @@ The official investigation is closed. Den Hollander acted alone, motivated by mi
 
 ## Related Groups
 
-- [Deutsche Bank](../other/groups/deutsche_bank.md) — Was assigned the Epstein-Deutsche Bank investor lawsuit when her son was murdered
-- [Kroll Associates](../other/groups/kroll_associates.md) — Den Hollander worked at Kroll's Moscow office; Kroll had ties to Deutsche Bank
+- [Deutsche Bank](./other/groups/deutsche_bank.md) — Was assigned the Epstein-Deutsche Bank investor lawsuit when her son was murdered
+- [Kroll Associates](./other/groups/kroll_associates.md) — Den Hollander worked at Kroll's Moscow office; Kroll had ties to Deutsche Bank
 
 ## Related Locations
 
-- [New Jersey](../other/locations/new_jersey.md) — U.S. District Court Judge for the District of New Jersey; family attacked at home in North Brunswick Township
+- [New Jersey](./other/locations/new_jersey.md) — U.S. District Court Judge for the District of New Jersey; family attacked at home in North Brunswick Township
+## Other Shocking Stories
+
+- [Ghislaine Maxwell (Living — At Risk)](Ghislaine_Maxwell.md): The only convicted co-conspirator still alive. Serving 20 years. Her brother says publicly she is not suicidal.
+- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Epstein left $5 million per child in his will. Resigned. Under criminal investigation.
+- [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.md): Screamed on camera that elites murder and eat people. Named Carlos Slim's son. Institutionalized. Never seen again.
+- [Prince Andrew (Andrew Mountbatten-Windsor)](Prince_Andrew.md): First British royal arrested in 400 years. Shared classified intelligence with a convicted sex trafficker.
 
 ## Sources
 

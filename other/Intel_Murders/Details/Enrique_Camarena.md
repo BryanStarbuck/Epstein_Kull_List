@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Enrique "Kiki" Camarena
 DEA special agent kidnapped, tortured for over 30 hours, and murdered in Guadalajara, Mexico, in 1985 after infiltrating the Guadalajara Cartel. CIA allegedly had foreknowledge and assets involved in the operation.
@@ -60,7 +60,13 @@ The murder of Camarena triggered a massive U.S. response known as Operation Leye
 - [Gary Webb](Gary_Webb.md) — Journalist who exposed CIA-Contra-cocaine connections
 - [Danny Casolaro](Danny_Casolaro.md) — Journalist investigating intelligence-criminal networks who died suspiciously in 1991
 
-- [CIA (Group Profile)](../../groups/cia.md) — intelligence service connected to this case
+- [CIA (Group Profile)](././groups/cia.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Mary Pinchot Meyer](Mary_Pinchot_Meyer.md): JFK's mistress shot execution-style on a Georgetown towpath. CIA counterintelligence chief seized and burned her diary.
+- [Milton William "Bill" Cooper](Bill_Cooper.md): Predicted a major false-flag attack on radio in June 2001. Shot dead by police two months after 9/11.
+- [Humberto Delgado](Humberto_Delgado.md): Portuguese opposition leader lured to the Spanish border by secret police and murdered. Body hidden for two years.
+- [Serena Shim](Serena_Shim.md): Reported ISIS using UN food trucks. Turkish intelligence accused her of espionage.
 
 ## Sources
 

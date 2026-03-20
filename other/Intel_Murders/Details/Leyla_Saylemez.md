@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Leyla Saylemez
 Kurdish youth movement activist, the youngest of three Kurdish women shot execution-style at the Kurdistan Information Center in Paris in January 2013, in what French investigators linked to Turkish intelligence.
@@ -56,6 +56,12 @@ Leyla Saylemez was born in 1988 in Mersin, Turkey, to a Yazidi family originally
 - [Sakine Cansiz](Sakine_Cansiz.md) — PKK co-founder murdered alongside Saylemez in Paris
 - [Fidan Doğan](Fidan_Dogan.md) — Kurdish activist murdered in the same triple assassination
 - [Zelimkhan Khangoshvili](Zelimkhan_Khangoshvili.md) — Chechen dissident assassinated in Berlin by Russian intelligence, 2019
+## Other Shocking Stories
+
+- [Yuri Shchekochikhin](Yuri_Shchekochikhin.md): Russian journalist died days before meeting the FBI. Symptoms matched poisoning. Medical records sealed.
+- [Vitaly Churkin](Vitaly_Churkin.md): Russian UN Ambassador dropped dead in New York. Medical examiner initially refused to release cause of death.
+- [Nikolai Glushkov](Nikolai_Glushkov.md): Strangled in his London home and staged to look like suicide. One week after the Skripal Novichok attack.
+- [Seth Rich](Seth_Rich.md): DNC staffer shot twice in the back in DC. Nothing stolen. Case still unsolved.
 
 ## Sources
 

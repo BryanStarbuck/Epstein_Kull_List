@@ -1,4 +1,4 @@
-[< Back to Main List](../README.md) | [Locations](../locations.md)
+[< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Efrain "Stone" Reyes
 Epstein's last cellmate who spoke to investigators, died of COVID-19 weeks later.
@@ -42,12 +42,18 @@ Reyes was [Jeffrey Epstein](Jeffrey_Epstein.md)'s final cellmate at the Metropol
 > "[Staff] were treating him like crap. They were making him sleep on the floor. They wouldn't let him sleep on a cot."
 > — **Angelique Lopez**, Reyes's niece, describing how her uncle was treated in custody after being questioned about Epstein ([Prison Legal News](https://www.prisonlegalnews.org/news/2021/may/1/covid-19-kills-jeffery-epsteins-former-cellmate/))
 
-> "The bunk frames were not tall enough to allow for hanging... It just didn't seem right."
+> "The bunk frames were not tall enough to allow for hanging.. It just didn't seem right."
 > — **Efrain "Stone" Reyes**, via his niece Angelique Lopez, expressing skepticism about Epstein's suicide ([Yahoo News](https://news.yahoo.com/harassed-guards-extorted-inmates-jeffrey-160100777.html))
 
 ## See Also
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Cellmate who died the next day
+## Other Shocking Stories
+
+- [Tom Artiom Alexandrovich](Tom_Alexandrovich.md): Senior Israeli cyber official caught in FBI child predator sting. Posted bail. Fled to Israel in 48 hours.
+- [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.md): Screamed on camera that elites murder and eat people. Named Carlos Slim's son. Institutionalized. Never seen again.
+- [Sabrina Bittencourt](Sabrina_Bittencourt.md): Exposed a baby-selling operation. Died in hiding in Barcelona.
+- [Isaac Kappy](Isaac_Kappy.md): Said on camera: 'If I die, it wasn't suicide.' Two months later, fell from a bridge in Arizona.
 
 ## Sources
 

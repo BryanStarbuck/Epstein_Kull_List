@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Fathi Shaqaqi
 Founder and leader of Palestinian Islamic Jihad, shot dead by Mossad agents outside a hotel in Malta in 1995 on orders from Israeli Prime Minister Yitzhak Rabin.
@@ -47,7 +47,7 @@ Shaqaqi was a Palestinian physician born in Rafah in the Gaza Strip. He founded 
 
 ## Key Quotes
 
-> "Rabin returned from Beit Lid red with anger... he called in the chief of Mossad and ordered for Shaqaqi to be killed immediately." — **Accounts of the assassination decision**
+> "Rabin returned from Beit Lid red with anger.. he called in the chief of Mossad and ordered for Shaqaqi to be killed immediately." — **Accounts of the assassination decision**
 
 > "It was eventually concluded that Shaqaqi could not be killed in Damascus, owing to logistical and also political concerns, because secret negotiations were going on between the two countries." — **Al Jazeera documentary**, 2018
 
@@ -58,9 +58,15 @@ Shaqaqi was a Palestinian physician born in Rafah in the Gaza Strip. He founded 
 - [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md) — Hamas commander killed by Mossad in Dubai hotel (2010)
 - [Wadie Haddad](Wadie_Haddad.md) — PFLP leader allegedly poisoned by Mossad (1978)
 
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
 
 - [Yitzhak Rabin](Yitzhak_Rabin.md) — Israeli PM assassinated weeks later
+## Other Shocking Stories
+
+- [Gerard Hoarau](Gerard_Hoarau.md): Seychelles opposition leader shot dead in London. South African intelligence suspected. No one was ever charged.
+- [Mahmoud Hamshari](Mahmoud_Hamshari.md): Mossad planted a bomb inside his telephone. When he answered, they detonated it remotely in Paris.
+- [Zelimkhan Khangoshvili](Zelimkhan_Khangoshvili.md): Chechen dissident shot in a Berlin park by a confirmed Russian intelligence agent. Germany expelled diplomats.
+- [Max Spiers](Max_Spiers.md): Texted his mother 'if anything happens, investigate.' Vomited two litres of black fluid and died in Warsaw.
 
 ## Sources
 

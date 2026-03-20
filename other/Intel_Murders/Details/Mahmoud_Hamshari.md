@@ -1,4 +1,4 @@
-[< Back to Intel Murders List](../README.md) | [Main Epstein List](../../../README.md)
+[< Back to Intel Murders List](./README.md) | [Main Epstein List](./././README.md)
 
 # Mahmoud Hamshari
 PLO representative in Paris killed by a Mossad phone bomb in 1972, one of the first targets of Operation Wrath of God following the Munich Olympics massacre.
@@ -59,7 +59,13 @@ Hamshari served as the official representative of the Palestine Liberation Organ
 - [Wadie Haddad](Wadie_Haddad.md) — PFLP leader allegedly poisoned by Mossad (1978)
 - [Mahmoud Al-Mabhouh](Mahmoud_Al_Mabhouh.md) — Hamas commander killed by Mossad in Dubai (2010)
 
-- [Mossad (Group Profile)](../../groups/mossad.md) — intelligence service connected to this case
+- [Mossad (Group Profile)](././groups/mossad.md) — intelligence service connected to this case
+## Other Shocking Stories
+
+- [Eduardo Mondlane](Eduardo_Mondlane.md): Mozambican independence leader killed by a book bomb. Portuguese secret police and possibly CIA implicated.
+- [Jenny Moore](Jenny_Moore.md): Citizen journalist investigating trafficking filed an FBI report. Weeks later, found dead in a DC hotel.
+- [Pierre Gemayel](Pierre_Gemayel.md): Lebanese anti-Syrian politician shot dead in his car. Part of a wave of assassinations targeting one alliance.
+- [Bernardo Leighton](Bernardo_Leighton.md): Chilean politician shot in Rome by DINA and Italian neofascists working together. Operation Condor reached Europe.
 
 ## Sources
 
