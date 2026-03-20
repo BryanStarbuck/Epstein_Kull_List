@@ -8,7 +8,7 @@ The killings never stopped. They evolved.
 
 This project documents intelligence service murders, political assassinations, and suspicious deaths of journalists, whistleblowers, scientists, dissidents, and political figures from the Cold War to the present. The focus is on killings carried out by or connected to intelligence agencies worldwide — CIA, MI6, Mossad, KGB/FSB/GRU, DINA, ISI, Saudi GIP, and others — with special attention to operations targeting Americans or conducted to control American politics.
 
-**139 profiles documented. 65 new entries added March 2026.**
+**141 profiles documented. 65 new entries added March 2026.**
 
 **For deaths connected to Jeffrey Epstein's sex-trafficking and blackmail operation, see the [Epstein Kill List](../../README.md).**
 
@@ -135,6 +135,7 @@ This project documents intelligence service murders, political assassinations, a
 | [Artyom Borovik](Details/Artyom_Borovik.md) | 2000 | Plane crash | **SUSPICIOUS** | Russian investigative journalist killed three days after meeting with Boris Berezovsky. Was investigating FSB apartment bombings. |
 | [Pavel Sheremet](Details/Pavel_Sheremet.md) | 2016 | Car bomb, Kyiv | **HIGHLY SUSPICIOUS** | Belarusian-born investigative journalist killed by car bomb in Kyiv. One of the most prominent unsolved journalist killings in Europe. |
 | [Marine Vlahovic](Details/Marine_Vlahovic.md) | 2024 | Unknown — found dead on rooftop terrace | **SUSPICIOUS** | French journalist found dead in Marseille while working on documentary about Israel's war on Gaza. Cause of death never publicly disclosed. Mossad alleged by pro-Palestinian media. |
+| [Max Spiers](Details/Max_Spiers.md) | 2016 | Pneumonia / drug intoxication | **SUSPICIOUS** | UK conspiracy researcher investigating MKUltra, elite pedophile rings, and super soldier programs. Vomited two litres of black fluid and died in Warsaw apartment. Texted mother "if anything happens to me, investigate" two days before death. Polish police investigation called "wholly incompetent" by British coroner. |
 | [Mark Lombardi](Details/Mark_Lombardi.md) | 2000 | Hanging | **SUSPICIOUS** | Artist whose diagrams mapped BCCI, Iran-Contra, and intelligence financial networks. Found hanged in his studio. FBI visited his studio after 9/11. |
 
 ## Whistleblowers and Insiders Killed
@@ -152,6 +153,7 @@ This project documents intelligence service murders, political assassinations, a
 | [Philip Agee](Details/Philip_Agee.md) | 2008 | Peritonitis after ulcer surgery, Cuba | **MODERATE SUSPICION** | CIA's most famous whistleblower. Published *Inside the Company* (1975), naming ~250 CIA agents. Passport revoked, expelled from 5 countries. Died in Havana at 72. |
 | [Bill Cooper](Details/Bill_Cooper.md) | 2001 | Shot by sheriff's deputies, Eagar AZ | **SUSPICIOUS** | Author of *Behold a Pale Horse*. Predicted 9/11-type attack on radio in June 2001. Killed in nighttime tactical operation less than two months after 9/11. |
 | [Philip Marshall](Details/Philip_Marshall.md) | 2013 | Gunshot wound to head | **HIGHLY SUSPICIOUS** | Former CIA-connected pilot who flew for Barry Seal. Author exposing CIA drug smuggling and Saudi-9/11 connections. Found dead with his two children. |
+| [Isaac Kappy](Details/Isaac_Kappy.md) | 2019 | Fell from bridge onto I-40 | **SUSPICIOUS** | Actor who publicly accused Hollywood elites of pedophilia and claimed to possess intelligence-linked Epstein blackmail files. Repeatedly said "if I die, it wasn't suicide." Died 60 days before Epstein's arrest. |
 | [John Paisley](Details/John_Paisley.md) | 1978 | Gunshot wound to head | **HIGHLY SUSPICIOUS** | Senior CIA officer found floating in Chesapeake Bay with gunshot wound and weighted dive belt. Body four inches shorter than official records. |
 
 ## Activists, Domestic Targets, and Civilian Casualties
@@ -179,6 +181,7 @@ This project documents intelligence service murders, political assassinations, a
 | [Fidan Dogan](Details/Fidan_Dogan.md) | 2013 | Multiple gunshot wounds to head and neck | **HIGHLY SUSPICIOUS** | Kurdish activist shot execution-style in Paris. Turkish intelligence (MIT) suspected. |
 | [Sakine Cansiz](Details/Sakine_Cansiz.md) | 2013 | Multiple gunshot wounds to head and neck | **HIGHLY SUSPICIOUS** | PKK co-founder shot execution-style in Paris along with Fidan Dogan and Leyla Saylemez. Turkish intelligence suspected. |
 | [Leyla Saylemez](Details/Leyla_Saylemez.md) | 2013 | Multiple gunshot wounds to head and neck | **HIGHLY SUSPICIOUS** | Kurdish youth activist, youngest of three Kurdish women shot execution-style in Paris. |
+| [Trevor Moore](Details/Trevor_Moore.md) | 2021 | Blunt force head trauma (balcony fall) | **HIGHLY SUSPICIOUS** | Comedian (age 41) who used Comedy Central/IFC/YouTube (100M+ views) to expose elite corruption, Hollywood child trafficking, CIA operations, Illuminati, and 9/11 truth to millions. Created viral Epstein/COVID "kill switch" theory connecting Epstein's arrest (July 2019) to COVID-19 emergence (Nov 2019). Fell from second-story balcony at 2:30 a.m., ~10 months after the Epstein theory. BAC 0.21-0.27. Ruled accident. Was on livestream hours before death. |
 | [Hilda Murrell](Details/Hilda_Murrell.md) | 1984 | Hypothermia (after being beaten and stabbed) | **SUSPICIOUS** | 78-year-old British anti-nuclear campaigner kidnapped from her home and left to die. MI5 surveillance alleged. |
 
 ## Scientists and Weapons Researchers Killed
@@ -205,7 +208,7 @@ This project documents intelligence service murders, political assassinations, a
 
 **Journalists who die investigating intelligence:** [Manuel Buendia](Details/Manuel_Buendia.md) (CIA-DFS-cartels, 1984), [Danny Casolaro](Details/Danny_Casolaro.md) (PROMIS/CIA, 1991), [Yuri Shchekochikhin](Details/Yuri_Shchekochikhin.md) (FSB/organized crime, 2003), [Paul Klebnikov](Details/Paul_Klebnikov.md) (Russian oligarchs, 2004), [Gary Webb](Details/Gary_Webb.md) (CIA-crack, 2004), [Anna Politkovskaya](Details/Anna_Politkovskaya.md) (Chechnya/FSB, 2006), [Natalya Estemirova](Details/Natalya_Estemirova.md) (Chechen war crimes, 2009), [Stanislav Markelov](Details/Stanislav_Markelov.md) & [Anastasia Baburova](Details/Anastasia_Baburova.md) (Chechen justice, 2009), [Michael Hastings](Details/Michael_Hastings.md) (CIA director, 2013), [Daphne Caruana Galizia](Details/Daphne_Caruana_Galizia.md) (Panama Papers, 2017), [Jan Kuciak](Details/Jan_Kuciak.md) (mafia-government, 2018), [Marine Vlahovic](Details/Marine_Vlahovic.md) (Gaza/Israel, 2024). Investigating intelligence operations remains one of the most dangerous activities in journalism.
 
-**"Suicide" before testimony or publication:** [Karen Silkwood](Details/Karen_Silkwood.md) died en route to deliver documents to the New York Times. [Danny Casolaro](Details/Danny_Casolaro.md) died the night before a key meeting. [David Kelly](Details/David_Kelly.md) died days after being exposed as the source challenging Iraq WMD claims. [Gary Webb](Details/Gary_Webb.md) died after his career was systematically destroyed. The pattern: people who threaten to publish or testify die before they can.
+**"Suicide" before testimony or publication:** [Karen Silkwood](Details/Karen_Silkwood.md) died en route to deliver documents to the New York Times. [Danny Casolaro](Details/Danny_Casolaro.md) died the night before a key meeting. [David Kelly](Details/David_Kelly.md) died days after being exposed as the source challenging Iraq WMD claims. [Gary Webb](Details/Gary_Webb.md) died after his career was systematically destroyed. [Max Spiers](Details/Max_Spiers.md) died in Warsaw just before a conference presentation about global power structures. [Isaac Kappy](Details/Isaac_Kappy.md) died 60 days before Epstein's arrest, after recording multiple videos saying "if I die, it wasn't suicide" and claiming to possess intelligence-linked blackmail files. The pattern: people who threaten to publish or testify die before they can.
 
 **Car crashes and car bombs:** [Karen Silkwood](Details/Karen_Silkwood.md) (1974), [Carlos Prats](Details/Carlos_Prats.md) (1974), [Orlando Letelier](Details/Orlando_Letelier.md) (1976), [Ali Hassan Salameh](Details/Ali_Hassan_Salameh.md) (1979), [Barry Seal](Details/Barry_Seal.md) (1986), [Rafik Hariri](Details/Rafik_Hariri.md) (2005), [Michael Hastings](Details/Michael_Hastings.md) (2013), [Daphne Caruana Galizia](Details/Daphne_Caruana_Galizia.md) (2017). Vehicle-based killings remain a preferred method because they can be disguised as accidents.
 
@@ -220,6 +223,8 @@ This project documents intelligence service murders, political assassinations, a
 **South African apartheid intelligence:** [Steve Biko](Details/Steve_Biko.md) (1977), [Ruth First](Details/Ruth_First.md) (1982), [Gerard Hoarau](Details/Gerard_Hoarau.md) (1985), [Dulcie September](Details/Dulcie_September.md) (1988). South Africa's BOSS/NIS/CCB carried out assassinations across Africa and Europe, using letter bombs, shootings, and car bombs against anti-apartheid activists.
 
 **COINTELPRO and domestic targeting:** [Fred Hampton](Details/Fred_Hampton.md) and [Mark Clark](Details/Mark_Clark.md) were killed in a coordinated FBI-police operation using an informant's floor plans. [John Lennon](Details/John_Lennon.md) was under FBI COINTELPRO surveillance for years before his 1980 assassination. The FBI's COINTELPRO program targeted Black Panthers, civil rights leaders, and antiwar activists. The Church Commission exposed these programs but domestic surveillance and targeting continued.
+
+**Content creators killed for reaching mass audiences with dangerous ideas:** [John Lennon](Details/John_Lennon.md) (musician/activist, FBI COINTELPRO target, shot 1980), [Bill Cooper](Details/Bill_Cooper.md) (author/radio host, predicted 9/11, killed 2001), [Isaac Kappy](Details/Isaac_Kappy.md) (actor, accused Hollywood elites of pedophilia, fell from bridge 2019), [Trevor Moore](Details/Trevor_Moore.md) (comedian, Comedy Central/100M+ YouTube views, exposed Hollywood child trafficking, Epstein/COVID kill switch theory, CIA operations, Illuminati — fell from balcony 2021). The pattern: individuals who use mainstream cultural platforms to deliver explosive anti-elite content to audiences far larger than investigative journalists could reach. The comedy or entertainment format makes the content viral and accessible, bypassing the skepticism filters that protect powerful people. Each died under circumstances that — while officially explained — generated persistent public suspicion.
 
 **Operation Gladio and stay-behind networks:** NATO's secret stay-behind armies across Europe have been linked to political violence including the [Aldo Moro](Details/Aldo_Moro.md) kidnapping (Italy, 1978) and the [Olof Palme](Details/Olof_Palme.md) assassination (Sweden, 1986). The "Strategy of Tension" used terrorism to manipulate politics.
 
@@ -250,6 +255,8 @@ Despite the assassination ban, the US government developed legal frameworks for 
 
 **Epstein Kill List (sex-trafficking blackmail deaths):** [../../README.md](../../README.md)
 * [Danny Casolaro](../../Details/Danny_Casolaro.md) — investigated PROMIS (intelligence) AND Epstein orbit
+* [Isaac Kappy](Details/Isaac_Kappy.md) — claimed intelligence-linked Epstein blackmail files; also profiled in [Epstein Kill List](../../Details/Isaac_Kappy.md)
+* [Trevor Moore](Details/Trevor_Moore.md) — comedian who exposed elite child trafficking, Epstein/COVID kill switch theory, CIA operations to mass audience; also profiled in [Epstein Kill List](../../Details/Trevor_Moore.md)
 * [Ted Gunderson](../../Details/Ted_Gunderson.md) — investigated both intelligence operations AND elite blackmail rings
 * [William Colby](Details/William_Colby.md) — former CIA Director
 
@@ -284,4 +291,4 @@ Senator Frank Church, 1975: *"The United States must not adopt the tactics of th
 
 ---
 
-*Last Updated: March 15, 2026*
+*Last Updated: March 20, 2026*
