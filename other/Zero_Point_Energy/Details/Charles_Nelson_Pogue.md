@@ -85,6 +85,13 @@ In his later years, Pogue denied having ever claimed that his carburetor achieve
 - [Rudolf Diesel](Rudolf_Diesel.md) — Diesel engine inventor who vanished from a ship in 1913
 - [Rory Johnson](Rory_Johnson.md) — Magnetic motor inventor targeted by DOE gag and grab orders
 
+## Other Shocking Stories
+
+- [Bill Williams](Bill_Williams.md): American experimenter who successfully built a truck powered by a Joe Cell — a water/orgone energy device —...
+- [Ken Rasmussen](Ken_Rasmussen.md): Inventor of a water-to-energy pulsed electrolysis system with similarities to Professor Kanarev's work. His research was halted on...
+- [Gerald Schaflander](Gerald_Schaflander.md): Solar hydrogen fuel inventor who claimed to develop "Hy-Fuel" — a liquid hydrogen-based automobile fuel produced from solar...
+- [Nuno Filipe Gomes Loureiro](Nuno_Loureiro.md): Portuguese plasma physicist and MIT professor, shot and killed outside his apartment in Brookline, MA, in December 2025
+
 ## Sources
 
 - [Charles Nelson Pogue — Wikipedia](https://en.wikipedia.org/wiki/Charles_Nelson_Pogue)

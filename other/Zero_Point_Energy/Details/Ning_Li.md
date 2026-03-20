@@ -98,6 +98,13 @@ From approximately 2004 to 2021, the physics and UAP communities widely believed
 - [William Neil McCasland](William_Neil_McCasland.md) — AFRL commander linked to UAP programs, missing since 2026
 - [Ning Li (UAP Deaths project)](../../UAPs/Details/Ning_Li.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [Eugene Mallove](Eugene_Mallove.md): Cold fusion advocate and former MIT science writer, beaten to death while cleaning a rental property in Norwich...
+- [Paul Pantone](Paul_Pantone.md): Inventor of the GEET plasma reactor who was involuntarily committed to a state mental hospital and died after...
+- [Richard Pugh](Richard_Pugh.md): Computer expert and MOD consultant, found dead with feet bound, plastic bag on head, and thick rope coiled...
+- [Stefan Marinov](Stefan_Marinov.md): Bulgarian physicist working on perpetual motion and unconventional electromagnetic theories, fell from the staircase of the University of...
+
 ## Sources
 
 - [Ning Li (physicist) — Wikipedia](https://en.wikipedia.org/wiki/Ning_Li_(physicist))

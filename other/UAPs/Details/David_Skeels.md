@@ -44,6 +44,13 @@ His death occurred in the same month as those of [Victor Moore](Victor_Moore.md)
 - [Trevor Knight](Trevor_Knight.md) — Marconi computer engineer, CO poisoning March 1988
 - [Andrew Hall](Andrew_Hall.md) — British Aerospace engineer, CO poisoning September 1988
 
+## Other Shocking Stories
+
+- [Boyd Bushman](Boyd_Bushman.md): Lockheed Martin senior scientist with a 40-year career in defense aerospace, holder of 26 patents, who recorded a...
+- [Stanley Meyer](Stanley_Meyer.md): Inventor who claimed to have developed a water fuel cell capable of powering an automobile; died suddenly at...
+- [J. Allen Hynek](J_Allen_Hynek.md): Astronomer who served as scientific consultant to Project Blue Book, evolved from UFO skeptic to the field's most...
+- [John F. Kennedy](John_F_Kennedy.md): 35th President of the United States, assassinated in Dallas on November 22, 1963. Some fringe theorists, including Steven...
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

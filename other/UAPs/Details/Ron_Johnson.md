@@ -54,6 +54,13 @@ The Society of Scientific Exploration conference he was attending brings togethe
 - [Ann Livingston](Ann_Livingston.md) — Fellow MUFON investigator who also died in 1994
 - [Karla Turner](Karla_Turner.md) — Abduction researcher who died of fast cancer in 1996
 
+## Other Shocking Stories
+
+- [Jim Keith](Jim_Keith.md): Conspiracy author known for *Black Helicopters Over America* and *The Octopus* who died from a blood clot following...
+- [Peter Ferry](Peter_Ferry.md): 60-year-old retired Army Brigadier and Marconi assistant marketing director found electrocuted with stripped electrical leads jammed into his...
+- [Ryan Graves](Ryan_Graves.md): Former U.S. Navy F/A-18 pilot who became the first active-duty military pilot to publicly testify before Congress about...
+- [Stefan Michalak](Stefan_Michalak.md): Canadian amateur prospector who suffered severe grid-pattern burns and radiation sickness after encountering a landed disc-shaped craft at...
+
 ## Sources
 
 - [Investigating the Mysterious Death of MUFON Researcher Ron Johnson — Medium](https://medium.com/@cybertheticproject/investigating-the-mysterious-death-of-mufon-researcher-ron-johnson-e6ff3d12a68)

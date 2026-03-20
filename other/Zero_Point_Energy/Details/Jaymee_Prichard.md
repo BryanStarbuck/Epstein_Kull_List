@@ -37,6 +37,13 @@ West Milton Police Chief Doyle Wright confirmed that the couple's three children
 - [Jaime Gustitus](Jaime_Gustitus.md) — Also murdered by Jacob Prichard. AFRL 711th HPW, TS/SCI
 - [Jaymee Prichard (UAP Deaths project)](../../UAPs/Details/Jaymee_Prichard.md)
 
+## Other Shocking Stories
+
+- [Philo Taylor Farnsworth](Philo_Farnsworth.md): Inventor of electronic television at age 21, who later developed the first device to demonstrably produce nuclear fusion...
+- [Paul Pantone](Paul_Pantone.md): Inventor of the GEET plasma reactor who was involuntarily committed to a state mental hospital and died after...
+- [Keith Bowden](Keith_Bowden.md): Senior computer scientist and GEC-Marconi contractor, killed when his car crossed a dual carriageway and plunged off a...
+- [Major General William Neil McCasland (USAF, Ret.)](William_Neil_McCasland.md): Former commander of the Air Force Research Laboratory at Wright-Patterson AFB. Executive secretary of the Special Access Program...
+
 ## Sources
 
 - [Dayton Daily News: Cause of death released for 3 Wright-Patt employees](https://www.daytondailynews.com/local/cause-of-death-released-for-3-wright-patt-employees-killed-in-murder-suicide/)

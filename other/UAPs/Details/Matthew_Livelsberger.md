@@ -76,6 +76,13 @@ However, these claims are contradicted by:
 - [Philip Haney](Philip_Haney.md) — Government whistleblower found dead from gunshot wound, ruled suicide
 - [William Cooper](William_Cooper.md) — Military veteran and whistleblower killed in 2001
 
+## Other Shocking Stories
+
+- [Rory Johnson](Rory_Johnson.md): Inventor of the Magnatron cold-fusion laser-activated magnetic motor who died unexpectedly around 1979 after the U.S. Department of...
+- [Ivan T. Sanderson](Ivan_Sanderson.md): British-born biologist and founder of the Society for the Investigation of the Unexplained (SITU), died of fast-acting brain...
+- [James V. Forrestal](James_Forrestal.md): First United States Secretary of Defense, fell from the sixteenth floor of Bethesda Naval Hospital under disputed circumstances...
+- [Tim Burchett](Tim_Burchett.md): U.S. Congressman from Tennessee who leads Congressional UAP hearings and has publicly stated he was warned by Army...
+
 ## Sources
 
 - [NPR: The soldier who died in Cybertruck explosion wrote it was intended as a 'wakeup call'](https://www.npr.org/2025/01/03/nx-s1-5247805/las-vegas-cybertruck-explosion-note)

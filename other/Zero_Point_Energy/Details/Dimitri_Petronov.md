@@ -55,6 +55,13 @@ Petronov reportedly demonstrated his plasma battery to top Russian military gene
 - [Floyd Sweet](Floyd_Sweet.md) — VTA inventor who received death threats before his death
 - [Rory Johnson](Rory_Johnson.md) — Magnatron inventor who relocated and died mysteriously
 
+## Other Shocking Stories
+
+- [Dallis Hardwick](Dallis_Hardwick.md): Metallurgist and co-inventor of Mondaloy, the superalloy enabling American rocket engine independence from Russia. Senior civilian scientist at...
+- [Dr. Ning Li](Ning_Li.md): Chinese-American physicist who published groundbreaking anti-gravity research, received DOD funding, obtained top secret clearance, then vanished from public...
+- [Monica Jacinto Reza](Monica_Jacinto_Reza.md): Co-inventor of Mondaloy, the superalloy enabling America's replacement for Russian rocket engines. Former Technical Fellow at Aerojet Rocketdyne...
+- [1st Lt. Jaime S. Gustitus](Jaime_Gustitus.md): Operations Research Analyst in the 711th Human Performance Wing, Air Force Research Laboratory, Wright-Patterson AFB. Held Top Secret/SCI...
+
 ## Sources
 
 - Peak Oil News — Reports on Petronov's disappearance and plasma battery technology

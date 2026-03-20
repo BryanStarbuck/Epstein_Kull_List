@@ -92,6 +92,13 @@ The arson destroyed much of his research materials, equipment, and records.
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death
 - [Arie DeGeus](Arie_DeGeus.md) — Clean energy inventor who died of heart failure
 
+## Other Shocking Stories
+
+- [Dr. Carl Johann Grillmair](Carl_Grillmair.md): Caltech astrophysicist at IPAC. Instrument characterization specialist for NEO Surveyor — the first space telescope built to find...
+- [John Bedini](John_Bedini.md): American inventor and audio engineer who pioneered electromagnetic energy recovery devices, died suddenly on November 5, 2016 —...
+- [Paul Pantone](Paul_Pantone.md): Inventor of the GEET plasma reactor who was involuntarily committed to a state mental hospital and died after...
+- [1st Lt. Jaime S. Gustitus](Jaime_Gustitus.md): Operations Research Analyst in the 711th Human Performance Wing, Air Force Research Laboratory, Wright-Patterson AFB. Held Top Secret/SCI...
+
 ## Sources
 
 - [Andrija Puharich — Wikipedia](https://en.wikipedia.org/wiki/Andrija_Puharich)

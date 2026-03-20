@@ -68,6 +68,13 @@ Dodd authored *Alien Investigator: The Case Files of Britain's Leading UFO Detec
 - [Wilbert Smith](Wilbert_Smith.md) — Canadian UFO researcher who died of cancer
 - [Olavo Fontes](Olavo_Fontes.md) — Brazilian UFO researcher who died of cancer at 43
 
+## Other Shocking Stories
+
+- [William Cooper](William_Cooper.md): Former Naval intelligence serviceman and author of *Behold a Pale Horse*, who made early UFO disclosure claims and...
+- [Jacob Prichard](Jacob_Prichard.md): Civilian employee at the Air Force Research Laboratory, Wright-Patterson Air Force Base. Perpetrator of an October 25, 2025...
+- [Monica Jacinto Reza](Monica_Jacinto_Reza.md): Aerospace materials scientist who worked as a Materials Science & Engineering Fellow at L3Harris and previously as a...
+- [Arie DeGeus](Arie_DeGeus.md): Inventor of a claimed zero-point energy battery who was found dead in his car in the long-term parking...
+
 ## Sources
 
 - [The Passing of Retired Police Officer Tony Dodd — Colin Andrews](https://colinandrews.net/TonyDoddPassing.html)

@@ -70,6 +70,13 @@ Olson's story was the subject of Errol Morris's 2017 Netflix documentary series 
 - [William Cooper](William_Cooper.md) — Naval intelligence veteran shot by sheriff's deputies in 2001
 - [Frank Olson (Intel Murders)](../../Intel_Murders/Details/Frank_Olson.md) — This case also appears in the Intelligence Service Murders project
 
+## Other Shocking Stories
+
+- [Paul Bennewitz](Paul_Bennewitz.md): Businessman and UFO investigator who was deliberately driven to a mental breakdown by a coordinated AFOSI disinformation campaign...
+- [Robert Frost (Area 51 Worker)](Robert_Frost_Area51.md): Civilian contractor at Groom Lake (Area 51) who died at age 57 after his tissues were found to...
+- [Frederick Valentich](Frederick_Valentich.md): Australian pilot who disappeared over Bass Strait in 1978 after radioing Melbourne air traffic control to report an...
+- [Paul Brown](Paul_Brown.md): Nuclear physicist who invented the Resonant Nuclear Battery (Nucell), a device that converts radioactive decay directly into electricity;...
+
 ## Sources
 
 - [Frank Olson - Wikipedia](https://en.wikipedia.org/wiki/Frank_Olson)

@@ -60,6 +60,13 @@ Second Lieutenant Robert L. Wilson, the radar operator who also disappeared, has
 - [Thomas Mantell](Thomas_Mantell.md) — another military pilot who died while pursuing an unidentified flying object
 - [Frederick Valentich](Frederick_Valentich.md) — Australian pilot who disappeared during a UFO encounter in 1978
 
+## Other Shocking Stories
+
+- [David Grusch](David_Grusch.md): Former U.S. Air Force intelligence officer and NGA official who testified before Congress in 2023 that the U.S...
+- [William Cooper](William_Cooper.md): Former Naval intelligence serviceman and author of *Behold a Pale Horse*, who made early UFO disclosure claims and...
+- [Don Elkins](Don_Elkins.md): Physics professor, Boeing 727 captain, and co-author of the Ra Material (Law of One), who died of a...
+- [Todd Sees](Todd_Sees.md): Pennsylvania deer hunter whose body was found emaciated and in his underwear near his home after a UFO...
+
 ## Sources
 
 - [Felix Moncla — Wikipedia](https://en.wikipedia.org/wiki/Felix_Moncla)

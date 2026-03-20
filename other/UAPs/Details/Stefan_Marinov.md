@@ -69,6 +69,13 @@ Marinov was survived by his son, Marin Marinov, who at the time of his father's 
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher
 
+## Other Shocking Stories
+
+- [George Adamski](George_Adamski.md): The most famous 1950s UFO contactee who claimed meetings with extraterrestrial "Space Brothers."
+- [Tim Burchett](Tim_Burchett.md): U.S. Congressman from Tennessee who leads Congressional UAP hearings and has publicly stated he was warned by Army...
+- [George Knapp](George_Knapp.md): Award-winning investigative journalist who broke the Bob Lazar / Area 51 story in 1989, has spent over 35...
+- [Fred Bell](Fred_Bell.md): Nuclear physicist, claimed MKULTRA participant, and inventor who died on September 25, 2011 — reportedly within 48 hours...
+
 ## Sources
 
 - [Stefan Marinov — Wikipedia](https://en.wikipedia.org/wiki/Stefan_Marinov)

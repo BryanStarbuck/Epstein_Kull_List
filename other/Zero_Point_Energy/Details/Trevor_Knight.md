@@ -60,6 +60,13 @@ The deaths were investigated by journalist Tony Collins of *Computer News* (late
 - [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
 - [Trevor Knight (UAP Deaths project)](../../UAPs/Details/Trevor_Knight.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [Nuno Filipe Gomes Loureiro](Nuno_Loureiro.md): Portuguese plasma physicist and MIT professor, shot and killed outside his apartment in Brookline, MA, in December 2025
+- [Jaymee Prichard](Jaymee_Prichard.md): Finance specialist at the Air Force Life Cycle Management Center (AFLCMC), Wright-Patterson Air Force Base. Murdered by strangulation...
+- [Nikola Tesla](Nikola_Tesla.md): Pioneer of alternating current, wireless energy transmission, and directed energy weapons, whose papers were seized by the FBI...
+- [John Andrews](John_Andrews.md): Portuguese-born inventor who demonstrated a water-to-gasoline additive to the U.S. Navy in 1916–1917, converting plain water into a...
+
 ## Sources
 
 - [The Marconi Murders Conspiracy — Hidden Influences](https://blog.hiddeninfluences.com/2017/09/30/marconi-murders-conspiracy/)

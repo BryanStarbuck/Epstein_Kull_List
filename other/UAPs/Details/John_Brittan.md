@@ -47,6 +47,13 @@ His death occurred during the most intense phase of the GEC-Marconi scientist de
 - [David Skeels](David_Skeels.md) — Marconi engineer, CO poisoning February 1987
 - [Richard Pugh](Richard_Pugh.md) — MOD consultant, died January 1987 (same month)
 
+## Other Shocking Stories
+
+- [Mark Wisner](Mark_Wisner.md): MOD software engineer found dead from asphyxiation with a plastic sack and cling film over his face —...
+- [Jonathan Lovette](Jonathan_Lovette.md): USAF airman allegedly found mutilated near Holloman Air Force Base in an incident that remains one of the...
+- [Anthony Godley](Anthony_Godley.md): 49-year-old Head of Work Study Unit at the Royal College of Military Science who vanished without a trace...
+- [Robert Frost (Area 51 Worker)](Robert_Frost_Area51.md): Civilian contractor at Groom Lake (Area 51) who died at age 57 after his tissues were found to...
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

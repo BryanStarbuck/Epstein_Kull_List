@@ -71,6 +71,13 @@ Constable had a parallel career as a prolific WWII aviation historian, co-author
 - [Thomas Henry Moray](Thomas_Henry_Moray.md) — Radiant energy inventor, also claimed access to a pervasive field energy
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher whose work was classified
 
+## Other Shocking Stories
+
+- [Dr. Ning Li](Ning_Li.md): Chinese-American physicist who published groundbreaking anti-gravity research, received DOD funding, obtained top secret clearance, then vanished from public...
+- [Thomas Henry Moray](Thomas_Henry_Moray.md): Inventor of the "Moray Valve" radiant energy device who was shot at multiple times, wounded in the leg...
+- [Charles Nelson Pogue](Charles_Nelson_Pogue.md): Canadian inventor of a high-efficiency vapor carburetor that allegedly achieved 200+ MPG in a 1933 Ford V8 test...
+- [Robert Bass](Robert_Bass.md): Rhodes Scholar mathematician and physicist who co-discovered low-energy nuclear transmutation (LENT) with the "Cincinnati Group." Three people allegedly...
+
 ## Sources
 
 - [Trevor James Constable — Wikipedia](https://en.wikipedia.org/wiki/Trevor_James_Constable)

@@ -90,6 +90,13 @@ Beyond his energy invention work, Warwick was deeply involved in researching gov
 - [Floyd Sweet](Floyd_Sweet.md) — Vacuum Triode Amplifier inventor who received death threats and died of a heart attack
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly at a restaurant, crying "They poisoned me"
 
+## Other Shocking Stories
+
+- [Stan Gleeson](Stan_Gleeson.md): Associate of Robert W. Bass in the Cincinnati Group's low-energy nuclear transmutation (LENT) research. Co-authored peer-reviewed LENR papers...
+- [Thomas Henry Moray](Thomas_Henry_Moray.md): Inventor of the "Moray Valve" radiant energy device who was shot at multiple times, wounded in the leg...
+- [Melissa Casias](Melissa_Casias.md): Los Alamos National Laboratory employee who vanished from Ranchos de Taos, New Mexico, on June 26, 2025 —...
+- [Peter Ferry](Peter_Ferry.md): Retired Army Brigadier and Assistant Marketing Director at Marconi, found electrocuted with electrical leads in his mouth
+
 ## Sources
 
 - [Project Camelot — In Tribute: Dean Warwick](https://projectcamelot.org/warwick.html)

@@ -56,6 +56,13 @@ At the time of his death, DeGeus was reportedly close to securing the funding ne
 - [Rory Johnson](Rory_Johnson.md) — Free energy inventor who died suddenly after DOE gag order
 - [Paul Brown](Paul_Brown.md) — Nuclear battery inventor killed in car accident after years of harassment
 
+## Other Shocking Stories
+
+- [Dean Warwick](Dean_Warwick.md): Alternative energy researcher and whistleblower who collapsed and died on stage at a UFO conference in 2006, moments...
+- [Ashad Sharif](Ashad_Sharif.md): 26-year-old Marconi computer analyst who died after tying a rope between his neck and a tree and then...
+- [Jim Sullivan](Jim_Sullivan.md): Singer-songwriter who recorded the prophetically titled album *U.F.O.* featuring lyrics about highway travel, leaving family behind, and alien...
+- [Uyrange Hollanda](Uyrange_Hollanda.md): Captain in the Brazilian Air Force who commanded Operation Saucer (Operacao Prato), the military investigation of UFO attacks...
+
 ## Sources
 
 - [Project Camelot - In Tribute: Arie DeGeus](https://projectcamelot.org/degeus.html)

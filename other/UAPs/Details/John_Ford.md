@@ -46,6 +46,13 @@ Ford was charged with illegal possession of radioactive materials, three counts 
 - [John Mack](John_Mack.md) — Harvard psychiatrist targeted by institutional pressure for alien abduction research
 - [Phil Schneider](Phil_Schneider.md) — Government insider who died after lecturing about classified programs
 
+## Other Shocking Stories
+
+- [Nuno Loureiro](Nuno_Loureiro.md): MIT professor of nuclear science and engineering, physics, and director of the MIT Plasma Science and Fusion Center...
+- [Shani Warren](Shani_Warren.md): GEC/Micro Scope employee found gagged, bound, and drowned in 18 inches of water at Taplow Lake — originally...
+- [David Sands](David_Sands.md): Easams/Marconi senior scientist working on SDI satellite radar who drove a car loaded with petrol cans into an...
+- [Jaime Gustitus](Jaime_Gustitus.md): 1st Lieutenant in the U.S. Air Force, serving as an Operations Research Analyst at the 711th Human Performance...
+
 ## Sources
 
 - [John Ford: Where is the Chairman of Long Island UFO Network Today? - The Cinemaholic](https://thecinemaholic.com/john-ford/)

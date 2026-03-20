@@ -45,6 +45,13 @@ Trevor Knight was a 52-year-old senior computer engineer employed at Marconi Spa
 - [Andrew Hall](Andrew_Hall.md) — British Aerospace engineer, CO poisoning September 1988
 - [Alistair Beckham](Alistair_Beckham.md) — Plessey SDI engineer, electrocuted August 1988
 
+## Other Shocking Stories
+
+- [Jim Sullivan](Jim_Sullivan.md): Singer-songwriter who recorded the prophetically titled album *U.F.O.* featuring lyrics about highway travel, leaving family behind, and alien...
+- [Tim Burchett](Tim_Burchett.md): U.S. Congressman from Tennessee who leads Congressional UAP hearings and has publicly stated he was warned by Army...
+- [Frederick Valentich](Frederick_Valentich.md): Australian pilot who disappeared over Bass Strait in 1978 after radioing Melbourne air traffic control to report an...
+- [Jaymee Prichard](Jaymee_Prichard.md): Civilian employee at the USAF Life Cycle Management Center, Wright-Patterson Air Force Base. Victim of murder-suicide by her...
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

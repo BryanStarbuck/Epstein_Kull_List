@@ -50,6 +50,13 @@ Hall's specific projects have not been publicly detailed, but his role as an eng
 - [Peter Peapell](Peter_Peapell.md) — RCMS scientist, CO poisoning February 1987
 - [Alistair Beckham](Alistair_Beckham.md) — Plessey SDI engineer, electrocuted August 1988
 
+## Other Shocking Stories
+
+- [James V. Forrestal](James_Forrestal.md): First United States Secretary of Defense, fell from the sixteenth floor of Bethesda Naval Hospital under disputed circumstances...
+- [Jonathan Lovette](Jonathan_Lovette.md): USAF airman allegedly found mutilated near Holloman Air Force Base in an incident that remains one of the...
+- [Frederick Valentich](Frederick_Valentich.md): Australian pilot who disappeared over Bass Strait in 1978 after radioing Melbourne air traffic control to report an...
+- [Carl Grillmair](Carl_Grillmair.md): Caltech/IPAC astrophysicist who studied galaxy collisions and the search for water on exoplanets. Shot and killed on the...
+
 ## Sources
 
 - [GEC-Marconi scientist deaths conspiracy theory — Wikipedia](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory)

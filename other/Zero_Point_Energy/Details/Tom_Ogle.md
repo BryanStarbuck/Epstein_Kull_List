@@ -92,6 +92,13 @@ Ogle's work occurred during the 1970s energy crisis, when OPEC oil embargoes had
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
 - [Nikola Tesla](Nikola_Tesla.md) — Wireless energy pioneer whose papers were seized by the FBI
 
+## Other Shocking Stories
+
+- [Alistair Beckham](Alistair_Beckham.md): Computer engineer believed to be working on top secret SDI programs, found electrocuted in his garden shed with...
+- [Peter Ferry](Peter_Ferry.md): Retired Army Brigadier and Assistant Marketing Director at Marconi, found electrocuted with electrical leads in his mouth
+- [Bruce DePalma](Bruce_DePalma.md): American inventor of the N-Machine homopolar generator — which he claimed demonstrated over-unity energy output — who moved...
+- [Chris Tinsley](Chris_Tinsley.md): Associate in the Cincinnati Group's low-energy nuclear transmutation (LENT) research. Author of energy device testing articles in *Infinite...
+
 ## Sources
 
 - [Tom Ogle — Rex Research](http://www.rexresearch.com/ogle/ogle.htm)

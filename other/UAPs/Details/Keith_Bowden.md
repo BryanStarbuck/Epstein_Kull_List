@@ -47,6 +47,13 @@ Bowden's death predated the main cluster of Marconi deaths by several years and 
 - [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi software engineer, died August 1986
 - [Ashad Sharif](Ashad_Sharif.md) — Marconi computer analyst, died October 1986
 
+## Other Shocking Stories
+
+- [Trevor Knight](Trevor_Knight.md): Marconi computer engineer found dead from carbon monoxide poisoning with a hosepipe connected to his car exhaust —...
+- [Ning Li](Ning_Li.md): Chinese-American physicist who published groundbreaking antigravity research, received a $448,970 DOD grant through her company AC Gravity, published...
+- [Ann Livingston](Ann_Livingston.md): MUFON investigator and accountant who died of fast-acting ovarian cancer in 1994 after publishing research on electronic harassment...
+- [Jacob Prichard](Jacob_Prichard.md): Civilian employee at the Air Force Research Laboratory, Wright-Patterson Air Force Base. Perpetrator of an October 25, 2025...
+
 ## Sources
 
 - [GEC-Marconi scientist deaths conspiracy theory — Wikipedia](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory)

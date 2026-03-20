@@ -51,6 +51,13 @@ His 60 volumes of research documented what researcher John Ventre described as "
 - [J. Allen Hynek](J_Allen_Hynek.md) -- Astronomer and UFO researcher
 - [Frank Edwards](Frank_Edwards.md) -- Author and broadcaster who died under suspicious circumstances
 
+## Other Shocking Stories
+
+- [Frank Edwards](Frank_Edwards.md): News commentator and UFO author who died on the 20th anniversary of the Kenneth Arnold sighting, after threats...
+- [Stefan Marinov](Stefan_Marinov.md): Bulgarian physicist who fell to his death from a university library staircase in Graz, Austria in 1997 while...
+- [Ron Rummel](Ron_Rummel.md): Ex-Air Force intelligence agent and publisher of *Alien Digest*, found dead of a gunshot wound in a Portland...
+- [Stuart Gooding](Stuart_Gooding.md): RCMS postgraduate student killed in a head-on car collision in Cyprus — died on the same day as...
+
 ## Sources
 
 - [Leonard H. Stringfield - Wikipedia](https://en.wikipedia.org/wiki/Leonard_H._Stringfield)

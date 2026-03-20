@@ -59,6 +59,13 @@ Steven Greer and authors such as Michael Salla (*Kennedy's Last Stand*) and Kenn
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — Journalist investigating the JFK assassination who died under suspicious circumstances
 - [Frank Olson](Frank_Olson.md) — CIA scientist whose death illustrates patterns of intelligence agency cover-ups
 
+## Other Shocking Stories
+
+- [Frank Scully](Frank_Scully.md): American journalist and author of *Behind the Flying Saucers*, the first major book claiming a UFO crash recovery...
+- [Mark Wisner](Mark_Wisner.md): MOD software engineer found dead from asphyxiation with a plastic sack and cling film over his face —...
+- [David Sands](David_Sands.md): Easams/Marconi senior scientist working on SDI satellite radar who drove a car loaded with petrol cans into an...
+- [Frank Jennings](Frank_Jennings.md): 60-year-old Plessey electronic weapons engineer who died of a heart attack — no inquest was held
+
 ## Sources
 
 - [NBC News: Is that JFK memo to the CIA about UFOs real?](https://www.nbcnews.com/id/wbna42704241)

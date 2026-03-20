@@ -48,6 +48,13 @@ As a marketing director, Ferry would have had detailed knowledge of Marconi's de
 - [Andrew Hall](Andrew_Hall.md) — British Aerospace engineer, CO poisoning September 1988
 - [Russell Smith](Russell_Smith.md) — AERE lab technician, fell from cliff January 1988
 
+## Other Shocking Stories
+
+- [Mae Brussell](Mae_Brussell.md): Pioneering conspiracy researcher and radio host who died of fast-acting cancer in 1988, seven months after receiving death...
+- [Stanton Friedman](Stanton_Friedman.md): Nuclear physicist and pioneering UFO researcher who brought the Roswell Incident into mainstream awareness; died of a heart...
+- [David Sands](David_Sands.md): Easams/Marconi senior scientist working on SDI satellite radar who drove a car loaded with petrol cans into an...
+- [Ning Li](Ning_Li.md): Chinese-American physicist who published groundbreaking antigravity research, received a $448,970 DOD grant through her company AC Gravity, published...
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

@@ -53,6 +53,13 @@ However, in 1960, a revised edition was published with three additional chapters
 - [James McDonald](James_McDonald.md) — Examined Blue Book files and found systematic mishandling of evidence
 - [Thomas Mantell](Thomas_Mantell.md) — Early UFO case investigated under Ruppelt's predecessor programs
 
+## Other Shocking Stories
+
+- [John Brittan](John_Brittan.md): Royal College of Military Science IT specialist found dead from carbon monoxide poisoning in his garage — had...
+- [Robert Frost (Area 51 Worker)](Robert_Frost_Area51.md): Civilian contractor at Groom Lake (Area 51) who died at age 57 after his tissues were found to...
+- [Morris K. Jessup](Morris_Jessup.md): Astronomer and UFO author who investigated antigravity and the Philadelphia Experiment, found dead in his car under disputed...
+- [Eugene Mallove](Eugene_Mallove.md): Cold fusion advocate, science writer, and editor of Infinite Energy magazine who was beaten to death in 2004...
+
 ## Sources
 
 - [Edward J. Ruppelt — Wikipedia](https://en.wikipedia.org/wiki/Edward_J._Ruppelt)

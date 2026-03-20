@@ -44,6 +44,13 @@ Unusually, Baker was also a part-time member of the SAS (Special Air Service) Si
 - [Keith Bowden](Keith_Bowden.md) — GEC computer scientist, car crash March 1982
 - [Frank Jennings](Frank_Jennings.md) — Plessey weapons engineer, died June 1987
 
+## Other Shocking Stories
+
+- [Nuno Loureiro](Nuno_Loureiro.md): MIT professor of nuclear science and engineering, physics, and director of the MIT Plasma Science and Fusion Center...
+- [Frank Scully](Frank_Scully.md): American journalist and author of *Behind the Flying Saucers*, the first major book claiming a UFO crash recovery...
+- [Peter Ferry](Peter_Ferry.md): 60-year-old retired Army Brigadier and Marconi assistant marketing director found electrocuted with stripped electrical leads jammed into his...
+- [Fred Bell](Fred_Bell.md): Nuclear physicist, claimed MKULTRA participant, and inventor who died on September 25, 2011 — reportedly within 48 hours...
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

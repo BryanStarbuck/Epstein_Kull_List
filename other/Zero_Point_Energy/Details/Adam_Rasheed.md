@@ -89,6 +89,13 @@ Adam Rasheed's mainstream career is well documented through GE press releases, M
 - [Philo Farnsworth](Philo_Farnsworth.md) — Television inventor whose fusion research was defunded
 - [Arie DeGeus](Arie_DeGeus.md) — Clean energy inventor who died of heart failure en route to secure funding
 
+## Other Shocking Stories
+
+- [Tom Ogle](Tom_Ogle.md): El Paso inventor of a pressurized fuel vapor system who demonstrated 100 MPG efficiency, was shot and wounded...
+- [Dean Warwick](Dean_Warwick.md): New Zealand-born alternative energy inventor and researcher who collapsed and died on stage at the Probe International conference...
+- [Nikola Tesla](Nikola_Tesla.md): Pioneer of alternating current, wireless energy transmission, and directed energy weapons, whose papers were seized by the FBI...
+- [Major General William Neil McCasland (USAF, Ret.)](William_Neil_McCasland.md): Former commander of the Air Force Research Laboratory at Wright-Patterson AFB. Executive secretary of the Special Access Program...
+
 ## Sources
 
 - [GE Global Research Engineer Adam Rasheed Receives 2009 Lawrence Sperry Award — GE News](https://www.ge.com/news/press-releases/ge-global-research-engineer-adam-rasheed-receives-2009-lawrence-sperry-award)

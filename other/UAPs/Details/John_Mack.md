@@ -52,6 +52,13 @@ Mack continued his research and published a second book, *Passport to the Cosmos
 - [Stanton Friedman](Stanton_Friedman.md) — Nuclear physicist and pioneering UFO researcher
 - [John Ford](John_Ford.md) — UFO investigator institutionalized since 1996
 
+## Other Shocking Stories
+
+- [Michael Baker](Michael_Baker.md): 22-year-old Plessey digital communications expert and part-time SAS member killed when his car crashed through a barrier near...
+- [Russell Smith](Russell_Smith.md): 23-year-old Atomic Energy Research Establishment laboratory technician who fell from a cliff in Boscastle, Cornwall — no suicide...
+- [Fred Bell](Fred_Bell.md): Nuclear physicist, claimed MKULTRA participant, and inventor who died on September 25, 2011 — reportedly within 48 hours...
+- [Matthew Livelsberger](Matthew_Livelsberger.md): Highly decorated U.S. Army Green Beret who died on January 1, 2025 in a Cybertruck explosion at the...
+
 ## Sources
 
 - [John E. Mack - Wikipedia](https://en.wikipedia.org/wiki/John_E._Mack)

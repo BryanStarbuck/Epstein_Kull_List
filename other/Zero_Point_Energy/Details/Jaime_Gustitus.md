@@ -77,6 +77,13 @@ Lt. Gen. Linda Hurry, Deputy Commander of Air Force Materiel Command: "We are de
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — AFRL-funded inventor, vanished June 2025
 - [Jaime Gustitus (UAP Deaths project)](../../UAPs/Details/Jaime_Gustitus.md)
 
+## Other Shocking Stories
+
+- [Dean Warwick](Dean_Warwick.md): New Zealand-born alternative energy inventor and researcher who collapsed and died on stage at the Probe International conference...
+- [Mark Tomion](Mark_Tomion.md): Physicist who patented "Star Drive" zero-point energy technology and died shortly after developing a working prototype
+- [Adam Rasheed](Adam_Rasheed.md): GE Global Research engineer and aerospace propulsion researcher who reportedly suffered a stroke in 2005 following threats, allegedly...
+- [Thomas E. Bearden](Thomas_Bearden.md): Retired U.S. Army Lieutenant Colonel and inventor of the Motionless Electromagnetic Generator (MEG), who spent decades advocating for...
+
 ## Sources
 
 - [Dayton Daily News: Investigation continues into murder, suicide of 3 Wright-Patterson workers](https://www.daytondailynews.com/crime/police-huber-heights-man-murdered-wife-coworker-before-driving-wifes-body-to-west-milton/I4XKL53DCBDTJBXMAH5IN5MKIE/)

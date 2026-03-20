@@ -85,6 +85,13 @@ Dotto had several units operating at Sloan-Kettering Hospital in New York City f
 - [Paul Pantone](Paul_Pantone.md) — GEET reactor inventor committed to mental hospital after regulatory action
 - [Thomas Henry Moray](Thomas_Henry_Moray.md) — Radiant energy inventor whose lab was ransacked and device destroyed
 
+## Other Shocking Stories
+
+- [Shani Warren](Shani_Warren.md): Personal assistant at Micro Scope (later acquired by GEC-Marconi), found drowned, gagged, and bound in a lake. Originally...
+- [Arie DeGeus](Arie_DeGeus.md): Inventor of revolutionary clean energy technology reportedly capable of replacing oil, found dead in his car at Charlotte...
+- [John S. Kanzius](John_Kanzius.md): American inventor and radio engineer who discovered that radio frequency waves could dissociate hydrogen from salt water, and...
+- [Dallis Hardwick](Dallis_Hardwick.md): Metallurgist and co-inventor of Mondaloy, the superalloy enabling American rocket engine independence from Russia. Senior civilian scientist at...
+
 ## Sources
 
 - [Gianni Dotto: Thermionic Couple ("The Dotto Ring") — Rex Research](http://rexresearch.com/dotto/dotto.htm)

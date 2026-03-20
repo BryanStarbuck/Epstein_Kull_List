@@ -52,6 +52,13 @@ Plessey had been purchased by GEC-Marconi in 1987. Within a year of the acquisit
 - [Russell Smith](Russell_Smith.md) — AERE lab technician, fell from cliff January 1988
 - [Andrew Hall](Andrew_Hall.md) — British Aerospace engineer, CO poisoning September 1988
 
+## Other Shocking Stories
+
+- [David Greenhalgh](David_Greenhalgh.md): ICL defense division scientist who fell from a railway bridge in Maidenhead with slashed wrists — survived briefly...
+- [Stanley Meyer](Stanley_Meyer.md): Inventor who claimed to have developed a water fuel cell capable of powering an automobile; died suddenly at...
+- [Vimal Dajibhai](Vimal_Dajibhai.md): 24-year-old Marconi software engineer working on the Stingray torpedo system who plunged from the Clifton Suspension Bridge —...
+- [John Burroughs](John_Burroughs.md): U.S. Air Force witness to the Rendlesham Forest incident of December 1980, who suffered permanent radiation injuries from...
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

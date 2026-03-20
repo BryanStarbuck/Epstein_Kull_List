@@ -53,6 +53,13 @@ In 1958, Fontes prepared a detailed briefing paper on UFOs for the Brazilian gov
 - [Karla Turner](Karla_Turner.md) — Abduction researcher who died of cancer at 48 (1996)
 - [Ann Livingston](Ann_Livingston.md) — MUFON investigator who died of aggressive ovarian cancer (1994)
 
+## Other Shocking Stories
+
+- [Paul Bennewitz](Paul_Bennewitz.md): Businessman and UFO investigator who was deliberately driven to a mental breakdown by a coordinated AFOSI disinformation campaign...
+- [Russell Smith](Russell_Smith.md): 23-year-old Atomic Energy Research Establishment laboratory technician who fell from a cliff in Boscastle, Cornwall — no suicide...
+- [Ryan Graves](Ryan_Graves.md): Former U.S. Navy F/A-18 pilot who became the first active-duty military pilot to publicly testify before Congress about...
+- [John E. Mack](John_Mack.md): Pulitzer Prize-winning Harvard psychiatrist and alien abduction researcher, killed by a drunk driver while walking in London in...
+
 ## Sources
 
 - [Forbidden Science Dispatches — Tanner F. Boyle (Substack)](https://tannerfboyle.substack.com/p/forbidden-science-dispatches-2)

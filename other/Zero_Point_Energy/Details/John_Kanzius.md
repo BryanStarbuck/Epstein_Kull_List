@@ -55,6 +55,13 @@ The Kanzius water-splitting phenomenon is real and verified, but mainstream scie
 - [Andrija Puharich](Andrija_Puharich.md) — Medical inventor with US patent for water-splitting method
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
 
+## Other Shocking Stories
+
+- [Viktor Schauberger](Viktor_Schauberger.md): Austrian forester and inventor who developed "implosion" vortex energy technology, was forced to work on flying disc designs...
+- [Lester Hendershot](Lester_Hendershot.md): Inventor of a "fuelless motor" that reportedly drew power from the Earth's magnetic field. Made front-page headlines in...
+- [Stefan Marinov](Stefan_Marinov.md): Bulgarian physicist working on perpetual motion and unconventional electromagnetic theories, fell from the staircase of the University of...
+- [Amy Catherine Eskridge](Amy_Eskridge.md): Anti-gravity researcher and co-founder of the Institute for Exotic Science, found dead of a gunshot wound ruled suicide...
+
 ## Sources
 
 - Wikipedia — John Kanzius, including biography and descriptions of both the cancer treatment and water-splitting discoveries

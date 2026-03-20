@@ -54,6 +54,13 @@ The U.S. Department of Energy placed a restraining order -- commonly referred to
 - [Floyd Sweet](Floyd_Sweet.md) — Free energy inventor who received death threats and died under suspicious circumstances
 - [Paul Brown](Paul_Brown.md) — Nuclear battery inventor killed in car accident after years of harassment
 
+## Other Shocking Stories
+
+- [Michael Baker](Michael_Baker.md): 22-year-old Plessey digital communications expert and part-time SAS member killed when his car crashed through a barrier near...
+- [Dylan Borland](Dylan_Borland.md): Former U.S. Air Force geospatial intelligence specialist who testified before Congress in September 2025 about witnessing a silent...
+- [Bruce DePalma](Bruce_DePalma.md): MIT physicist and former Polaroid senior scientist who invented the N-Machine homopolar generator, a claimed over-unity free energy...
+- [Ashad Sharif](Ashad_Sharif.md): 26-year-old Marconi computer analyst who died after tying a rope between his neck and a tree and then...
+
 ## Sources
 
 - [Dead Inventor's Don't Talk: Meet Rory Johnson - Steemit](https://steemit.com/physics/@deepwaterscrypto/dead-inventor-s-don-t-talk-meet-rory-johnson)

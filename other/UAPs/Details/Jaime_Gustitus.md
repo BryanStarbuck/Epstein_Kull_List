@@ -44,6 +44,13 @@ She and Jacob Prichard were colleagues through their work at AFRL.
 - [Jacob Prichard](Jacob_Prichard.md) — Colleague and perpetrator of the murder-suicide
 - [Jaymee Prichard](Jaymee_Prichard.md) — Also murdered by Jacob Prichard
 
+## Other Shocking Stories
+
+- [Don Elkins](Don_Elkins.md): Physics professor, Boeing 727 captain, and co-author of the Ra Material (Law of One), who died of a...
+- [Paul Bennewitz](Paul_Bennewitz.md): Businessman and UFO investigator who was deliberately driven to a mental breakdown by a coordinated AFOSI disinformation campaign...
+- [Jacob Prichard](Jacob_Prichard.md): Civilian employee at the Air Force Research Laboratory, Wright-Patterson Air Force Base. Perpetrator of an October 25, 2025...
+- [Wilbert B. Smith](Wilbert_Smith.md): Canadian government engineer who ran Project Magnet, Canada's official UFO study, and concluded UFOs were extraterrestrial in origin
+
 ## Sources
 
 - [WHIO: 'Deeply saddened;' WPAFB reacts to double murder-suicide involving base personnel](https://www.whio.com/news/local/deeply-saddened-wpafb-reacts-double-murder-suicide-involving-base-personnel/4HUGLX6G6VFNVOS23JRVUC3ZJY/)

@@ -52,6 +52,13 @@ McCandlish was also a witness in Dr. Steven Greer's Disclosure Project, where he
 - [Dean Warwick](Dean_Warwick.md) — Researcher who collapsed and died at a conference moments before disclosing information
 - [Phil Schneider](Phil_Schneider.md) — Government insider found dead after lecturing about classified programs
 
+## Other Shocking Stories
+
+- [Ann Livingston](Ann_Livingston.md): MUFON investigator and accountant who died of fast-acting ovarian cancer in 1994 after publishing research on electronic harassment...
+- [Uyrange Hollanda](Uyrange_Hollanda.md): Captain in the Brazilian Air Force who commanded Operation Saucer (Operacao Prato), the military investigation of UFO attacks...
+- [Russell Smith](Russell_Smith.md): 23-year-old Atomic Energy Research Establishment laboratory technician who fell from a cliff in Boscastle, Cornwall — no suicide...
+- [Alistair Beckham](Alistair_Beckham.md): 50-year-old Plessey Defence Systems software engineer working on SDI pilot programs, found electrocuted in his garden shed with...
+
 ## Sources
 
 - [Mark McCandlish Obituary - Redding Record Searchlight](https://www.legacy.com/us/obituaries/redding/name/mark-mccandlish-obituary?id=55837309)

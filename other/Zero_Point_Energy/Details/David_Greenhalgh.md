@@ -60,6 +60,13 @@ The deaths were investigated by journalist Tony Collins of *Computer News* (late
 - [Trevor Knight](Trevor_Knight.md) — Marconi engineer found dead of carbon monoxide
 - [David Greenhalgh (UAP Deaths project)](../../UAPs/Details/David_Greenhalgh.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [Dr. Eric H. Wang](Eric_Wang.md): Austrian-born engineer who headed the Office of Special Studies at Wright-Patterson AFB, allegedly involved in reverse-engineering recovered craft...
+- [Floyd Sweet](Floyd_Sweet.md): American inventor and electronics researcher who developed the Vacuum Triode Amplifier (VTA) — a solid-state device using conditioned...
+- [Bruce DePalma](Bruce_DePalma.md): American inventor of the N-Machine homopolar generator — which he claimed demonstrated over-unity energy output — who moved...
+- [Paulo and Alexandra Correa](Paulo_Correa.md): Portuguese-Canadian biophysicist and his co-inventor wife who developed the Pulsed Abnormal Glow Discharge (PAGD) reactor, claiming overunity energy...
+
 ## Sources
 
 - [GEC-Marconi Scientist Deaths Conspiracy Theory — Wikipedia](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory)

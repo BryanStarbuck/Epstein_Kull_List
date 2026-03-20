@@ -84,6 +84,13 @@ Gary Vesperman's *Energy Invention Suppression Cases* poses the question: "Have 
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Paul Brown](Paul_Brown.md) — Nuclear battery inventor killed in car crash after repeated harassment
 
+## Other Shocking Stories
+
+- [1st Lt. Jaime S. Gustitus](Jaime_Gustitus.md): Operations Research Analyst in the 711th Human Performance Wing, Air Force Research Laboratory, Wright-Patterson AFB. Held Top Secret/SCI...
+- [John Andrews](John_Andrews.md): Portuguese-born inventor who demonstrated a water-to-gasoline additive to the U.S. Navy in 1916–1917, converting plain water into a...
+- [Bill Yelon](Bill_Yelon.md): Inventor of a solid-state electromagnetic wave over-unity device who reportedly died suddenly in 2018, shortly after announcing his...
+- [Thomas Henry Moray](Thomas_Henry_Moray.md): Inventor of the "Moray Valve" radiant energy device who was shot at multiple times, wounded in the leg...
+
 ## Sources
 
 - [Robert W. Bass (1930–2013) — Q-Mag](https://www.q-mag.org/robert-w-bass-1930-2013.html)

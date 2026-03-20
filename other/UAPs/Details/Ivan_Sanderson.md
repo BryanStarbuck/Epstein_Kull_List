@@ -49,6 +49,13 @@ Sanderson authored numerous books, including *Invisible Residents* (1970), which
 - [Ann Livingston](Ann_Livingston.md) — MUFON researcher who died of fast-acting ovarian cancer
 - [Karla Turner](Karla_Turner.md) — Abduction researcher who died of fast-acting breast cancer at 48
 
+## Other Shocking Stories
+
+- [Leonard H. Stringfield](Leonard_Stringfield.md): Pioneer of UFO crash-retrieval research, author of seven *Status Reports* documenting alleged government recovery of downed alien craft...
+- [Thomas F. Mantell](Thomas_Mantell.md): Kentucky Air National Guard pilot who became the first person to die while pursuing an unidentified flying object
+- [John E. Mack](John_Mack.md): Pulitzer Prize-winning Harvard psychiatrist and alien abduction researcher, killed by a drunk driver while walking in London in...
+- [Arie DeGeus](Arie_DeGeus.md): Inventor of a claimed zero-point energy battery who was found dead in his car in the long-term parking...
+
 ## Sources
 
 - [Ivan T. Sanderson — Wikipedia](https://en.wikipedia.org/wiki/Ivan_T._Sanderson)

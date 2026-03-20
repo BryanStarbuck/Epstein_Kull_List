@@ -45,6 +45,13 @@ He authored several books including *Crash at Corona* (1992), *TOP SECRET/MAJIC*
 - [Leonard Stringfield](Leonard_Stringfield.md) — Pioneer crash-retrieval researcher who died of cancer
 - [Frank Edwards](Frank_Edwards.md) — Radio broadcaster and UFO author who died of a heart attack in 1967
 
+## Other Shocking Stories
+
+- [Ryan Graves](Ryan_Graves.md): Former U.S. Navy F/A-18 pilot who became the first active-duty military pilot to publicly testify before Congress about...
+- [Todd Sees](Todd_Sees.md): Pennsylvania deer hunter whose body was found emaciated and in his underwear near his home after a UFO...
+- [Ashad Sharif](Ashad_Sharif.md): 26-year-old Marconi computer analyst who died after tying a rope between his neck and a tree and then...
+- [Nikola Tesla](Nikola_Tesla.md): Legendary inventor of AC electricity and wireless power transmission who died alone in a New York hotel room...
+
 ## Sources
 
 - [Stanton T. Friedman - Wikipedia](https://en.wikipedia.org/wiki/Stanton_T._Friedman)

@@ -91,6 +91,13 @@ In 2019, Dan Plazak published "Making Gasoline from Water: John Andrews and the 
 - [Tom Ogle](Tom_Ogle.md) — Fuel vapor system inventor who was shot, drugged, and died of overdose
 - [Rudolf Diesel](Rudolf_Diesel.md) — Diesel engine inventor who vanished from a ship in 1913
 
+## Other Shocking Stories
+
+- [Ken Rasmussen](Ken_Rasmussen.md): Inventor of a water-to-energy pulsed electrolysis system with similarities to Professor Kanarev's work. His research was halted on...
+- [Dallis Hardwick](Dallis_Hardwick.md): Metallurgist and co-inventor of Mondaloy, the superalloy enabling American rocket engine independence from Russia. Senior civilian scientist at...
+- [Peter Ferry](Peter_Ferry.md): Retired Army Brigadier and Assistant Marketing Director at Marconi, found electrocuted with electrical leads in his mouth
+- [David Sands](David_Sands.md): Senior scientist and satellite projects manager at Easams (Marconi sister company), died when his car loaded with petrol...
+
 ## Sources
 
 - [An Amazing Demonstration of Water as Fuel — U.S. Naval Institute Proceedings, March 1936](https://www.usni.org/magazines/proceedings/1936/march/amazing-demonstration-water-fuel)

@@ -58,6 +58,13 @@ The mystery deepened when Li was struck by a vehicle in 2014 on the UAH campus, 
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher whose work was allegedly classified
 - [Arie DeGeus](Arie_DeGeus.md) — Free energy inventor found dead at airport en route to secure funding
 
+## Other Shocking Stories
+
+- [Edward J. Ruppelt](Edward_Ruppelt.md): First director of Project Blue Book and the man who coined the term "unidentified flying object," dead of...
+- [John Brittan](John_Brittan.md): Royal College of Military Science IT specialist found dead from carbon monoxide poisoning in his garage — had...
+- [John E. Mack](John_Mack.md): Pulitzer Prize-winning Harvard psychiatrist and alien abduction researcher, killed by a drunk driver while walking in London in...
+- [Luis "Lue" Elizondo](Lue_Elizondo.md): Former head of the Pentagon's Advanced Aerospace Threat Identification Program (AATIP), UAP whistleblower, author of *Imminent*, and the...
+
 ## Sources
 
 - [Ning Li (physicist) - Wikipedia](https://en.wikipedia.org/wiki/Ning_Li_(physicist))

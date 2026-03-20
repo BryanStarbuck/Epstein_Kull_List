@@ -79,6 +79,13 @@ On May 7, 1956, Reich was found guilty of contempt of court for violating the in
 - [Paul Pantone](Paul_Pantone.md) — Inventor committed to a mental institution after developing an alternative fuel processor
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 
+## Other Shocking Stories
+
+- [The Forbidden Physics of Flight: How Gravity Research Vanished Behind Classification Walls](pte_physics.md): For over a century, humanity has quietly flirted with technologies that threaten to rewrite the laws of motion...
+- [Rudolf Diesel](Rudolf_Diesel.md): Inventor of the diesel engine, disappeared from the SS Dresden while crossing the English Channel en route to...
+- [Robert Bass](Robert_Bass.md): Rhodes Scholar mathematician and physicist who co-discovered low-energy nuclear transmutation (LENT) with the "Cincinnati Group." Three people allegedly...
+- [Thomas E. Bearden](Thomas_Bearden.md): Retired U.S. Army Lieutenant Colonel and inventor of the Motionless Electromagnetic Generator (MEG), who spent decades advocating for...
+
 ## Sources
 
 - [Wilhelm Reich — Wikipedia](https://en.wikipedia.org/wiki/Wilhelm_Reich)

@@ -54,6 +54,13 @@ Helen Frost later recalled that lawyers in Las Vegas told her "there was nothing
 - [Walter Kasza](Walter_Kasza_Area51.md) -- Fellow Area 51 civilian contractor who died from toxic exposure at the same facility
 - [Bob Lazar](Bob_Lazar.md) -- Claimed to have worked at S-4 facility near Area 51
 
+## Other Shocking Stories
+
+- [Stuart Gooding](Stuart_Gooding.md): RCMS postgraduate student killed in a head-on car collision in Cyprus — died on the same day as...
+- [Ashad Sharif](Ashad_Sharif.md): 26-year-old Marconi computer analyst who died after tying a rope between his neck and a tree and then...
+- [Thomas F. Mantell](Thomas_Mantell.md): Kentucky Air National Guard pilot who became the first person to die while pursuing an unidentified flying object
+- [Stefan Michalak](Stefan_Michalak.md): Canadian amateur prospector who suffered severe grid-pattern burns and radiation sickness after encountering a landed disc-shaped craft at...
+
 ## Sources
 
 - [The Secrets at Area 51 Deadly, Real - Spokesman-Review](https://www.spokesman.com/stories/1997/jul/20/the-secrets-at-area-51-deadly-real-its-toxic/)

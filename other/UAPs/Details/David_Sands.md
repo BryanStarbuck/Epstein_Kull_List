@@ -52,6 +52,13 @@ At the time of his death, Sands had just returned from a family holiday in Venic
 - [Keith Bowden](Keith_Bowden.md) — GEC computer scientist, car crash March 1982
 - [Michael Baker](Michael_Baker.md) — Plessey comms expert, car crash May 1987
 
+## Other Shocking Stories
+
+- [Todd Sees](Todd_Sees.md): Pennsylvania deer hunter whose body was found emaciated and in his underwear near his home after a UFO...
+- [Edward J. Ruppelt](Edward_Ruppelt.md): First director of Project Blue Book and the man who coined the term "unidentified flying object," dead of...
+- [Roger Hill](Roger_Hill.md): Marconi radar designer found dead from a self-inflicted shotgun wound at his home in Surrey
+- [Richard Pugh](Richard_Pugh.md): MOD computer consultant found dead with a plastic bag over his head and rope coiled four times around...
+
 ## Sources
 
 - [Scientists' Deaths Still a Puzzle — The Scientist](https://www.the-scientist.com/scientists-deaths-still-a-puzzle-63726)

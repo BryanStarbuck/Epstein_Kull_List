@@ -40,6 +40,13 @@ She was married to Jacob Prichard, a civilian employee at the Air Force Research
 - [Jacob Prichard](Jacob_Prichard.md) — Husband and perpetrator of the murder-suicide
 - [Jaime Gustitus](Jaime_Gustitus.md) — Colleague also murdered by Jacob Prichard
 
+## Other Shocking Stories
+
+- [John E. Mack](John_Mack.md): Pulitzer Prize-winning Harvard psychiatrist and alien abduction researcher, killed by a drunk driver while walking in London in...
+- [Russell Smith](Russell_Smith.md): 23-year-old Atomic Energy Research Establishment laboratory technician who fell from a cliff in Boscastle, Cornwall — no suicide...
+- [John Burroughs](John_Burroughs.md): U.S. Air Force witness to the Rendlesham Forest incident of December 1980, who suffered permanent radiation injuries from...
+- [Zigmund Adamski](Zigmund_Adamski.md): Polish-born British coal miner found dead atop a coal heap in Todmorden, West Yorkshire, covered in mysterious burns...
+
 ## Sources
 
 - [FOX19: Wright-Patterson employee kills colleague, wife in apparent double murder-suicide](https://www.fox19.com/2025/10/29/wright-patterson-employee-kills-colleague-wife-double-murder-suicide/)

@@ -62,6 +62,13 @@ Some investigators have suggested KGB or Eastern Bloc involvement, theorizing th
 - [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
 - [Keith Bowden (UAP Deaths project)](../../UAPs/Details/Keith_Bowden.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [Wilhelm Reich](Wilhelm_Reich.md): Austrian-born psychiatrist and psychoanalyst who developed "orgone energy" theory and accumulator devices, imprisoned after FDA injunction, and died...
+- [Amy Catherine Eskridge](Amy_Eskridge.md): Anti-gravity researcher and co-founder of the Institute for Exotic Science, found dead of a gunshot wound ruled suicide...
+- [Mark Tomion](Mark_Tomion.md): Physicist who patented "Star Drive" zero-point energy technology and died shortly after developing a working prototype
+- [Frank Richardson](Frank_Richardson.md): Nevada Test Site electrician who invented a fuelless magnetic electrical generator and a bladeless Tesla-type steam turbine in...
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

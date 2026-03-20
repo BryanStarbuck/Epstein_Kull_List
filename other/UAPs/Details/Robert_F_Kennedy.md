@@ -49,6 +49,13 @@ No documents, testimony, or credible sources link RFK to any interest in UFOs or
 - [John F. Kennedy](John_F_Kennedy.md) — Brother, whose assassination is the basis for the extended UFO theory
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — Journalist who investigated the JFK assassination
 
+## Other Shocking Stories
+
+- [Fred Bell](Fred_Bell.md): Nuclear physicist, claimed MKULTRA participant, and inventor who died on September 25, 2011 — reportedly within 48 hours...
+- [Michael Baker](Michael_Baker.md): 22-year-old Plessey digital communications expert and part-time SAS member killed when his car crashed through a barrier near...
+- [George Adamski](George_Adamski.md): The most famous 1950s UFO contactee who claimed meetings with extraterrestrial "Space Brothers."
+- [John Burroughs](John_Burroughs.md): U.S. Air Force witness to the Rendlesham Forest incident of December 1980, who suffered permanent radiation injuries from...
+
 ## Sources
 
 - [Wikipedia: Robert F. Kennedy assassination conspiracy theories](https://en.wikipedia.org/wiki/Robert_F._Kennedy_assassination_conspiracy_theories)

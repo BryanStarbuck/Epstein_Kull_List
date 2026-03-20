@@ -84,6 +84,13 @@ His son, Stan Michalak, co-authored a book with UFO researcher Chris Rutkowski t
 - [Todd Sees](Todd_Sees.md) — Pennsylvania man found dead after UFO sighting on the same morning
 - [Zigmund Adamski](Zigmund_Adamski.md) — Coal miner found dead with unexplained burns and unidentifiable substance
 
+## Other Shocking Stories
+
+- [Russell Smith](Russell_Smith.md): 23-year-old Atomic Energy Research Establishment laboratory technician who fell from a cliff in Boscastle, Cornwall — no suicide...
+- [Stanley Meyer](Stanley_Meyer.md): Inventor who claimed to have developed a water fuel cell capable of powering an automobile; died suddenly at...
+- [Thomas Townsend Brown](Thomas_Townsend_Brown.md): American inventor and physicist who pioneered electrogravitics research and the Biefeld-Brown effect; died of natural causes in 1985...
+- [Jaime Gustitus](Jaime_Gustitus.md): 1st Lieutenant in the U.S. Air Force, serving as an Operations Research Analyst at the 711th Human Performance...
+
 ## Sources
 
 - [Falcon Lake Incident — Wikipedia](https://en.wikipedia.org/wiki/Falcon_Lake_Incident)

@@ -60,6 +60,13 @@ Pantone was released from the Utah State Mental Hospital in May 2009, but his he
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Rory Johnson](Rory_Johnson.md) — Magnatron inventor targeted by DOE gag and grab orders
 
+## Other Shocking Stories
+
+- [Major General William Neil McCasland (USAF, Ret.)](William_Neil_McCasland.md): Former commander of the Air Force Research Laboratory at Wright-Patterson AFB. Executive secretary of the Special Access Program...
+- [Viktor Schauberger](Viktor_Schauberger.md): Austrian forester and inventor who developed "implosion" vortex energy technology, was forced to work on flying disc designs...
+- [Charles Nelson Pogue](Charles_Nelson_Pogue.md): Canadian inventor of a high-efficiency vapor carburetor that allegedly achieved 200+ MPG in a 1933 Ford V8 test...
+- [Paul Brown](Paul_Brown.md): Nuclear scientist and inventor of the resonant nuclear battery (Nucell) — a radioisotope power system that converted nuclear...
+
 ## Sources
 
 - paulpantone.com — Official website documenting Pantone's technology and legal struggles

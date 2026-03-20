@@ -60,6 +60,13 @@ Edwards had reportedly received threats related to his UFO broadcasts and writin
 - [James McDonald](James_McDonald.md) — UFO researcher who died in 1971
 - [Frank Scully](Frank_Scully.md) — Earlier UFO author who also died on June 24 (1964)
 
+## Other Shocking Stories
+
+- [Stanton Friedman](Stanton_Friedman.md): Nuclear physicist and pioneering UFO researcher who brought the Roswell Incident into mainstream awareness; died of a heart...
+- [Dorothy Kilgallen](Dorothy_Kilgallen.md): Journalist who broke the British military UFO investigation story and was investigating the JFK assassination, found dead under...
+- [Shani Warren](Shani_Warren.md): GEC/Micro Scope employee found gagged, bound, and drowned in 18 inches of water at Taplow Lake — originally...
+- [Ron Rummel](Ron_Rummel.md): Ex-Air Force intelligence agent and publisher of *Alien Digest*, found dead of a gunshot wound in a Portland...
+
 ## Sources
 
 - [Frank Edwards (writer and broadcaster) — Wikipedia](https://en.wikipedia.org/wiki/Frank_Edwards_(writer_and_broadcaster))

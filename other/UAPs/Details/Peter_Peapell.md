@@ -50,6 +50,13 @@ Peter Peapell was a 46-year-old scientist at the Royal College of Military Scien
 - [David Skeels](David_Skeels.md) — Marconi engineer, CO poisoning February 1987
 - [Victor Moore](Victor_Moore.md) — Marconi engineer, drug overdose February 1987
 
+## Other Shocking Stories
+
+- [William McCasland](William_McCasland.md): Retired USAF Major General and former commander of the Air Force Research Laboratory at Wright-Patterson AFB. Missing since...
+- [Matthew Livelsberger](Matthew_Livelsberger.md): Highly decorated U.S. Army Green Beret who died on January 1, 2025 in a Cybertruck explosion at the...
+- [Ron Rummel](Ron_Rummel.md): Ex-Air Force intelligence agent and publisher of *Alien Digest*, found dead of a gunshot wound in a Portland...
+- [Floyd Sweet](Floyd_Sweet.md): Former General Electric magnetics specialist and MIT-educated engineer who developed the Vacuum Triode Amplifier, a claimed zero-point energy...
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

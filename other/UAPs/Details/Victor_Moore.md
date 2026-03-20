@@ -44,6 +44,13 @@ Victor Moore was a 46-year-old defense engineer employed by Marconi, working on 
 - [John Brittan](John_Brittan.md) — RCMS scientist, died January 1987
 - [David Sands](David_Sands.md) — Easams/Marconi SDI scientist, died March 1987
 
+## Other Shocking Stories
+
+- [Mae Brussell](Mae_Brussell.md): Pioneering conspiracy researcher and radio host who died of fast-acting cancer in 1988, seven months after receiving death...
+- [Todd Sees](Todd_Sees.md): Pennsylvania deer hunter whose body was found emaciated and in his underwear near his home after a UFO...
+- [Jim Keith](Jim_Keith.md): Conspiracy author known for *Black Helicopters Over America* and *The Octopus* who died from a blood clot following...
+- [Phil Schneider](Phil_Schneider.md): Ex-government geologist and structural engineer who claimed involvement in building deep underground military bases (DUMBs) and an alleged...
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

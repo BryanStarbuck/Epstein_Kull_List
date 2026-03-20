@@ -83,6 +83,13 @@ The threat against Rasmussen's associate occurred on May 16, 2006 — just weeks
 - [Rory Johnson](Rory_Johnson.md) — Magnatron inventor targeted by DOE gag and grab orders; fled in the night
 - [Floyd Sweet](Floyd_Sweet.md) — Vacuum Triode Amplifier inventor who received death threats before dying of a heart attack
 
+## Other Shocking Stories
+
+- [Dallis Hardwick](Dallis_Hardwick.md): Metallurgist and co-inventor of Mondaloy, the superalloy enabling American rocket engine independence from Russia. Senior civilian scientist at...
+- [Andrija Puharich](Andrija_Puharich.md): Medical inventor, physician, and parapsychological researcher who patented a method for splitting water molecules. His home was destroyed...
+- [Bruce DePalma](Bruce_DePalma.md): American inventor of the N-Machine homopolar generator — which he claimed demonstrated over-unity energy output — who moved...
+- [Arie DeGeus](Arie_DeGeus.md): Inventor of revolutionary clean energy technology reportedly capable of replacing oil, found dead in his car at Charlotte...
+
 ## Sources
 
 - [Ken Rasmussen: Water-to-Energy Electrolysis Process — Energy Invention Suppression Cases](https://ininet.org/energy-invention-suppression-cases.html?page=4)

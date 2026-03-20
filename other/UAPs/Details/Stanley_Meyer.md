@@ -55,6 +55,13 @@ Despite the court ruling, Meyer continued promoting his technology and seeking i
 - [Amy Eskridge](Amy_Eskridge.md) — Antigravity researcher found dead from gunshot wound
 - [Floyd Sweet](Floyd_Sweet.md) — Free energy inventor who received death threats
 
+## Other Shocking Stories
+
+- [John Brittan](John_Brittan.md): Royal College of Military Science IT specialist found dead from carbon monoxide poisoning in his garage — had...
+- [Ivan T. Sanderson](Ivan_Sanderson.md): British-born biologist and founder of the Society for the Investigation of the Unexplained (SITU), died of fast-acting brain...
+- [Robert F. Kennedy](Robert_F_Kennedy.md): U.S. Senator and presidential candidate, assassinated in Los Angeles on June 5, 1968. Some fringe theorists claim he...
+- [Philip Haney](Philip_Haney.md): Department of Homeland Security founding member and counterterrorism whistleblower who was found dead from a single gunshot wound...
+
 ## Sources
 
 - [Water fuel cell - Wikipedia](https://en.wikipedia.org/wiki/Water_fuel_cell)

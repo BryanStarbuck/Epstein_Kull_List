@@ -46,6 +46,13 @@ Wolfe held a top-secret crypto clearance during his time in the Air Force and st
 - [Lue Elizondo](Lue_Elizondo.md) — Former AATIP director and disclosure advocate
 - [Phil Schneider](Phil_Schneider.md) — Government insider found dead after lecturing about classified programs
 
+## Other Shocking Stories
+
+- [John Ford](John_Ford.md): Retired court security officer and founder of the Long Island UFO Network who has been institutionalized in psychiatric...
+- [Eugene Mallove](Eugene_Mallove.md): Cold fusion advocate, science writer, and editor of Infinite Energy magazine who was beaten to death in 2004...
+- [Stefan Michalak](Stefan_Michalak.md): Canadian amateur prospector who suffered severe grid-pattern burns and radiation sickness after encountering a landed disc-shaped craft at...
+- [Zigmund Adamski](Zigmund_Adamski.md): Polish-born British coal miner found dead atop a coal heap in Todmorden, West Yorkshire, covered in mysterious burns...
+
 ## Sources
 
 - [Yahoo News - Karl Wolfe, Who Claimed He Saw NASA Photos Of Alien Structures On The Moon, Dies In Bike Accident](https://www.yahoo.com/news/karl-wolfe-claimed-saw-nasa-122126101.html)

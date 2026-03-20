@@ -76,6 +76,13 @@ His father, Oscar Schneider, was reportedly a U.S. Navy captain, which some rese
 - [Karla Turner](Karla_Turner.md) — Died the same month (January 1996) of fast-acting cancer
 - [William Cooper](William_Cooper.md) — Another government insider making extraordinary claims who died violently
 
+## Other Shocking Stories
+
+- [Mark Wisner](Mark_Wisner.md): MOD software engineer found dead from asphyxiation with a plastic sack and cling film over his face —...
+- [Eugene Mallove](Eugene_Mallove.md): Cold fusion advocate, science writer, and editor of Infinite Energy magazine who was beaten to death in 2004...
+- [Stanley Meyer](Stanley_Meyer.md): Inventor who claimed to have developed a water fuel cell capable of powering an automobile; died suddenly at...
+- [Wilbert B. Smith](Wilbert_Smith.md): Canadian government engineer who ran Project Magnet, Canada's official UFO study, and concluded UFOs were extraterrestrial in origin
+
 ## Sources
 
 - [Phil Schneider — Find a Grave](https://www.findagrave.com/memorial/146890828/phil-schneider)

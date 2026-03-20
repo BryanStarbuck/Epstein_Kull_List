@@ -76,6 +76,13 @@ Marinov's supporters point out that even if some of his claims were wrong, he ha
 - [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died weeks before testing
 - [Stefan Marinov (UAP Deaths project)](../../UAPs/Details/Stefan_Marinov.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [John Bedini](John_Bedini.md): American inventor and audio engineer who pioneered electromagnetic energy recovery devices, died suddenly on November 5, 2016 —...
+- [John S. Kanzius](John_Kanzius.md): American inventor and radio engineer who discovered that radio frequency waves could dissociate hydrogen from salt water, and...
+- [1st Lt. Jaime S. Gustitus](Jaime_Gustitus.md): Operations Research Analyst in the 711th Human Performance Wing, Air Force Research Laboratory, Wright-Patterson AFB. Held Top Secret/SCI...
+- [Floyd Sweet](Floyd_Sweet.md): American inventor and electronics researcher who developed the Vacuum Triode Amplifier (VTA) — a solid-state device using conditioned...
+
 ## Sources
 
 - [Stefan Marinov — Wikipedia](https://en.wikipedia.org/wiki/Stefan_Marinov)

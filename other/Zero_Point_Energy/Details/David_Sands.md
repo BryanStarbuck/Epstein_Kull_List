@@ -72,6 +72,13 @@ The deaths were investigated by journalist Tony Collins of *Computer News* (late
 - [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
 - [David Sands (UAP Deaths project)](../../UAPs/Details/David_Sands.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [Eugene Mallove](Eugene_Mallove.md): Cold fusion advocate and former MIT science writer, beaten to death while cleaning a rental property in Norwich...
+- [Bruce DePalma](Bruce_DePalma.md): American inventor of the N-Machine homopolar generator — which he claimed demonstrated over-unity energy output — who moved...
+- [1st Lt. Jaime S. Gustitus](Jaime_Gustitus.md): Operations Research Analyst in the 711th Human Performance Wing, Air Force Research Laboratory, Wright-Patterson AFB. Held Top Secret/SCI...
+- [Robert Bass](Robert_Bass.md): Rhodes Scholar mathematician and physicist who co-discovered low-energy nuclear transmutation (LENT) with the "Cincinnati Group." Three people allegedly...
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

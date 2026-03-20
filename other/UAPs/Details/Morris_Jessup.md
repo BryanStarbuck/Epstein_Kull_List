@@ -55,6 +55,13 @@ After his first book, Jessup's subsequent publications sold poorly. His publishe
 - [Frank Edwards](Frank_Edwards.md) — UFO author who died the same decade
 - [Edward Ruppelt](Edward_Ruppelt.md) — Project Blue Book director who died young in 1960
 
+## Other Shocking Stories
+
+- [John F. Kennedy](John_F_Kennedy.md): 35th President of the United States, assassinated in Dallas on November 22, 1963. Some fringe theorists, including Steven...
+- [Eugene Mallove](Eugene_Mallove.md): Cold fusion advocate, science writer, and editor of Infinite Energy magazine who was beaten to death in 2004...
+- [Trevor Knight](Trevor_Knight.md): Marconi computer engineer found dead from carbon monoxide poisoning with a hosepipe connected to his car exhaust —...
+- [Dean Warwick](Dean_Warwick.md): Alternative energy researcher and whistleblower who collapsed and died on stage at a UFO conference in 2006, moments...
+
 ## Sources
 
 - [Morris K. Jessup — Wikipedia](https://en.wikipedia.org/wiki/Morris_K._Jessup)

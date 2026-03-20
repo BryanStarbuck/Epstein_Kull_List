@@ -50,6 +50,13 @@ His death occurred near the same location where, one week later, [Shani Warren](
 - [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi engineer, fell from bridge August 1986
 - [Mark Wisner](Mark_Wisner.md) — MOD software engineer, died April 1987
 
+## Other Shocking Stories
+
+- [Ron Johnson](Ron_Johnson.md): MUFON Deputy Director of Investigations who collapsed and died suddenly during a scientific conference in 1994 under circumstances...
+- [Thomas F. Mantell](Thomas_Mantell.md): Kentucky Air National Guard pilot who became the first person to die while pursuing an unidentified flying object
+- [William Cooper](William_Cooper.md): Former Naval intelligence serviceman and author of *Behold a Pale Horse*, who made early UFO disclosure claims and...
+- [Dylan Borland](Dylan_Borland.md): Former U.S. Air Force geospatial intelligence specialist who testified before Congress in September 2025 about witnessing a silent...
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

@@ -115,6 +115,13 @@ Whether these incidents were coordinated, or whether they reflect independent ac
 - [Floyd Sweet](Floyd_Sweet.md) — Vacuum Triode Amplifier inventor who received death threats before dying
 - [Rory Johnson](Rory_Johnson.md) — Magnatron inventor who fled after DOE gag and grab orders
 
+## Other Shocking Stories
+
+- [Vimal Dajibhai](Vimal_Dajibhai.md): Marconi computer scientist working on Sting Ray torpedo guidance systems, found dead at the base of Clifton Suspension...
+- [Lester Hendershot](Lester_Hendershot.md): Inventor of a "fuelless motor" that reportedly drew power from the Earth's magnetic field. Made front-page headlines in...
+- [Arshad Sharif](Arshad_Sharif.md): Marconi satellite detection and guidance systems computer scientist, found decapitated after allegedly tying a rope between his neck...
+- [Amy Catherine Eskridge](Amy_Eskridge.md): Anti-gravity researcher and co-founder of the Institute for Exotic Science, found dead of a gunshot wound ruled suicide...
+
 ## Sources
 
 - [Bill Williams Joe Cell — PES Network (Pure Energy Systems)](https://pesn.com/2006/06/22/9500284_Bill_Williams_Joe_cell)

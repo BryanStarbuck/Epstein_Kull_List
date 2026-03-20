@@ -68,6 +68,13 @@ Very little is known about Frank Roberts' background. He does not appear to have
 - [Andrija Puharich](Andrija_Puharich.md) — Water-splitting patent holder whose home was destroyed by arson
 - [Paul Brown](Paul_Brown.md) — Nuclear battery inventor whose home was repeatedly robbed and vandalized
 
+## Other Shocking Stories
+
+- [Trevor Knight](Trevor_Knight.md): Computer engineer at Marconi Space and Defence Systems, found dead in his car from carbon monoxide poisoning
+- [Bill Yelon](Bill_Yelon.md): Inventor of a solid-state electromagnetic wave over-unity device who reportedly died suddenly in 2018, shortly after announcing his...
+- [Arie DeGeus](Arie_DeGeus.md): Inventor of revolutionary clean energy technology reportedly capable of replacing oil, found dead in his car at Charlotte...
+- [Rudolf Diesel](Rudolf_Diesel.md): Inventor of the diesel engine, disappeared from the SS Dresden while crossing the English Channel en route to...
+
 ## Sources
 
 - [Energy Invention Suppression Cases — Gary Vesperman](https://supremelaw.org/authors/wine/Energy_Invention_Suppression_Cases_September_3_2007.htm)

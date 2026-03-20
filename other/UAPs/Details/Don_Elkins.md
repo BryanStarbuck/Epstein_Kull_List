@@ -57,6 +57,13 @@ Elkins also co-authored *Secrets of the UFO* with Carla Rueckert and published *
 - [Brian Lynch](Brian_Lynch.md) — Young contactee who died of an alleged drug overdose after involvement with intelligence-linked PSI research
 - [Morris Jessup](Morris_Jessup.md) — UFO researcher who died of apparent suicide in 1959
 
+## Other Shocking Stories
+
+- [Frank Edwards](Frank_Edwards.md): News commentator and UFO author who died on the 20th anniversary of the Kenneth Arnold sighting, after threats...
+- [Roger Hill](Roger_Hill.md): Marconi radar designer found dead from a self-inflicted shotgun wound at his home in Surrey
+- [David Grusch](David_Grusch.md): Former U.S. Air Force intelligence officer and NGA official who testified before Congress in 2023 that the U.S...
+- [Robert Frost (Area 51 Worker)](Robert_Frost_Area51.md): Civilian contractor at Groom Lake (Area 51) who died at age 57 after his tissues were found to...
+
 ## Sources
 
 - [Elkins, Donald T. (1930-1984) — Encyclopedia.com](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/elkins-donald-t-1930-1984)

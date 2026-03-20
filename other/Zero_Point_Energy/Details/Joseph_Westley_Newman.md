@@ -92,6 +92,13 @@ Newman continued to advocate for his Energy Machine for the rest of his life. He
 - [John Bedini](John_Bedini.md) — Free energy inventor and motor designer
 - [Thomas Henry Moray](Thomas_Henry_Moray.md) — Radiant energy inventor who faced decades of suppression
 
+## Other Shocking Stories
+
+- [Stan Gleeson](Stan_Gleeson.md): Associate of Robert W. Bass in the Cincinnati Group's low-energy nuclear transmutation (LENT) research. Co-authored peer-reviewed LENR papers...
+- [Charles Nelson Pogue](Charles_Nelson_Pogue.md): Canadian inventor of a high-efficiency vapor carburetor that allegedly achieved 200+ MPG in a 1933 Ford V8 test...
+- [Frank Roberts](Frank_Roberts.md): Water car inventor who reportedly suffered a chemically induced stroke causing memory loss, had his van burned in...
+- [Viktor Schauberger](Viktor_Schauberger.md): Austrian forester and inventor who developed "implosion" vortex energy technology, was forced to work on flying disc designs...
+
 ## Sources
 
 - [Joseph Westley Newman — Wikipedia](https://en.wikipedia.org/wiki/Joseph_Westley_Newman)

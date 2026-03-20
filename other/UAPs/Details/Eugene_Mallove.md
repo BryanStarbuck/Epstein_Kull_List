@@ -52,6 +52,13 @@ At the time of his death, Mallove was one of the most vocal and credentialed adv
 - [Paul Brown](Paul_Brown.md) — Nuclear battery inventor killed in car accident
 - [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died weeks before scheduled testing
 
+## Other Shocking Stories
+
+- [Frank Edwards](Frank_Edwards.md): News commentator and UFO author who died on the 20th anniversary of the Kenneth Arnold sighting, after threats...
+- [Peter Ferry](Peter_Ferry.md): 60-year-old retired Army Brigadier and Marconi assistant marketing director found electrocuted with stripped electrical leads jammed into his...
+- [Ning Li](Ning_Li.md): Chinese-American physicist who published groundbreaking antigravity research, received a $448,970 DOD grant through her company AC Gravity, published...
+- [Arie DeGeus](Arie_DeGeus.md): Inventor of a claimed zero-point energy battery who was found dead in his car in the long-term parking...
+
 ## Sources
 
 - [Eugene Mallove - Wikipedia](https://en.wikipedia.org/wiki/Eugene_Mallove)

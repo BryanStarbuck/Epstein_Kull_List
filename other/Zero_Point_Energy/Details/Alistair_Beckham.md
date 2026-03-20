@@ -68,6 +68,13 @@ The deaths were investigated by journalist Tony Collins of *Computer News* (late
 - [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
 - [Alistair Beckham (UAP Deaths project)](../../UAPs/Details/Alistair_Beckham.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [Charles Nelson Pogue](Charles_Nelson_Pogue.md): Canadian inventor of a high-efficiency vapor carburetor that allegedly achieved 200+ MPG in a 1933 Ford V8 test...
+- [Paul Pantone](Paul_Pantone.md): Inventor of the GEET plasma reactor who was involuntarily committed to a state mental hospital and died after...
+- [Stan Gleeson](Stan_Gleeson.md): Associate of Robert W. Bass in the Cincinnati Group's low-energy nuclear transmutation (LENT) research. Co-authored peer-reviewed LENR papers...
+- [Dr. Eric H. Wang](Eric_Wang.md): Austrian-born engineer who headed the Office of Special Studies at Wright-Patterson AFB, allegedly involved in reverse-engineering recovered craft...
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

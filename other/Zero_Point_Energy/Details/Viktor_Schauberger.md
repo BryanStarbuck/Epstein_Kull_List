@@ -84,6 +84,13 @@ According to Schauberger's letters and his son's testimony, the reality was very
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Thomas Henry Moray](Thomas_Henry_Moray.md) — Radiant energy inventor subjected to repeated suppression
 
+## Other Shocking Stories
+
+- [Robert Bass](Robert_Bass.md): Rhodes Scholar mathematician and physicist who co-discovered low-energy nuclear transmutation (LENT) with the "Cincinnati Group." Three people allegedly...
+- [Bill Yelon](Bill_Yelon.md): Inventor of a solid-state electromagnetic wave over-unity device who reportedly died suddenly in 2018, shortly after announcing his...
+- [Dr. Frederick Hochstetter](Frederick_Hochstetter.md): Pittsburgh researcher who publicly debunked [Lester Hendershot](Lester_Hendershot.md)'s fuelless motor in 1928. Died as the sole passenger fatality in...
+- [Paulo and Alexandra Correa](Paulo_Correa.md): Portuguese-Canadian biophysicist and his co-inventor wife who developed the Pulsed Abnormal Glow Discharge (PAGD) reactor, claiming overunity energy...
+
 ## Sources
 
 - [Viktor Schauberger — Wikipedia](https://en.wikipedia.org/wiki/Viktor_Schauberger)

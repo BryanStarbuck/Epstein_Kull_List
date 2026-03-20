@@ -40,6 +40,13 @@ Roger Hill, aged 49, was a radar designer employed at Marconi Underwater Systems
 - [Jonathan Walsh](Jonathan_Walsh.md) — GEC/BT digital comms expert, died November 1985
 - [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi software engineer, died August 1986
 
+## Other Shocking Stories
+
+- [Tim Burchett](Tim_Burchett.md): U.S. Congressman from Tennessee who leads Congressional UAP hearings and has publicly stated he was warned by Army...
+- [Felix Moncla](Felix_Moncla.md): USAF pilot who vanished along with his radar operator while scrambled to intercept an unknown radar target over...
+- [Peter Peapell](Peter_Peapell.md): RCMS scientist found dead from carbon monoxide poisoning jammed underneath his car in his garage — police were...
+- [Carl Grillmair](Carl_Grillmair.md): Caltech/IPAC astrophysicist who studied galaxy collisions and the search for water on exoplanets. Shot and killed on the...
+
 ## Sources
 
 - [GEC-Marconi scientist deaths — Grokipedia](https://grokipedia.com/page/GEC-Marconi_scientist_deaths)

@@ -63,6 +63,13 @@ The deaths were investigated by journalist Tony Collins of *Computer News* (late
 - [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
 - [Richard Pugh (UAP Deaths project)](../../UAPs/Details/Richard_Pugh.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [1st Lt. Jaime S. Gustitus](Jaime_Gustitus.md): Operations Research Analyst in the 711th Human Performance Wing, Air Force Research Laboratory, Wright-Patterson AFB. Held Top Secret/SCI...
+- [Gerald Schaflander](Gerald_Schaflander.md): Solar hydrogen fuel inventor who claimed to develop "Hy-Fuel" — a liquid hydrogen-based automobile fuel produced from solar...
+- [Trevor Knight](Trevor_Knight.md): Computer engineer at Marconi Space and Defence Systems, found dead in his car from carbon monoxide poisoning
+- [Dr. Eric H. Wang](Eric_Wang.md): Austrian-born engineer who headed the Office of Special Studies at Wright-Patterson AFB, allegedly involved in reverse-engineering recovered craft...
+
 ## Sources
 
 - [Richard Pugh — Whale.to](http://whale.to/a/pugh_h.html)

@@ -46,6 +46,13 @@ His threat disclosures are significant because they came from a sitting member o
 - [Dylan Borland](Dylan_Borland.md) — Air Force veteran facing retaliation for UAP testimony
 - [George Knapp](George_Knapp.md) — Journalist who testified before Congress in 2025
 
+## Other Shocking Stories
+
+- [John E. Mack](John_Mack.md): Pulitzer Prize-winning Harvard psychiatrist and alien abduction researcher, killed by a drunk driver while walking in London in...
+- [George Knapp](George_Knapp.md): Award-winning investigative journalist who broke the Bob Lazar / Area 51 story in 1989, has spent over 35...
+- [Shani Warren](Shani_Warren.md): GEC/Micro Scope employee found gagged, bound, and drowned in 18 inches of water at Taplow Lake — originally...
+- [Anthony Godley](Anthony_Godley.md): 49-year-old Head of Work Study Unit at the Royal College of Military Science who vanished without a trace...
+
 ## Sources
 
 - [Tim Burchett - Wikipedia](https://en.wikipedia.org/wiki/Tim_Burchett)

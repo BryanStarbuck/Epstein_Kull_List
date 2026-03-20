@@ -51,6 +51,13 @@ In 2009, Tomion allegedly developed a working prototype of his technology. Detai
 - [John Bedini](John_Bedini.md) — Free energy researcher who died suddenly
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher whose work was allegedly classified
 
+## Other Shocking Stories
+
+- [Tom Ogle](Tom_Ogle.md): El Paso inventor of a pressurized fuel vapor system who demonstrated 100 MPG efficiency, was shot and wounded...
+- [Thomas Henry Moray](Thomas_Henry_Moray.md): Inventor of the "Moray Valve" radiant energy device who was shot at multiple times, wounded in the leg...
+- [Ken Rasmussen](Ken_Rasmussen.md): Inventor of a water-to-energy pulsed electrolysis system with similarities to Professor Kanarev's work. His research was halted on...
+- [Bill Yelon](Bill_Yelon.md): Inventor of a solid-state electromagnetic wave over-unity device who reportedly died suddenly in 2018, shortly after announcing his...
+
 ## Sources
 
 - References in alternative energy and zero-point energy research communities

@@ -76,6 +76,13 @@ The most advanced fusor was reportedly constructed in 1965, just before the fund
 - [Thomas Henry Moray](Thomas_Henry_Moray.md) — Radiant energy inventor whose lab was ransacked and device destroyed
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
 
+## Other Shocking Stories
+
+- [Floyd Sweet](Floyd_Sweet.md): American inventor and electronics researcher who developed the Vacuum Triode Amplifier (VTA) — a solid-state device using conditioned...
+- [Dimitri Petronov](Dimitri_Petronov.md): Russian inventor of a plasma battery who disappeared after demonstrating his technology to military officials
+- [Gianni A. Dotto](Gianni_A_Dotto.md): Italian-American bio-physicist and inventor of the Dotto Ring thermionic couple, a device claimed to reverse aging and cure...
+- [Ken Rasmussen](Ken_Rasmussen.md): Inventor of a water-to-energy pulsed electrolysis system with similarities to Professor Kanarev's work. His research was halted on...
+
 ## Sources
 
 - [Philo Farnsworth — Wikipedia](https://en.wikipedia.org/wiki/Philo_Farnsworth)

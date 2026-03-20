@@ -72,6 +72,13 @@ When researchers submitted requests through the National Archives' History Hub, 
 - [Nikola Tesla](Nikola_Tesla.md) — Papers seized by FBI after death
 - [William Neil McCasland](William_Neil_McCasland.md) — USAF Research Lab commander who went missing in 2026
 
+## Other Shocking Stories
+
+- [Dimitri Petronov](Dimitri_Petronov.md): Russian inventor of a plasma battery who disappeared after demonstrating his technology to military officials
+- [Major General William Neil McCasland (USAF, Ret.)](William_Neil_McCasland.md): Former commander of the Air Force Research Laboratory at Wright-Patterson AFB. Executive secretary of the Special Access Program...
+- [Tom Ogle](Tom_Ogle.md): El Paso inventor of a pressurized fuel vapor system who demonstrated 100 MPG efficiency, was shot and wounded...
+- [Viktor Schauberger](Viktor_Schauberger.md): Austrian forester and inventor who developed "implosion" vortex energy technology, was forced to work on flying disc designs...
+
 ## Sources
 
 - [Albuquerque Journal, December 5, 1960, Page 10 (obituary)](https://www.newspapers.com/newspage/156564928/)

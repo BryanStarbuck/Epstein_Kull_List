@@ -94,6 +94,13 @@ Bedini died suddenly on November 5, 2016 — only 4 hours after his brother Gary
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher
 - [Joseph Westley Newman](Joseph_Westley_Newman.md) — Energy Machine inventor who also fought the patent office
 
+## Other Shocking Stories
+
+- [Paulo and Alexandra Correa](Paulo_Correa.md): Portuguese-Canadian biophysicist and his co-inventor wife who developed the Pulsed Abnormal Glow Discharge (PAGD) reactor, claiming overunity energy...
+- [John Bedini](John_Bedini.md): American inventor and audio engineer who pioneered electromagnetic energy recovery devices, died suddenly on November 5, 2016 —...
+- [Stefan Marinov](Stefan_Marinov.md): Bulgarian physicist working on perpetual motion and unconventional electromagnetic theories, fell from the staircase of the University of...
+- [David Sands](David_Sands.md): Senior scientist and satellite projects manager at Easams (Marconi sister company), died when his car loaded with petrol...
+
 ## Sources
 
 - [Thomas Bearden Obituary — Berryhill Funeral Home](https://www.berryhillfh.com/obituary/thomas-tom-bearden)

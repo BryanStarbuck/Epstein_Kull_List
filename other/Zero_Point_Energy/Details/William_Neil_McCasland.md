@@ -162,6 +162,13 @@ His command history extends beyond Ohio. Before AFRL headquarters, he ran the Ph
 - [Amy Eskridge](Amy_Eskridge.md) — Anti-gravity researcher, died 2022 in Huntsville
 - [William McCasland (UAP Deaths project)](../../UAPs/Details/William_McCasland.md) — Parallel profile
 
+## Other Shocking Stories
+
+- [John S. Kanzius](John_Kanzius.md): American inventor and radio engineer who discovered that radio frequency waves could dissociate hydrogen from salt water, and...
+- [1st Lt. Jaime S. Gustitus](Jaime_Gustitus.md): Operations Research Analyst in the 711th Human Performance Wing, Air Force Research Laboratory, Wright-Patterson AFB. Held Top Secret/SCI...
+- [Dimitri Petronov](Dimitri_Petronov.md): Russian inventor of a plasma battery who disappeared after demonstrating his technology to military officials
+- [Trevor Knight](Trevor_Knight.md): Computer engineer at Marconi Space and Defence Systems, found dead in his car from carbon monoxide poisoning
+
 ## Sources
 
 - [Neil McCasland — Wikipedia](https://en.wikipedia.org/wiki/Neil_McCasland)

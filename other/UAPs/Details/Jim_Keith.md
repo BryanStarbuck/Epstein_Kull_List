@@ -63,6 +63,13 @@ Keith's work frequently intersected with intelligence agency operations, mind co
 - [Max Spiers](Max_Spiers.md) — UFO researcher who died mysteriously in Warsaw after warning his mother
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — Journalist who died while investigating classified information
 
+## Other Shocking Stories
+
+- [George Kountis](George_Kountis.md): Systems analyst found dead in overturned car in the River Mersey, one of 25 British defense scientists to...
+- [Robert Frost (Area 51 Worker)](Robert_Frost_Area51.md): Civilian contractor at Groom Lake (Area 51) who died at age 57 after his tissues were found to...
+- [Frank Scully](Frank_Scully.md): American journalist and author of *Behind the Flying Saucers*, the first major book claiming a UFO crash recovery...
+- [John E. Mack](John_Mack.md): Pulitzer Prize-winning Harvard psychiatrist and alien abduction researcher, killed by a drunk driver while walking in London in...
+
 ## Sources
 
 - [Jim Keith — Wikipedia](https://en.wikipedia.org/wiki/Jim_Keith)

@@ -53,6 +53,13 @@ Tesla made direct appeals to multiple governments, including the United States, 
 - [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died before scheduled testing
 - [Frank Olson](Frank_Olson.md) — Government scientist whose death was concealed by the CIA for 22 years
 
+## Other Shocking Stories
+
+- [John F. Kennedy](John_F_Kennedy.md): 35th President of the United States, assassinated in Dallas on November 22, 1963. Some fringe theorists, including Steven...
+- [Walter Kasza (Area 51 Worker)](Walter_Kasza_Area51.md): Civilian contractor at Groom Lake (Area 51) who died at age 73 from kidney cancer after years of...
+- [Dorothy Kilgallen](Dorothy_Kilgallen.md): Journalist who broke the British military UFO investigation story and was investigating the JFK assassination, found dead under...
+- [John Brittan](John_Brittan.md): Royal College of Military Science IT specialist found dead from carbon monoxide poisoning in his garage — had...
+
 ## Sources
 
 - [The Mystery of Nikola Tesla's Missing Files - HISTORY](https://www.history.com/articles/nikola-tesla-files-declassified-fbi)

@@ -53,6 +53,13 @@ William Moore publicly confessed his role in the operation at the 1989 MUFON (Mu
 - [Phil Schneider](Phil_Schneider.md) — Government insider who died after lecturing about classified programs
 - [Frank Olson](Frank_Olson.md) — CIA scientist destroyed by the agency he served
 
+## Other Shocking Stories
+
+- [Dean Warwick](Dean_Warwick.md): Alternative energy researcher and whistleblower who collapsed and died on stage at a UFO conference in 2006, moments...
+- [Felix Moncla](Felix_Moncla.md): USAF pilot who vanished along with his radar operator while scrambled to intercept an unknown radar target over...
+- [Ashad Sharif](Ashad_Sharif.md): 26-year-old Marconi computer analyst who died after tying a rope between his neck and a tree and then...
+- [Keith Bowden](Keith_Bowden.md): Senior GEC-Marconi computer scientist killed when his car plunged off a bridge into a disused railway cutting in...
+
 ## Sources
 
 - [Paul Bennewitz - Wikipedia](https://en.wikipedia.org/wiki/Paul_Bennewitz)

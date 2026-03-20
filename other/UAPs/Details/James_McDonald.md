@@ -58,6 +58,13 @@ Around the same time, McDonald's marriage deteriorated. Colleagues described a r
 - [Morris Jessup](Morris_Jessup.md) — Another UFO researcher whose death was ruled suicide
 - [Paul Bennewitz](Paul_Bennewitz.md) — Another case of career destruction preceding death
 
+## Other Shocking Stories
+
+- [Jim Keith](Jim_Keith.md): Conspiracy author known for *Black Helicopters Over America* and *The Octopus* who died from a blood clot following...
+- [David Grusch](David_Grusch.md): Former U.S. Air Force intelligence officer and NGA official who testified before Congress in 2023 that the U.S...
+- [Philip Haney](Philip_Haney.md): Department of Homeland Security founding member and counterterrorism whistleblower who was found dead from a single gunshot wound...
+- [John E. Mack](John_Mack.md): Pulitzer Prize-winning Harvard psychiatrist and alien abduction researcher, killed by a drunk driver while walking in London in...
+
 ## Sources
 
 - [James E. McDonald — Wikipedia](https://en.wikipedia.org/wiki/James_E._McDonald)

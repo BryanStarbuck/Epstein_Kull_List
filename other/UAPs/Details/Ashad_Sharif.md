@@ -50,6 +50,13 @@ Sharif's death, occurring just two months after [Vimal Dajibhai](Vimal_Dajibhai.
 - [Keith Bowden](Keith_Bowden.md) — GEC computer scientist, died March 1982
 - [Richard Pugh](Richard_Pugh.md) — MOD computer consultant, died January 1987
 
+## Other Shocking Stories
+
+- [Stanley Meyer](Stanley_Meyer.md): Inventor who claimed to have developed a water fuel cell capable of powering an automobile; died suddenly at...
+- [Jim Keith](Jim_Keith.md): Conspiracy author known for *Black Helicopters Over America* and *The Octopus* who died from a blood clot following...
+- [Amy Eskridge](Amy_Eskridge.md): Multidisciplinary scientist and co-founder of the Institute for Exotic Science in Huntsville, Alabama, who was found dead from...
+- [Mark McCandlish](Mark_McCandlish.md): Aerospace illustrator and UFO disclosure advocate who died of a gunshot wound ruled as suicide in 2021, reportedly...
+
 ## Sources
 
 - [Scientists' Deaths Mystify British — Chicago Tribune, April 1988](https://www.chicagotribune.com/1988/04/17/scientists-deaths-mystify-british/)

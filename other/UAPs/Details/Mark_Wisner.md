@@ -47,6 +47,13 @@ Mark Wisner was a 24-year-old software engineer employed by the Ministry of Defe
 - [David Greenhalgh](David_Greenhalgh.md) — ICL defense scientist, fell from bridge April 10, 1987
 - [Shani Warren](Shani_Warren.md) — GEC employee, found murdered April 1987
 
+## Other Shocking Stories
+
+- [Trevor Knight](Trevor_Knight.md): Marconi computer engineer found dead from carbon monoxide poisoning with a hosepipe connected to his car exhaust —...
+- [George Kountis](George_Kountis.md): Systems analyst found dead in overturned car in the River Mersey, one of 25 British defense scientists to...
+- [Vimal Dajibhai](Vimal_Dajibhai.md): 24-year-old Marconi software engineer working on the Stingray torpedo system who plunged from the Clifton Suspension Bridge —...
+- [Morris K. Jessup](Morris_Jessup.md): Astronomer and UFO author who investigated antigravity and the Philadelphia Experiment, found dead in his car under disputed...
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

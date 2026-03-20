@@ -51,6 +51,13 @@ Days before his death, Spiers texted his mother, Vanessa Bates, with the warning
 - [Phil Schneider](Phil_Schneider.md) — Government insider found dead after lecturing about classified programs
 - [Jim Keith](Jim_Keith.md) — Conspiracy author who died after routine knee surgery in 1999
 
+## Other Shocking Stories
+
+- [Thomas F. Mantell](Thomas_Mantell.md): Kentucky Air National Guard pilot who became the first person to die while pursuing an unidentified flying object
+- [Wilbert B. Smith](Wilbert_Smith.md): Canadian government engineer who ran Project Magnet, Canada's official UFO study, and concluded UFOs were extraterrestrial in origin
+- [George Kountis](George_Kountis.md): Systems analyst found dead in overturned car in the River Mersey, one of 25 British defense scientists to...
+- [Karl Wolfe](Karl_Wolfe.md): Former US Air Force sergeant and Disclosure Project witness who claimed he saw NASA photos of alien structures...
+
 ## Sources
 
 - [Death of Max Spiers - Wikipedia](https://en.wikipedia.org/wiki/Death_of_Max_Spiers)

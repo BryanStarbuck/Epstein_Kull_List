@@ -90,6 +90,13 @@ A 2002 U.S. Army Research Laboratory paper by Thomas Bahder and Chris Fazi studi
 - [John Bedini](John_Bedini.md) — Free energy inventor who died of an apparent heart attack
 - [Thomas Townsend Brown (UAP Deaths project)](../../UAPs/Details/Thomas_Townsend_Brown.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [Rory Johnson](Rory_Johnson.md): Inventor of the Magnatron permanent magnet motor — a cold-fusion laser-activated magnetic motor reportedly producing 525 horsepower while...
+- [Al Wordsworth](Al_Wordsworth.md): Inventor of an overunity electrical generator (3A input / 32A output) and an advanced carburetor, both of which...
+- [Richard Pugh](Richard_Pugh.md): Computer expert and MOD consultant, found dead with feet bound, plastic bag on head, and thick rope coiled...
+- [Shani Warren](Shani_Warren.md): Personal assistant at Micro Scope (later acquired by GEC-Marconi), found drowned, gagged, and bound in a lake. Originally...
+
 ## Sources
 
 - [Thomas Townsend Brown — Wikipedia](https://en.wikipedia.org/wiki/Thomas_Townsend_Brown)

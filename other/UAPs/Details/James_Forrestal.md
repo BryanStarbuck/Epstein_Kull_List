@@ -59,6 +59,13 @@ In UFO lore, Forrestal is alleged to have been a member of MJ-12 (Majestic 12), 
 - [Thomas Mantell](Thomas_Mantell.md) — Military pilot who died pursuing a UFO one year before Forrestal's death
 - [Frank Edwards](Frank_Edwards.md) — News commentator who discussed the Forrestal case in his UFO writings
 
+## Other Shocking Stories
+
+- [Gary McKinnon](Gary_McKinnon.md): Scottish systems administrator who hacked into 97 U.S. military and NASA computers searching for evidence of UFO cover-ups...
+- [Todd Sees](Todd_Sees.md): Pennsylvania deer hunter whose body was found emaciated and in his underwear near his home after a UFO...
+- [Ryan Graves](Ryan_Graves.md): Former U.S. Navy F/A-18 pilot who became the first active-duty military pilot to publicly testify before Congress about...
+- [Dylan Borland](Dylan_Borland.md): Former U.S. Air Force geospatial intelligence specialist who testified before Congress in September 2025 about witnessing a silent...
+
 ## Sources
 
 - [James Forrestal — Wikipedia](https://en.wikipedia.org/wiki/James_Forrestal)

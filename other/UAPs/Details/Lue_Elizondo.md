@@ -48,6 +48,13 @@ He is a graduate of the University of Miami, where he studied microbiology and i
 - [George Knapp](George_Knapp.md) — Investigative journalist covering UAP for over 35 years
 - [Mark McCandlish](Mark_McCandlish.md) — Disclosure witness who died before planned Senate testimony
 
+## Other Shocking Stories
+
+- [John Brittan](John_Brittan.md): Royal College of Military Science IT specialist found dead from carbon monoxide poisoning in his garage — had...
+- [James V. Forrestal](James_Forrestal.md): First United States Secretary of Defense, fell from the sixteenth floor of Bethesda Naval Hospital under disputed circumstances...
+- [David Grusch](David_Grusch.md): Former U.S. Air Force intelligence officer and NGA official who testified before Congress in 2023 that the U.S...
+- [Philip J. Corso](Philip_Corso.md): Lt. Colonel, U.S. Army, who served on Eisenhower's National Security Council and headed Foreign Technology at Army R&D...
+
 ## Sources
 
 - [Luis Elizondo - Wikipedia](https://en.wikipedia.org/wiki/Luis_Elizondo)

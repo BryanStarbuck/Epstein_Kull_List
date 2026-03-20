@@ -59,6 +59,13 @@ In 1964, Kilgallen became the only journalist to secure a private interview with
 - [James Forrestal](James_Forrestal.md) — Government insider who allegedly knew about recovered craft, died under suspicious circumstances (1949)
 - [Frank Edwards](Frank_Edwards.md) — UFO journalist who died under suspicious circumstances (1967)
 
+## Other Shocking Stories
+
+- [Wilbert B. Smith](Wilbert_Smith.md): Canadian government engineer who ran Project Magnet, Canada's official UFO study, and concluded UFOs were extraterrestrial in origin
+- [Frederick Valentich](Frederick_Valentich.md): Australian pilot who disappeared over Bass Strait in 1978 after radioing Melbourne air traffic control to report an...
+- [Richard Pugh](Richard_Pugh.md): MOD computer consultant found dead with a plastic bag over his head and rope coiled four times around...
+- [Tony Dodd](Tony_Dodd.md): British police sergeant turned full-time UFO investigator who died of an inoperable brain tumor in 2009, after 21...
+
 ## Sources
 
 - [Dorothy Kilgallen — Wikipedia](https://en.wikipedia.org/wiki/Dorothy_Kilgallen)

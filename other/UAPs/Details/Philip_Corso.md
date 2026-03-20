@@ -56,6 +56,13 @@ Corso stated that these technologies were seeded into the private sector through
 - [Bob Lazar](Bob_Lazar.md) -- Claimed to have worked on reverse-engineering alien craft at S-4 near Area 51
 - [Stanton Friedman](Stanton_Friedman.md) -- Nuclear physicist and prominent Roswell researcher
 
+## Other Shocking Stories
+
+- [Fred Bell](Fred_Bell.md): Nuclear physicist, claimed MKULTRA participant, and inventor who died on September 25, 2011 — reportedly within 48 hours...
+- [Thomas Townsend Brown](Thomas_Townsend_Brown.md): American inventor and physicist who pioneered electrogravitics research and the Biefeld-Brown effect; died of natural causes in 1985...
+- [Bob Lazar](Bob_Lazar.md): Physicist who claims he reverse-engineered alien spacecraft at the S-4 facility near Area 51, and has faced ongoing...
+- [Eugene Mallove](Eugene_Mallove.md): Cold fusion advocate, science writer, and editor of Infinite Energy magazine who was beaten to death in 2004...
+
 ## Sources
 
 - [Philip J. Corso - The Black Vault](https://www.theblackvault.com/casefiles/philip-j-corso/)

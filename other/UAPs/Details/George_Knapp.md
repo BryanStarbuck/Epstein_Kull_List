@@ -51,6 +51,13 @@ Knapp has reported being under surveillance: "They were listening to my phone. T
 - [Tim Burchett](Tim_Burchett.md) — Congressman leading UAP hearings
 - [Dorothy Kilgallen](Dorothy_Kilgallen.md) — Journalist who died while investigating UFO and JFK stories
 
+## Other Shocking Stories
+
+- [Gary McKinnon](Gary_McKinnon.md): Scottish systems administrator who hacked into 97 U.S. military and NASA computers searching for evidence of UFO cover-ups...
+- [Frank Olson](Frank_Olson.md): CIA biological warfare scientist who was covertly dosed with LSD by MKULTRA chief Sidney Gottlieb and fell to...
+- [Brian Lynch](Brian_Lynch.md): Young psychic and contactee who died of a reported drug overdose in 1985 after alleged involvement with a...
+- [Boyd Bushman](Boyd_Bushman.md): Lockheed Martin senior scientist with a 40-year career in defense aerospace, holder of 26 patents, who recorded a...
+
 ## Sources
 
 - [George Knapp - Wikipedia](https://en.wikipedia.org/wiki/George_Knapp_(television_journalist))

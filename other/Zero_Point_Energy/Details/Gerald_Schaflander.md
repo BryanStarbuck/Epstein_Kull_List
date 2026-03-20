@@ -69,6 +69,13 @@ The 9th Circuit Court of Appeals upheld the conviction in 1984 (*United States v
 - [Tom Ogle](Tom_Ogle.md) — Fuel vapor system inventor who died of overdose ruled suicide
 - [Andrija Puharich](Andrija_Puharich.md) — Water-splitting patent holder whose home was destroyed by arson
 
+## Other Shocking Stories
+
+- [Dr. Ning Li](Ning_Li.md): Chinese-American physicist who published groundbreaking anti-gravity research, received DOD funding, obtained top secret clearance, then vanished from public...
+- [Frank Roberts](Frank_Roberts.md): Water car inventor who reportedly suffered a chemically induced stroke causing memory loss, had his van burned in...
+- [Frank Richardson](Frank_Richardson.md): Nevada Test Site electrician who invented a fuelless magnetic electrical generator and a bladeless Tesla-type steam turbine in...
+- [Mark Tomion](Mark_Tomion.md): Physicist who patented "Star Drive" zero-point energy technology and died shortly after developing a working prototype
+
 ## Sources
 
 - [UPI Archives — Gerald Schaflander sentencing (June 8, 1982)](https://www.upi.com/Archives/1982/06/08/Gerald-Schaflander-the-garrulous-promoter-who-carried-out-a/2776392356800/)

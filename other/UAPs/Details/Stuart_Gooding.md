@@ -45,6 +45,13 @@ Stuart Gooding was a 23-year-old postgraduate research student at the Royal Coll
 - [Anthony Godley](Anthony_Godley.md) — RCMS head of Work Study Unit, disappeared April 1983
 - [Shani Warren](Shani_Warren.md) — GEC employee, found murdered April 1987
 
+## Other Shocking Stories
+
+- [Mark McCandlish](Mark_McCandlish.md): Aerospace illustrator and UFO disclosure advocate who died of a gunshot wound ruled as suicide in 2021, reportedly...
+- [Monica Jacinto Reza](Monica_Jacinto_Reza.md): Aerospace materials scientist who worked as a Materials Science & Engineering Fellow at L3Harris and previously as a...
+- [Brian Lynch](Brian_Lynch.md): Young psychic and contactee who died of a reported drug overdose in 1985 after alleged involvement with a...
+- [George Kountis](George_Kountis.md): Systems analyst found dead in overturned car in the River Mersey, one of 25 British defense scientists to...
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

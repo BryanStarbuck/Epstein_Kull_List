@@ -61,6 +61,13 @@ The deaths were investigated by journalist Tony Collins of *Computer News* (late
 - [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
 - [Peter Ferry (UAP Deaths project)](../../UAPs/Details/Peter_Ferry.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [Thomas E. Bearden](Thomas_Bearden.md): Retired U.S. Army Lieutenant Colonel and inventor of the Motionless Electromagnetic Generator (MEG), who spent decades advocating for...
+- [Dallis Hardwick](Dallis_Hardwick.md): Metallurgist and co-inventor of Mondaloy, the superalloy enabling American rocket engine independence from Russia. Senior civilian scientist at...
+- [Major General William Neil McCasland (USAF, Ret.)](William_Neil_McCasland.md): Former commander of the Air Force Research Laboratory at Wright-Patterson AFB. Executive secretary of the Special Access Program...
+- [Philo Taylor Farnsworth](Philo_Farnsworth.md): Inventor of electronic television at age 21, who later developed the first device to demonstrably produce nuclear fusion...
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

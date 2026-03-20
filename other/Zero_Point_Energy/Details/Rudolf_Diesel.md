@@ -80,6 +80,13 @@ The diesel engine's ability to run on vegetable oils threatened the petroleum in
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Tom Ogle](Tom_Ogle.md) — Fuel efficiency inventor who died of overdose in 1981
 
+## Other Shocking Stories
+
+- [Eugene Mallove](Eugene_Mallove.md): Cold fusion advocate and former MIT science writer, beaten to death while cleaning a rental property in Norwich...
+- [Dr. Frederick Hochstetter](Frederick_Hochstetter.md): Pittsburgh researcher who publicly debunked [Lester Hendershot](Lester_Hendershot.md)'s fuelless motor in 1928. Died as the sole passenger fatality in...
+- [Adam Rasheed](Adam_Rasheed.md): GE Global Research engineer and aerospace propulsion researcher who reportedly suffered a stroke in 2005 following threats, allegedly...
+- [Arie DeGeus](Arie_DeGeus.md): Inventor of revolutionary clean energy technology reportedly capable of replacing oil, found dead in his car at Charlotte...
+
 ## Sources
 
 - [Rudolf Diesel — Wikipedia](https://en.wikipedia.org/wiki/Rudolf_Diesel)

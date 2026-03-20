@@ -81,6 +81,13 @@ Huntsville, Alabama is the home of NASA's Marshall Space Flight Center, Redstone
 - [William Neil McCasland](William_Neil_McCasland.md) — AFRL commander linked to UAP programs, missing since 2026
 - [Amy Eskridge (UAP Deaths project)](../../UAPs/Details/Amy_Eskridge.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [John Andrews](John_Andrews.md): Portuguese-born inventor who demonstrated a water-to-gasoline additive to the U.S. Navy in 1916–1917, converting plain water into a...
+- [Andrew Kazolnikov](Andrew_Kazolnikov.md): Inventor of a magnetic free-energy device who was allegedly poisoned. Very little verifiable information exists about his life...
+- [Adam Rasheed](Adam_Rasheed.md): GE Global Research engineer and aerospace propulsion researcher who reportedly suffered a stroke in 2005 following threats, allegedly...
+- [Gianni A. Dotto](Gianni_A_Dotto.md): Italian-American bio-physicist and inventor of the Dotto Ring thermionic couple, a device claimed to reverse aging and cure...
+
 ## Sources
 
 - [Amy Eskridge Obituary — The Arab Tribune](https://www.thearabtribune.com/obituaries/amy-eskridge/article_3779ff44-ecd0-11ec-b084-a70e496e902a.html)

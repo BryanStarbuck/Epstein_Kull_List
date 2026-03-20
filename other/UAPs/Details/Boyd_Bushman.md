@@ -51,6 +51,13 @@ In his deathbed video, Bushman claimed:
 - [David Grusch](David_Grusch.md) -- Testified before Congress about UAP retrieval programs
 - [Phil Schneider](Phil_Schneider.md) -- Another defense industry insider who made extraordinary claims before dying
 
+## Other Shocking Stories
+
+- [Keith Bowden](Keith_Bowden.md): Senior GEC-Marconi computer scientist killed when his car plunged off a bridge into a disused railway cutting in...
+- [Bruce DePalma](Bruce_DePalma.md): MIT physicist and former Polaroid senior scientist who invented the N-Machine homopolar generator, a claimed over-unity free energy...
+- [Michael Baker](Michael_Baker.md): 22-year-old Plessey digital communications expert and part-time SAS member killed when his car crashed through a barrier near...
+- [Thomas F. Mantell](Thomas_Mantell.md): Kentucky Air National Guard pilot who became the first person to die while pursuing an unidentified flying object
+
 ## Sources
 
 - [Area 51 Scientist's Deathbed Confession - The Mirror](https://www.themirror.com/news/weird-news/area-51-scientists-deathbed-confession-1541081)

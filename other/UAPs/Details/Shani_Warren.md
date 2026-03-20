@@ -56,6 +56,13 @@ The 2022 DNA conviction of Donald Robertson conclusively established that Warren
 - [Stuart Gooding](Stuart_Gooding.md) — RCMS postgraduate, died same month (April 1987)
 - [Mark Wisner](Mark_Wisner.md) — MOD software engineer, died same month (April 1987)
 
+## Other Shocking Stories
+
+- [John Brittan](John_Brittan.md): Royal College of Military Science IT specialist found dead from carbon monoxide poisoning in his garage — had...
+- [Roger Hill](Roger_Hill.md): Marconi radar designer found dead from a self-inflicted shotgun wound at his home in Surrey
+- [Alistair Beckham](Alistair_Beckham.md): 50-year-old Plessey Defence Systems software engineer working on SDI pilot programs, found electrocuted in his garden shed with...
+- [David Skeels](David_Skeels.md): Marconi avionics engineer found dead from carbon monoxide poisoning with a hosepipe connected to his car exhaust in...
+
 ## Sources
 
 - [Shani Warren murder: Sex attacker Donald Robertson jailed for life — ITV News, May 2022](https://www.itv.com/news/meridian/2022-05-19/shani-warren-murder-sex-attacker-donald-robertson-jailed-for-life)

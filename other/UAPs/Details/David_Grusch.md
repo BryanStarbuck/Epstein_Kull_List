@@ -53,6 +53,13 @@ His testimony was corroborated in part by two other witnesses at the hearing: re
 - [Tim Burchett](Tim_Burchett.md) — Congressman who organized the 2023 UAP hearing and received death threats
 - [George Knapp](George_Knapp.md) — Investigative journalist who testified before Congress in 2025
 
+## Other Shocking Stories
+
+- [James E. McDonald](James_McDonald.md): Senior atmospheric physicist whose career and marriage were systematically destroyed before he was found dead in the Arizona...
+- [Karla Turner](Karla_Turner.md): Abduction researcher with a Ph.D. who authored three books on the alien abduction phenomenon, died of fast-acting breast...
+- [Victor Moore](Victor_Moore.md): Marconi engineer working on infrared satellite systems who died of a drug overdose — MI5 reportedly investigated his...
+- [Uyrange Hollanda](Uyrange_Hollanda.md): Captain in the Brazilian Air Force who commanded Operation Saucer (Operacao Prato), the military investigation of UFO attacks...
+
 ## Sources
 
 - [David Grusch UFO whistleblower claims - Wikipedia](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims)

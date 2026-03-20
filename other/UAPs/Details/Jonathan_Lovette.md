@@ -67,6 +67,13 @@ This entry is included because the Lovette-Cunningham incident is widely referen
 - [Zigmund Adamski](Zigmund_Adamski.md) — Coal miner found dead with mysterious burns and unidentifiable substance
 - [Frederick Valentich](Frederick_Valentich.md) — Australian pilot who disappeared after reporting a UFO
 
+## Other Shocking Stories
+
+- [Andrew Hall](Andrew_Hall.md): 33-year-old British Aerospace engineering manager found dead from carbon monoxide poisoning with a hosepipe connected to his car...
+- [Rory Johnson](Rory_Johnson.md): Inventor of the Magnatron cold-fusion laser-activated magnetic motor who died unexpectedly around 1979 after the U.S. Department of...
+- [Philip J. Corso](Philip_Corso.md): Lt. Colonel, U.S. Army, who served on Eisenhower's National Security Council and headed Foreign Technology at Army R&D...
+- [Bruce DePalma](Bruce_DePalma.md): MIT physicist and former Polaroid senior scientist who invented the N-Machine homopolar generator, a claimed over-unity free energy...
+
 ## Sources
 
 - [The Dark Connection Between UFOs and Grisly Mutilations — HISTORY](https://www.history.com/articles/ufos-aliens-animal-human-mutilation-lovette-cunningham)

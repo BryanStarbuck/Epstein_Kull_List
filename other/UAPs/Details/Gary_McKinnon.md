@@ -51,6 +51,13 @@ McKinnon was diagnosed with Asperger syndrome during the extradition proceedings
 - [Lue Elizondo](Lue_Elizondo.md) — Former AATIP director and disclosure advocate
 - [George Knapp](George_Knapp.md) — Journalist who has reported on UFO cover-ups for over 35 years
 
+## Other Shocking Stories
+
+- [Karl Wolfe](Karl_Wolfe.md): Former US Air Force sergeant and Disclosure Project witness who claimed he saw NASA photos of alien structures...
+- [Monica Jacinto Reza](Monica_Jacinto_Reza.md): Aerospace materials scientist who worked as a Materials Science & Engineering Fellow at L3Harris and previously as a...
+- [Wilbert B. Smith](Wilbert_Smith.md): Canadian government engineer who ran Project Magnet, Canada's official UFO study, and concluded UFOs were extraterrestrial in origin
+- [Ann Livingston](Ann_Livingston.md): MUFON investigator and accountant who died of fast-acting ovarian cancer in 1994 after publishing research on electronic harassment...
+
 ## Sources
 
 - [Gary McKinnon - Wikipedia](https://en.wikipedia.org/wiki/Gary_McKinnon)

@@ -84,6 +84,13 @@ None of these theories adequately explain all the anomalies: the burns, the unid
 - [Stefan Michalak](Stefan_Michalak.md) — Civilian who suffered mysterious burns from a close encounter at Falcon Lake
 - [Frederick Valentich](Frederick_Valentich.md) — Australian pilot who disappeared after reporting a UFO over Bass Strait
 
+## Other Shocking Stories
+
+- [Russell Smith](Russell_Smith.md): 23-year-old Atomic Energy Research Establishment laboratory technician who fell from a cliff in Boscastle, Cornwall — no suicide...
+- [Eugene Mallove](Eugene_Mallove.md): Cold fusion advocate, science writer, and editor of Infinite Energy magazine who was beaten to death in 2004...
+- [Karla Turner](Karla_Turner.md): Abduction researcher with a Ph.D. who authored three books on the alien abduction phenomenon, died of fast-acting breast...
+- [Max Spiers](Max_Spiers.md): British UFO researcher and conspiracy theorist who died mysteriously in Warsaw, Poland in 2016 after sending his mother...
+
 ## Sources
 
 - [The Unsolved Death of Zigmund Adamski: UFO Abduction or Foul Play? — Discovery UK](https://www.discoveryuk.com/mysteries/the-unsolved-death-of-zigmund-adamski-ufo-abduction-or-foul-play/)

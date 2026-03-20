@@ -53,6 +53,13 @@ Dajibhai's death, along with that of [Ashad Sharif](Ashad_Sharif.md) just two mo
 - [David Sands](David_Sands.md) — Easams/Marconi SDI scientist, died March 1987
 - [Jonathan Walsh](Jonathan_Walsh.md) — GEC/BT digital comms expert, fell from hotel window November 1985
 
+## Other Shocking Stories
+
+- [Keith Bowden](Keith_Bowden.md): Senior GEC-Marconi computer scientist killed when his car plunged off a bridge into a disused railway cutting in...
+- [Walter Haut](Walter_Haut.md): USAF public information officer at Roswell Army Air Field who authored the famous July 8, 1947, press release...
+- [Jacob Prichard](Jacob_Prichard.md): Civilian employee at the Air Force Research Laboratory, Wright-Patterson Air Force Base. Perpetrator of an October 25, 2025...
+- [Stuart Gooding](Stuart_Gooding.md): RCMS postgraduate student killed in a head-on car collision in Cyprus — died on the same day as...
+
 ## Sources
 
 - [Scientists' Deaths Mystify British — Chicago Tribune, April 1988](https://www.chicagotribune.com/1988/04/17/scientists-deaths-mystify-british/)

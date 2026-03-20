@@ -47,6 +47,13 @@ Walsh's death occurred during the early phase of the GEC-Marconi death cluster, 
 - [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi software engineer, died August 1986
 - [Ashad Sharif](Ashad_Sharif.md) — Marconi computer analyst, died October 1986
 
+## Other Shocking Stories
+
+- [Ron Rummel](Ron_Rummel.md): Ex-Air Force intelligence agent and publisher of *Alien Digest*, found dead of a gunshot wound in a Portland...
+- [Anthony Godley](Anthony_Godley.md): 49-year-old Head of Work Study Unit at the Royal College of Military Science who vanished without a trace...
+- [Victor Moore](Victor_Moore.md): Marconi engineer working on infrared satellite systems who died of a drug overdose — MI5 reportedly investigated his...
+- [Mark Wisner](Mark_Wisner.md): MOD software engineer found dead from asphyxiation with a plastic sack and cling film over his face —...
+
 ## Sources
 
 - [GEC-Marconi scientist deaths conspiracy theory — Wikipedia](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory)

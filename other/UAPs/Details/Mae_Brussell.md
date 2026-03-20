@@ -64,6 +64,13 @@ Brussell received death threats during her investigation of the Presidio case. S
 - [Karla Turner](Karla_Turner.md) — Abduction researcher who died of fast-acting cancer at 48
 - [Dean Warwick](Dean_Warwick.md) — Researcher who collapsed and died at a conference in 2006
 
+## Other Shocking Stories
+
+- [Jacob Prichard](Jacob_Prichard.md): Civilian employee at the Air Force Research Laboratory, Wright-Patterson Air Force Base. Perpetrator of an October 25, 2025...
+- [Paul Bennewitz](Paul_Bennewitz.md): Businessman and UFO investigator who was deliberately driven to a mental breakdown by a coordinated AFOSI disinformation campaign...
+- [Richard Pugh](Richard_Pugh.md): MOD computer consultant found dead with a plastic bag over his head and rope coiled four times around...
+- [Ron Rummel](Ron_Rummel.md): Ex-Air Force intelligence agent and publisher of *Alien Digest*, found dead of a gunshot wound in a Portland...
+
 ## Sources
 
 - [Mae Brussell — Wikipedia](https://en.wikipedia.org/wiki/Mae_Brussell)

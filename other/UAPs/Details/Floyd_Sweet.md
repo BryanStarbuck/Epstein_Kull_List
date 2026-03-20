@@ -53,6 +53,13 @@ Sweet's claims were never validated by mainstream scientific peer review and rem
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Rory Johnson](Rory_Johnson.md) — Free energy inventor who died after DOE gag order
 
+## Other Shocking Stories
+
+- [George Adamski](George_Adamski.md): The most famous 1950s UFO contactee who claimed meetings with extraterrestrial "Space Brothers."
+- [Monica Jacinto Reza](Monica_Jacinto_Reza.md): Aerospace materials scientist who worked as a Materials Science & Engineering Fellow at L3Harris and previously as a...
+- [Walter Kasza (Area 51 Worker)](Walter_Kasza_Area51.md): Civilian contractor at Groom Lake (Area 51) who died at age 73 from kidney cancer after years of...
+- [Ron Rummel](Ron_Rummel.md): Ex-Air Force intelligence agent and publisher of *Alien Digest*, found dead of a gunshot wound in a Portland...
+
 ## Sources
 
 - [Floyd Sweet's Vacuum Triode Amplifier - amasci.com](http://amasci.com/freenrg/sweetvta.html)

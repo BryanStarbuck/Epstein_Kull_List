@@ -65,6 +65,13 @@ Mark Hendershot (Lester's son) believed a "large corporation" first tried to sto
 - [Stanley Meyer](Stanley_Meyer.md) — Another energy inventor whose death involved suspicious circumstances
 - [Arie DeGeus](Arie_DeGeus.md) — Clean energy inventor who died en route to secure funding
 
+## Other Shocking Stories
+
+- [Paul Brown](Paul_Brown.md): Nuclear scientist and inventor of the resonant nuclear battery (Nucell) — a radioisotope power system that converted nuclear...
+- [Thomas Henry Moray](Thomas_Henry_Moray.md): Inventor of the "Moray Valve" radiant energy device who was shot at multiple times, wounded in the leg...
+- [Tom Ogle](Tom_Ogle.md): El Paso inventor of a pressurized fuel vapor system who demonstrated 100 MPG efficiency, was shot and wounded...
+- [Peter Ferry](Peter_Ferry.md): Retired Army Brigadier and Assistant Marketing Director at Marconi, found electrocuted with electrical leads in his mouth
+
 ## Sources
 
 - [Lester J. Hendershot: Generator & Motor — Rex Research](https://rexresearch.com/hendershot2/hendershot.htm)

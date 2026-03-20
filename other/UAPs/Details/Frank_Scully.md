@@ -46,6 +46,13 @@ Despite the hoax exposure, Scully maintained his belief in the Aztec crash. In h
 - [Morris Jessup](Morris_Jessup.md) — Another 1950s UFO author who died under disputed circumstances
 - [Edward Ruppelt](Edward_Ruppelt.md) — Project Blue Book director who died at 37 in 1960
 
+## Other Shocking Stories
+
+- [Frank Olson](Frank_Olson.md): CIA biological warfare scientist who was covertly dosed with LSD by MKULTRA chief Sidney Gottlieb and fell to...
+- [Mark McCandlish](Mark_McCandlish.md): Aerospace illustrator and UFO disclosure advocate who died of a gunshot wound ruled as suicide in 2021, reportedly...
+- [Roger Hill](Roger_Hill.md): Marconi radar designer found dead from a self-inflicted shotgun wound at his home in Surrey
+- [Philip Haney](Philip_Haney.md): Department of Homeland Security founding member and counterterrorism whistleblower who was found dead from a single gunshot wound...
+
 ## Sources
 
 - [Frank Scully — Wikipedia](https://en.wikipedia.org/wiki/Frank_Scully)

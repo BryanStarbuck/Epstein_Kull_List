@@ -47,6 +47,13 @@ Borland is a federal whistleblower who has testified to both the ICIG and AARO w
 - [Tim Burchett](Tim_Burchett.md) — Congressman who organized UAP hearings and received death threats
 - [John Burroughs](John_Burroughs.md) — Rendlesham Forest witness whose medical records were classified
 
+## Other Shocking Stories
+
+- [Victor Moore](Victor_Moore.md): Marconi engineer working on infrared satellite systems who died of a drug overdose — MI5 reportedly investigated his...
+- [Alistair Beckham](Alistair_Beckham.md): 50-year-old Plessey Defence Systems software engineer working on SDI pilot programs, found electrocuted in his garden shed with...
+- [Richard Pugh](Richard_Pugh.md): MOD computer consultant found dead with a plastic bag over his head and rope coiled four times around...
+- [John Brittan](John_Brittan.md): Royal College of Military Science IT specialist found dead from carbon monoxide poisoning in his garage — had...
+
 ## Sources
 
 - [Dylan Borland Written Testimony - House Oversight Committee](https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf)

@@ -104,6 +104,13 @@ The official explanation — that Mallove was killed by angry former tenants in 
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly at a restaurant
 - [Eugene Mallove (UAP Deaths project)](../../UAPs/Details/Eugene_Mallove.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [Dr. Frederick Hochstetter](Frederick_Hochstetter.md): Pittsburgh researcher who publicly debunked [Lester Hendershot](Lester_Hendershot.md)'s fuelless motor in 1928. Died as the sole passenger fatality in...
+- [Wilhelm Reich](Wilhelm_Reich.md): Austrian-born psychiatrist and psychoanalyst who developed "orgone energy" theory and accumulator devices, imprisoned after FDA injunction, and died...
+- [Andrija Puharich](Andrija_Puharich.md): Medical inventor, physician, and parapsychological researcher who patented a method for splitting water molecules. His home was destroyed...
+- [Gerald Schaflander](Gerald_Schaflander.md): Solar hydrogen fuel inventor who claimed to develop "Hy-Fuel" — a liquid hydrogen-based automobile fuel produced from solar...
+
 ## Sources
 
 - [Eugene Mallove — Wikipedia](https://en.wikipedia.org/wiki/Eugene_Mallove)

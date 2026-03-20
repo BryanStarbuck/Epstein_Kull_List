@@ -72,6 +72,13 @@ The Australian Department of Transport investigation concluded that "the reason 
 - [Jonathan Lovette](Jonathan_Lovette.md) — Alleged USAF airman mutilation case near Holloman AFB
 - [Jim Sullivan](Jim_Sullivan.md) — Musician who vanished in the New Mexico desert in 1975
 
+## Other Shocking Stories
+
+- [Victor Moore](Victor_Moore.md): Marconi engineer working on infrared satellite systems who died of a drug overdose — MI5 reportedly investigated his...
+- [Carl Grillmair](Carl_Grillmair.md): Caltech/IPAC astrophysicist who studied galaxy collisions and the search for water on exoplanets. Shot and killed on the...
+- [Luis "Lue" Elizondo](Lue_Elizondo.md): Former head of the Pentagon's Advanced Aerospace Threat Identification Program (AATIP), UAP whistleblower, author of *Imminent*, and the...
+- [Don Elkins](Don_Elkins.md): Physics professor, Boeing 727 captain, and co-author of the Ra Material (Law of One), who died of a...
+
 ## Sources
 
 - [Disappearance of Frederick Valentich - Wikipedia](https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich)

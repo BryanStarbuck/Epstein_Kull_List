@@ -56,6 +56,13 @@ However, MIT has explicitly stated that Loureiro did not perform classified work
 - [Nuno Loureiro (Zero Point Energy)](../../Zero_Point_Energy/Details/Nuno_Loureiro.md) — This case also appears in the Zero Point Energy project
 - [William McCasland](William_McCasland.md) — Missing USAF general with plasma propulsion connections
 
+## Other Shocking Stories
+
+- [Max Spiers](Max_Spiers.md): British UFO researcher and conspiracy theorist who died mysteriously in Warsaw, Poland in 2016 after sending his mother...
+- [John Ford](John_Ford.md): Retired court security officer and founder of the Long Island UFO Network who has been institutionalized in psychiatric...
+- [Phil Schneider](Phil_Schneider.md): Ex-government geologist and structural engineer who claimed involvement in building deep underground military bases (DUMBs) and an alleged...
+- [Richard Pugh](Richard_Pugh.md): MOD computer consultant found dead with a plastic bag over his head and rope coiled four times around...
+
 ## Sources
 
 - [Wikipedia: Nuno Loureiro](https://en.wikipedia.org/wiki/Nuno_Loureiro)

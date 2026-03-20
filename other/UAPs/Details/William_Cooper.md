@@ -76,6 +76,13 @@ In the years before his death, Cooper became increasingly reclusive and confront
 - [Phil Schneider](Phil_Schneider.md) — Another government insider making extraordinary claims who died under suspicious circumstances
 - [Ron Rummel](Ron_Rummel.md) — Ex-Air Force intelligence, published sensitive UFO material, found dead in 1993
 
+## Other Shocking Stories
+
+- [Brian Lynch](Brian_Lynch.md): Young psychic and contactee who died of a reported drug overdose in 1985 after alleged involvement with a...
+- [Jaymee Prichard](Jaymee_Prichard.md): Civilian employee at the USAF Life Cycle Management Center, Wright-Patterson Air Force Base. Victim of murder-suicide by her...
+- [Stanton Friedman](Stanton_Friedman.md): Nuclear physicist and pioneering UFO researcher who brought the Roswell Incident into mainstream awareness; died of a heart...
+- [Bruce DePalma](Bruce_DePalma.md): MIT physicist and former Polaroid senior scientist who invented the N-Machine homopolar generator, a claimed over-unity free energy...
+
 ## Sources
 
 - [Milton William Cooper — Wikipedia](https://en.wikipedia.org/wiki/Milton_William_Cooper)

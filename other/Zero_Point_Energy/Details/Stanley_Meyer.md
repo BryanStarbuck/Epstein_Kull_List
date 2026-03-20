@@ -73,6 +73,13 @@ The dinner at which Meyer died was reportedly a business meeting. The Belgian in
 - [Nikola Tesla](Nikola_Tesla.md) — Wireless energy pioneer whose papers were seized by the FBI
 - [Stanley Meyer (UAP Deaths project)](../../UAPs/Details/Stanley_Meyer.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [Paul Brown](Paul_Brown.md): Nuclear scientist and inventor of the resonant nuclear battery (Nucell) — a radioisotope power system that converted nuclear...
+- [Keith Bowden](Keith_Bowden.md): Senior computer scientist and GEC-Marconi contractor, killed when his car crossed a dual carriageway and plunged off a...
+- [Mark Tomion](Mark_Tomion.md): Physicist who patented "Star Drive" zero-point energy technology and died shortly after developing a working prototype
+- [Paulo and Alexandra Correa](Paulo_Correa.md): Portuguese-Canadian biophysicist and his co-inventor wife who developed the Pulsed Abnormal Glow Discharge (PAGD) reactor, claiming overunity energy...
+
 ## Sources
 
 - [Stanley Meyer's Water Fuel Cell — Wikipedia](https://en.wikipedia.org/wiki/Stanley_Meyer%27s_water_fuel_cell)

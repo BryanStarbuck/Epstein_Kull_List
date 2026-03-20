@@ -77,6 +77,13 @@ Extensive web searches across news archives, patent databases, academic database
 - [Mark Tomion](Mark_Tomion.md) — Died of sudden cardiac event after developing Star Drive prototype
 - [John Bedini](John_Bedini.md) — Free energy researcher who died suddenly in 2016
 
+## Other Shocking Stories
+
+- [Jaymee Prichard](Jaymee_Prichard.md): Finance specialist at the Air Force Life Cycle Management Center (AFLCMC), Wright-Patterson Air Force Base. Murdered by strangulation...
+- [David Greenhalgh](David_Greenhalgh.md): Contracts manager at ICL's defence division, suffered multiple injuries after a mysterious fall from a railway bridge on...
+- [Dr. Eric H. Wang](Eric_Wang.md): Austrian-born engineer who headed the Office of Special Studies at Wright-Patterson AFB, allegedly involved in reverse-engineering recovered craft...
+- [Vimal Dajibhai](Vimal_Dajibhai.md): Marconi computer scientist working on Sting Ray torpedo guidance systems, found dead at the base of Clifton Suspension...
+
 ## Sources
 
 - [Free Energy Suppression Conspiracy Theory — Wikipedia](https://en.wikipedia.org/wiki/Free_energy_suppression_conspiracy_theory)

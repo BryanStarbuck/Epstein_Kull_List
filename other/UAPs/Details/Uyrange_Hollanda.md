@@ -66,6 +66,13 @@ Three months after the interview, Hollanda was found dead. The abrupt transition
 - [Phil Schneider](Phil_Schneider.md) — Claimed underground base encounters, found strangled
 - [Mark McCandlish](Mark_McCandlish.md) — Aerospace illustrator who testified about UFO technology, found dead
 
+## Other Shocking Stories
+
+- [Alistair Beckham](Alistair_Beckham.md): 50-year-old Plessey Defence Systems software engineer working on SDI pilot programs, found electrocuted in his garden shed with...
+- [John E. Mack](John_Mack.md): Pulitzer Prize-winning Harvard psychiatrist and alien abduction researcher, killed by a drunk driver while walking in London in...
+- [Russell Smith](Russell_Smith.md): 23-year-old Atomic Energy Research Establishment laboratory technician who fell from a cliff in Boscastle, Cornwall — no suicide...
+- [Karla Turner](Karla_Turner.md): Abduction researcher with a Ph.D. who authored three books on the alien abduction phenomenon, died of fast-acting breast...
+
 ## Sources
 
 - [Wikipedia: Operacao Prato](https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato)

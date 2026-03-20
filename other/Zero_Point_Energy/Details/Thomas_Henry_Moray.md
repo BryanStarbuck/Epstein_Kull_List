@@ -101,6 +101,13 @@ Moray's case is notable as a pre-Vesperman era example that established the temp
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death in 2004
 - [Tom Ogle](Tom_Ogle.md) — Fuel vapor system inventor who died of overdose in 1981
 
+## Other Shocking Stories
+
+- [Stanley Meyer](Stanley_Meyer.md): Inventor of a "water fuel cell" who claimed his car could run on water, died suddenly at a...
+- [Paulo and Alexandra Correa](Paulo_Correa.md): Portuguese-Canadian biophysicist and his co-inventor wife who developed the Pulsed Abnormal Glow Discharge (PAGD) reactor, claiming overunity energy...
+- [Eugene Mallove](Eugene_Mallove.md): Cold fusion advocate and former MIT science writer, beaten to death while cleaning a rental property in Norwich...
+- [Bruce DePalma](Bruce_DePalma.md): American inventor of the N-Machine homopolar generator — which he claimed demonstrated over-unity energy output — who moved...
+
 ## Sources
 
 - [Thomas Henry Moray — RationalWiki](https://rationalwiki.org/wiki/Thomas_Henry_Moray)

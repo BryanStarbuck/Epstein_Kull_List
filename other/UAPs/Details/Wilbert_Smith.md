@@ -58,6 +58,13 @@ Smith claimed to have received a fragment of a recovered UFO from the U.S. Navy,
 - [J. Allen Hynek](J_Allen_Hynek.md) — Project Blue Book consultant who died of brain tumor (1986)
 - [James Forrestal](James_Forrestal.md) — U.S. Defense Secretary, alleged MJ-12 member, died 1949
 
+## Other Shocking Stories
+
+- [Felix Moncla](Felix_Moncla.md): USAF pilot who vanished along with his radar operator while scrambled to intercept an unknown radar target over...
+- [Shani Warren](Shani_Warren.md): GEC/Micro Scope employee found gagged, bound, and drowned in 18 inches of water at Taplow Lake — originally...
+- [Jonathan Walsh](Jonathan_Walsh.md): GEC/British Telecom digital communications expert who fell from a hotel window in Abidjan, Ivory Coast, after reportedly expressing...
+- [Alistair Beckham](Alistair_Beckham.md): 50-year-old Plessey Defence Systems software engineer working on SDI pilot programs, found electrocuted in his garden shed with...
+
 ## Sources
 
 - [Wilbert Brockhouse Smith — Wikipedia](https://en.wikipedia.org/wiki/Wilbert_Brockhouse_Smith)

@@ -54,6 +54,13 @@ These experiences reportedly intensified her UFO research and motivated her to p
 - [Ron Johnson](Ron_Johnson.md) — Fellow MUFON investigator who also died in 1994 under suspicious circumstances
 - [Karla Turner](Karla_Turner.md) — Another UFO researcher who died of fast-acting cancer in 1996
 
+## Other Shocking Stories
+
+- [Nuno Loureiro](Nuno_Loureiro.md): MIT professor of nuclear science and engineering, physics, and director of the MIT Plasma Science and Fusion Center...
+- [J. Allen Hynek](J_Allen_Hynek.md): Astronomer who served as scientific consultant to Project Blue Book, evolved from UFO skeptic to the field's most...
+- [Jonathan Lovette](Jonathan_Lovette.md): USAF airman allegedly found mutilated near Holloman Air Force Base in an incident that remains one of the...
+- [Harald Malmgren](Harald_Malmgren.md): Economist and diplomatic advisor who served under Presidents Kennedy, Johnson, Nixon, and Ford. In the final months of...
+
 ## Sources
 
 - [10 UFO Investigators Who Died Mysteriously — Infinity Explorers](https://www.infinityexplorers.com/10-ufo-investigators-who-died-mysteriously-under-suspicious-circumstances-killed-to-hide-the-truth/)

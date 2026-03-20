@@ -89,6 +89,13 @@ A prototype bladeless turbine rated at 1,000 horsepower was also reportedly cons
 - [Rory Johnson](Rory_Johnson.md) — Magnatron inventor who fled after DOE gag and grab orders; died mysteriously
 - [Thomas Henry Moray](Thomas_Henry_Moray.md) — Radiant energy inventor who was shot at and whose device was destroyed
 
+## Other Shocking Stories
+
+- [Thomas Henry Moray](Thomas_Henry_Moray.md): Inventor of the "Moray Valve" radiant energy device who was shot at multiple times, wounded in the leg...
+- [Stefan Marinov](Stefan_Marinov.md): Bulgarian physicist working on perpetual motion and unconventional electromagnetic theories, fell from the staircase of the University of...
+- [Dallis Hardwick](Dallis_Hardwick.md): Metallurgist and co-inventor of Mondaloy, the superalloy enabling American rocket engine independence from Russia. Senior civilian scientist at...
+- [Joseph Westley Newman](Joseph_Westley_Newman.md): Self-taught American inventor who spent over seven years battling the U.S. Patent Office for recognition of his "Energy...
+
 ## Sources
 
 - [Energy Invention Suppression Cases — Gary Vesperman (Supreme Law)](https://supremelaw.org/authors/wine/Energy_Invention_Suppression_Cases_September_3_2007.htm)

@@ -72,6 +72,13 @@ While Warren's murder was ultimately solved and attributed to a sex attacker unr
 - [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
 - [Shani Warren (UAP Deaths project)](../../UAPs/Details/Shani_Warren.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [Paul Brown](Paul_Brown.md): Nuclear scientist and inventor of the resonant nuclear battery (Nucell) — a radioisotope power system that converted nuclear...
+- [Adam Rasheed](Adam_Rasheed.md): GE Global Research engineer and aerospace propulsion researcher who reportedly suffered a stroke in 2005 following threats, allegedly...
+- [David Greenhalgh](David_Greenhalgh.md): Contracts manager at ICL's defence division, suffered multiple injuries after a mysterious fall from a railway bridge on...
+- [John Andrews](John_Andrews.md): Portuguese-born inventor who demonstrated a water-to-gasoline additive to the U.S. Navy in 1916–1917, converting plain water into a...
+
 ## Sources
 
 - [The Killer of Shani Warren, Caught 35 Years Later — Vocal Media](https://vocal.media/criminal/the-killer-of-shani-warren-caught-35-years-later)

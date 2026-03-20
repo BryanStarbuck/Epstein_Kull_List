@@ -71,6 +71,13 @@ Dajibhai's death, along with that of [Arshad Sharif](Arshad_Sharif.md) two month
 - [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
 - [Vimal Dajibhai (UAP Deaths project)](../../UAPs/Details/Vimal_Dajibhai.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [Shani Warren](Shani_Warren.md): Personal assistant at Micro Scope (later acquired by GEC-Marconi), found drowned, gagged, and bound in a lake. Originally...
+- [Lester Hendershot](Lester_Hendershot.md): Inventor of a "fuelless motor" that reportedly drew power from the Earth's magnetic field. Made front-page headlines in...
+- [Arshad Sharif](Arshad_Sharif.md): Marconi satellite detection and guidance systems computer scientist, found decapitated after allegedly tying a rope between his neck...
+- [Frank Richardson](Frank_Richardson.md): Nevada Test Site electrician who invented a fuelless magnetic electrical generator and a bladeless Tesla-type steam turbine in...
+
 ## Sources
 
 - [GEC-Marconi Scientist Deaths Conspiracy Theory — Wikipedia](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory)

@@ -49,6 +49,13 @@ Godley's position gave him access to sensitive defense work. Notably, at least t
 - [Stuart Gooding](Stuart_Gooding.md) — RCMS postgraduate, killed April 1987
 - [David Sands](David_Sands.md) — Defense scientist, car fire May 1987
 
+## Other Shocking Stories
+
+- [Jonathan Walsh](Jonathan_Walsh.md): GEC/British Telecom digital communications expert who fell from a hotel window in Abidjan, Ivory Coast, after reportedly expressing...
+- [Ryan Graves](Ryan_Graves.md): Former U.S. Navy F/A-18 pilot who became the first active-duty military pilot to publicly testify before Congress about...
+- [Ning Li](Ning_Li.md): Chinese-American physicist who published groundbreaking antigravity research, received a $448,970 DOD grant through her company AC Gravity, published...
+- [Felix Moncla](Felix_Moncla.md): USAF pilot who vanished along with his radar operator while scrambled to intercept an unknown radar target over...
+
 ## Sources
 
 - [Lieutenant Colonel Anthony Godley — whale.to](http://www.whale.to/a/godley_h.html)

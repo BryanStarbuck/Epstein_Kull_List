@@ -78,6 +78,13 @@ President Trump had announced the release of UFO-related government files approx
 - [Walter Kasza (Area 51)](Walter_Kasza_Area51.md) — Area 51 contractor who died from toxic waste exposure
 - [Monica Jacinto Reza](Monica_Jacinto_Reza.md) — Aerospace materials scientist missing since June 2025
 
+## Other Shocking Stories
+
+- [Felix Moncla](Felix_Moncla.md): USAF pilot who vanished along with his radar operator while scrambled to intercept an unknown radar target over...
+- [George Knapp](George_Knapp.md): Award-winning investigative journalist who broke the Bob Lazar / Area 51 story in 1989, has spent over 35...
+- [Ashad Sharif](Ashad_Sharif.md): 26-year-old Marconi computer analyst who died after tying a rope between his neck and a tree and then...
+- [Michael Baker](Michael_Baker.md): 22-year-old Plessey digital communications expert and part-time SAS member killed when his car crashed through a barrier near...
+
 ## Sources
 
 - [CNN: FBI involved in search for retired Air Force major general missing for nearly 2 weeks](https://www.cnn.com/2026/03/11/us/retired-air-force-general-fbi-search)

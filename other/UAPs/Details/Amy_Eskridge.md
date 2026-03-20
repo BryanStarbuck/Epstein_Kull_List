@@ -60,6 +60,13 @@ Eskridge was based in Huntsville, Alabama -- a city with deep connections to the
 - [Arie DeGeus](Arie_DeGeus.md) — Free energy inventor found dead in car at airport
 - [Bruce DePalma](Bruce_DePalma.md) — N-Machine inventor who died weeks before testing his device
 
+## Other Shocking Stories
+
+- [Zigmund Adamski](Zigmund_Adamski.md): Polish-born British coal miner found dead atop a coal heap in Todmorden, West Yorkshire, covered in mysterious burns...
+- [Wilbert B. Smith](Wilbert_Smith.md): Canadian government engineer who ran Project Magnet, Canada's official UFO study, and concluded UFOs were extraterrestrial in origin
+- [Gary McKinnon](Gary_McKinnon.md): Scottish systems administrator who hacked into 97 U.S. military and NASA computers searching for evidence of UFO cover-ups...
+- [Anthony Godley](Anthony_Godley.md): 49-year-old Head of Work Study Unit at the Royal College of Military Science who vanished without a trace...
+
 ## Sources
 
 - [Amy Eskridge Obituary - Legacy.com](https://www.legacy.com/obituaries/name/amy-eskridge-obituary?pid=202191023)

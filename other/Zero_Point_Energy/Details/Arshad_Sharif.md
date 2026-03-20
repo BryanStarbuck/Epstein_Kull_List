@@ -70,6 +70,13 @@ The deaths were investigated by journalist Tony Collins of *Computer News* (late
 - [David Greenhalgh](David_Greenhalgh.md) — ICL defence contracts manager who fell from bridge
 - [Arshad Sharif (UAP Deaths project)](../../UAPs/Details/Ashad_Sharif.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [Gerald Schaflander](Gerald_Schaflander.md): Solar hydrogen fuel inventor who claimed to develop "Hy-Fuel" — a liquid hydrogen-based automobile fuel produced from solar...
+- [John Andrews](John_Andrews.md): Portuguese-born inventor who demonstrated a water-to-gasoline additive to the U.S. Navy in 1916–1917, converting plain water into a...
+- [Wilhelm Reich](Wilhelm_Reich.md): Austrian-born psychiatrist and psychoanalyst who developed "orgone energy" theory and accumulator devices, imprisoned after FDA injunction, and died...
+- [Chris Tinsley](Chris_Tinsley.md): Associate in the Cincinnati Group's low-energy nuclear transmutation (LENT) research. Author of energy device testing articles in *Infinite...
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

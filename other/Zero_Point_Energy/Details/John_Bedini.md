@@ -67,6 +67,13 @@ Mainstream physics considers Bedini's claims of overunity (more energy output th
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly
 
+## Other Shocking Stories
+
+- [Dallis Hardwick](Dallis_Hardwick.md): Metallurgist and co-inventor of Mondaloy, the superalloy enabling American rocket engine independence from Russia. Senior civilian scientist at...
+- [Eugene Mallove](Eugene_Mallove.md): Cold fusion advocate and former MIT science writer, beaten to death while cleaning a rental property in Norwich...
+- [Dr. Frederick Hochstetter](Frederick_Hochstetter.md): Pittsburgh researcher who publicly debunked [Lester Hendershot](Lester_Hendershot.md)'s fuelless motor in 1928. Died as the sole passenger fatality in...
+- [Chris Tinsley](Chris_Tinsley.md): Associate in the Cincinnati Group's low-energy nuclear transmutation (LENT) research. Author of energy device testing articles in *Infinite...
+
 ## Sources
 
 - [John Bedini, Noted Free Energy Researcher, Died Unexpectedly — Educate-Yourself.org](https://educate-yourself.org/cn/John-Bedini-Noted-Free-Energy-Researcher-Died-Unexpectedly-on-Saturday-Nov-5-2016-06nov16.shtml)

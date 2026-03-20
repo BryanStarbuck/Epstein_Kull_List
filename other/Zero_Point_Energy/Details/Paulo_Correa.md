@@ -70,6 +70,13 @@ Mallove was beaten to death on May 14, 2004, in Norwich, Connecticut. Chad Schaf
 - [Nikola Tesla](Nikola_Tesla.md) — Pioneer of the aether motor concept the Correas claim to have realized
 - [Thomas Bearden](Thomas_Bearden.md) — Another inventor with valid US patents for overunity claims
 
+## Other Shocking Stories
+
+- [1st Lt. Jaime S. Gustitus](Jaime_Gustitus.md): Operations Research Analyst in the 711th Human Performance Wing, Air Force Research Laboratory, Wright-Patterson AFB. Held Top Secret/SCI...
+- [Stanley Meyer](Stanley_Meyer.md): Inventor of a "water fuel cell" who claimed his car could run on water, died suddenly at a...
+- [Nikola Tesla](Nikola_Tesla.md): Pioneer of alternating current, wireless energy transmission, and directed energy weapons, whose papers were seized by the FBI...
+- [Arshad Sharif](Arshad_Sharif.md): Marconi satellite detection and guidance systems computer scientist, found decapitated after allegedly tying a rope between his neck...
+
 ## Sources
 
 - [Paulo N Correa — Natural Philosophy Wiki](https://www.wiki.naturalphilosophy.org/index.php?title=Paulo_N_Correa)

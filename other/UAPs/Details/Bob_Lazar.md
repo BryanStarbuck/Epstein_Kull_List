@@ -49,6 +49,13 @@ Notably, a Los Alamos National Laboratory phone directory from the late 1980s di
 - [Dylan Borland](Dylan_Borland.md) — Air Force witness facing retaliation for UAP testimony
 - [Gary McKinnon](Gary_McKinnon.md) — Hacker who claimed to find evidence of UFO cover-ups on military systems
 
+## Other Shocking Stories
+
+- [Jonathan Walsh](Jonathan_Walsh.md): GEC/British Telecom digital communications expert who fell from a hotel window in Abidjan, Ivory Coast, after reportedly expressing...
+- [Jim Keith](Jim_Keith.md): Conspiracy author known for *Black Helicopters Over America* and *The Octopus* who died from a blood clot following...
+- [Fred Bell](Fred_Bell.md): Nuclear physicist, claimed MKULTRA participant, and inventor who died on September 25, 2011 — reportedly within 48 hours...
+- [Mae Brussell](Mae_Brussell.md): Pioneering conspiracy researcher and radio host who died of fast-acting cancer in 1988, seven months after receiving death...
+
 ## Sources
 
 - [Bob Lazar - Wikipedia](https://en.wikipedia.org/wiki/Bob_Lazar)

@@ -62,6 +62,13 @@ Todd Sees was a 39-year-old resident of Point Township, Northumberland County, P
 - [Frederick Valentich](Frederick_Valentich.md) — Australian pilot who disappeared after reporting a UFO
 - [Stefan Michalak](Stefan_Michalak.md) — Civilian who suffered radiation burns from a close encounter at Falcon Lake
 
+## Other Shocking Stories
+
+- [Felix Moncla](Felix_Moncla.md): USAF pilot who vanished along with his radar operator while scrambled to intercept an unknown radar target over...
+- [Philip J. Corso](Philip_Corso.md): Lt. Colonel, U.S. Army, who served on Eisenhower's National Security Council and headed Foreign Technology at Army R&D...
+- [Shani Warren](Shani_Warren.md): GEC/Micro Scope employee found gagged, bound, and drowned in 18 inches of water at Taplow Lake — originally...
+- [George Kountis](George_Kountis.md): Systems analyst found dead in overturned car in the River Mersey, one of 25 British defense scientists to...
+
 ## Sources
 
 - [The Todd Sees Case: Alien Abduction, Murder and Coverup — Soul Ask](https://www.soulask.com/todd-sees-case-alien-abduction-murder-coverup/)

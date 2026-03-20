@@ -64,6 +64,13 @@ Haney was also reportedly engaged to be married at the time of his death, which 
 - [William Cooper](William_Cooper.md) — Government whistleblower shot by sheriff's deputies in 2001
 - [Phil Schneider](Phil_Schneider.md) — Government insider found dead after lecturing about classified programs
 
+## Other Shocking Stories
+
+- [Wilbert B. Smith](Wilbert_Smith.md): Canadian government engineer who ran Project Magnet, Canada's official UFO study, and concluded UFOs were extraterrestrial in origin
+- [Frank Olson](Frank_Olson.md): CIA biological warfare scientist who was covertly dosed with LSD by MKULTRA chief Sidney Gottlieb and fell to...
+- [Zigmund Adamski](Zigmund_Adamski.md): Polish-born British coal miner found dead atop a coal heap in Todmorden, West Yorkshire, covered in mysterious burns...
+- [George Adamski](George_Adamski.md): The most famous 1950s UFO contactee who claimed meetings with extraterrestrial "Space Brothers."
+
 ## Sources
 
 - [Philip Haney - Wikipedia](https://en.wikipedia.org/wiki/Philip_Haney)

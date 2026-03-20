@@ -50,6 +50,13 @@ In 1973, Hynek founded the Center for UFO Studies (CUFOS) in Chicago, which beca
 - [Ivan Sanderson](Ivan_Sanderson.md) — Another prominent paranormal researcher who died of brain cancer
 - [Edward Ruppelt](Edward_Ruppelt.md) — Ruppelt ran Project Blue Book, on which Hynek served as consultant
 
+## Other Shocking Stories
+
+- [Ron Johnson](Ron_Johnson.md): MUFON Deputy Director of Investigations who collapsed and died suddenly during a scientific conference in 1994 under circumstances...
+- [Shani Warren](Shani_Warren.md): GEC/Micro Scope employee found gagged, bound, and drowned in 18 inches of water at Taplow Lake — originally...
+- [Gary McKinnon](Gary_McKinnon.md): Scottish systems administrator who hacked into 97 U.S. military and NASA computers searching for evidence of UFO cover-ups...
+- [Walter Haut](Walter_Haut.md): USAF public information officer at Roswell Army Air Field who authored the famous July 8, 1947, press release...
+
 ## Sources
 
 - [J. Allen Hynek — Wikipedia](https://en.wikipedia.org/wiki/J._Allen_Hynek)

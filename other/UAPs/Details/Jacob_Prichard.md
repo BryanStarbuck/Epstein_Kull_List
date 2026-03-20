@@ -54,6 +54,13 @@ Wright-Patterson AFB issued a statement saying they were "deeply saddened" by th
 - [Jaime Gustitus](Jaime_Gustitus.md) — Colleague, victim of murder by Jacob Prichard
 - [William McCasland](William_McCasland.md) — Missing former commander of AFRL at Wright-Patterson AFB
 
+## Other Shocking Stories
+
+- [Ryan Graves](Ryan_Graves.md): Former U.S. Navy F/A-18 pilot who became the first active-duty military pilot to publicly testify before Congress about...
+- [Stanton Friedman](Stanton_Friedman.md): Nuclear physicist and pioneering UFO researcher who brought the Roswell Incident into mainstream awareness; died of a heart...
+- [Felix Moncla](Felix_Moncla.md): USAF pilot who vanished along with his radar operator while scrambled to intercept an unknown radar target over...
+- [Ashad Sharif](Ashad_Sharif.md): 26-year-old Marconi computer analyst who died after tying a rope between his neck and a tree and then...
+
 ## Sources
 
 - [FOX19: Wright-Patterson employee kills colleague, wife in apparent double murder-suicide](https://www.fox19.com/2025/10/29/wright-patterson-employee-kills-colleague-wife-double-murder-suicide/)

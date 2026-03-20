@@ -82,6 +82,13 @@ The affidavit is significant for several reasons:
 - [Frank Scully](Frank_Scully.md) — journalist who wrote one of the earliest books about crashed flying saucers
 - [Stanton Friedman](Stanton_Friedman.md) — nuclear physicist and UFO researcher who helped revive the Roswell case in 1978
 
+## Other Shocking Stories
+
+- [Jim Sullivan](Jim_Sullivan.md): Singer-songwriter who recorded the prophetically titled album *U.F.O.* featuring lyrics about highway travel, leaving family behind, and alien...
+- [Mark McCandlish](Mark_McCandlish.md): Aerospace illustrator and UFO disclosure advocate who died of a gunshot wound ruled as suicide in 2021, reportedly...
+- [Thomas F. Mantell](Thomas_Mantell.md): Kentucky Air National Guard pilot who became the first person to die while pursuing an unidentified flying object
+- [Luis "Lue" Elizondo](Lue_Elizondo.md): Former head of the Pentagon's Advanced Aerospace Threat Identification Program (AATIP), UAP whistleblower, author of *Imminent*, and the...
+
 ## Sources
 
 - [Walter Haut — Wikipedia](https://en.wikipedia.org/wiki/Walter_Haut)

@@ -74,6 +74,13 @@ Al Wordsworth is one of the least-documented individuals in the energy suppressi
 - [Tom Ogle](Tom_Ogle.md) — Inventor of advanced fuel vapor system, died of overdose ruled suicide
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly at a restaurant
 
+## Other Shocking Stories
+
+- [Dr. Eric H. Wang](Eric_Wang.md): Austrian-born engineer who headed the Office of Special Studies at Wright-Patterson AFB, allegedly involved in reverse-engineering recovered craft...
+- [Paulo and Alexandra Correa](Paulo_Correa.md): Portuguese-Canadian biophysicist and his co-inventor wife who developed the Pulsed Abnormal Glow Discharge (PAGD) reactor, claiming overunity energy...
+- [Dr. Frederick Hochstetter](Frederick_Hochstetter.md): Pittsburgh researcher who publicly debunked [Lester Hendershot](Lester_Hendershot.md)'s fuelless motor in 1928. Died as the sole passenger fatality in...
+- [Alistair Beckham](Alistair_Beckham.md): Computer engineer believed to be working on top secret SDI programs, found electrocuted in his garden shed with...
+
 ## Sources
 
 - [Energy Invention Suppression Cases — Gary Vesperman (Supreme Law)](https://supremelaw.org/authors/wine/Energy_Invention_Suppression_Cases_September_3_2007.htm)

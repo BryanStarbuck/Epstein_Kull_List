@@ -90,6 +90,13 @@ Tom Bearden has written that Sweet was genuinely terrified in the period before 
 - [Thomas Henry Moray](Thomas_Henry_Moray.md) — Radiant energy inventor whose devices were destroyed
 - [Floyd Sweet (UAP Deaths project)](../../UAPs/Details/Floyd_Sweet.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [John Bedini](John_Bedini.md): American inventor and audio engineer who pioneered electromagnetic energy recovery devices, died suddenly on November 5, 2016 —...
+- [Trevor Knight](Trevor_Knight.md): Computer engineer at Marconi Space and Defence Systems, found dead in his car from carbon monoxide poisoning
+- [Philo Taylor Farnsworth](Philo_Farnsworth.md): Inventor of electronic television at age 21, who later developed the first device to demonstrably produce nuclear fusion...
+- [Stefan Marinov](Stefan_Marinov.md): Bulgarian physicist working on perpetual motion and unconventional electromagnetic theories, fell from the staircase of the University of...
+
 ## Sources
 
 - [Floyd Sweet VTA — amasci.com (Bill Beaty's Science Website)](http://amasci.com/)

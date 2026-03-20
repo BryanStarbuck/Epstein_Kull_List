@@ -53,6 +53,13 @@ Thomas Mantell was a decorated World War II veteran who had received the Disting
 - [J. Allen Hynek](J_Allen_Hynek.md) — Initially attributed the Mantell sighting to Venus, later retracted
 - [Frederick Valentich](Frederick_Valentich.md) — Another pilot who disappeared while reporting a UFO encounter (1978)
 
+## Other Shocking Stories
+
+- [James V. Forrestal](James_Forrestal.md): First United States Secretary of Defense, fell from the sixteenth floor of Bethesda Naval Hospital under disputed circumstances...
+- [Dylan Borland](Dylan_Borland.md): Former U.S. Air Force geospatial intelligence specialist who testified before Congress in September 2025 about witnessing a silent...
+- [Walter Haut](Walter_Haut.md): USAF public information officer at Roswell Army Air Field who authored the famous July 8, 1947, press release...
+- [John Brittan](John_Brittan.md): Royal College of Military Science IT specialist found dead from carbon monoxide poisoning in his garage — had...
+
 ## Sources
 
 - [Mantell UFO incident — Wikipedia](https://en.wikipedia.org/wiki/Mantell_UFO_incident)

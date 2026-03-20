@@ -99,6 +99,13 @@ After Searl's death in 2018, Fernando Morris and SEG Magnetics, Inc. continue to
 - [Nikola Tesla](Nikola_Tesla.md) — Wireless energy pioneer whose papers were seized by the FBI
 - [Rory Johnson](Rory_Johnson.md) — Magnatron inventor targeted by DOE gag and grab orders
 
+## Other Shocking Stories
+
+- [Major General William Neil McCasland (USAF, Ret.)](William_Neil_McCasland.md): Former commander of the Air Force Research Laboratory at Wright-Patterson AFB. Executive secretary of the Special Access Program...
+- [Chris Tinsley](Chris_Tinsley.md): Associate in the Cincinnati Group's low-energy nuclear transmutation (LENT) research. Author of energy device testing articles in *Infinite...
+- [Trevor James Constable](Trevor_Constable.md): New Zealand-born merchant marine officer, orgone energy researcher, and etheric weather engineer who spent decades developing and demonstrating...
+- [Peter Ferry](Peter_Ferry.md): Retired Army Brigadier and Assistant Marketing Director at Marconi, found electrocuted with electrical leads in his mouth
+
 ## Sources
 
 - [John Searl — Kook Science](https://hatch.kookscience.com/wiki/John_Searl)

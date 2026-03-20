@@ -129,6 +129,13 @@ The family reportedly believes she left voluntarily under severe personal and fi
 - [William Neil McCasland](William_Neil_McCasland.md) — Vanished from Albuquerque, other end of NM defense corridor
 - [Carl Grillmair](Carl_Grillmair.md) — Caltech scientist shot dead in LA County, Feb 2026
 
+## Other Shocking Stories
+
+- [Bill Yelon](Bill_Yelon.md): Inventor of a solid-state electromagnetic wave over-unity device who reportedly died suddenly in 2018, shortly after announcing his...
+- [Trevor James Constable](Trevor_Constable.md): New Zealand-born merchant marine officer, orgone energy researcher, and etheric weather engineer who spent decades developing and demonstrating...
+- [Stefan Marinov](Stefan_Marinov.md): Bulgarian physicist working on perpetual motion and unconventional electromagnetic theories, fell from the staircase of the University of...
+- [Frank Roberts](Frank_Roberts.md): Water car inventor who reportedly suffered a chemically induced stroke causing memory loss, had his van burned in...
+
 ## Sources
 
 - [NBC Dateline — Missing in America: Melissa Casias](https://www.nbcnews.com/dateline/missing-in-america/melissa-casias-new-mexico-missing-rcna219956)

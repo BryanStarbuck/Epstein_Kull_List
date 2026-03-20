@@ -54,6 +54,13 @@ Brown founded Nuclear Solutions, Inc. to commercialize both the Nucell battery a
 - [Rory Johnson](Rory_Johnson.md) — Free energy inventor who died after DOE gag order
 - [Amy Eskridge](Amy_Eskridge.md) — Antigravity researcher found dead from gunshot wound
 
+## Other Shocking Stories
+
+- [Tony Dodd](Tony_Dodd.md): British police sergeant turned full-time UFO investigator who died of an inoperable brain tumor in 2009, after 21...
+- [Edward J. Ruppelt](Edward_Ruppelt.md): First director of Project Blue Book and the man who coined the term "unidentified flying object," dead of...
+- [Frank Jennings](Frank_Jennings.md): 60-year-old Plessey electronic weapons engineer who died of a heart attack — no inquest was held
+- [Mark McCandlish](Mark_McCandlish.md): Aerospace illustrator and UFO disclosure advocate who died of a gunshot wound ruled as suicide in 2021, reportedly...
+
 ## Sources
 
 - [Remembering Paul Brown, A Nuclear Genius - Future Energy eNews](https://thelivingmoon.com/41pegasus/02documents/Paul_Eulogy.htm)

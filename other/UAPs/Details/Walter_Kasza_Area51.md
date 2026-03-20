@@ -52,6 +52,13 @@ U.S. District Judge Philip Pro initially rejected the government's argument, but
 - [Robert Frost](Robert_Frost_Area51.md) -- Fellow Area 51 civilian contractor who died from toxic exposure at the same facility
 - [Bob Lazar](Bob_Lazar.md) -- Claimed to have worked at S-4 facility near Area 51
 
+## Other Shocking Stories
+
+- [William Cooper](William_Cooper.md): Former Naval intelligence serviceman and author of *Behold a Pale Horse*, who made early UFO disclosure claims and...
+- [Peter Peapell](Peter_Peapell.md): RCMS scientist found dead from carbon monoxide poisoning jammed underneath his car in his garage — police were...
+- [Jacob Prichard](Jacob_Prichard.md): Civilian employee at the Air Force Research Laboratory, Wright-Patterson Air Force Base. Perpetrator of an October 25, 2025...
+- [Robert F. Kennedy](Robert_F_Kennedy.md): U.S. Senator and presidential candidate, assassinated in Los Angeles on June 5, 1968. Some fringe theorists claim he...
+
 ## Sources
 
 - [The Secrets at Area 51 Deadly, Real - Spokesman-Review](https://www.spokesman.com/stories/1997/jul/20/the-secrets-at-area-51-deadly-real-its-toxic/)

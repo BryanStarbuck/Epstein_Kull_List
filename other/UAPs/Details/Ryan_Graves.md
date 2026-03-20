@@ -48,6 +48,13 @@ On July 26, 2023, Graves testified before the House Oversight Subcommittee on Na
 - [George Knapp](George_Knapp.md) — Journalist who testified before Congress in 2025
 - [John Burroughs](John_Burroughs.md) — Rendlesham Forest witness with government-acknowledged UAP injuries
 
+## Other Shocking Stories
+
+- [Stefan Marinov](Stefan_Marinov.md): Bulgarian physicist who fell to his death from a university library staircase in Graz, Austria in 1997 while...
+- [Paul Bennewitz](Paul_Bennewitz.md): Businessman and UFO investigator who was deliberately driven to a mental breakdown by a coordinated AFOSI disinformation campaign...
+- [Tim Burchett](Tim_Burchett.md): U.S. Congressman from Tennessee who leads Congressional UAP hearings and has publicly stated he was warned by Army...
+- [Jim Sullivan](Jim_Sullivan.md): Singer-songwriter who recorded the prophetically titled album *U.F.O.* featuring lyrics about highway travel, leaving family behind, and alien...
+
 ## Sources
 
 - [Ryan Graves Congressional Bio](https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-GravesR-20230726.pdf)

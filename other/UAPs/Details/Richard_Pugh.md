@@ -45,6 +45,13 @@ Richard Pugh was a 37-year-old computer expert who worked as a consultant for th
 - [Ashad Sharif](Ashad_Sharif.md) — Marconi computer analyst, died October 1986
 - [Vimal Dajibhai](Vimal_Dajibhai.md) — Marconi software engineer, died August 1986
 
+## Other Shocking Stories
+
+- [Fred Bell](Fred_Bell.md): Nuclear physicist, claimed MKULTRA participant, and inventor who died on September 25, 2011 — reportedly within 48 hours...
+- [Frank Jennings](Frank_Jennings.md): 60-year-old Plessey electronic weapons engineer who died of a heart attack — no inquest was held
+- [Michael Baker](Michael_Baker.md): 22-year-old Plessey digital communications expert and part-time SAS member killed when his car crashed through a barrier near...
+- [Dylan Borland](Dylan_Borland.md): Former U.S. Air Force geospatial intelligence specialist who testified before Congress in September 2025 about witnessing a silent...
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

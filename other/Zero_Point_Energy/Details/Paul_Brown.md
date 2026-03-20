@@ -86,6 +86,13 @@ Despite the harassment, Brown continued his work through Nuclear Solutions Inc. 
 - [John Bedini](John_Bedini.md) — Free energy researcher
 - [Paul Brown (UAP Deaths project)](../../UAPs/Details/Paul_Brown.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [Eugene Mallove](Eugene_Mallove.md): Cold fusion advocate and former MIT science writer, beaten to death while cleaning a rental property in Norwich...
+- [Gerald Schaflander](Gerald_Schaflander.md): Solar hydrogen fuel inventor who claimed to develop "Hy-Fuel" — a liquid hydrogen-based automobile fuel produced from solar...
+- [Thomas Henry Moray](Thomas_Henry_Moray.md): Inventor of the "Moray Valve" radiant energy device who was shot at multiple times, wounded in the leg...
+- [Monica Jacinto Reza](Monica_Jacinto_Reza.md): Co-inventor of Mondaloy, the superalloy enabling America's replacement for Russian rocket engines. Former Technical Fellow at Aerojet Rocketdyne...
+
 ## Sources
 
 - [Nuclear Solutions Inc. Press Releases — CSRWire](https://www.csrwire.com/)

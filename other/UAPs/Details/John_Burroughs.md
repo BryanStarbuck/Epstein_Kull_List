@@ -48,6 +48,13 @@ In 2015, the U.S. government made an unprecedented acknowledgment by granting Bu
 - [Dylan Borland](Dylan_Borland.md) — Air Force veteran facing retaliation for UAP whistleblowing
 - [Stefan Michalak](Stefan_Michalak.md) — Civilian who suffered radiation burns from a close encounter at Falcon Lake
 
+## Other Shocking Stories
+
+- [Edward J. Ruppelt](Edward_Ruppelt.md): First director of Project Blue Book and the man who coined the term "unidentified flying object," dead of...
+- [Vimal Dajibhai](Vimal_Dajibhai.md): 24-year-old Marconi software engineer working on the Stingray torpedo system who plunged from the Clifton Suspension Bridge —...
+- [Walter Haut](Walter_Haut.md): USAF public information officer at Roswell Army Air Field who authored the famous July 8, 1947, press release...
+- [Andrew Hall](Andrew_Hall.md): 33-year-old British Aerospace engineering manager found dead from carbon monoxide poisoning with a hosepipe connected to his car...
+
 ## Sources
 
 - [John Burroughs and the Government's Unprecedented Acknowledgment - RDR News](https://www.rdrnews.com/news/national/john-burroughs-and-the-governments-unprecedented-acknowledgment/article_22fde1e0-eac0-11ed-bb5f-a3db8e1a9427.html)

@@ -42,6 +42,13 @@ Frank Jennings was a 60-year-old electronic weapons engineer employed by Plessey
 - [David Sands](David_Sands.md) — Easams/Marconi SDI scientist, died March 1987
 - [Victor Moore](Victor_Moore.md) — Marconi engineer, drug overdose 1987
 
+## Other Shocking Stories
+
+- [Anthony Godley](Anthony_Godley.md): 49-year-old Head of Work Study Unit at the Royal College of Military Science who vanished without a trace...
+- [Shani Warren](Shani_Warren.md): GEC/Micro Scope employee found gagged, bound, and drowned in 18 inches of water at Taplow Lake — originally...
+- [Stanton Friedman](Stanton_Friedman.md): Nuclear physicist and pioneering UFO researcher who brought the Roswell Incident into mainstream awareness; died of a heart...
+- [James V. Forrestal](James_Forrestal.md): First United States Secretary of Defense, fell from the sixteenth floor of Bethesda Naval Hospital under disputed circumstances...
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

@@ -56,6 +56,13 @@ One of Rummel's close friends and collaborators was [Phil Schneider](Phil_Schnei
 - [Phil Schneider](Phil_Schneider.md) — Close friend and collaborator, also found dead under suspicious circumstances in 1996
 - [Morris Jessup](Morris_Jessup.md) — Another UFO researcher whose death was ruled suicide despite anomalies
 
+## Other Shocking Stories
+
+- [Leonard H. Stringfield](Leonard_Stringfield.md): Pioneer of UFO crash-retrieval research, author of seven *Status Reports* documenting alleged government recovery of downed alien craft...
+- [Nikola Tesla](Nikola_Tesla.md): Legendary inventor of AC electricity and wireless power transmission who died alone in a New York hotel room...
+- [Frank Edwards](Frank_Edwards.md): News commentator and UFO author who died on the 20th anniversary of the Kenneth Arnold sighting, after threats...
+- [Jim Sullivan](Jim_Sullivan.md): Singer-songwriter who recorded the prophetically titled album *U.F.O.* featuring lyrics about highway travel, leaving family behind, and alien...
+
 ## Sources
 
 - [Ron Rummel — Project Camelot](https://projectcamelot.org/rummel.html)

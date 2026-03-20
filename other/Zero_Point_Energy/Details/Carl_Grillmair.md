@@ -100,6 +100,13 @@ He lived in the desert because the nighttime darkness was better for watching th
 - [Melissa Casias](Melissa_Casias.md) — LANL employee who vanished June 2025
 - [Carl Grillmair (UAP Deaths project)](../../UAPs/Details/Carl_Grillmair.md) — Parallel profile
 
+## Other Shocking Stories
+
+- [Stefan Marinov](Stefan_Marinov.md): Bulgarian physicist working on perpetual motion and unconventional electromagnetic theories, fell from the staircase of the University of...
+- [Trevor James Constable](Trevor_Constable.md): New Zealand-born merchant marine officer, orgone energy researcher, and etheric weather engineer who spent decades developing and demonstrating...
+- [Dr. Eric H. Wang](Eric_Wang.md): Austrian-born engineer who headed the Office of Special Studies at Wright-Patterson AFB, allegedly involved in reverse-engineering recovered craft...
+- [Nuno Filipe Gomes Loureiro](Nuno_Loureiro.md): Portuguese plasma physicist and MIT professor, shot and killed outside his apartment in Brookline, MA, in December 2025
+
 ## Sources
 
 - [Caltech: Mourns the Passing of Carl Grillmair](https://www.caltech.edu/about/news/caltech-mourns-the-passing-of-carl-grillmair-19592026)

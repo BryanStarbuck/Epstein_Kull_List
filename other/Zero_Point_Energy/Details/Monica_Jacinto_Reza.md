@@ -180,6 +180,13 @@ Six separate jurisdictions. Zero cross-referencing mandate. Nobody is looking at
 - [Jaymee Prichard](Jaymee_Prichard.md) — AFLCMC employee, killed Oct 2025
 - [Monica Jacinto Reza (UAP Deaths project)](../../UAPs/Details/Monica_Jacinto_Reza.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [John S. Kanzius](John_Kanzius.md): American inventor and radio engineer who discovered that radio frequency waves could dissociate hydrogen from salt water, and...
+- [Frank Richardson](Frank_Richardson.md): Nevada Test Site electrician who invented a fuelless magnetic electrical generator and a bladeless Tesla-type steam turbine in...
+- [Viktor Schauberger](Viktor_Schauberger.md): Austrian forester and inventor who developed "implosion" vortex energy technology, was forced to work on flying disc designs...
+- [Gerald Schaflander](Gerald_Schaflander.md): Solar hydrogen fuel inventor who claimed to develop "Hy-Fuel" — a liquid hydrogen-based automobile fuel produced from solar...
+
 ## Sources
 
 - [SpaceNews: "What is Mondaloy and why should you care?" (Dec 2017)](https://spacenews.com/what-is-mondaloy-and-why-should-you-care/)

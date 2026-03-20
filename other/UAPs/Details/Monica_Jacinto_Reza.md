@@ -63,6 +63,13 @@ However, no public evidence indicates she worked on any UAP-related program, and
 - [William McCasland](William_McCasland.md) — Retired Air Force Major General missing since February 2026
 - [Ning Li](Ning_Li.md) — Antigravity researcher who disappeared from public life after receiving DOD grant
 
+## Other Shocking Stories
+
+- [George Knapp](George_Knapp.md): Award-winning investigative journalist who broke the Bob Lazar / Area 51 story in 1989, has spent over 35...
+- [Felix Moncla](Felix_Moncla.md): USAF pilot who vanished along with his radar operator while scrambled to intercept an unknown radar target over...
+- [Morris K. Jessup](Morris_Jessup.md): Astronomer and UFO author who investigated antigravity and the Philadelphia Experiment, found dead in his car under disputed...
+- [Frank Jennings](Frank_Jennings.md): 60-year-old Plessey electronic weapons engineer who died of a heart attack — no inquest was held
+
 ## Sources
 
 - [Find a Grave: Monica Jacinto Reza (1964-2025)](https://www.findagrave.com/memorial/284387277/monica_jacinto-reza)

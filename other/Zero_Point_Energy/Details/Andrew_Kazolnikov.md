@@ -72,6 +72,13 @@ Extensive web searches across multiple databases, energy suppression compilation
 - [Thomas Bearden](Thomas_Bearden.md) — Motionless Electromagnetic Generator inventor
 - [John Bedini](John_Bedini.md) — Electromagnetic energy recovery device inventor who died suddenly
 
+## Other Shocking Stories
+
+- [Bill Williams](Bill_Williams.md): American experimenter who successfully built a truck powered by a Joe Cell — a water/orgone energy device —...
+- [Jaymee Prichard](Jaymee_Prichard.md): Finance specialist at the Air Force Life Cycle Management Center (AFLCMC), Wright-Patterson Air Force Base. Murdered by strangulation...
+- [John Bedini](John_Bedini.md): American inventor and audio engineer who pioneered electromagnetic energy recovery devices, died suddenly on November 5, 2016 —...
+- [Rory Johnson](Rory_Johnson.md): Inventor of the Magnatron permanent magnet motor — a cold-fusion laser-activated magnetic motor reportedly producing 525 horsepower while...
+
 ## Sources
 
 - [Energy Invention Suppression Cases — Gary Vesperman](https://supremelaw.org/authors/wine/Energy_Invention_Suppression_Cases_September_3_2007.htm) (Kazolnikov not found in this source, but it documents the broader pattern)

@@ -43,6 +43,13 @@ Kountis worked as a systems analyst at Bristol Polytechnic on defence-related co
 - [Keith Bowden](Keith_Bowden.md) — GEC computer scientist killed in a car crash
 - [Brian Lynch](Brian_Lynch.md) — Contactee who died of a drug overdose after connection to intelligence programs
 
+## Other Shocking Stories
+
+- [Monica Jacinto Reza](Monica_Jacinto_Reza.md): Aerospace materials scientist who worked as a Materials Science & Engineering Fellow at L3Harris and previously as a...
+- [David Skeels](David_Skeels.md): Marconi avionics engineer found dead from carbon monoxide poisoning with a hosepipe connected to his car exhaust in...
+- [George Adamski](George_Adamski.md): The most famous 1950s UFO contactee who claimed meetings with extraterrestrial "Space Brothers."
+- [Stefan Marinov](Stefan_Marinov.md): Bulgarian physicist who fell to his death from a university library staircase in Graz, Austria in 1997 while...
+
 ## Sources
 
 - [GEC-Marconi scientist deaths - Wikipedia](https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory)

@@ -44,6 +44,13 @@ Russell Smith was a 23-year-old laboratory technician at the Atomic Energy Resea
 - [Jonathan Walsh](Jonathan_Walsh.md) — GEC/BT expert, fell from hotel window November 1985
 - [Trevor Knight](Trevor_Knight.md) — Marconi computer engineer, died March 1988
 
+## Other Shocking Stories
+
+- [Jim Sullivan](Jim_Sullivan.md): Singer-songwriter who recorded the prophetically titled album *U.F.O.* featuring lyrics about highway travel, leaving family behind, and alien...
+- [Matthew Livelsberger](Matthew_Livelsberger.md): Highly decorated U.S. Army Green Beret who died on January 1, 2025 in a Cybertruck explosion at the...
+- [William Cooper](William_Cooper.md): Former Naval intelligence serviceman and author of *Behold a Pale Horse*, who made early UFO disclosure claims and...
+- [Stuart Gooding](Stuart_Gooding.md): RCMS postgraduate student killed in a head-on car collision in Cyprus — died on the same day as...
+
 ## Sources
 
 - [Dead Scientists: The Marconi Murders — The Unredacted](https://theunredacted.com/dead-scientists-the-marconi-murders/)

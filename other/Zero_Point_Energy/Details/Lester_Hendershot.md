@@ -115,6 +115,13 @@ After the initial sensation of 1928, Hendershot spent the remaining 33 years of 
 - [Eugene Mallove](Eugene_Mallove.md) — Cold fusion advocate beaten to death
 - [Thomas Bearden](Thomas_Bearden.md) — MEG inventor whose collaborator John Bedini also died suddenly
 
+## Other Shocking Stories
+
+- [Arshad Sharif](Arshad_Sharif.md): Marconi satellite detection and guidance systems computer scientist, found decapitated after allegedly tying a rope between his neck...
+- [Ken Rasmussen](Ken_Rasmussen.md): Inventor of a water-to-energy pulsed electrolysis system with similarities to Professor Kanarev's work. His research was halted on...
+- [Dr. Eric H. Wang](Eric_Wang.md): Austrian-born engineer who headed the Office of Special Studies at Wright-Patterson AFB, allegedly involved in reverse-engineering recovered craft...
+- [Floyd Sweet](Floyd_Sweet.md): American inventor and electronics researcher who developed the Vacuum Triode Amplifier (VTA) — a solid-state device using conditioned...
+
 ## Sources
 
 - [Lester Hendershot — Svensons.com](https://www.svensons.com/Energy/hendershot.html)

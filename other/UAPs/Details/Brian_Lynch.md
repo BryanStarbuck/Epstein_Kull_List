@@ -48,6 +48,13 @@ The connection between UFO contact experiences and government psychic research p
 - [Frank Olson](Frank_Olson.md) — CIA scientist dosed with LSD under MKULTRA who fell from a hotel window
 - [Jim Sullivan](Jim_Sullivan.md) — Musician who disappeared in the New Mexico desert in 1975
 
+## Other Shocking Stories
+
+- [Robert F. Kennedy](Robert_F_Kennedy.md): U.S. Senator and presidential candidate, assassinated in Los Angeles on June 5, 1968. Some fringe theorists claim he...
+- [David Grusch](David_Grusch.md): Former U.S. Air Force intelligence officer and NGA official who testified before Congress in 2023 that the U.S...
+- [Richard Pugh](Richard_Pugh.md): MOD computer consultant found dead with a plastic bag over his head and rope coiled four times around...
+- [David Skeels](David_Skeels.md): Marconi avionics engineer found dead from carbon monoxide poisoning with a hosepipe connected to his car exhaust in...
+
 ## Sources
 
 - [Someone Is Killing Our UFO Investigators — Metatech](http://www.metatech.org/wp/ufos/is-someone-killing-our-ufo-sightings-investigators/)

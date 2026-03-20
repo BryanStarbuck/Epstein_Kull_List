@@ -54,6 +54,13 @@ However, Grillmair's work was in observational astrophysics — studying galaxy 
 - [Carl Grillmair (Zero Point Energy)](../../Zero_Point_Energy/Details/Carl_Grillmair.md) — This case also appears in the Zero Point Energy project
 - [Nuno Loureiro](Nuno_Loureiro.md) — MIT plasma physicist murdered two months earlier, also subject of UAP speculation
 
+## Other Shocking Stories
+
+- [Mae Brussell](Mae_Brussell.md): Pioneering conspiracy researcher and radio host who died of fast-acting cancer in 1988, seven months after receiving death...
+- [Michael Baker](Michael_Baker.md): 22-year-old Plessey digital communications expert and part-time SAS member killed when his car crashed through a barrier near...
+- [Shani Warren](Shani_Warren.md): GEC/Micro Scope employee found gagged, bound, and drowned in 18 inches of water at Taplow Lake — originally...
+- [Dylan Borland](Dylan_Borland.md): Former U.S. Air Force geospatial intelligence specialist who testified before Congress in September 2025 about witnessing a silent...
+
 ## Sources
 
 - [ABC7 Los Angeles: Man charged with killing Caltech astrophysicist Carl Grillmair in Llano](https://abc7.com/post/man-charged-killing-caltech-astrophysicist-carl-grillmair-llano-carjacking-own-relative-burglarizing-home/18626990/)

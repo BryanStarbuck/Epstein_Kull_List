@@ -46,6 +46,13 @@ Warwick was reportedly preparing to reveal information about the identity of the
 - [Phil Schneider](Phil_Schneider.md) — Government insider who died after lecturing publicly about classified programs
 - [Mark McCandlish](Mark_McCandlish.md) — Aerospace illustrator who died before planned Senate testimony
 
+## Other Shocking Stories
+
+- [Stanley Meyer](Stanley_Meyer.md): Inventor who claimed to have developed a water fuel cell capable of powering an automobile; died suddenly at...
+- [Leonard H. Stringfield](Leonard_Stringfield.md): Pioneer of UFO crash-retrieval research, author of seven *Status Reports* documenting alleged government recovery of downed alien craft...
+- [Mark Wisner](Mark_Wisner.md): MOD software engineer found dead from asphyxiation with a plastic sack and cling film over his face —...
+- [Walter Kasza (Area 51 Worker)](Walter_Kasza_Area51.md): Civilian contractor at Groom Lake (Area 51) who died at age 73 from kidney cancer after years of...
+
 ## Sources
 
 - [Project Camelot - In Tribute - Dean Warwick](https://projectcamelot.org/warwick.html)

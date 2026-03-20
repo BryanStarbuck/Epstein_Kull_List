@@ -76,6 +76,13 @@ Wright-Patterson Air Force Base is:
 - [Carl Grillmair](Carl_Grillmair.md) — Caltech scientist, shot dead Feb 2026
 - [Jacob Prichard (UAP Deaths project)](../../UAPs/Details/Jacob_Prichard.md)
 
+## Other Shocking Stories
+
+- [Frank Richardson](Frank_Richardson.md): Nevada Test Site electrician who invented a fuelless magnetic electrical generator and a bladeless Tesla-type steam turbine in...
+- [Arie DeGeus](Arie_DeGeus.md): Inventor of revolutionary clean energy technology reportedly capable of replacing oil, found dead in his car at Charlotte...
+- [Charles Nelson Pogue](Charles_Nelson_Pogue.md): Canadian inventor of a high-efficiency vapor carburetor that allegedly achieved 200+ MPG in a 1933 Ford V8 test...
+- [David Sands](David_Sands.md): Senior scientist and satellite projects manager at Easams (Marconi sister company), died when his car loaded with petrol...
+
 ## Sources
 
 - [Dayton Daily News: Investigation continues into murder, suicide of 3 Wright-Patterson workers](https://www.daytondailynews.com/crime/police-huber-heights-man-murdered-wife-coworker-before-driving-wifes-body-to-west-milton/I4XKL53DCBDTJBXMAH5IN5MKIE/)

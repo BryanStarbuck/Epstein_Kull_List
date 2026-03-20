@@ -58,6 +58,13 @@ She was widely respected within the UFO research community for her intellectual 
 - [Phil Schneider](Phil_Schneider.md) — Died the same month as Turner (January 1996)
 - [Ron Rummel](Ron_Rummel.md) — Died in 1993; moved in overlapping research circles
 
+## Other Shocking Stories
+
+- [Walter Haut](Walter_Haut.md): USAF public information officer at Roswell Army Air Field who authored the famous July 8, 1947, press release...
+- [Jim Sullivan](Jim_Sullivan.md): Singer-songwriter who recorded the prophetically titled album *U.F.O.* featuring lyrics about highway travel, leaving family behind, and alien...
+- [Stefan Marinov](Stefan_Marinov.md): Bulgarian physicist who fell to his death from a university library staircase in Graz, Austria in 1997 while...
+- [Frank Jennings](Frank_Jennings.md): 60-year-old Plessey electronic weapons engineer who died of a heart attack — no inquest was held
+
 ## Sources
 
 - [Karla Turner — Goodreads](https://www.goodreads.com/author/show/358439.Karla_Turner)

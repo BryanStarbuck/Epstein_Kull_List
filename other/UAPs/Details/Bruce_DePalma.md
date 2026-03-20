@@ -55,6 +55,13 @@ In the early 1990s, DePalma left the United States and eventually settled in New
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Stefan Marinov](Stefan_Marinov.md) — Physicist researching free energy who fell from a building in 1997
 
+## Other Shocking Stories
+
+- [Nuno Loureiro](Nuno_Loureiro.md): MIT professor of nuclear science and engineering, physics, and director of the MIT Plasma Science and Fusion Center...
+- [Phil Schneider](Phil_Schneider.md): Ex-government geologist and structural engineer who claimed involvement in building deep underground military bases (DUMBs) and an alleged...
+- [John Burroughs](John_Burroughs.md): U.S. Air Force witness to the Rendlesham Forest incident of December 1980, who suffered permanent radiation injuries from...
+- [William Cooper](William_Cooper.md): Former Naval intelligence serviceman and author of *Behold a Pale Horse*, who made early UFO disclosure claims and...
+
 ## Sources
 
 - [Bruce DePalma, N-Machine - Official Site](https://brucedepalma.com/)

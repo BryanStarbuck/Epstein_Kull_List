@@ -69,6 +69,13 @@ At the time of his death, DeGeus was reportedly traveling to Europe to meet with
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly at a restaurant
 - [Arie DeGeus (UAP Deaths project)](../../UAPs/Details/Arie_DeGeus.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [David Sands](David_Sands.md): Senior scientist and satellite projects manager at Easams (Marconi sister company), died when his car loaded with petrol...
+- [Andrija Puharich](Andrija_Puharich.md): Medical inventor, physician, and parapsychological researcher who patented a method for splitting water molecules. His home was destroyed...
+- [Nuno Filipe Gomes Loureiro](Nuno_Loureiro.md): Portuguese plasma physicist and MIT professor, shot and killed outside his apartment in Brookline, MA, in December 2025
+- [Arshad Sharif](Arshad_Sharif.md): Marconi satellite detection and guidance systems computer scientist, found decapitated after allegedly tying a rope between his neck...
+
 ## Sources
 
 - [Project Camelot — In Tribute: Arie DeGeus](https://projectcamelot.org/degeus.html)

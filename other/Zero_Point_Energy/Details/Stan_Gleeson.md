@@ -65,6 +65,13 @@ Other researchers in the LENR community raised concerns that the Cincinnati Grou
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [Paul Brown](Paul_Brown.md) — Nuclear battery inventor killed in car crash
 
+## Other Shocking Stories
+
+- [Melissa Casias](Melissa_Casias.md): Los Alamos National Laboratory employee who vanished from Ranchos de Taos, New Mexico, on June 26, 2025 —...
+- [Dallis Hardwick](Dallis_Hardwick.md): Metallurgist and co-inventor of Mondaloy, the superalloy enabling American rocket engine independence from Russia. Senior civilian scientist at...
+- [Ken Rasmussen](Ken_Rasmussen.md): Inventor of a water-to-energy pulsed electrolysis system with similarities to Professor Kanarev's work. His research was halted on...
+- [Mark Tomion](Mark_Tomion.md): Physicist who patented "Star Drive" zero-point energy technology and died shortly after developing a working prototype
+
 ## Sources
 
 - [Theoretical and Experimental Results Regarding LENR/CF — OSTI.gov](https://www.osti.gov/biblio/787423)

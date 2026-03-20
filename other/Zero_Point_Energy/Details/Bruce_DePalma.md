@@ -97,6 +97,13 @@ Associates and biographers have noted that DePalma struggled with alcohol and su
 - [Stefan Marinov](Stefan_Marinov.md) — Physicist who fell from a building while researching unconventional energy
 - [Bruce DePalma (UAP Deaths project)](../../UAPs/Details/Bruce_DePalma.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [Major General William Neil McCasland (USAF, Ret.)](William_Neil_McCasland.md): Former commander of the Air Force Research Laboratory at Wright-Patterson AFB. Executive secretary of the Special Access Program...
+- [Paul Pantone](Paul_Pantone.md): Inventor of the GEET plasma reactor who was involuntarily committed to a state mental hospital and died after...
+- [Thomas E. Bearden](Thomas_Bearden.md): Retired U.S. Army Lieutenant Colonel and inventor of the Motionless Electromagnetic Generator (MEG), who spent decades advocating for...
+- [Thomas Henry Moray](Thomas_Henry_Moray.md): Inventor of the "Moray Valve" radiant energy device who was shot at multiple times, wounded in the leg...
+
 ## Sources
 
 - [Bruce DePalma — Natural Philosophy Wiki](https://naturalphilosophy.org/)

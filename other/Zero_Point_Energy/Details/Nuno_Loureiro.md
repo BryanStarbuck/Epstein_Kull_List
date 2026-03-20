@@ -88,6 +88,13 @@ What makes his case worth flagging is that within the same nine-month window (Ju
 - [William Neil McCasland](William_Neil_McCasland.md) — Former AFRL commander. Vanished Feb 2026
 - [Nuno Loureiro (UAP Deaths project)](../../UAPs/Details/Nuno_Loureiro.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [Trevor James Constable](Trevor_Constable.md): New Zealand-born merchant marine officer, orgone energy researcher, and etheric weather engineer who spent decades developing and demonstrating...
+- [Philo Taylor Farnsworth](Philo_Farnsworth.md): Inventor of electronic television at age 21, who later developed the first device to demonstrably produce nuclear fusion...
+- [Lester Hendershot](Lester_Hendershot.md): Inventor of a "fuelless motor" that reportedly drew power from the Earth's magnetic field. Made front-page headlines in...
+- [Vimal Dajibhai](Vimal_Dajibhai.md): Marconi computer scientist working on Sting Ray torpedo guidance systems, found dead at the base of Clifton Suspension...
+
 ## Sources
 
 - MIT News — Memorial and biography of Nuno Loureiro

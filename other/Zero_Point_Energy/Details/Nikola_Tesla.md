@@ -113,6 +113,13 @@ Tesla's wireless power transmission work was particularly threatening to the ele
 - [Thomas Townsend Brown](Thomas_Townsend_Brown.md) — Electrogravitics researcher whose work was allegedly classified
 - [Nikola Tesla (UAP Deaths project)](../../UAPs/Details/Nikola_Tesla.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [Peter Ferry](Peter_Ferry.md): Retired Army Brigadier and Assistant Marketing Director at Marconi, found electrocuted with electrical leads in his mouth
+- [Dimitri Petronov](Dimitri_Petronov.md): Russian inventor of a plasma battery who disappeared after demonstrating his technology to military officials
+- [Paul Pantone](Paul_Pantone.md): Inventor of the GEET plasma reactor who was involuntarily committed to a state mental hospital and died after...
+- [Dr. Carl Johann Grillmair](Carl_Grillmair.md): Caltech astrophysicist at IPAC. Instrument characterization specialist for NEO Surveyor — the first space telescope built to find...
+
 ## Sources
 
 - [Nikola Tesla — Wikipedia](https://en.wikipedia.org/wiki/Nikola_Tesla)

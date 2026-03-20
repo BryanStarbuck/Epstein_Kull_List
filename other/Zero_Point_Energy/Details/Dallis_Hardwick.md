@@ -102,6 +102,13 @@ After Hardwick's death, Reza said publicly: "I hope she understood that my accom
 - [Jacob Prichard](Jacob_Prichard.md) — AFRL Sensors Directorate. Dead Oct 2025
 - [Jaime Gustitus](Jaime_Gustitus.md) — AFRL 711th Human Performance Wing. Dead Oct 2025
 
+## Other Shocking Stories
+
+- [Stefan Marinov](Stefan_Marinov.md): Bulgarian physicist working on perpetual motion and unconventional electromagnetic theories, fell from the staircase of the University of...
+- [John Bedini](John_Bedini.md): American inventor and audio engineer who pioneered electromagnetic energy recovery devices, died suddenly on November 5, 2016 —...
+- [Rudolf Diesel](Rudolf_Diesel.md): Inventor of the diesel engine, disappeared from the SS Dresden while crossing the English Channel en route to...
+- [Shani Warren](Shani_Warren.md): Personal assistant at Micro Scope (later acquired by GEC-Marconi), found drowned, gagged, and bound in a lake. Originally...
+
 ## Sources
 
 - [UNSW Science Alumni Career Story: Dallis Hardwick](https://www.unsw.edu.au/science/engage-with-us/alumni/alumni-career-stories/dallis-hardwick)

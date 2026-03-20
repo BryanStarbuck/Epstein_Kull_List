@@ -97,6 +97,13 @@ When Johnson learned of the seizure order, he reportedly moved all motors, proto
 - [Thomas Henry Moray](Thomas_Henry_Moray.md) — Radiant energy inventor subjected to repeated suppression
 - [Rory Johnson (UAP Deaths project)](../../UAPs/Details/Rory_Johnson.md) — Parallel profile in UAP Deaths project
 
+## Other Shocking Stories
+
+- [Trevor Knight](Trevor_Knight.md): Computer engineer at Marconi Space and Defence Systems, found dead in his car from carbon monoxide poisoning
+- [Dr. Eric H. Wang](Eric_Wang.md): Austrian-born engineer who headed the Office of Special Studies at Wright-Patterson AFB, allegedly involved in reverse-engineering recovered craft...
+- [Bruce DePalma](Bruce_DePalma.md): American inventor of the N-Machine homopolar generator — which he claimed demonstrated over-unity energy output — who moved...
+- [Arie DeGeus](Arie_DeGeus.md): Inventor of revolutionary clean energy technology reportedly capable of replacing oil, found dead in his car at Charlotte...
+
 ## Sources
 
 - [Dead Inventors Don't Talk — Steemit alternative energy compilation](https://steemit.com/)

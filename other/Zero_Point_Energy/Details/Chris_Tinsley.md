@@ -70,6 +70,13 @@ Tinsley published in *Infinite Energy*, the journal founded and edited by [Eugen
 - [Stanley Meyer](Stanley_Meyer.md) — Water fuel cell inventor who died suddenly in 1998
 - [John Bedini](John_Bedini.md) — Free energy researcher who died suddenly in 2016
 
+## Other Shocking Stories
+
+- [Frank Roberts](Frank_Roberts.md): Water car inventor who reportedly suffered a chemically induced stroke causing memory loss, had his van burned in...
+- [Viktor Schauberger](Viktor_Schauberger.md): Austrian forester and inventor who developed "implosion" vortex energy technology, was forced to work on flying disc designs...
+- [Amy Catherine Eskridge](Amy_Eskridge.md): Anti-gravity researcher and co-founder of the Institute for Exotic Science, found dead of a gunshot wound ruled suicide...
+- [Dimitri Petronov](Dimitri_Petronov.md): Russian inventor of a plasma battery who disappeared after demonstrating his technology to military officials
+
 ## Sources
 
 - [Christopher P. Tinsley — Natural Philosophy Wiki](http://wiki.naturalphilosophy.org/index.php?title=Christopher_P_Tinsley)

@@ -46,6 +46,13 @@ He is buried in Arlington National Cemetery due to his service in the U.S. Army.
 - [Frank Edwards](Frank_Edwards.md) — UFO author who died two years later
 - [Morris Jessup](Morris_Jessup.md) — UFO author who died six years earlier
 
+## Other Shocking Stories
+
+- [Dean Warwick](Dean_Warwick.md): Alternative energy researcher and whistleblower who collapsed and died on stage at a UFO conference in 2006, moments...
+- [John Brittan](John_Brittan.md): Royal College of Military Science IT specialist found dead from carbon monoxide poisoning in his garage — had...
+- [William McCasland](William_McCasland.md): Retired USAF Major General and former commander of the Air Force Research Laboratory at Wright-Patterson AFB. Missing since...
+- [Matthew Livelsberger](Matthew_Livelsberger.md): Highly decorated U.S. Army Green Beret who died on January 1, 2025 in a Cybertruck explosion at the...
+
 ## Sources
 
 - [George Adamski — Wikipedia](https://en.wikipedia.org/wiki/George_Adamski)
