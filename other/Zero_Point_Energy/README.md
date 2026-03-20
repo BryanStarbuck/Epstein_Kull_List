@@ -1,4 +1,4 @@
-[< Back to Epstein Kill List](../../README.md) | [Intel Murders](../Intel_Murders/README.md) | [UAP Deaths](../UAPs/README.md) | [Groups](../groups/README.md) | [Books](books.md) | [Podcasts](podcasts.md) | [YouTube](youtube_channels.md)
+[< Back to Epstein Kill List](../../README.md) | [Intel Murders](../Intel_Murders/README.md) | [UAP Deaths](../UAPs/README.md) | [Groups](../groups/README.md) | [Books](other/books.md) | [Podcasts](other/podcasts.md) | [YouTube](other/youtube_channels.md)
 
 # Suppressed Energy Breakthroughs: Suspicious Deaths of Inventors, Physicists, and Investors
 
@@ -49,9 +49,9 @@ This project documents suspicious deaths, suppression events, and destroyed care
 | [Lester Hendershot](Details/Lester_Hendershot.md) | 1961 | Carbon monoxide (ruled suicide) | **SUSPICIOUS** | Created "fuelless motor" demonstrated to Lindbergh in 1928. Hospitalized after 2,000-volt shock. Paid $25,000 by unnamed corporation to stop building for 20 years. Found dead in car by his children. Son Lester Jr. died identically (CO in car) 10 years earlier. Train wreck claim is actually [Dr. Hochstetter](Details/Frederick_Hochstetter.md)'s death. |
 | [Wilhelm Reich](Details/Wilhelm_Reich.md) | 1957 | Heart attack in federal prison | **Imprisoned/Died in custody** | Inventor of orgone energy accumulator. FDA obtained injunction; 6+ tons of books burned by court order — only federal book burning in US history. Died in Lewisburg Federal Penitentiary one day before parole eligibility. Age 60. |
 | [Viktor Schauberger](Details/Viktor_Schauberger.md) | 1958 | Natural causes | **Suppressed — died days after** | Austrian inventor of "implosion" vortex energy. Forced to work on flying discs at Mauthausen during WWII. In 1958, coerced into signing away all rights in US. All documents/models confiscated. Died 5 days after returning to Austria. |
+| [Thomas Henry Moray](Details/Thomas_Henry_Moray.md) | 1974 | Natural causes | **Attacked and suppressed** | Inventor of "radiant energy" device in the 1930s. Shot at multiple times, bullet wound to leg. Lab ransacked. In 1941, his assistant Felix Frazer allegedly destroyed the Moray Valve with an ax. Device never reproduced. |
 | [John Searl](Details/John_Searl.md) | 2018 | Pneumonia (age 86) | **Suppressed — Devices seized, imprisoned** | Inventor of Searl Effect Generator (SEG) and Inverse Gravity Vehicle. Home destroyed by arson (1983), last working SEG allegedly seized (1982), imprisoned for "electricity theft." Spent decades trying to rebuild. Died in San Diego. |
 | [Nikola Tesla](Details/Nikola_Tesla.md) | 1943 | Natural causes (age 86) | **Research seized** | Pioneered AC power, wireless energy, and claimed breakthroughs in directed energy. Died alone in New York hotel. FBI and Office of Alien Property immediately seized his papers. MIT's John G. Trump (Donald Trump's uncle) reviewed them and declared them not dangerous. Many papers remain unaccounted for. |
-| [Thomas Henry Moray](Details/Thomas_Henry_Moray.md) | 1974 | Natural causes | **Attacked and suppressed** | Inventor of "radiant energy" device in the 1930s. Shot at multiple times, bullet wound to leg. Lab ransacked. In 1941, his assistant Felix Frazer allegedly destroyed the Moray Valve with an ax. Device never reproduced. |
 | [Thomas Bearden](Details/Thomas_Bearden.md) | 2022 | Natural causes (age 91) | **Suppressed — device destroyed** | Retired U.S. Army Lt. Colonel. Inventor of the Motionless Electromagnetic Generator (MEG) — **US Patent 6,362,718**. Last working demonstrator allegedly destroyed in 2005. Collaborated with [John Bedini](Details/John_Bedini.md) for 20+ years. Author of *Energy from the Vacuum*. Georgia Tech MS in Nuclear Engineering. Legion of Merit recipient. |
 | [Thomas Townsend Brown](Details/Thomas_Townsend_Brown.md) | 1985 | Natural causes (age 80) | **Research classified** | Discovered Biefeld-Brown effect (electrogravitics). Submitted Project Winterhaven to military in 1952. Electrogravitics allegedly classified by 1957. Research suppressed but not killed for it. |
 | [Trevor Constable](Details/Trevor_Constable.md) | 2016 | Natural causes (age 90) | **Career marginalized** | New Zealand merchant marine officer who spent decades conducting orgone-based etheric weather engineering experiments at sea. Built on [Wilhelm Reich](Details/Wilhelm_Reich.md)'s work. Author of *The Cosmic Pulse of Life*. Work rejected by mainstream science and even some orgonomy circles. |
@@ -95,10 +95,10 @@ Between 1982 and 1990, approximately 25 British-based scientists and engineers w
 | [Richard Pugh](Details/Richard_Pugh.md) | 1987 | Asphyxiation — plastic bag, rope | **HIGHLY SUSPICIOUS** | MOD computer consultant. Found with feet bound, plastic bag on head, thick rope coiled around body tied four times around neck. Ruled accident (sexual misadventure). |
 | [David Sands](Details/David_Sands.md) | 1987 | Car crash and fire | **HIGHLY SUSPICIOUS** | Easams (Marconi sister company) scientist, age 37. Made sudden U-turn, crashed into wall with two extra petrol cans. Body burned beyond recognition. Still wearing seatbelt. Open verdict. |
 | [Shani Warren](Details/Shani_Warren.md) | 1987 | Drowning — bound and gagged | **HIGHLY SUSPICIOUS** | PA at Micro Scope (acquired by GEC-Marconi weeks later), age 26. Found gagged, noose around neck, hands and feet bound, in 18 inches of water. Initially ruled suicide. Convicted as murder in 2022 (sex attacker). |
-| [David Greenhalgh](Details/David_Greenhalgh.md) | 1987 | Fall from railway bridge | **SUSPICIOUS** | ICL defence division contracts manager, age 46. Fell from 40 ft railway bridge on way to work. Survived briefly but could not explain what happened. Same day as Stuart Gooding's fatal car crash. |
-| [Trevor Knight](Details/Trevor_Knight.md) | 1988 | Carbon monoxide poisoning | **SUSPICIOUS** | Marconi Space and Defence computer engineer, age 52. Found dead in car with hose from exhaust. Ruled suicide. Eighth defense scientist to die unnaturally in 18 months. |
 | [Alistair Beckham](Details/Alistair_Beckham.md) | 1988 | Electrocution in garden shed | **HIGHLY SUSPICIOUS** | SDI computer engineer, age 50. Found with wires attached to chest, plugged into socket, handkerchief in mouth. Wife denied depression. Same month as Peter Ferry's electrocution. Open verdict. |
 | [Peter Ferry](Details/Peter_Ferry.md) | 1988 | Electrocution — leads in mouth | **HIGHLY SUSPICIOUS** | Retired Brigadier and Marconi marketing director, age 60. Found with stripped electrical leads jammed into tooth fillings. Same month as Alistair Beckham's electrocution. Open verdict. |
+| [David Greenhalgh](Details/David_Greenhalgh.md) | 1987 | Fall from railway bridge | **SUSPICIOUS** | ICL defence division contracts manager, age 46. Fell from 40 ft railway bridge on way to work. Survived briefly but could not explain what happened. Same day as Stuart Gooding's fatal car crash. |
+| [Trevor Knight](Details/Trevor_Knight.md) | 1988 | Carbon monoxide poisoning | **SUSPICIOUS** | Marconi Space and Defence computer engineer, age 52. Found dead in car with hose from exhaust. Ruled suicide. Eighth defense scientist to die unnaturally in 18 months. |
 
 ## Anti-Gravity and UAP-Connected Research
 
@@ -199,9 +199,9 @@ Jeffrey Epstein's email to Al Seckel (October 1, 2009) — *"regarding cold fusi
 **Groups directory:** [../groups/](../groups/)
 
 **Media Resources:**
-* [Books on Suppressed Energy](books.md) — 40+ books covering cold fusion, zero-point energy, Tesla, antigravity, Marconi deaths, orgone energy, and energy suppression
-* [Podcasts](podcasts.md) — Dedicated shows and 40+ notable episodes covering these cases, from Crime Waves' 8-part series on Eugene Mallove to Joe Rogan interviews on zero-point energy
-* [YouTube Channels and Documentaries](youtube_channels.md) — 20+ channels and 30+ documentaries including *Free Energy: The Race to Zero Point*, *Energy from the Vacuum*, *The Lost Century*, and *GasHole*
+* [Books on Suppressed Energy](other/books.md) — 40+ books covering cold fusion, zero-point energy, Tesla, antigravity, Marconi deaths, orgone energy, and energy suppression
+* [Podcasts](other/podcasts.md) — Dedicated shows and 40+ notable episodes covering these cases, from Crime Waves' 8-part series on Eugene Mallove to Joe Rogan interviews on zero-point energy
+* [YouTube Channels and Documentaries](other/youtube_channels.md) — 20+ channels and 30+ documentaries including *Free Energy: The Race to Zero Point*, *Energy from the Vacuum*, *The Lost Century*, and *GasHole*
 
 ---
 
