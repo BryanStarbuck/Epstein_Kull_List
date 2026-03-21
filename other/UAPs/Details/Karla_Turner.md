@@ -52,11 +52,26 @@ She was widely respected within the UFO research community for her intellectual 
 - However, breast cancer affects approximately 1 in 8 women over a lifetime, and aggressive forms can appear without family history
 - No physical evidence of induced cancer has been presented
 
+## Connection to Robert Monroe's "Loosh" Framework
+
+Turner's abductee research independently corroborated findings described by Robert Monroe (founder of the Monroe Institute, which the CIA used for advanced remote viewing) in his 1985 book *Far Journeys*. Monroe described discovering through astral projection that humanity exists within a control system managed by entities harvesting human emotional energy -- what he called "loosh." Monroe claimed humans are in a "loosh farm," deliberately subjected to conditions that create extreme emotional states (suffering, fear, terror, ecstasy, extreme desire) to generate energy harvested from the human soul, including after death.
+
+Turner's abductees independently reported similar findings:
+
+- A **control system** managed from a **metallic sphere just beyond the Earth**
+- Descriptions of the interior of this structure
+- Entities manipulating humans both during life and in the afterlife state
+- A system that is not omnipotent -- it is possible to assert free will against it, but difficult
+- Connection to near-death experiences where people describe being pulled toward a light they cannot resist
+
+Some researchers interpret the "metallic sphere" described by Turner's abductees as the interior of the Moon, proposing a psychotronic control system -- using the Soviet terminology for spectral/consciousness technology -- operating from within the Moon and impinging on humans in the afterlife state.
+
 ## See Also
 
-- [Ann Livingston](Ann_Livingston.md) — MUFON investigator who died of fast-acting ovarian cancer in 1994
-- [Phil Schneider](Phil_Schneider.md) — Died the same month as Turner (January 1996)
-- [Ron Rummel](Ron_Rummel.md) — Died in 1993; moved in overlapping research circles
+- [Ann Livingston](Ann_Livingston.md) -- MUFON investigator who died of fast-acting ovarian cancer in 1994
+- [Phil Schneider](Phil_Schneider.md) -- Died the same month as Turner (January 1996)
+- [Ron Rummel](Ron_Rummel.md) -- Died in 1993; moved in overlapping research circles
+- [Peter Jennings](Peter_Jennings.md) -- ABC News anchor who died of fast-acting lung cancer months after airing a major UFO special
 
 ## Other Shocking Stories
 

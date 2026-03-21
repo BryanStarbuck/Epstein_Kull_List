@@ -89,6 +89,7 @@ These deaths have been connected to UAP cover-ups by theorists on social media p
 | [Tony Dodd](Details/Tony_Dodd.md) | 2009 | Inoperable brain tumor | **SUSPICIOUS** | Former British police sergeant (25 years). One of UK's leading UFO investigators. Had received warnings to avoid certain countries. Told Project Camelot he felt the tumor was "engineered in retaliation." Part of cancer cluster among UFO researchers. |
 | [Fred Bell](Details/Fred_Bell.md) | 2011 | Undisclosed | **SUSPICIOUS** | Worked on nuclear energy projects at age 14 at University of Michigan. Allegedly part of MKULTRA program. Claimed knowledge of advanced technology. Died within two days of filming interview for Jesse Ventura's *Conspiracy Theory*. |
 | [Stanton Friedman](Details/Stanton_Friedman.md) | 2019 | Died at airport | **NOT SUSPICIOUS** | Nuclear physicist and premier Roswell researcher. Died at 84 at Toronto airport returning from speaking engagement. No suspicious circumstances. Included for completeness. |
+| [Peter Jennings](Details/Peter_Jennings.md) | 2005 | Lung cancer | **MODERATE SUSPICION** | ABC World News Tonight anchor. Produced and hosted major primetime UFO special (Feb 2005) with extensive whistleblower footage -- reportedly 90% was cut before broadcast. Diagnosed with aggressive lung cancer six weeks later. Dead within four months of diagnosis. Former smoker, but timing mirrors cancer cluster pattern among UFO investigators. |
 
 ## Aerospace Whistleblowers and Disclosure Witnesses
 
