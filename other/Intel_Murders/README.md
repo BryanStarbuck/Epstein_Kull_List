@@ -8,7 +8,7 @@ The killings never stopped. They evolved.
 
 This project documents intelligence service murders, political assassinations, and suspicious deaths of journalists, whistleblowers, scientists, dissidents, and political figures from the Cold War to the present. The focus is on killings carried out by or connected to intelligence agencies worldwide — CIA, MI6, Mossad, KGB/FSB/GRU, DINA, ISI, Saudi GIP, and others — with special attention to operations targeting Americans or conducted to control American politics.
 
-**141 profiles documented. 65 new entries added March 2026.**
+**143 profiles documented. 67 new entries added March 2026.**
 
 **For deaths connected to Jeffrey Epstein's sex-trafficking and blackmail operation, see the [Epstein Kill List](../../README.md).**
 
@@ -181,12 +181,14 @@ This project documents intelligence service murders, political assassinations, a
 | [Gerard Hoarau](Details/Gerard_Hoarau.md) | 1985 | Shot in London | **HIGHLY SUSPICIOUS** | Seychelles opposition leader. South African intelligence suspected. Case unsolved. |
 | [Dulcie September](Details/Dulcie_September.md) | 1988 | Shot in Paris | **HIGHLY SUSPICIOUS** | ANC representative. South African intelligence (CCB) widely suspected. She was investigating arms deals. Case unsolved. |
 | [Pat Tillman](Details/Pat_Tillman.md) | 2004 | "Friendly fire" in Afghanistan | **HIGHLY SUSPICIOUS** | NFL star turned Army Ranger. Shot three times in head at close range. Pentagon covered up friendly fire for weeks. Had become critical of Iraq War, planned to meet Noam Chomsky. |
+| [Job Price](Details/Job_Price.md) | 2012 | Gunshot wound to head, ruled suicide | **HIGHLY SUSPICIOUS** | SEAL Team 4 commander found dead in Afghanistan. Bullet casing under his body (impossible if lying down), blood flow proves body moved 3 times, gun placed in hand post-mortem per 4 independent forensic experts. No GSR testing on hands; body washed destroying evidence; crime scene unsecured 9 hours. Had discovered missing CIA cash, sexual assault by a teammate, and was refusing dangerous orders. Hegseth reviewed evidence, texted "no way this was suicide" — now Secretary of Defense, won't return calls. |
 | [Fidan Dogan](Details/Fidan_Dogan.md) | 2013 | Multiple gunshot wounds to head and neck | **HIGHLY SUSPICIOUS** | Kurdish activist shot execution-style in Paris. Turkish intelligence (MIT) suspected. |
 | [Sakine Cansiz](Details/Sakine_Cansiz.md) | 2013 | Multiple gunshot wounds to head and neck | **HIGHLY SUSPICIOUS** | PKK co-founder shot execution-style in Paris along with Fidan Dogan and Leyla Saylemez. Turkish intelligence suspected. |
 | [Leyla Saylemez](Details/Leyla_Saylemez.md) | 2013 | Multiple gunshot wounds to head and neck | **HIGHLY SUSPICIOUS** | Kurdish youth activist, youngest of three Kurdish women shot execution-style in Paris. |
 | [Trevor Moore](Details/Trevor_Moore.md) | 2021 | Blunt force head trauma (balcony fall) | **HIGHLY SUSPICIOUS** | Comedian (age 41) who used Comedy Central/IFC/YouTube (100M+ views) to expose elite corruption, Hollywood child trafficking, CIA operations, Illuminati, and 9/11 truth to millions. Created viral Epstein/COVID "kill switch" theory connecting Epstein's arrest (July 2019) to COVID-19 emergence (Nov 2019). Fell from second-story balcony at 2:30 a.m., ~10 months after the Epstein theory. BAC 0.21-0.27. Ruled accident. Was on livestream hours before death. |
 | [John Lennon](Details/John_Lennon.md) | 1980 | Shot four times outside The Dakota, NYC | **SUSPICIOUS** | Former Beatle and antiwar activist under FBI COINTELPRO surveillance. Killer Chapman had World Vision ties, Beirut travel, CIA-connected doorman at scene. Multiple authors allege MKULTRA-style programming. |
 | [Hilda Murrell](Details/Hilda_Murrell.md) | 1984 | Hypothermia (after being beaten and stabbed) | **SUSPICIOUS** | 78-year-old British anti-nuclear campaigner kidnapped from her home and left to die. MI5 surveillance alleged. |
+| [Robert Mueller](Details/Robert_Mueller.md) | 2026 | Parkinson's disease (undisclosed) | **MODERATE SUSPICION** | FBI Director (2001-2013). Alleged cover-up of Saudi 9/11 connections, botched anthrax case, FBI documents link his name to Seth Rich murder. Subpoenaed for Epstein testimony — died before testifying. |
 | [Seth Rich](Details/Seth_Rich.md) | 2016 | Shot twice in back, DC | **SUSPICIOUS** | DNC voter expansion data director. Officially a botched robbery, but nothing stolen. Case remains unsolved. Theories he leaked DNC emails to WikiLeaks are unverified; Mueller found Russian GRU was the source. |
 | [Judi Bari](Details/Judi_Bari.md) | 1990 | Car bomb (survived; died of cancer 1997) | **SUSPICIOUS** | Earth First! organizer. FBI blamed her for bombing her own car, then dropped charges. FBI had infiltrated Earth First! Jury awarded $4.4M to Bari's estate. |
 
@@ -222,7 +224,7 @@ This project documents intelligence service murders, political assassinations, a
 
 **Mossad's targeted killing program:** [Wael Zwaiter](Details/Wael_Zwaiter.md) (1972), [Mahmoud Hamshari](Details/Mahmoud_Hamshari.md) (1973), [Wadie Haddad](Details/Wadie_Haddad.md) (1978), [Ali Hassan Salameh](Details/Ali_Hassan_Salameh.md) (1979), [Gerald Bull](Details/Gerald_Bull.md) (1990), [Fathi Shaqaqi](Details/Fathi_Shaqaqi.md) (1995), [Yahya Ayyash](Details/Yahya_Ayyash.md) (1996), [Mahmoud Al-Mabhouh](Details/Mahmoud_Al_Mabhouh.md) (2010). From Operation Wrath of God through modern targeted killings, Israel's intelligence service has conducted the most documented assassination program of any Western-aligned nation.
 
-**Sealed records and destroyed evidence:** [David Kelly](Details/David_Kelly.md)'s records sealed until 2073. [Danny Casolaro](Details/Danny_Casolaro.md)'s briefcase vanished from his hotel room. [Karen Silkwood](Details/Karen_Silkwood.md)'s documents were never found in the car wreckage. [Frank Olson](Details/Frank_Olson.md)'s CIA files were largely destroyed in 1973. [Yuri Shchekochikhin](Details/Yuri_Shchekochikhin.md)'s medical records were sealed. [Mary Pinchot Meyer](Details/Mary_Pinchot_Meyer.md)'s diary was seized by CIA counterintelligence chief Angleton and allegedly burned.
+**Sealed records and destroyed evidence:** [David Kelly](Details/David_Kelly.md)'s records sealed until 2073. [Danny Casolaro](Details/Danny_Casolaro.md)'s briefcase vanished from his hotel room. [Karen Silkwood](Details/Karen_Silkwood.md)'s documents were never found in the car wreckage. [Frank Olson](Details/Frank_Olson.md)'s CIA files were largely destroyed in 1973. [Yuri Shchekochikhin](Details/Yuri_Shchekochikhin.md)'s medical records were sealed. [Mary Pinchot Meyer](Details/Mary_Pinchot_Meyer.md)'s diary was seized by CIA counterintelligence chief Angleton and allegedly burned. [Job Price](Details/Job_Price.md)'s investigation documents have been withheld from his family by the Navy; private investigator found suppressed evidence.
 
 **Defectors who don't survive:** [Georgi Markov](Details/Georgi_Markov.md) (killed 9 years after defecting), [Alexander Litvinenko](Details/Alexander_Litvinenko.md) (6 years), [Sergei Skripal](Details/Sergei_Skripal.md) (8 years), [Maxim Kuzminov](Details/Maxim_Kuzminov.md) (6 months), [Denis Voronenkov](Details/Denis_Voronenkov.md) (months). The message is clear: leaving is never forgiven.
 
@@ -297,4 +299,4 @@ Senator Frank Church, 1975: *"The United States must not adopt the tactics of th
 
 ---
 
-*Last Updated: March 20, 2026*
+*Last Updated: March 21, 2026 — Added Robert Mueller profile*

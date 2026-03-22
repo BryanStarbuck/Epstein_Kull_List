@@ -62,6 +62,16 @@ In an August 2016 interview with Dutch television program *Nieuwsuur*, Julian As
 
 However, according to the Mueller report, private Twitter direct messages revealed that while Assange was publicly suggesting WikiLeaks had received emails from Seth Rich, he was simultaneously attempting to obtain more emails from Guccifer 2.0 — the persona Mueller identified as a front for Russian military intelligence. The Mueller report characterized Assange's public statements about Rich as deliberate misdirection to obscure the Russian origin of the leaked emails.
 
+### FBI Documents Mentioning Mueller and Clinton
+
+In July 2021, the FBI released approximately 142 pages of documents related to Seth Rich through its Records Vault. Pages 134 and 135 of the release contained emails that mention Robert Mueller and Hillary Clinton in connection with Rich's murder. According to multiple sources, these documents include subject lines alleging that Mueller "has the name of the hitman" who killed Seth Rich. The book *Shadowland* by Thomas Horn claimed these documents as a disclosure of FBI knowledge about the Rich murder.
+
+However, these appear to be emails sent by private citizens to the FBI — communications kept on file by standard procedure rather than because of their evidentiary value. No official investigation has substantiated these allegations.
+
+In September 2025, the House Oversight Committee subpoenaed Mueller to testify about the FBI's handling of the Jeffrey Epstein case, but the subpoena was withdrawn due to Mueller's Parkinson's diagnosis. Mueller died on March 20, 2026, without ever testifying. See [Robert Mueller](Robert_Mueller.md) for full profile.
+
+For additional context on these FBI documents, see [this social media thread](https://x.com/hollywood2pt0/status/2035488411092447391).
+
 ### The Fox News Story and Its Retraction
 
 In May 2017, Fox News published a story claiming that Rich had leaked DNC emails to WikiLeaks and that an FBI forensic report showed Rich had transferred 44,053 DNC emails to WikiLeaks. Fox News retracted the story one week later, stating the reporting had not met its standards. The story was based largely on claims by Rod Wheeler, a private investigator hired by Ed Butowsky, a wealthy GOP donor who had been funding an investigation into Rich's death.
@@ -111,6 +121,7 @@ Seth Rich's brother Aaron Rich also filed a separate defamation lawsuit against 
 
 ## See Also
 
+- [Robert Mueller](Robert_Mueller.md) — FBI Director (2001-2013) whose name appears in FBI documents related to Rich's murder; subpoenaed for Epstein testimony but died before testifying
 - [Danny Casolaro](Danny_Casolaro.md) — journalist investigating intelligence connections who died under suspicious circumstances
 - [Michael Hastings](Michael_Hastings.md) — journalist who died in suspicious car crash while investigating intelligence operations
 - [Gary Webb](Gary_Webb.md) — journalist who died after exposing CIA operations

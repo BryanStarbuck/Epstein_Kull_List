@@ -1,3 +1,92 @@
+## DEFAMATION PREVENTION — MANDATORY RULES FOR ALL CONTENT
+
+**These rules override all other instructions. Every profile, README entry, and group file MUST comply.**
+
+### The Core Rule
+
+**Never state as fact that any living person committed, ordered, facilitated, or covered up any crime, act of violence, act of immorality, or other harmful act — unless that specific claim has been proven in a court of law or officially acknowledged by the person or their organization.**
+
+Everything else about a living person must be attributed to its source using language like:
+- "According to [source]..."
+- "Kubler states that..."
+- "[Source] alleges that..."
+- "reportedly"
+- "allegedly"
+
+### Who Counts as a Living Person
+
+- Anyone who is not confirmed dead as of the current date
+- Anyone whose death status is uncertain (missing, disappeared)
+- Organizations that currently exist (intelligence agencies, military branches, corporations, law firms)
+- Estates and families of deceased persons (they can sue on behalf of the deceased in some jurisdictions)
+
+### Specific Prohibited Patterns
+
+**DO NOT** write any of the following about a living person unless proven in court:
+
+| Prohibited Pattern | Safe Alternative |
+|---|---|
+| "[Person] destroyed evidence" | "According to [source], [Person] allegedly [action]" |
+| "[Person] covered up the murder" | "According to [source], [Person] is alleged to have been involved in what [source] describes as a cover-up" |
+| "[Person] ordered the killing" | "According to [source], [Person] allegedly ordered..." |
+| "[Person] is a suspect" | "According to [investigator], [Person] is among those whose actions [investigator] has questioned" |
+| "[Person] lied about..." | "According to [source], [Person]'s account is contradicted by..." |
+| "[Person] broke his promise" | "According to [source], [Person] did not follow through on what [source] describes as a commitment" |
+| "[Person] is corrupt" | "[Source] has described [Person]'s actions as [specific description]" |
+| "[Person] was kicked out of [unit]" | "According to [source], [Person] was reassigned from [unit]" |
+
+### Attribution Requirements by Evidence Tier
+
+| Evidence Tier | How to Frame |
+|---|---|
+| **Court conviction of this person** | May state as fact: "[Person] was convicted of [crime] in [year]" |
+| **Civil settlement** | "[Person] settled a civil lawsuit alleging [claim] for [amount]" — do NOT state the underlying allegation as fact |
+| **Official government inquiry finding** | "The [inquiry name] found that..." |
+| **Sworn testimony by others** | "[Witness] testified under oath that [Person]..." |
+| **Investigator's conclusions** | "According to [investigator], [Person]..." or "[Investigator] concluded that..." |
+| **Journalist's reporting** | "As reported by [outlet/journalist]..." |
+| **Book or documentary claims** | "According to [title] by [author]..." |
+| **Another person's statement** | "[Speaker] stated that [Person]..." |
+| **Unverified claims** | "Unverified claims suggest..." or "It has been alleged without confirmation that..." |
+
+### Special Rules for Specific Categories of Living People
+
+**Government officials and politicians (e.g., Pete Hegseth, Donald Trump Jr., senators):**
+- They are public figures with higher defamation thresholds, but "actual malice" still applies
+- Never state they committed crimes as fact
+- Political inaction (not returning calls, not following up) can be described factually IF attributed to the source who experienced it
+- Add "has not publicly commented on these allegations" when the person hasn't responded
+
+**Military and law enforcement personnel (e.g., Jeff Peeler, Jesse Boggs, Tim Somansky):**
+- Never call them suspects, perpetrators, or accomplices as fact
+- Describe their documented ACTIONS (had the key, was present, made a request) — attribute the interpretation of those actions to the investigator
+- Add "has not publicly responded to these allegations" for anyone accused of wrongdoing
+
+**Intelligence agencies (CIA, Mossad, MI6, etc.):**
+- Currently operating agencies can sue. Frame involvement as "alleged" unless confirmed by declassified documents or official inquiries
+- "The CIA has not commented on these allegations" when applicable
+
+**Convicted persons who are alive (e.g., Ghislaine Maxwell):**
+- Convictions can be stated as fact
+- Anything beyond the conviction (additional unproven allegations) still needs attribution
+
+### Quality Check Before Publishing Any Profile
+
+Before finalizing any profile that mentions living people, verify:
+
+1. Every accusation against a living person is attributed to a named source
+2. No living person is called a "suspect," "perpetrator," "killer," or "accomplice" as fact
+3. No living person is said to have "destroyed evidence," "covered up," "lied," or "obstructed" as fact (unless court-proven)
+4. Every living person accused of wrongdoing has a note that they have not publicly responded (if true) or their denial is included (if available)
+5. The Counterargument section includes alternative explanations
+6. Quotes attributed to living people are clearly marked as "according to [source who reported the quote]" unless the quote is from a verified public record
+
+### When in Doubt
+
+If you are unsure whether a claim about a living person is safe to state as fact, **always default to attribution language**. The cost of over-attributing is zero. The cost of a defamation lawsuit is enormous.
+
+---
+
 ## Intelligence Service Murders
 
 A catalog of intelligence service murders, political assassinations, and suspicious deaths of whistleblowers, journalists, scientists, and political figures — from the Church Commission era (1969) forward to the present day.
