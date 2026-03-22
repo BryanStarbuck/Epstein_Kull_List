@@ -8,7 +8,7 @@ The killings never stopped. They evolved.
 
 This project documents intelligence service murders, political assassinations, and suspicious deaths of journalists, whistleblowers, scientists, dissidents, and political figures from the Cold War to the present. The focus is on killings carried out by or connected to intelligence agencies worldwide — CIA, MI6, Mossad, KGB/FSB/GRU, DINA, ISI, Saudi GIP, and others — with special attention to operations targeting Americans or conducted to control American politics.
 
-**143 profiles documented. 67 new entries added March 2026.**
+**145 profiles documented. 69 new entries added March 2026.**
 
 **For deaths connected to Jeffrey Epstein's sex-trafficking and blackmail operation, see the [Epstein Kill List](../../README.md).**
 
@@ -186,6 +186,8 @@ This project documents intelligence service murders, political assassinations, a
 | [Sakine Cansiz](Details/Sakine_Cansiz.md) | 2013 | Multiple gunshot wounds to head and neck | **HIGHLY SUSPICIOUS** | PKK co-founder shot execution-style in Paris along with Fidan Dogan and Leyla Saylemez. Turkish intelligence suspected. |
 | [Leyla Saylemez](Details/Leyla_Saylemez.md) | 2013 | Multiple gunshot wounds to head and neck | **HIGHLY SUSPICIOUS** | Kurdish youth activist, youngest of three Kurdish women shot execution-style in Paris. |
 | [Trevor Moore](Details/Trevor_Moore.md) | 2021 | Blunt force head trauma (balcony fall) | **HIGHLY SUSPICIOUS** | Comedian (age 41) who used Comedy Central/IFC/YouTube (100M+ views) to expose elite corruption, Hollywood child trafficking, CIA operations, Illuminati, and 9/11 truth to millions. Created viral Epstein/COVID "kill switch" theory connecting Epstein's arrest (July 2019) to COVID-19 emergence (Nov 2019). Fell from second-story balcony at 2:30 a.m., ~10 months after the Epstein theory. BAC 0.21-0.27. Ruled accident. Was on livestream hours before death. |
+| [Melissa Hortman](Details/Melissa_Hortman.md) | 2025 | Shot in home, Brooklyn Park MN | **SUSPICIOUS** | Minnesota House DFL leader. Cast sole Democratic vote stripping healthcare from undocumented immigrants. Assassinated 4 days later. Killer wore silicone mask, fake police uniform, hit multiple legislators' homes in one night. Claimed in letter to FBI Director he was covert military asset whose family was threatened. |
+| [George Lincoln Rockwell](Details/George_Lincoln_Rockwell.md) | 1967 | Shot from rooftop, Arlington VA | **SUSPICIOUS** | American Nazi Party founder and presidential candidate. Shot while FBI COINTELPRO-WHITE HATE was actively infiltrating his organization. Circumstantial evidence only. Army intel agent was eyewitness. |
 | [John Lennon](Details/John_Lennon.md) | 1980 | Shot four times outside The Dakota, NYC | **SUSPICIOUS** | Former Beatle and antiwar activist under FBI COINTELPRO surveillance. Killer Chapman had World Vision ties, Beirut travel, CIA-connected doorman at scene. Multiple authors allege MKULTRA-style programming. |
 | [Hilda Murrell](Details/Hilda_Murrell.md) | 1984 | Hypothermia (after being beaten and stabbed) | **SUSPICIOUS** | 78-year-old British anti-nuclear campaigner kidnapped from her home and left to die. MI5 surveillance alleged. |
 | [Robert Mueller](Details/Robert_Mueller.md) | 2026 | Parkinson's disease (undisclosed) | **MODERATE SUSPICION** | FBI Director (2001-2013). Alleged cover-up of Saudi 9/11 connections, botched anthrax case, FBI documents link his name to Seth Rich murder. Subpoenaed for Epstein testimony — died before testifying. |
