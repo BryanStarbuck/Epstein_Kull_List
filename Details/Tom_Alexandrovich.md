@@ -1,7 +1,7 @@
 [< Back to Main List](./README.md) | [Locations](./locations.md)
 
 # Tom Artiom Alexandrovich
-Senior Israeli cybersecurity official arrested in FBI child sex predator sting in Las Vegas; posted bail and fled to Israel within 48 hours.
+Senior Israeli cybersecurity official arrested in FBI child predator sting in Las Vegas; posted bail and returned to Israel within 48 hours. Has pleaded not guilty. Case pending.
 
 ![Tom Artiom Alexandrovich](Tom_Alexandrovich.jpeg)
 

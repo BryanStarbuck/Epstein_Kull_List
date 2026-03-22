@@ -72,7 +72,7 @@ Letelier was particularly effective at lobbying European governments and interna
 
 - [Jan Kuciak](Jan_Kuciak.md): Shot dead at home with his fiancee for exposing mafia-government ties. Slovakia's prime minister resigned.
 - [Trevor Moore](Trevor_Moore.md): Comedian with 100 million views exposing elite trafficking and CIA crimes fell from a balcony at 2:30 a.m.
-- [Michael Hastings](Michael_Hastings.md): Investigating CIA Director Brennan. His car exploded at 4 a.m. Richard Clarke said it looked like a cyberattack.
+- [Michael Hastings](Michael_Hastings.md): Award-winning journalist's car exploded at 4 a.m. on a residential street. Richard Clarke said it looked consistent with a cyberattack.
 - [Wadie Haddad](Wadie_Haddad.md): Mossad allegedly laced his Belgian chocolate with a biological agent. Doctors diagnosed 'leukemia.'
 
 ## Sources

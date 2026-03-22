@@ -82,7 +82,7 @@ Val had a history of personal struggles, including substance abuse, and had prev
 - [Carolyn Andriano](Carolyn_Andriano.md): Testified against Ghislaine Maxwell. Died of an overdose in a Palm Beach hotel.
 - [Denise George](Denise_George.md): Filed the lawsuit that exposed JPMorgan's role. Fired four days later.
 - [Leigh Skye Patrick](Leigh_Skye_Patrick.md): Lured to Epstein's mansion at 16. Died of an overdose in a Palm Beach hotel room.
-- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Epstein left $5 million per child in his will. Resigned. Under criminal investigation.
+- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Reportedly named in Epstein's will. Resigned. Reportedly under investigation.
 
 ## Sources
 

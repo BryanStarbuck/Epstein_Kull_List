@@ -68,7 +68,7 @@ Organizations, intelligence services, financial institutions, and operations con
 
 | Group | Description |
 |-------|-------------|
-| [Tom Alexandrovich Case](tom_alexandrovich_case.md) | Israeli cyber official caught in FBI child sex sting in Las Vegas; posted bail, fled to Israel in 48 hours without passport confiscation |
+| [Tom Alexandrovich Case](tom_alexandrovich_case.md) | Israeli cyber official arrested in FBI child predator sting in Las Vegas; posted bail, returned to Israel within 48 hours. Has pleaded not guilty. Case pending. |
 
 ---
 

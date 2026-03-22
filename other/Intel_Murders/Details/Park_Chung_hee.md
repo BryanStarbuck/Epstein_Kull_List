@@ -67,7 +67,7 @@ By 1979, Park faced mounting domestic unrest, including the Busan-Masan uprising
 ## Other Shocking Stories
 
 - [Danny Casolaro](Danny_Casolaro.md): Told friends 'if I die, it wasn't suicide.' Found with slashed wrists in a hotel.
-- [Michael Hastings](Michael_Hastings.md): Investigating CIA Director Brennan. His car exploded at 4 a.m. Richard Clarke said it looked like a cyberattack.
+- [Michael Hastings](Michael_Hastings.md): Award-winning journalist's car exploded at 4 a.m. on a residential street. Richard Clarke said it looked consistent with a cyberattack.
 - [Bernardo Leighton](Bernardo_Leighton.md): Chilean politician shot in Rome by DINA and Italian neofascists working together. Operation Condor reached Europe.
 - [Nikolai Glushkov](Nikolai_Glushkov.md): Strangled in his London home and staged to look like suicide. One week after the Skripal Novichok attack.
 

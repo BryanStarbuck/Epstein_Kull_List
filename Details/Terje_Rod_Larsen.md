@@ -14,7 +14,7 @@ Norwegian diplomat under criminal investigation; Epstein paid him $250K and will
 
 ## Assessment: LIVING PERSON AT RISK
 
-Rød-Larsen is described as Epstein's "top diplomatic fixer" in Europe. His deep financial and personal ties to Epstein, combined with the pattern of connected figures dying or being silenced, make him a person of concern — particularly as Norway's criminal investigation intensifies.
+Rød-Larsen has been described by Bloomberg as Epstein's "top diplomatic fixer" in Europe. His deep financial and personal ties to Epstein, combined with the pattern of connected figures dying or being silenced, make him a person of concern — particularly as Norway's criminal investigation intensifies.
 
 ## Background
 

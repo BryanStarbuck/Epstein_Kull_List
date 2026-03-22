@@ -84,7 +84,7 @@ Mohamed Al-Fayed later claimed that Diana and Dodi were engaged and that Diana w
 
 ### Connection to Prince Andrew and the Epstein Network
 
-Diana's connection to the broader Epstein network is through the British Royal family. Her former brother-in-law, [Prince Andrew](Prince_Andrew.md), maintained a close and well-documented relationship with [Jeffrey Epstein](Jeffrey_Epstein.md) that continued even after Epstein's 2008 conviction for sex offenses. Andrew was stripped of his royal titles in January 2022 and arrested in February 2026 on suspicion of misconduct in public office related to the Epstein files.
+Diana's connection to the broader Epstein network is through the British Royal family. Her former brother-in-law, [Prince Andrew](Prince_Andrew.md), maintained a close and well-documented relationship with [Jeffrey Epstein](Jeffrey_Epstein.md) that continued even after Epstein's 2008 conviction for sex offenses. Andrew was stripped of his royal titles in January 2022 and was arrested in February 2026 on suspicion of misconduct in public office related to the Epstein files, according to Thames Valley Police. He was released under investigation and has not been charged.
 
 Diana was also connected through the Maxwell family. [Robert Maxwell](Robert_Maxwell.md), the father of [Ghislaine Maxwell](Ghislaine_Maxwell.md) (Epstein's convicted co-conspirator), was a prominent media mogul who moved in the same circles as the British Royal family. [Robert Maxwell](Robert_Maxwell.md) died in 1991 under disputed circumstances, six years before Diana. [Ghislaine Maxwell](Ghislaine_Maxwell.md) reportedly attended social events in London that overlapped with Royal circles.
 
@@ -152,7 +152,7 @@ A formal inquest into the deaths of Diana and Dodi Fayed was held at the Royal C
 
 ## See Also
 
-- [Prince Andrew](Prince_Andrew.md) — Diana's former brother-in-law, arrested in 2026 over Epstein connections
+- [Prince Andrew](Prince_Andrew.md) — Diana's former brother-in-law, arrested on suspicion of misconduct in public office in 2026; not charged
 - [Robert Maxwell](Robert_Maxwell.md) — Media mogul and alleged intelligence agent; father of Ghislaine Maxwell; moved in same elite British circles
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Convicted Epstein co-conspirator; socialite in London circles that overlapped with royalty
 - [Virginia Giuffre](Virginia_Giuffre.md) — Top Epstein accuser who alleged trafficking to [Prince Andrew](Prince_Andrew.md)
@@ -163,7 +163,7 @@ A formal inquest into the deaths of Diana and Dodi Fayed was held at the Royal C
 - [MI5/MI6](./other/groups/cia.md) — British intelligence services accused of involvement in Diana's death
 ## Other Shocking Stories
 
-- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Epstein left $5 million per child in his will. Resigned. Under criminal investigation.
+- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Reportedly named in Epstein's will. Resigned. Reportedly under investigation.
 - [Peaches Geldof](Peaches_Geldof.md): Tweeted the names of mothers who enabled a pedophile. Five months later, dead on 61% pure heroin.
 - [Kevin Preiss](Kevin_Preiss.md): NYPD officer who allegedly saw what was on the Weiner laptop. Suicide. The pattern keeps repeating.
 - [Seth Rich](Seth_Rich.md): DNC staffer shot twice in the back. Nothing stolen. Walking home at night in DC. Case still unsolved.

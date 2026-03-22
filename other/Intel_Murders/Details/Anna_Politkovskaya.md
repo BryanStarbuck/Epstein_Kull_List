@@ -78,7 +78,7 @@ Politkovskaya had survived a previous poisoning attempt in September 2004, when 
 - [Paul Klebnikov](Paul_Klebnikov.md) — Forbes Russia editor, shot in Moscow 2004
 ## Other Shocking Stories
 
-- [Michael Hastings](Michael_Hastings.md): Investigating CIA Director Brennan. His car exploded at 4 a.m. Richard Clarke said it looked like a cyberattack.
+- [Michael Hastings](Michael_Hastings.md): Award-winning journalist's car exploded at 4 a.m. on a residential street. Richard Clarke said it looked consistent with a cyberattack.
 - [Thomas Sankara](Thomas_Sankara.md): Africa's revolutionary president shot dead in a coup. France allegedly backed it. His killer convicted in 2022.
 - [Frank Teruggi](Frank_Teruggi.md): American student executed during the Chilean coup. US intelligence knew. It took 42 years to get convictions.
 - [John Paisley](John_Paisley.md): Senior CIA officer found floating with a bullet in his head and dive weights.

@@ -64,7 +64,7 @@ Schneider was born to a German immigrant father and French immigrant mother in C
 
 - [Alexander Tyulakov](Alexander_Tyulakov.md): Gazprom executive found hanged the morning Russia invaded Ukraine. One of eight Russian energy executives dead that year.
 - [Sergei Skripal and Dawn Sturgess](Sergei_Skripal.md): Novichok nerve agent smeared on his door handle in England. UK inquiry confirmed Putin ordered the attack.
-- [Michael Hastings](Michael_Hastings.md): Investigating CIA Director Brennan. His car exploded at 4 a.m. Richard Clarke said it looked like a cyberattack.
+- [Michael Hastings](Michael_Hastings.md): Award-winning journalist's car exploded at 4 a.m. on a residential street. Richard Clarke said it looked consistent with a cyberattack.
 - [Marine Vlahovic](Marine_Vlahovic.md): French journalist found dead on a Marseille rooftop while filming a documentary on Israel's war in Gaza.
 
 ## Sources

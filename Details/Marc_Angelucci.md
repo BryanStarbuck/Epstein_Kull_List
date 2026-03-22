@@ -89,7 +89,7 @@ At the time of the attacks, Den Hollander was reportedly terminally ill with can
 - [New Jersey](./other/locations/new_jersey.md) — North Brunswick, where Den Hollander attacked Judge Salas's family eight days later
 ## Other Shocking Stories
 
-- [Peter Mandelson](Peter_Mandelson.md): Senior UK politician arrested for leaking government secrets to Jeffrey Epstein. Accused of selling state intelligence.
+- [Peter Mandelson](Peter_Mandelson.md): Senior UK politician arrested on suspicion of misconduct in public office over alleged Epstein ties. Released on bail; not charged.
 - [Danny Casolaro](Danny_Casolaro.md): Investigating the same intel op that created Epstein's blackmail machine. Found with slashed wrists. Briefcase gone.
 - [Terje Rød-Larsen](Terje_Rod_Larsen.md): Norwegian diplomat. Epstein paid him $250K and willed $10 million to his children. Under criminal investigation.
 - [Ted Gunderson](Ted_Gunderson.md): Former FBI chief who exposed elite blackmail rings for decades. Associates say he was slowly poisoned with arsenic.

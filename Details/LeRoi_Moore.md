@@ -78,8 +78,8 @@ Moore's contributions to the Charlottesville community were significant:
 - [Avicii (Tim Bergling)](Avicii_Tim_Bergling.md) — EDM producer who worked on trafficking documentary, died 2018
 ## Other Shocking Stories
 
-- [Karen Mulder](Karen_Mulder.md): Named her traffickers on French national television. The footage was destroyed.
-- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Epstein left $5 million per child in his will. Resigned. Under criminal investigation.
+- [Karen Mulder](Karen_Mulder.md): Named those she accused of trafficking her on French national television. The footage was destroyed.
+- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Reportedly named in Epstein's will. Resigned. Reportedly under investigation.
 - [Berry L. Kessler](Berry_Kessler.md): Prime suspect in the Shapiro murder. FBI linked him to Epstein.
 - [Michael Jackson](Michael_Jackson.md): Visited Epstein's mansion. Died of drug intoxication administered by his own doctor. Convicted of manslaughter.
 

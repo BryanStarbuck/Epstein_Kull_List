@@ -60,7 +60,7 @@ Rafik Hariri was a self-made billionaire who made his fortune in construction in
 - [Benazir Bhutto](Benazir_Bhutto.md) — Pakistani PM assassinated in a bombing and shooting attack
 ## Other Shocking Stories
 
-- [Michael Hastings](Michael_Hastings.md): Investigating CIA Director Brennan. His car exploded at 4 a.m. Richard Clarke said it looked like a cyberattack.
+- [Michael Hastings](Michael_Hastings.md): Award-winning journalist's car exploded at 4 a.m. on a residential street. Richard Clarke said it looked consistent with a cyberattack.
 - [Imad Mughniyeh](Imad_Mughniyeh.md): The world's most wanted terrorist. CIA and Mossad finally killed him with a car bomb in Damascus.
 - [Sakine Cansiz](Sakine_Cansiz.md): PKK co-founder shot execution-style in Paris alongside two other Kurdish women. Turkish intelligence suspected.
 - [Paul Klebnikov](Paul_Klebnikov.md): First American journalist murdered in Russia. Founded Forbes Russia. His suspects were acquitted.

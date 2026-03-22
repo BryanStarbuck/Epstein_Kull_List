@@ -46,7 +46,7 @@ After MBS rose to power in 2017, Khashoggi became increasingly critical of the C
 ## Why This Death Raises Questions
 
 - The Saudi government initially denied any involvement, then claimed Khashoggi died in a "fistfight," before finally acknowledging a "rogue operation"
-- Despite US intelligence confirming MBS ordered the killing, the Biden administration declined to sanction the Crown Prince directly
+- Despite the CIA's reported assessment that MBS ordered the killing, the Biden administration declined to sanction the Crown Prince directly. Saudi Arabia denies MBS ordered the operation.
 - The Saudi trial of 11 suspects was widely criticized as a sham, with sentences later commuted
 - The operation was recorded by Turkish intelligence, providing unprecedented documentation of a state-sponsored assassination
 - Middle East Eye reported that the murder was part of a larger "Tiger Squad" operation of systematically killing Saudi dissidents

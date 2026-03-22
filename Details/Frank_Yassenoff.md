@@ -67,7 +67,7 @@ The fact that Kessler — who was later convicted of arranging the murder of ano
 ## Other Shocking Stories
 
 - [Johnny Rios](Johnny_Rios.md): NYPD officer. Allegedly viewed the Weiner laptop. Suicide. Six officers connected to that laptop are gone.
-- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Epstein left $5 million per child in his will. Resigned. Under criminal investigation.
+- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Reportedly named in Epstein's will. Resigned. Reportedly under investigation.
 - [Michael Caddy](Michael_Caddy.md): NYPD officer, age 29. Allegedly viewed the Weiner laptop. Suicide. Third officer dead in weeks.
 - [Chris Cornell](Chris_Cornell.md): Funding a child trafficking documentary. Found hanged in his hotel room. Wife says it was not suicide.
 

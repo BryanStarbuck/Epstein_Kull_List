@@ -73,7 +73,7 @@ The case opened in March 2005 after a report from the stepmother of a 14-year-ol
 
 Recarey and Chief Reiter built a substantial probable-cause case against Epstein. Recarey noted that state prosecutors initially seemed eager to pursue serious criminal charges, but stated that "everything took a turn" once Epstein's high-powered defense attorneys became involved.
 
-**State Attorney Barry Krischer** frustrated the investigation by focusing on portraying victims as prostitutes rather than pursuing Epstein aggressively. In May 2006, Recarey and Reiter escalated the matter to the FBI and federal prosecutors — a significant career risk for both officers.
+**State Attorney Barry Krischer** was criticized by investigators for what they described as focusing on portraying victims as prostitutes rather than pursuing Epstein aggressively. In May 2006, Recarey and Reiter escalated the matter to the FBI and federal prosecutors — a significant career risk for both officers.
 
 This led to a federal investigation, but ultimately resulted in Epstein's controversial **2008 non-prosecution agreement** under U.S. Attorney Alexander Acosta, which granted Epstein immunity and a light sentence of 13 months in a county jail with work release.
 

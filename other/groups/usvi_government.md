@@ -17,21 +17,21 @@ The U.S. Virgin Islands government provided institutional protection for Jeffrey
 
 ## Alleged Activities
 
-* Governor Albert Bryan texted Epstein "We got u" and "For u absolutely" months before Epstein's 2019 arrest
-* Bryan pressured AG [Denise George](../../Details/Denise_George.md) to grant Epstein a waiver from the 21-day sex offender reporting requirement
-* Bryan asked George: "I can't get you to let this go?" regarding the Epstein investigation
-* Bryan accused George of "going after people who are members of our team" when she pursued Epstein's estate
-* Former First Lady Cecile de Jongh was on Epstein's payroll at $200,000/year
+* According to released text messages, Governor Albert Bryan texted Epstein "We got u" and "For u absolutely" months before Epstein's 2019 arrest
+* According to Denise George's FBI interview, Bryan pressured her to grant Epstein a waiver from the 21-day sex offender reporting requirement
+* According to George, Bryan asked her: "I can't get you to let this go?" regarding the Epstein investigation
+* According to George, Bryan accused her of "going after people who are members of our team" when she pursued Epstein's estate. Bryan has not publicly responded to these specific allegations.
+* According to JPMorgan's court filings, former First Lady Cecile de Jongh was allegedly on Epstein's payroll at $200,000/year
 * De Jongh allegedly acted as Epstein's "local fixer" and "primary conduit" in the USVI government, according to JPMorgan
-* De Jongh helped Epstein craft legislation to weaken sex offender monitoring, asking him: "This is the suggested language; will it work for you?"
-* De Jongh helped Epstein obtain student visas for three of his victims
+* According to released communications cited in court filings, de Jongh allegedly helped Epstein craft legislation to weaken sex offender monitoring, reportedly asking him: "This is the suggested language; will it work for you?"
+* According to JPMorgan's filings, de Jongh allegedly helped Epstein obtain student visas for three of his victims. De Jongh has not publicly responded to these allegations.
 * AG [Denise George](../../Details/Denise_George.md) was fired four days after filing a landmark lawsuit against JPMorgan Chase
 * George told the FBI she felt threatened after pursuing the case
 
 ## Key Figures
 
-* **Governor Albert Bryan Jr.** — Texted Epstein "We got u"; pressured AG to drop investigation; fired AG after JPMorgan lawsuit
-* **Cecile de Jongh** — Former USVI First Lady (wife of Gov. John de Jongh, 2007–2015); on Epstein's payroll at $200K/year; helped craft favorable legislation
+* **Governor Albert Bryan Jr.** — According to released text messages, communicated directly with Epstein. According to Denise George's account, pressured AG regarding the investigation. Fired AG after JPMorgan lawsuit. Has not publicly responded to these allegations.
+* **Cecile de Jongh** — Former USVI First Lady (wife of Gov. John de Jongh, 2007–2015); according to JPMorgan's court filings, allegedly on Epstein's payroll at $200K/year and allegedly helped craft favorable legislation. Has not publicly responded.
 * **Governor John de Jongh** — Governor 2007–2015; wife worked for Epstein during his tenure
 * [Denise George](../../Details/Denise_George.md) — USVI Attorney General who aggressively pursued Epstein's estate; fired by Bryan; told FBI she felt threatened
 * Carol Thomas-Jacobs — Replaced George as AG after her firing

@@ -28,7 +28,7 @@ Paul Bennewitz was a successful electrical engineer and businessman who founded 
 
 In the late 1970s, Bennewitz began logging bursts of strange radio signals and filming unexplained lights over the Sandia Mountains and near Kirtland AFB. He believed he had intercepted communications from alien spacecraft and reported his findings to Kirtland officials, expecting cooperation. What he had actually intercepted were classified military communications and tests being conducted at the base.
 
-Rather than simply informing Bennewitz that he was picking up classified signals and asking him to stop, AFOSI made a calculated decision to manipulate him. Agent Richard Doty was assigned to the operation, and UFO researcher William Moore was recruited to monitor Bennewitz and feed him disinformation. Over four years, Moore was directed to provide Bennewitz with fabricated documents, including the forged "Aquarius Document," and false confirmation of his beliefs about alien "Grays" and an underground alien base at Dulce, New Mexico.
+Rather than simply informing Bennewitz that he was picking up classified signals and asking him to stop, AFOSI reportedly made a calculated decision to manipulate him. According to multiple accounts, including Greg Bishop's *Project Beta* and William Moore's own 1989 MUFON confession, Agent Richard Doty was assigned to the operation, and UFO researcher William Moore was recruited to monitor Bennewitz and feed him disinformation. Over four years, Moore was directed to provide Bennewitz with fabricated documents, including the forged "Aquarius Document," and false confirmation of his beliefs about alien "Grays" and an underground alien base at Dulce, New Mexico.
 
 The campaign worked. Bennewitz became increasingly paranoid, claiming aliens were coming through the walls of his house at night and injecting him with chemicals. He began keeping guns and knives throughout his home. In August 1988, his family had him committed to a psychiatric institution for one month.
 
@@ -38,13 +38,13 @@ William Moore publicly confessed his role in the operation at the 1989 MUFON (Mu
 
 - Confirmed target of a multi-year AFOSI psychological operation designed to destroy his credibility and mental health
 - The disinformation campaign was publicly confessed by participant William Moore at a 1989 MUFON conference
-- AFOSI agent Richard Doty has been identified as the primary government handler of the operation
+- AFOSI agent Richard Doty has been identified by multiple researchers, including through William Moore's 1989 confession, as the primary government handler of the operation. Doty has given varying accounts of his involvement over the years.
 - Rather than simply telling Bennewitz he was intercepting classified signals, the government chose to systematically drive him insane
 - His mental breakdown and 1988 psychiatric hospitalization were the direct, intended result of a government operation
 - The campaign created lasting damage -- Bennewitz never fully recovered and withdrew from public life
 - His case establishes a documented precedent for U.S. government agencies deliberately destroying civilians who get too close to classified programs
 - The operation also served to discredit the broader UFO research community by association
-- No accountability was ever imposed on AFOSI or Richard Doty for the deliberate psychological destruction of a civilian
+- No accountability has reportedly been imposed on AFOSI or Richard Doty for what researchers describe as the deliberate psychological destruction of a civilian
 
 ## See Also
 

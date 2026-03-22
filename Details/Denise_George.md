@@ -32,7 +32,7 @@ According to recently released FBI documents (2026), George alleged that:
 - Bryan instructed her to settle the estate litigation for $80 million (she ultimately secured $105 million)
 - She believed Bryan acted improperly by getting personally involved on behalf of "a convicted sex offender…[a] child predator"
 
-## Governor Bryan's Protection of Epstein
+## Governor Bryan's Alleged Relationship with Epstein
 
 Text messages released in the Epstein files show:
 - Bryan told Epstein he had spoken with the territory's top environmental official and asked him to pause enforcement on construction issues
@@ -43,9 +43,9 @@ Text messages released in the Epstein files show:
 
 - George was fired immediately after filing a major lawsuit that threatened to expose JPMorgan's role in Epstein's operations.
 - She told the FBI she felt threatened after pursuing the case.
-- The USVI governor's office actively pressured her to back off the Epstein investigation.
-- Text messages show the governor was personally helping Epstein dodge sex offender requirements.
-- Cecile de Jongh, the former USVI first lady, was on Epstein's payroll at $200,000/year and helped him craft legislation to weaken sex offender monitoring. JPMorgan called her Epstein's "primary conduit for spreading money and influence throughout the USVI government."
+- According to George's FBI interview, the USVI governor's office pressured her to back off the Epstein investigation.
+- Released text messages show the governor communicating directly with Epstein about enforcement matters.
+- According to JPMorgan's court filings, Cecile de Jongh, the former USVI first lady, was allegedly on Epstein's payroll at $200,000/year and helped him craft legislation to weaken sex offender monitoring. JPMorgan called her Epstein's "primary conduit for spreading money and influence throughout the USVI government." De Jongh has not publicly responded to these allegations.
 - The pattern of government officials protecting Epstein in the USVI mirrors the broader pattern of institutional cover-up.
 
 ## The de Jongh Connection

@@ -38,7 +38,7 @@ Norway's economic crime authority, Økokrim:
 - Launched a corruption probe into both Juul and her husband
 - Searched their Oslo residence
 - The investigation focuses on whether the family's financial relationship with Epstein constituted corruption given their public positions
-- Juul faces potential charges of aggravated corruption
+- Reports indicate Juul could potentially face charges of aggravated corruption
 
 ## Norway's Epstein Reckoning
 

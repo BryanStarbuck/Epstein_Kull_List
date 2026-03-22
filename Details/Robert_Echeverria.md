@@ -57,7 +57,7 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 - [Matthew Perry](Matthew_Perry.md): His death exposed an elite ketamine supply network. Five charged including a doctor dubbed the Ketamine Queen.
 - [Berry L. Kessler](Berry_Kessler.md): Prime suspect in the Shapiro murder. FBI linked him to Epstein.
 - [Chester Bennington](Chester_Bennington.md): Cornell's close friend. Same cause of death. Died on Cornell's birthday. Two months apart.
-- [Prince Andrew (Andrew Mountbatten-Windsor)](Prince_Andrew.md): First British royal arrested in 400 years. Shared classified intelligence with a convicted sex trafficker.
+- [Prince Andrew (Andrew Mountbatten-Windsor)](Prince_Andrew.md): First senior British royal arrested in nearly 400 years. Arrested on suspicion of misconduct in public office; not charged.
 
 ## Sources
 

@@ -28,7 +28,7 @@ The [U.S. Virgin Islands](usvi_government.md) sued JPMorgan in December 2022, an
 
 ## Key Figures
 
-* **Jes Staley** — Former JPMorgan executive, later Barclays CEO; had close personal relationship with Epstein; exchanged hundreds of emails; visited Epstein's island; resigned from Barclays in 2021 over Epstein ties
+* **Jes Staley** — Former JPMorgan executive, later Barclays CEO; according to court filings in the USVI lawsuit, had a close personal relationship with Epstein, exchanged hundreds of emails, and reportedly visited Epstein's island; resigned from Barclays in 2021 in connection with inquiries into his Epstein relationship
 * **Mary Erdoes** — Head of JPMorgan Asset & Wealth Management; referenced in court filings regarding awareness of Epstein relationship
 * [Denise George](../../Details/Denise_George.md) — USVI AG who filed the lawsuit against JPMorgan; fired four days later
 * **Jamie Dimon** — JPMorgan CEO; testified in deposition; bank claimed he was unaware of details

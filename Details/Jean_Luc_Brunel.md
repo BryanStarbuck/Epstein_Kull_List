@@ -18,6 +18,8 @@ Epstein's modeling agent found hanged in Paris prison cell while awaiting traffi
 
 Brunel was found hanged in his prison cell — the same manner of death as [Jeffrey Epstein](Jeffrey_Epstein.md) — while awaiting trial for trafficking girls to Epstein. He was one of the few people who could have named the clients and co-conspirators in Epstein's network. His lawyers formally demanded a probe into the circumstances of his suicide. French prosecutors reopened the investigation in February 2026.
 
+Critically, released DOJ files reveal that in 2016, Brunel was secretly negotiating with federal prosecutors and victims' attorneys to **flip on Epstein in exchange for immunity**. His lawyer told prosecutors that Brunel had recruited girls for Epstein and possessed incriminating photographs. The cooperation collapsed after Epstein learned of the negotiations and intervened — and then Brunel turned up dead in prison six years later.
+
 ### Update: February 2026
 
 French prosecutors reopened the Brunel investigation. On February 14, 2026, the Paris prosecutor's office announced a special team to analyze the DOJ Epstein document releases. French prosecutors are revisiting the Brunel file and opening two new probes into French nationals connected to Epstein's network.
@@ -34,13 +36,36 @@ Brunel was detained in December 2020 at Paris Charles de Gaulle airport while at
 
 [Virginia Giuffre](Virginia_Giuffre.md) alleged she was forced into sexual encounters with Brunel. She testified against him in a Paris courtroom in June 2021. Dutch model Thysia Huisman alleged Brunel drugged and raped her when she was 18.
 
+## The 2016 Cooperation Attempt — The Bombshell
+
+Released DOJ files and FBI records reveal that in February 2016 — three years before Epstein's final arrest — Brunel was secretly negotiating with federal prosecutors and victims' attorneys to cooperate against Epstein in exchange for immunity.
+
+**What Brunel offered:** According to the Wall Street Journal and documents released as part of the Epstein files, Brunel's lawyer told prosecutors and attorneys Stan Pottinger and David Boies that his client had recruited girls for Epstein and possessed **incriminating photographs**. Brunel was reportedly prepared to walk into the U.S. Attorney's Office in New York and expose the entire trafficking operation.
+
+**How Epstein killed the deal:** On May 3, 2016, Epstein emailed Kathy Ruemmler — former Obama White House counsel and one of Epstein's regular legal correspondents — warning her that Brunel planned to visit the U.S. Attorney's office the following week. The email contained a critical detail: one of Brunel's associates had reportedly **"asked for 3 million dollars so that Jean Luc would not go in."**
+
+**What happened next:** After Epstein learned of the cooperation attempt, the talks collapsed entirely. Brunel stopped communicating with the attorneys. No meeting with prosecutors took place. According to a 2021 government court filing, the prosecutor who wrote the February 2016 notes discussed the information with colleagues at the U.S. Attorney's office and the FBI — but no investigation was launched.
+
+**The human cost:** Attorney David Boies, who represented Epstein's victims, stated that the collapse of Brunel's cooperation "set us back a couple of years." He added: "We know from our lawsuits that there were more than 50 girls that were trafficked after this." Those 50+ additional victims were trafficked during the years the DOJ failed to act on the information Brunel was prepared to provide.
+
+**The timeline that followed:**
+- **2016**: Brunel offers to flip → Epstein intervenes → DOJ does nothing
+- **2019**: Epstein finally arrested (3 years later) → found dead in his cell
+- **2020**: Brunel arrested at Paris airport attempting to flee to Senegal
+- **2022**: Brunel found hanged in his prison cell at La Santé — the same method as Epstein
+
 ## Why This Death Possibly Raises Questions
 
 - Brunel was found hanged in a prison cell — the same manner of death as Jeffrey Epstein himself.
 - He was awaiting trial for allegedly trafficking girls to Epstein, meaning he could have potentially named other individuals involved.
+- **In 2016, Brunel was actively negotiating to flip on Epstein and expose the entire trafficking ring** — he had incriminating photographs and was ready to name names. This cooperation was sabotaged after Epstein learned of it.
+- **The DOJ was informed of Brunel's willingness to cooperate in 2016 and did nothing** — no investigation, no follow-up, no prosecution for three more years. According to David Boies, 50+ additional girls were trafficked during this period of inaction.
+- **A $3 million payment was reportedly involved** — Epstein's email referenced someone asking for $3 million "so that Jean Luc would not go in" to the U.S. Attorney's office, suggesting a direct financial effort to silence him.
 - His lawyers stated Brunel had been "crushed" by the allegations and blamed a "media-judicial system," but in 2024, Brunel's lawyers formally demanded a probe into the circumstances of his suicide.
+- Brunel died with incriminating photographs and testimony that never reached prosecutors — evidence that could have exposed the clients and co-conspirators of the trafficking ring.
 - Victims expressed frustration that they would never have their day in court after his death.
 - Brunel denied all wrongdoing throughout the proceedings.
+- The pattern is consistent: people who were positioned to expose the network — Epstein, Brunel, [Mark Middleton](Mark_Middleton.md) — ended up hanged.
 
 ## Key Quotes from Media Coverage
 

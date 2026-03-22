@@ -12,7 +12,7 @@ Original Epstein-era whistleblower; named fashion industry rapists on French TV 
 
 ## Assessment: SILENCED WHISTLEBLOWER
 
-Karen Mulder was one of the biggest supermodels in the world when she went on French national television in October 2001 and named powerful men who had raped and exploited her — including executives at Elite Model Management, police officers, politicians, and Prince Albert II of Monaco. The interview was never broadcast. The footage was reportedly destroyed. Within hours she was hospitalized in a psychiatric facility for five months. Her career was destroyed. Her credibility was systematically dismantled. This happened 16 years before #MeToo and 18 years before Epstein's arrest.
+Karen Mulder was one of the biggest supermodels in the world when she went on French national television in October 2001 and named powerful men who she said had raped and exploited her — including executives at Elite Model Management, police officers, politicians, and Prince Albert II of Monaco. All named individuals have denied her accusations. The interview was never broadcast. The footage was reportedly destroyed. Within hours she was hospitalized in a psychiatric facility for five months. Her career was destroyed. Her credibility was systematically dismantled. This happened 16 years before #MeToo and 18 years before Epstein's arrest.
 
 ## The French TV Interview — October 31, 2001
 

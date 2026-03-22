@@ -107,9 +107,9 @@ In **April 2024**, Hoffman was [indicted on nine felony charges](https://en.wiki
 
 - Bowyer was **indicted as one of Arizona's 11 fake electors** alongside Hoffman. On December 14, 2020, the fake electors gathered at Arizona Republican Party headquarters and signed a certificate falsely asserting they were "duly elected and qualified" electors.
 - Bowyer's financial trajectory raises questions: after **losing two condos to foreclosure in 2011** and having his wages garnished over unpaid HOA fees, he rapidly accumulated wealth coinciding with Turning Point's fundraising growth, earning **$255,000 in compensation** in 2022.
-- According to [@FinanceWolves](https://x.com/SwordTruth/status/2005316734337908893), Bowyer went from broke to having **$650,000 in cash** to buy a mansion in just four years — raising questions about kickbacks through shell companies like Hoffman's 1Ten LLC.
+- According to [@FinanceWolves](https://x.com/SwordTruth/status/2005316734337908893), Bowyer went from broke to having **$650,000 in cash** to buy a mansion in just four years — raising questions, according to that analysis, about the source of funds and the relationship to entities like Hoffman's 1Ten LLC.
 - Bowyer became **chairman of the board for Superfeed Technologies**, a mobile app company that developed the platform Turning Point uses for get-out-the-vote campaigns.
-- Hoffman lists **eight different companies** all operating from the same strip mall on his financial disclosure forms — described as "a classic signature of shell-company laundering."
+- Hoffman lists **eight different companies** all operating from the same strip mall on his financial disclosure forms — described by @FinanceWolves as "a classic signature of shell-company laundering." Hoffman has not publicly responded to this characterization.
 - Trump **pardoned Bowyer** along with Hoffman and the other fake electors in November 2025, but the Arizona state charges remain.
 
 ## The Assassination of Charlie Kirk

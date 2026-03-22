@@ -76,7 +76,7 @@ Police found nothing suspicious and the apparent cause was a seizure. However, t
 
 - [Trevor Moore](Trevor_Moore.md): Delivered Epstein theories to millions on Comedy Central. Fell from his balcony at 2:30 a.m. BAC 0.27.
 - [Gary Caradori](Gary_Caradori.md): His plane disintegrated mid-air carrying evidence of elite child trafficking. Briefcase of photos never recovered.
-- [Karen Mulder](Karen_Mulder.md): Named her traffickers on French national television. The footage was destroyed.
+- [Karen Mulder](Karen_Mulder.md): Named those she accused of trafficking her on French national television. The footage was destroyed.
 - [Alexis Arquette](Alexis_Arquette.md): Transgender actress planning a Hollywood tell-all memoir. Publicly accused powerful figures. Died before publishing.
 
 ## Sources

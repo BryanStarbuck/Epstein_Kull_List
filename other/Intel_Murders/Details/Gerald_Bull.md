@@ -67,7 +67,7 @@ After his release, Bull moved to Brussels and began working with Iraq's governme
 ## Other Shocking Stories
 
 - [Ahmed Yassin](Ahmed_Yassin.md): Wheelchair-bound, half-blind, quadriplegic. Israel killed him with a helicopter missile strike leaving a mosque.
-- [Michael Hastings](Michael_Hastings.md): Investigating CIA Director Brennan. His car exploded at 4 a.m. Richard Clarke said it looked like a cyberattack.
+- [Michael Hastings](Michael_Hastings.md): Award-winning journalist's car exploded at 4 a.m. on a residential street. Richard Clarke said it looked consistent with a cyberattack.
 - [Salah al-Arouri](Salah_al_Arouri.md): Hamas deputy leader killed by Israeli drone strike in Beirut during the Gaza war.
 - [Zia ul-Haq](Zia_ul_Haq.md): Pakistan's president, the US ambassador, and top generals all died in one plane crash. Sabotage widely suspected.
 

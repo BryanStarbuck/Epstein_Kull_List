@@ -63,7 +63,7 @@ As of late 2025, OSINT investigators reported that her email account appeared to
 - [Leigh Skye Patrick](Leigh_Skye_Patrick.md): Lured to Epstein's mansion at 16. Died of an overdose in a Palm Beach hotel room.
 - [Ivana Trump](Ivana_Trump.md): Trump's ex-wife. Found dead at the bottom of her staircase. Buried on his golf course. #Epsteined trended online.
 - [Sabrina Bittencourt](Sabrina_Bittencourt.md): Exposed a baby-selling operation. Died in hiding in Barcelona.
-- [Peter Mandelson](Peter_Mandelson.md): Senior UK politician arrested for leaking government secrets to Jeffrey Epstein. Accused of selling state intelligence.
+- [Peter Mandelson](Peter_Mandelson.md): Senior UK politician arrested on suspicion of misconduct in public office over alleged Epstein ties. Released on bail; not charged.
 
 ## Sources
 

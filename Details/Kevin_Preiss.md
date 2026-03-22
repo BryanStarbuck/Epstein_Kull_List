@@ -55,10 +55,10 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 > — NYPD Commissioner James O'Neill ([NBC New York](https://www.nbcnewyork.com/investigations/NYC-Top-Cop-Speaks-Out-Mental-Health-Awareness-James-Oneill-Suicides-511005002.html))
 ## Other Shocking Stories
 
-- [Prince Andrew (Andrew Mountbatten-Windsor)](Prince_Andrew.md): First British royal arrested in 400 years. Shared classified intelligence with a convicted sex trafficker.
+- [Prince Andrew (Andrew Mountbatten-Windsor)](Prince_Andrew.md): First senior British royal arrested in nearly 400 years. Arrested on suspicion of misconduct in public office; not charged.
 - [LeRoi Moore](LeRoi_Moore.md): Dave Matthews Band saxophonist. Died at 46 from a blood clot. Band's agency CEO later linked to Epstein.
 - [B. Stanley Pons - Cold Fusion Scientist](B_Stanley_Pons.md): Epstein emailed 'I killed Pons years ago.' The cold fusion pioneer hasn't been heard from in 30 years.
-- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Epstein left $5 million per child in his will. Resigned. Under criminal investigation.
+- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Reportedly named in Epstein's will. Resigned. Reportedly under investigation.
 
 ## Sources
 

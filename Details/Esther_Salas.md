@@ -184,9 +184,9 @@ The official investigation is closed. Den Hollander acted alone, motivated by mi
 ## Other Shocking Stories
 
 - [Ghislaine Maxwell (Living — At Risk)](Ghislaine_Maxwell.md): The only convicted co-conspirator still alive. Serving 20 years. Her brother says publicly she is not suicidal.
-- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Epstein left $5 million per child in his will. Resigned. Under criminal investigation.
+- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Reportedly named in Epstein's will. Resigned. Reportedly under investigation.
 - [Gabriela Rico Jimenez](Gabriela_Rico_Jimenez.md): Screamed on camera that elites murder and eat people. Named Carlos Slim's son. Institutionalized. Never seen again.
-- [Prince Andrew (Andrew Mountbatten-Windsor)](Prince_Andrew.md): First British royal arrested in 400 years. Shared classified intelligence with a convicted sex trafficker.
+- [Prince Andrew (Andrew Mountbatten-Windsor)](Prince_Andrew.md): First senior British royal arrested in nearly 400 years. Arrested on suspicion of misconduct in public office; not charged.
 
 ## Sources
 

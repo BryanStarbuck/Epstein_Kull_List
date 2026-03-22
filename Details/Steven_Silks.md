@@ -60,7 +60,7 @@ See also: [Jeffrey Epstein](Jeffrey_Epstein.md) | [Ghislaine Maxwell](Ghislaine_
 - The cluster timing mirrors patterns seen in other Epstein-adjacent death clusters
 ## Other Shocking Stories
 
-- [Prince Andrew (Andrew Mountbatten-Windsor)](Prince_Andrew.md): First British royal arrested in 400 years. Shared classified intelligence with a convicted sex trafficker.
+- [Prince Andrew (Andrew Mountbatten-Windsor)](Prince_Andrew.md): First senior British royal arrested in nearly 400 years. Arrested on suspicion of misconduct in public office; not charged.
 - [Terrence McAvoy](Terrence_McAvoy.md): NYPD sergeant. Allegedly viewed the Weiner laptop evidence. Suicide. Five officers now dead.
 - [Deborah Jeane Palfrey](Deborah_Jeane_Palfrey.md): The DC Madam said publicly she would never hang herself. Found hanged 16 days after conviction.
 - [Michael Jackson](Michael_Jackson.md): Visited Epstein's mansion. Died of drug intoxication administered by his own doctor. Convicted of manslaughter.

@@ -50,7 +50,7 @@ Rich was connected to the Epstein network through her fiance Yassenoff and his b
 - [Marjorie Dyer](Marjorie_Dyer.md) — Co-signed Yassenoff's will with Kessler
 ## Other Shocking Stories
 
-- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Epstein left $5 million per child in his will. Resigned. Under criminal investigation.
+- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Reportedly named in Epstein's will. Resigned. Reportedly under investigation.
 - [Terrence McAvoy](Terrence_McAvoy.md): NYPD sergeant. Allegedly viewed the Weiner laptop evidence. Suicide. Five officers now dead.
 - [Arthur Shapiro](Arthur_Shapiro.md): Gunned down weeks before IRS questioning. His killer's partner had FBI links to Epstein's network.
 - [Brice and Karen Gordon](Brice_Karen_Gordon.md): Managed Epstein's New Mexico ranch for 20 years. Both vanished after Maxwell's arrest. Never found.

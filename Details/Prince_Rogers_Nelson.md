@@ -93,7 +93,7 @@ Prince told Rolling Stone in 1996: "People think I'm a crazy fool for writing 's
 - [Carolyn Andriano](Carolyn_Andriano.md) — Epstein victim who died of accidental overdose
 ## Other Shocking Stories
 
-- [Karen Mulder](Karen_Mulder.md): Named her traffickers on French national television. The footage was destroyed.
+- [Karen Mulder](Karen_Mulder.md): Named those she accused of trafficking her on French national television. The footage was destroyed.
 - [Diana Spencer (Princess of Wales)](Diana_Spencer.md): Wrote 'my husband is planning an accident in my car.' Died in a Paris tunnel crash.
 - [Chris Cornell](Chris_Cornell.md): Funding a child trafficking documentary. Found hanged in his hotel room. Wife says it was not suicide.
 - [Aivar Rehe](Aivar_Rehe.md): Ran the Danske Bank branch that laundered $230 billion. Questioned as a witness. Found dead at home.

@@ -8,6 +8,8 @@ Grusch is not the first to make this claim. As early as 1971, researcher Otto Bi
 
 The killings — if that is what they are — follow a pattern: researchers or insiders who threaten to go public about UAP technology, classified programs, or reverse-engineering efforts die shortly before testimony, publication, or disclosure. The methods mirror intelligence-service tradecraft: staged suicides, car accidents, sudden illnesses, and professional destruction preceding death.
 
+There is a documented history of the U.S. military and intelligence community engaging in deception, misconduct, and, in documented cases, serious criminal activity. Allegations have also been made that individuals have been threatened or harmed in connection with classified UFO programs. The pattern of ethical failures within the federal government is sufficient reason for every mysterious death to receive a thorough, independent investigation.
+
 This project documents deaths, disappearances, and cases of extreme retaliation against individuals connected to UAP/UFO research, classified aerospace programs, exotic energy technology, and government disclosure efforts. The focus is on people who were allegedly silenced to protect the secrecy of:
 
 - **Recovered non-human craft and reverse-engineering programs**
@@ -107,8 +109,11 @@ These deaths have been connected to UAP cover-ups by theorists on social media p
 | [John Burroughs](Details/John_Burroughs.md) | — | **ALIVE** | Radiation-injured witness | USAF witness to Rendlesham Forest UFO (1980). Permanent heart/vision damage from electromagnetic radiation. Fought decades for VA benefits. VA implicitly acknowledged UAP encounter caused injuries. |
 | [Rep. Tim Burchett](Details/Tim_Burchett.md) | — | **ALIVE** | **THREATENED** | Congressman leading UAP hearings. Warned by Army/IC staff: "They'd have no problem having you killed." Called whistleblower protections "a joke." |
 | [George Knapp](Details/George_Knapp.md) | — | **ALIVE** | Surveilled | Chief investigative reporter, KLAS-TV. Broke Bob Lazar story (1989). Testified before Congress September 2025. Sources burglarized. Surveilled in Russia. |
+| [Mr. 35-Year-Old Murdered Whistleblower](Details/Mr_35_Year_Old_Murdered_Whistleblower.md) | ~2026 | Found dead with suicide note | **SUSPICIOUS** | Unnamed potential whistleblower connected to David Grusch. Was preparing to come forward. Age 35, father of two. According to James Fox, an IC source notified Fox and former Senate intelligence staffer Kirk McConnell simultaneously. Identity withheld. |
 
 ## Scientists and Energy Researchers (Suppressed Technology)
+
+**People killed for UAP-related energy source research are documented in full on the [Energy Suppression](../Zero_Point_Energy/README.md) page.** The entries below are those with the strongest direct UAP connections. For the complete list of advanced energy inventors and researchers who were killed, threatened, or had their work seized, see that directory.
 
 | Name | Year | Cause of Death | Suspicion Level | Details |
 |------|------|----------------|-----------------|---------|
@@ -191,7 +196,7 @@ Between 1982 and 1990, at least 25 British scientists and engineers working for 
 
 ## Patterns Worth Noting
 
-**"Suicide" before testimony or disclosure:** [James Forrestal](Details/James_Forrestal.md) died before he could speak publicly about what he knew as Defense Secretary. [Mark McCandlish](Details/Mark_McCandlish.md) died reportedly before scheduled Senate testimony on UAPs. [Ron Rummel](Details/Ron_Rummel.md) died after publishing sensitive material in *Alien Digest*. [Phil Schneider](Details/Phil_Schneider.md) died after two years of public lectures about classified underground bases. The pattern mirrors the Epstein network: people who threaten to disclose classified information die before they can.
+**"Suicide" before testimony or disclosure:** [James Forrestal](Details/James_Forrestal.md) died before he could speak publicly about what he knew as Defense Secretary. [Mark McCandlish](Details/Mark_McCandlish.md) died reportedly before scheduled Senate testimony on UAPs. [Ron Rummel](Details/Ron_Rummel.md) died after publishing sensitive material in *Alien Digest*. [Phil Schneider](Details/Phil_Schneider.md) died after two years of public lectures about classified underground bases. An [unnamed 35-year-old whistleblower](Details/Mr_35_Year_Old_Murdered_Whistleblower.md) connected to David Grusch was reportedly found dead with a suicide note while preparing to come forward (~2026). The pattern mirrors the Epstein network: people who threaten to disclose classified information die before they can.
 
 **Staged suicides with forensic anomalies:** [Ron Rummel](Details/Ron_Rummel.md) — no blood on gun barrel, no fingerprints on handle, suicide note written by wrong hand. [Phil Schneider](Details/Phil_Schneider.md) — found with catheter wrapped around neck, ex-wife disputes suicide. [Mark McCandlish](Details/Mark_McCandlish.md) — associates contest suicide ruling. These mirror the pattern seen in [Epstein](../../Details/Jeffrey_Epstein.md), [Mark Middleton](../../Details/Mark_Middleton.md), and [David Kelly](../Intel_Murders/Details/David_Kelly.md).
 
@@ -298,4 +303,4 @@ When asked if people had been harmed: *"Yes."*
 
 ---
 
-*Last Updated: March 13, 2026 — Added: Philip Corso, Leonard Stringfield, Area 51 workers (Frost/Kasza), Felix Moncla/Kinross incident, Jonathan Lovette, Zigmund Adamski, Todd Sees, Stefan Michalak, Boyd Bushman*
+*Last Updated: March 21, 2026 — Added: Mr. 35-Year-Old Murdered Whistleblower (unnamed Grusch-connected whistleblower, per James Fox). Added Energy Suppression cross-reference and government misconduct context.*

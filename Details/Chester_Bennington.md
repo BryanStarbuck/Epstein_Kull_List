@@ -52,7 +52,7 @@ The connection to the documentary has been debunked by fact-checkers and the doc
 
 - [Carolyn Andriano](Carolyn_Andriano.md): Testified against Ghislaine Maxwell. Died of an overdose in a Palm Beach hotel.
 - [Efrain "Stone" Reyes](Efrain_Stone_Reyes.md): Epstein's cellmate who knew what happened that night. Talked to investigators. Dead within months.
-- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Epstein left $5 million per child in his will. Resigned. Under criminal investigation.
+- [Mona Juul](Mona_Juul.md): Norwegian ambassador. Reportedly named in Epstein's will. Resigned. Reportedly under investigation.
 - [Michael Hutchence](Michael_Hutchence.md): INXS frontman found hanged. Family disputes suicide. Unexplained injuries. $13 million fortune vanished into offshore trusts.
 
 ## Sources

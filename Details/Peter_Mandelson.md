@@ -22,18 +22,20 @@ Peter Mandelson is a veteran Labour Party politician who served as Secretary of 
 
 ## Epstein Connection
 
-DOJ-released emails revealed that Mandelson:
+DOJ-released emails allegedly showed that Mandelson:
 
-- Forwarded market-sensitive government information to Epstein while serving as UK Business Secretary
-- Shared potentially classified intelligence about government policy and investment opportunities
+- Allegedly forwarded market-sensitive government information to Epstein while serving as UK Business Secretary
+- Allegedly shared potentially classified intelligence about government policy and investment opportunities
 - Maintained correspondence with Epstein over an extended period
-- The emails showed a pattern of sharing information that could have been used for financial gain
+- Prosecutors allege the emails showed a pattern of sharing information that could have been used for financial gain
+
+Mandelson has not been charged with any crime and denies all allegations of wrongdoing.
 
 ## Arrest (February 23, 2026)
 
 Metropolitan Police arrested Mandelson on suspicion of misconduct in public office. Key details:
 
-- Police reportedly arrested him to prevent him from fleeing abroad
+- Police reportedly arrested him to prevent him from leaving the country
 - He was released on bail at 2 AM on February 24, 2026
 - He has not been charged
 - The arrest came days after [Prince Andrew's](Prince_Andrew.md) arrest on similar grounds

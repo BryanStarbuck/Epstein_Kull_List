@@ -85,7 +85,7 @@ The tension in evaluating Gunderson is that some of his most extraordinary claim
 ## Other Shocking Stories
 
 - [Berry L. Kessler](Berry_Kessler.md): Prime suspect in the Shapiro murder. FBI linked him to Epstein.
-- [Peter Mandelson](Peter_Mandelson.md): Senior UK politician arrested for leaking government secrets to Jeffrey Epstein. Accused of selling state intelligence.
+- [Peter Mandelson](Peter_Mandelson.md): Senior UK politician arrested on suspicion of misconduct in public office over alleged Epstein ties. Released on bail; not charged.
 - [Richard C. Curtiss](Richard_C_Curtiss.md): Epstein's fellow inmate says he was murdered. Described disabled cameras and a goon squad. Received death threats.
 - [Frank Yassenoff](Frank_Yassenoff.md): Shot to death alongside his fiancee. Both murders unsolved. Killer's partner later linked to Epstein's network.
 

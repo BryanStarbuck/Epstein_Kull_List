@@ -1,7 +1,7 @@
 [< Back to Zero Point Energy Deaths List](../README.md) | [Main Epstein List](../../../README.md)
 
 # Dr. Carl Johann Grillmair
-Caltech astrophysicist at IPAC. Instrument characterization specialist for NEO Surveyor — the first space telescope built to find objects that could hit Earth. Ran QA on the NEOWISE Science Data Center. 147 peer-reviewed papers. Shot dead on his front porch at 6:10 a.m. on February 16, 2026, in Llano, California. His killer, Freddy Snyder, had been arrested on Grillmair's property two months earlier with a loaded, unregistered rifle — but the charges were dismissed eleven days before the murder.
+Caltech astrophysicist at IPAC. Instrument characterization specialist for NEO Surveyor — the first space telescope built to find objects that could hit Earth. Ran QA on the NEOWISE Science Data Center. 147 peer-reviewed papers. Shot dead on his front porch at 6:10 a.m. on February 16, 2026, in Llano, California. The suspect, Freddy Snyder, had been arrested on Grillmair's property two months earlier with a loaded, unregistered rifle — but the charges were dismissed eleven days before the killing. Snyder has been charged with murder and is awaiting trial.
 
 | Field | Details |
 |-------|---------|
@@ -40,7 +40,7 @@ On **February 5, 2026**, both charges were **dismissed** under California Penal 
 
 The identity of the presiding judge who dismissed the charges has not been located in accessible public records. The case number has not been located. Snyder was released on his own recognizance on December 23, 2025.
 
-Snyder is the only perpetrator in the AFRL-connected casualty cluster who is still alive. His arraignment is March 26 in Lancaster.
+Snyder is the only surviving suspect in the AFRL-connected casualty cluster. His arraignment is scheduled for March 26 in Lancaster. He has not yet been tried.
 
 ## Background
 

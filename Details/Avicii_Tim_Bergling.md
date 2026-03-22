@@ -50,7 +50,7 @@ The clustering of these deaths, combined with the alleged trafficking documentar
 
 - [Sabrina Bittencourt](Sabrina_Bittencourt.md): Exposed a baby-selling operation. Died in hiding in Barcelona.
 - [Michael Caddy](Michael_Caddy.md): NYPD officer, age 29. Allegedly viewed the Weiner laptop. Suicide. Third officer dead in weeks.
-- [Peter Mandelson](Peter_Mandelson.md): Senior UK politician arrested for leaking government secrets to Jeffrey Epstein. Accused of selling state intelligence.
+- [Peter Mandelson](Peter_Mandelson.md): Senior UK politician arrested on suspicion of misconduct in public office over alleged Epstein ties. Released on bail; not charged.
 - [Vitaly Churkin](Vitaly_Churkin.md): Russian UN Ambassador. Sudden cardiac event. Cause of death withheld by State Department. Autopsy results sealed.
 
 ## Sources

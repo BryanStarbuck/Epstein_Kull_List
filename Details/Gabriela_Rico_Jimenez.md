@@ -125,7 +125,7 @@ In her outburst, Jiménez claimed she had been held captive since 2001 — appro
 
 Jiménez fits a documented pattern of individuals who publicly accused powerful people or networks of crimes and were subsequently silenced or disappeared:
 
-- **[Karen Mulder](Karen_Mulder.md)** — Named [Jean-Luc Brunel](Jean_Luc_Brunel.md) and modeling industry rapists on French TV in 2001. Footage destroyed. Hospitalized for five months. Career ended. (Brunel wasn't arrested for 19 more years.)
+- **[Karen Mulder](Karen_Mulder.md)** — Named [Jean-Luc Brunel](Jean_Luc_Brunel.md) and men she accused of abuse in the modeling industry on French TV in 2001. Footage destroyed. Hospitalized for five months. Career ended. (Brunel wasn't arrested for 19 more years.)
 - **[Isaac Kappy](Isaac_Kappy.md)** — Named Hollywood pedophiles publicly. Said "if I die, it wasn't suicide." Fell from bridge (2019).
 - **[Nikolai Mushegian](Nikolai_Mushegian.md)** — Tweeted about [CIA](./other/groups/cia.md)/[Mossad](./other/groups/mossad.md) sex trafficking ring in Puerto Rico. Drowned four hours later (2022).
 - **[Tracy Twyman](Tracy_Twyman.md)** — Researcher who warned about elite trafficking. Left dead man's switch. Found hanged (2019).

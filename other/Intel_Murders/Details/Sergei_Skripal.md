@@ -44,7 +44,7 @@ Dawn Sturgess was a completely innocent bystander with no connection to intellig
 
 - **GRU Unit 29155:** The attack was planned and executed by Unit 29155, a covert GRU unit specializing in assassinations, sabotage, and destabilization operations across Europe
 - **The assassins:** Identified by Bellingcat and UK authorities as Colonel Anatoliy Chepiga (Hero of Russia) and military doctor Alexander Mishkin, traveling under aliases "Ruslan Boshirov" and "Alexander Petrov"
-- **Operational commander:** Major General Denis Sergeev (alias "Sergei Fedotov"), who had also overseen the 2015 poisoning of Bulgarian arms dealer Emilian Gebrev
+- **Operational commander:** Major General Denis Sergeev (alias "Sergei Fedotov"), who was also allegedly connected to the 2015 poisoning of Bulgarian arms dealer Emilian Gebrev, according to Bellingcat's investigation
 - **Unit commander:** Major General Andrey Averyanov, head of Unit 29155
 - **Authorization:** UK inquiry concluded Putin personally authorized the operation
 - **The same unit** was linked to the 2014 Vrbetice ammunition depot explosions in the Czech Republic and the attempted coup in Montenegro in 2016

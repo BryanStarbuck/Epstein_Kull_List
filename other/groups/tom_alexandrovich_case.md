@@ -1,7 +1,7 @@
 [< Back to Main List](../../README.md) | [Groups Index](README.md)
 
-# Tom Alexandrovich Case — Israeli Official Child Sex Sting and Flight
-Senior Israeli cybersecurity official caught in FBI child predator sting in Las Vegas; posted $10K bail, fled to Israel in 48 hours without surrendering passport.
+# Tom Alexandrovich Case — Israeli Official Arrested in FBI Child Predator Sting
+Senior Israeli cybersecurity official arrested in FBI child predator sting in Las Vegas; posted $10K bail and returned to Israel within 48 hours. Passport was reportedly not confiscated. Has pleaded not guilty. Case pending.
 
 | Field | Details |
 |-------|---------|

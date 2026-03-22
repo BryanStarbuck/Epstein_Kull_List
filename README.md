@@ -22,7 +22,7 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Robert Maxwell](Details/Robert_Maxwell.md) | Fell from yacht | **SUSPICIOUS** | Ghislaine's father, alleged Mossad agent. Cause disputed. |
 | [Thomas Bowers](Details/Thomas_Bowers.md) | Hanged in home | **SUSPICIOUS** | Deutsche Bank exec who moved Epstein's money. |
 | [Steven Hoffenberg](Details/Steven_Hoffenberg.md) | Found dead in apartment | **SUSPICIOUS** | FBI cooperator. Exposed blackmail op. Dead 7+ days. |
-| [Virginia Giuffre](Details/Virginia_Giuffre.md) | Suicide | **SUSPICIOUS** | Top Epstein accuser. Posted "not suicidal." |
+| [Virginia Giuffre](Details/Virginia_Giuffre.md) | Gunshot (ruled suicide) | **HIGHLY SUSPICIOUS** | Top Epstein accuser. Posted "not suicidal." Died by gunshot in strict-gun-law Australia. Father says "somebody got to her." $20M+ missing from estate. No coroner's report released. |
 | [Ruslana Korshunova](Details/Ruslana_Korshunova.md) | Fell from 9th floor | **SUSPICIOUS** | On Epstein's jet at 18. Mother rejects suicide. |
 | [Nikolai Mushegian](Details/Nikolai_Mushegian.md) | Drowning | **SUSPICIOUS** | MakerDAO co-founder. Tweeted about CIA/Mossad sex trafficking ring in Puerto Rico; drowned 4 hours later. |
 | [Aaron Swartz](Details/Aaron_Swartz.md) | Hanging, ruled suicide | **SUSPICIOUS** | Reddit co-founder, internet activist. Found hanged facing 35 years for downloading academic articles. Built SecureDrop whistleblower tool. MIT accepted Epstein money during his prosecution. Father said "killed by the government." |
@@ -109,6 +109,7 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | Name | Status | Details |
 |------|--------|---------|
 | [Ghislaine Maxwell](Details/Ghislaine_Maxwell.md) | Serving 20 years at FPC Bryan, Texas | Only convicted co-conspirator alive. Brother says "not suicidal." |
+| [Nancy Guthrie](Details/Nancy_Guthrie.md) | Missing/Kidnapped since Feb 1, 2026 | Mother of Savannah Guthrie, who conducted first major TV interview with Virginia Giuffre. Kidnapped one day after DOJ released 3M+ pages of Epstein files. Blood found at scene. $6M ransom demanded. |
 | [Nadia Marcinko](Details/Nadia_Marcinko.md) | Missing since January 2024 | Epstein's pilot, granted immunity in 2008. Vanished after files unsealed. |
 | [Brice & Karen Gordon](Details/Brice_Karen_Gordon.md) | Missing since ~2020 | Zorro Ranch managers for 20 years. Vanished after Maxwell's arrest. NM commission "people of interest." |
 | [Thorbjorn Jagland](Details/Thorbjorn_Jagland.md) | Hospitalized after reported suicide attempt, Feb 2026 | Former Norwegian PM charged with aggravated corruption over alleged Epstein ties. Jagland denies all charges. |
@@ -116,10 +117,11 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Peter Mandelson](Details/Peter_Mandelson.md) | Arrested Feb 2026, released on bail | UK ex-ambassador. Arrested on suspicion of misconduct in public office; allegedly passed market-sensitive information to Epstein. Not charged; denies allegations. |
 | [Terje Rød-Larsen](Details/Terje_Rod_Larsen.md) | Under investigation, Feb 2026 | Norwegian diplomat. Epstein paid him $250K; left $10M to his children. |
 | [Mona Juul](Details/Mona_Juul.md) | Resigned and under investigation, Feb 2026 | Norwegian ambassador. Husband is Rød-Larsen. Epstein willed $5M per child. |
-| [Gabriela Rico Jimenez](Details/Gabriela_Rico_Jimenez.md) | Missing/unknown since August 2009 | Accused elites of cannibalism and murder on camera in Monterrey. Named Carlos Slim's son. Sent to psychiatric facility; never seen again. |
+| [Gabriela Rico Jimenez](Details/Gabriela_Rico_Jimenez.md) | Missing/unknown since August 2009 | Made public accusations against elites on camera in Monterrey. Reportedly named Carlos Slim's son. Reportedly sent to psychiatric facility; not seen publicly since. |
 | [Karen Mulder](Details/Karen_Mulder.md) | Alive, living privately in France | Original whistleblower. Named Brunel and Elite execs on French TV in 2001; footage destroyed, hospitalized 5 months. |
-| [Tom Alexandrovich](Details/Tom_Alexandrovich.md) | Free in Israel; trial scheduled March 2026 | Senior Israeli cyber official caught in FBI child predator sting in Las Vegas. Posted $10K bail, fled to Israel in 48 hours. No passport confiscated. Bipartisan outrage. |
+| [Tom Alexandrovich](Details/Tom_Alexandrovich.md) | Free in Israel; trial scheduled March 2026 | Senior Israeli cyber official arrested in FBI child predator sting in Las Vegas. According to reports, posted $10K bail and left for Israel within 48 hours. Passport reportedly not confiscated. Case pending. |
 | [Richard C. Curtiss](Details/Richard_C_Curtiss.md) | Alive, Wayland, NY (as of late 2025) | Former MCC inmate who emailed NY Post and authorities in 2021 claiming Epstein was murdered. Described disabled cameras and a "goon squad." Received death threats inside MCC. |
+| [Emily Smith](Details/Emily_Smith.md) | Alive, journalist | Page Six editor who received Curtiss's 2021 email about Epstein's murder at MCC. The email is followed by 24 fully redacted pages in the DOJ Epstein Files release. |
 | [Denise George](Details/Denise_George.md) | Fired Dec 2022; reported threats to FBI | USVI AG fired 4 days after suing JPMorgan over Epstein. Governor pressured her to drop case. |
 | [Esther Salas](Details/Esther_Salas.md) | Son murdered July 2020; survived attack | Federal judge assigned Epstein-Deutsche Bank case 4 days before gunman killed her son. Gunman had Kroll Associates intel background. |
 | [Priscilla Presley](Details/Priscilla_Presley.md) | Alive, age 80, Los Angeles | Not Epstein-connected. Groomed by Elvis at 14; iconic case of entertainment industry's pattern of powerful men accessing underage girls through entourages. Long-time Scientologist. |
@@ -174,7 +176,7 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 
 **Cold fusion suppression:** Epstein emailed Al Seckel on October 1, 2009: *"regarding cold fusion. i killed pons years ago"* (DOJ documents EFTA02437662, EFTA00740161, EFTA00740600). [B. Stanley Pons](Details/B_Stanley_Pons.md) and Martin Fleischmann announced room-temperature nuclear fusion in 1989. Congressional funding was cut in the early 1990s. Pons fled to France, renounced his citizenship, and has not been heard from in ~30 years. Seckel — who was married to Isabel Maxwell (Ghislaine's sister) — was found dead at the base of a 100-foot cliff in France in 2015. His death has never been officially confirmed; an author who investigated stated he could never establish that Seckel actually died.
 
-**Maxwell family network:** [Robert Maxwell](Details/Robert_Maxwell.md) (Ghislaine's father, fell from yacht 1991), Al Seckel (married Isabel Maxwell, found dead at cliff base 2015), and [Ghislaine Maxwell](Details/Ghislaine_Maxwell.md) (serving 20 years). The Maxwell family's intelligence ties span decades — Robert allegedly distributed backdoored PROMIS software for Mossad, and his daughter ran Epstein's trafficking operation.
+**Maxwell family network:** [Robert Maxwell](Details/Robert_Maxwell.md) (Ghislaine's father, fell from yacht 1991), Al Seckel (married Isabel Maxwell, found dead at cliff base 2015), and [Ghislaine Maxwell](Details/Ghislaine_Maxwell.md) (serving 20 years, convicted of sex trafficking and conspiracy). The Maxwell family's intelligence ties span decades — Robert allegedly distributed backdoored PROMIS software for Mossad, and Ghislaine was convicted in 2021 for her role in Epstein's trafficking operation.
 
 ## Groups & Organizations
 

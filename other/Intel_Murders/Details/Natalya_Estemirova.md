@@ -42,7 +42,7 @@ Chechen leader Ramzan Kadyrov had publicly criticized Estemirova's work, calling
 
 ## Intelligence Connections
 
-- Kadyrov's security forces controlled all aspects of security in Chechnya; a kidnapping from Grozny would have been virtually impossible without their knowledge or participation
+- According to Memorial and human rights organizations, Kadyrov's security forces controlled all aspects of security in Chechnya, making a kidnapping from Grozny virtually impossible, they argued, without their knowledge or participation. Kadyrov has denied involvement.
 - Estemirova's documentation directly threatened Kadyrov's regime by providing evidence of war crimes and human rights abuses to international organizations
 - Memorial and her colleagues directly accused Kadyrov's security forces of involvement
 - The ECHR found that Russia failed to conduct an effective investigation, suggesting institutional obstruction

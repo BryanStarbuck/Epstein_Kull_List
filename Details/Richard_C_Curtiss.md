@@ -19,7 +19,7 @@ Richard C. Curtiss is a former inmate at the MCC who claims firsthand knowledge 
 
 Curtiss was incarcerated at the Metropolitan Correctional Center (MCC) in New York City — the same facility where [Jeffrey Epstein](Jeffrey_Epstein.md) died on August 10, 2019. After his release, Curtiss began emailing media outlets and government authorities with claims about what he allegedly witnessed or learned while inside MCC.
 
-On May 13, 2021, Curtiss sent a detailed email to Emily Smith, editor at Page Six (New York Post), and to the NY Post tips line. The email, which included over 40 inline image attachments, asked whether the Post was "still going to write a story about Jeffrey Epstein's murder inside the Metropolitan Correctional Center."
+On May 13, 2021, Curtiss sent a detailed email to [Emily Smith](Emily_Smith.md), editor at Page Six (New York Post), and to the NY Post tips line. The email, which included over 40 inline image attachments, asked whether the Post was "still going to write a story about Jeffrey Epstein's murder inside the Metropolitan Correctional Center."
 
 ![Richard C. Curtiss email to NY Post, May 13, 2021](./other/images/Richard_C_Curtiss_email.jpeg)
 
@@ -113,6 +113,7 @@ Additionally, newly released surveillance video observation logs revealed an uni
 
 - [Jeffrey Epstein](Jeffrey_Epstein.md) — Died at MCC under disputed circumstances
 - [Ghislaine Maxwell](Ghislaine_Maxwell.md) — Held at MDC Brooklyn, where Curtiss also claimed to have been incarcerated
+- [Emily Smith](Emily_Smith.md) — Page Six editor who received this email; 24 redacted pages follow it in the Epstein Files
 - [Efrain "Stone" Reyes](Efrain_Stone_Reyes.md) — Epstein's cellmate at MCC who died after talking to investigators
 ## Other Shocking Stories
 

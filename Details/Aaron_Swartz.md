@@ -56,7 +56,7 @@ JSTOR settled with Swartz in June 2011; under the terms of the settlement, he su
 
 Despite this, the U.S. Attorney's office for Massachusetts, led by Carmen Ortiz, pressed forward. In July 2011, Swartz was indicted on four felony counts. In September 2012, the indictment was expanded to 13 felony counts — two counts of wire fraud and eleven violations of the Computer Fraud and Abuse Act — carrying a cumulative maximum penalty of 35 years in prison, $1 million in fines, asset forfeiture, restitution, and supervised release.
 
-The prosecution was led by Assistant U.S. Attorney Stephen Heymann, who headed Ortiz's Internet and Computer Crimes Unit. According to public documents, Heymann allegedly "instructed the Secret Service to seize and hold evidence without a warrant," "lied to the judge about that fact in written briefs," and "withheld exculpatory evidence for over a year" — violating his legal and ethical obligations.
+The prosecution was led by Assistant U.S. Attorney Stephen Heymann, who headed Ortiz's Internet and Computer Crimes Unit. According to public documents, Heymann allegedly "instructed the Secret Service to seize and hold evidence without a warrant," "lied to the judge about that fact in written briefs," and "withheld exculpatory evidence for over a year" — which, if true, would violate his legal and ethical obligations.
 
 Swartz declined a plea bargain that would have required six months in federal prison. Two days after prosecutors rejected his counter-offer, he was found dead.
 
@@ -82,7 +82,7 @@ According to an email from Media Lab co-founder Nicholas Negroponte, Epstein's c
 
 The scandal broke publicly in August 2019. Two Media Lab researchers resigned in protest. Investigative journalist Ronan Farrow's reporting in The New Yorker revealed the full scope of Ito's concealment. Ito resigned as Media Lab director in September 2019.
 
-MIT professor Seth Lloyd was found to have deliberately concealed that Epstein was the source of two donations to support his research, and to have received a personal gift of $60,000 from Epstein that he deposited into a personal bank account without reporting it to MIT.
+According to MIT's fact-finding report, MIT professor Seth Lloyd was found to have concealed that Epstein was the source of two donations to support his research, and to have received a personal gift of $60,000 from Epstein that he deposited into a personal bank account without reporting it to MIT.
 
 ### The Paradox
 
