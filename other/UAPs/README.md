@@ -304,4 +304,16 @@ When asked if people had been harmed: *"Yes."*
 
 ---
 
-*Last Updated: March 21, 2026 — Added: Mr. 35-Year-Old Murdered Whistleblower (unnamed Grusch-connected whistleblower, per James Fox). Added Energy Suppression cross-reference and government misconduct context.*
+---
+
+## Recommended Viewing
+
+### Age of Deceit: Fallen Angels & the New World Order
+
+This documentary is in 3 parts. All are over 2 hours in length. It covers the majority of what is going on — the through-line is deceit, and confusing the people is the strategy. Making sure they do not know what is real.
+
+> *"Is there a connection between UFOs, alien abductions, channeling spirits, demonic possessions, the New Age movement, secret societies, and Satanism? Age of Deceit explores why the ruling class seeks a One World Government and who is guiding them."*
+
+---
+
+*Last Updated: March 21, 2026 — Added Age of Deceit documentary recommendation. Added: Mr. 35-Year-Old Murdered Whistleblower (unnamed Grusch-connected whistleblower, per James Fox). Added Energy Suppression cross-reference and government misconduct context.*
