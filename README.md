@@ -111,9 +111,9 @@ We're not sure that any of these individuals were killed as part of a cover-up. 
 | [Ghislaine Maxwell](Details/Ghislaine_Maxwell.md) | Serving 20 years at FPC Bryan, Texas | Only convicted co-conspirator alive. Brother says "not suicidal." |
 | [Nadia Marcinko](Details/Nadia_Marcinko.md) | Missing since January 2024 | Epstein's pilot, granted immunity in 2008. Vanished after files unsealed. |
 | [Brice & Karen Gordon](Details/Brice_Karen_Gordon.md) | Missing since ~2020 | Zorro Ranch managers for 20 years. Vanished after Maxwell's arrest. NM commission "people of interest." |
-| [Thorbjorn Jagland](Details/Thorbjorn_Jagland.md) | Hospitalized after suicide attempt, Feb 2026 | Former Norwegian PM charged with corruption over Epstein ties. |
-| [Prince Andrew](Details/Prince_Andrew.md) | Arrested Feb 2026 | First royal arrested in 400 years. Shared classified trade intel with Epstein. |
-| [Peter Mandelson](Details/Peter_Mandelson.md) | Arrested Feb 2026 | UK ex-ambassador. Accused of leaking government intel to Epstein. |
+| [Thorbjorn Jagland](Details/Thorbjorn_Jagland.md) | Hospitalized after reported suicide attempt, Feb 2026 | Former Norwegian PM charged with aggravated corruption over alleged Epstein ties. Jagland denies all charges. |
+| [Prince Andrew](Details/Prince_Andrew.md) | Arrested Feb 2026, released under investigation | First senior royal arrested in nearly 400 years. Arrested on suspicion of misconduct in public office over alleged sharing of confidential trade information with Epstein. Not charged. |
+| [Peter Mandelson](Details/Peter_Mandelson.md) | Arrested Feb 2026, released on bail | UK ex-ambassador. Arrested on suspicion of misconduct in public office; allegedly passed market-sensitive information to Epstein. Not charged; denies allegations. |
 | [Terje Rød-Larsen](Details/Terje_Rod_Larsen.md) | Under investigation, Feb 2026 | Norwegian diplomat. Epstein paid him $250K; left $10M to his children. |
 | [Mona Juul](Details/Mona_Juul.md) | Resigned and under investigation, Feb 2026 | Norwegian ambassador. Husband is Rød-Larsen. Epstein willed $5M per child. |
 | [Gabriela Rico Jimenez](Details/Gabriela_Rico_Jimenez.md) | Missing/unknown since August 2009 | Accused elites of cannibalism and murder on camera in Monterrey. Named Carlos Slim's son. Sent to psychiatric facility; never seen again. |
