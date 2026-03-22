@@ -23,7 +23,17 @@ McCasland left behind his phone, prescription glasses, and wearable devices. Inv
 
 Search efforts have included drones, helicopter support, ground searches with search-and-rescue teams and K-9 units. The Bernalillo County Sheriff's Office is coordinating with the FBI Albuquerque Field Office and Kirtland Air Force Base. Despite extensive searching, investigators have not identified any confirmed sightings or footage showing McCasland leaving the area or indicating a direction of travel.
 
-McCasland's wife has disputed characterizations that he was "confused and disoriented" when he went missing, according to reporting by the Albuquerque Journal.
+According to Ross Coulthart in a March 2026 update, McCasland was **never seen leaving his home** — no security camera footage, no witness sightings, no confirmed direction of travel. For a 68-year-old man walking on foot through a residential neighborhood, this absence of any visual trail is unusual.
+
+McCasland's wife, Susan McCasland Wilkerson, has disputed characterizations that he was "confused and disoriented" when he went missing, according to reporting by the Albuquerque Journal. She stated in a Facebook post: "It is true that Neil had a brief association with the UFO community. This connection is not a reason for someone to abduct Neil. Neil does not have any special knowledge about the ET bodies and debris from the Roswell crash stored at Wright-Patt."
+
+### Connection to Monica Jacinto Reza
+
+As the search for McCasland continued, attention was drawn to the disappearance of aerospace engineer [Monica Jacinto Reza](Monica_Jacinto_Reza.md), who vanished while hiking in the Angeles National Forest on June 22, 2025 — approximately eight months before McCasland. Reza was the co-inventor of Mondaloy, a nickel-based superalloy critical to U.S. national security rocket engines, and her research was directly funded under the AFRL budget that McCasland oversaw as commander.
+
+According to reporting by The Sentinel Network, Reza was declared legally dead and given a "green burial" just four days after vanishing — while search-and-rescue helicopters were still in the air. No remains were ever recovered. Ross Coulthart raised "grave new questions" about the connection between the two disappearances.
+
+The Bernalillo County Sheriff's Department confirmed to Newsweek that detectives are "looking into this to see if there is any connection at all."
 
 ## Background
 
@@ -68,6 +78,8 @@ President Trump had announced the release of UFO-related government files approx
 - FBI involvement and Ross Coulthart's characterization as a "grave national security crisis" suggest this is not treated as a routine missing persons case
 - His disappearance came one week after Trump announced UFO file releases
 - No confirmed sightings or direction of travel have been established despite extensive search efforts
+- According to Coulthart, he was **never seen leaving his home** — no security camera footage, no witness sightings
+- A former colleague, aerospace engineer [Monica Jacinto Reza](Monica_Jacinto_Reza.md), whose research he oversaw at AFRL, vanished while hiking eight months earlier under similarly mysterious circumstances — declared dead four days later while search helicopters were still flying
 
 ## See Also
 
@@ -96,5 +108,12 @@ President Trump had announced the release of UFO-related government files approx
 - [The Sentinel Network: THE DEAD DROP: An Anonymous X Account Went Silent the Day the General Vanished](https://thesentinelnetwork.substack.com/p/the-dead-drop-an-anonymous-x-account)
 - [Albuquerque Journal: Wife of missing retired Gen. McCasland disputes dementia](https://www.abqjournal.com/news/retired-general-was-not-confused-and-disoriented-when-he-went-missing-wife-says/2999479)
 - [Wikipedia: Neil McCasland](https://en.wikipedia.org/wiki/Neil_McCasland)
+- [NewsNation: Search for missing Air Force officer at standstill, UFO journalist says](https://www.newsnationnow.com/missing/mccasland-never-seen-leaving-home-ross-coulthart/)
+- [NewsNation: William McCasland search — Ex-colleague Monica Reza went missing months before him](https://www.newsnationnow.com/missing/william-mccasland-search-monica-reza/)
+- [Newsweek: Monica Reza Case Gains Attention After Disappearance of US General](https://www.newsweek.com/monica-reza-case-gains-attention-after-disappearance-us-general-11698172)
+- [CNN: A retired general vanished from his home](https://www.cnn.com/2026/03/17/us/fbi-search-william-mccasland-general-missing)
+- [Military.com: Missing Air Force General Case Draws FBI and Online Conspiracy Theories](https://www.military.com/daily-news/air-force/2026/03/15/missing-air-force-general-case-draws-fbi-and-online-conspiracy-theories.html)
+- [Ross Coulthart on X: grave new questions about McCasland's former colleague](https://x.com/rosscoulthart/status/2033634466724450743)
+- [The Sentinel Network: THE GREEN BURIAL — She Was Declared Dead Four Days After She Vanished](https://thesentinelnetwork.substack.com/p/the-green-burial-she-was-declared)
 
 *This information was built by Grok and Claude AI research.*

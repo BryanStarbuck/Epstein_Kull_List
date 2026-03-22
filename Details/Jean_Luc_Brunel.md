@@ -67,6 +67,15 @@ Released DOJ files and FBI records reveal that in February 2016 — three years 
 - Brunel denied all wrongdoing throughout the proceedings.
 - The pattern is consistent: people who were positioned to expose the network — Epstein, Brunel, [Mark Middleton](Mark_Middleton.md) — ended up hanged.
 
+## The Counterargument
+
+- A March 2023 French inquiry concluded Brunel's death was suicide, finding no criminal offence could be established.
+- Psychiatric experts stated the suicide was a reaction to his indictment and incarceration.
+- Brunel had reportedly made several suicide attempts before his death and was assessed as being at high risk for suicide following multiple acts of self-harm while in detention.
+- His defense attorneys stated his decision "was not guided by guilt, but by a sense of injustice" and that he had "never stopped claiming his innocence."
+- Regarding the 2016 cooperation collapse, it is possible Brunel changed his mind of his own accord rather than being silenced, and the $3 million reference could have multiple interpretations.
+- However, the combination of the failed cooperation, the DOJ's inaction, and Brunel's subsequent death by the same method as Epstein — while in custody and before trial — remains deeply troubling to investigators and victims' advocates.
+
 ## Key Quotes from Media Coverage
 
 > "It makes me angry, because I've been fighting for years. For me, the end of this was to be in court. And now that whole ending — which would help form closure — is taken away from me."
@@ -80,6 +89,12 @@ Released DOJ files and FBI records reveal that in February 2016 — three years 
 
 > "I am disappointed that I was not able to face him in a final trial and hold him accountable for his actions, but gratified that I was able to face him in person last year in Paris, to keep him in prison."
 > — **[Virginia Giuffre](Virginia_Giuffre.md)**, key Epstein accuser who testified against Brunel ([ABC News](https://abcnews.com/International/jeffrey-epstein-associate-jean-luc-brunel-found-dead/story?id=83001807))
+
+> "[The collapse of Brunel's cooperation] set us back a couple of years. We know from our lawsuits that there were more than 50 girls that were trafficked after this."
+> — **David Boies**, attorney representing Epstein's victims ([Wall Street Journal](https://x.com/WSJ/status/2024543625959657788))
+
+> "[Brunel's associate] had asked for 3 million dollars so that Jean Luc would not go in."
+> — **Jeffrey Epstein**, in a May 3, 2016 email to Kathy Ruemmler, as reported in released DOJ files ([Slay News](https://slaynews.com/news/epstein-trafficking-accomplice-3-million-stop-blowing-whistle-feds/))
 
 ## Related Groups
 
@@ -121,5 +136,10 @@ Released DOJ files and FBI records reveal that in February 2016 — three years 
 - [Detroit News: Epstein files prompt France to open probes, revisit Brunel](https://eu.detroitnews.com/story/news/world/2026/02/16/epstein-files-prompt-france-to-open-probes-revisit-brunel/88701135007/)
 - [Wikipedia: Jean-Luc Brunel](https://en.wikipedia.org/wiki/Jean-Luc_Brunel)
 - [National Enquirer Investigation](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances/)
+- [Wall Street Journal: Accomplice Was Set to Flip on Epstein — Then Went Dark](https://x.com/WSJ/status/2024543625959657788)
+- [The New Republic: Epstein Accomplice Goes Missing Right Before He Was Going to Spill](https://newrepublic.com/post/206778/jeffrey-epstein-accomplice-jean-luc-brunel-missing-testify)
+- [LBC: Model agency boss planned to testify against Epstein before backing out](https://www.lbc.co.uk/article/model-agency-boss-planned-to-testify-against-epstein-found-dead-in-cell-5HjdSYT_2/)
+- [Slay News: Epstein's Trafficking Accomplice Demanded $3 Million to Stop Him Blowing Whistle to Feds](https://slaynews.com/news/epstein-trafficking-accomplice-3-million-stop-blowing-whistle-feds/)
+- [Gateway Pundit: French Modelling Agent Was Going to Testify Against Epstein Before Found Dead](https://www.thegatewaypundit.com/2026/02/french-modelling-agent-alleged-serial-rapist-jean-luc/)
 
 *This information was built by Grok and Claude AI research.*
